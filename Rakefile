@@ -1,7 +1,6 @@
 require 'bundler/setup'
 require 'json'
 require 'gemoji'
-require 'terminal-table'
 
 task :default do
   custom_emojis = JSON.parse(File.read("emojis.json"))
