@@ -1,13 +1,13 @@
 # Buildkite Emojis :neckbeard: :heart:
 
-These are the custom emojis supported by [Buildkite](https://buildkite.com/) (in addition to the standard [gemoji](https://github.com/github/gemoji) emojis) which you can use in your build pipelines and terminal output.
+Custom emojis supported by [Buildkite](https://buildkite.com/) which you can use in your build pipelines and terminal output. These are in the addition to the built-in [gemoji](https://github.com/github/gemoji) emojis.
 
-To contribute a new emoji simply:
+To contribute a new custom emoji simply:
 
 * Fork this repo
 * Add the image to the `images` directory
 * Add it to the JSON
-# Send a pull request
+* Send a pull request
 
 ## License
 
