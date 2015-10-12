@@ -4,906 +4,906 @@ Custom emojis supported by [Buildkite](https://buildkite.com/) which you can use
 
 Emoji | Aliases
 ----- | -------
-![cucumber](https://raw.githubusercontent.com/buildkite/emojis/master/images/cucumber.png) | cucumber
-![eslint](https://raw.githubusercontent.com/buildkite/emojis/master/images/eslint.png) | eslint
-![npm](https://raw.githubusercontent.com/buildkite/emojis/master/images/npm.png) | npm
-![llama](https://raw.githubusercontent.com/buildkite/emojis/master/images/llama.png) | llama
-![heroku](https://raw.githubusercontent.com/buildkite/emojis/master/images/heroku.png) | heroku
-![php](https://raw.githubusercontent.com/buildkite/emojis/master/images/php.png) | php
-![scientific_linux](https://raw.githubusercontent.com/buildkite/emojis/master/images/scientific_linux.png) | scientific_linux
-![oracle_linux](https://raw.githubusercontent.com/buildkite/emojis/master/images/oracle_linux.png) | oracle_linux
-![fedora](https://raw.githubusercontent.com/buildkite/emojis/master/images/fedora.png) | fedora
-![rubygems](https://raw.githubusercontent.com/buildkite/emojis/master/images/rubygems.png) | rubygems
-![centos](https://raw.githubusercontent.com/buildkite/emojis/master/images/centos.png) | centos
-![fastlane](https://raw.githubusercontent.com/buildkite/emojis/master/images/fastlane.png) | fastlane
-![json](https://raw.githubusercontent.com/buildkite/emojis/master/images/json.png) | json
-![buildkite](https://raw.githubusercontent.com/buildkite/emojis/master/images/buildkite.png) | buildkite
-![ansible](https://raw.githubusercontent.com/buildkite/emojis/master/images/ansible.png) | ansible
-![calibre](https://raw.githubusercontent.com/buildkite/emojis/master/images/calibre.png) | calibre
-![docker](https://raw.githubusercontent.com/buildkite/emojis/master/images/docker.png) | docker
-![mysql](https://raw.githubusercontent.com/buildkite/emojis/master/images/mysql.png) | mysql
-![datadog](https://raw.githubusercontent.com/buildkite/emojis/master/images/datadog.png) | datadog
-![mac](https://raw.githubusercontent.com/buildkite/emojis/master/images/mac.png) | mac
-![linux](https://raw.githubusercontent.com/buildkite/emojis/master/images/linux.png) | linux
-![windows](https://raw.githubusercontent.com/buildkite/emojis/master/images/windows.png) | windows
-![ubuntu](https://raw.githubusercontent.com/buildkite/emojis/master/images/ubuntu.png) | ubuntu
-![finder](https://raw.githubusercontent.com/buildkite/emojis/master/images/finder.png) | finder
-![brakeman](https://raw.githubusercontent.com/buildkite/emojis/master/images/brakeman.png) | brakeman
-![postgres](https://raw.githubusercontent.com/buildkite/emojis/master/images/postgres.png) | postgres
-![newrelic](https://raw.githubusercontent.com/buildkite/emojis/master/images/newrelic.png) | newrelic
-![bugsnag](https://raw.githubusercontent.com/buildkite/emojis/master/images/bugsnag.png) | bugsnag
-![bundler](https://raw.githubusercontent.com/buildkite/emojis/master/images/bundler.png) | bundler
-![ruby](https://raw.githubusercontent.com/buildkite/emojis/master/images/ruby.png) | ruby
-![rubocop](https://raw.githubusercontent.com/buildkite/emojis/master/images/rubocop.png) | rubocop
-![rspec](https://raw.githubusercontent.com/buildkite/emojis/master/images/rspec.png) | rspec
-![debian](https://raw.githubusercontent.com/buildkite/emojis/master/images/debian.png) | debian
-![golang](https://raw.githubusercontent.com/buildkite/emojis/master/images/golang.png) | golang, go
-![node](https://raw.githubusercontent.com/buildkite/emojis/master/images/node.png) | node, nodejs
-![packagecloud](https://raw.githubusercontent.com/buildkite/emojis/master/images/packagecloud.png) | packagecloud, package_cloud
-![terminal](https://raw.githubusercontent.com/buildkite/emojis/master/images/terminal.png) | terminal, console
-![redhat](https://raw.githubusercontent.com/buildkite/emojis/master/images/redhat.png) | redhat, rhel, enterprise_linux
-![trollface](https://raw.githubusercontent.com/buildkite/emojis/master/images/trollface.png) | trollface
-![suspect](https://raw.githubusercontent.com/buildkite/emojis/master/images/suspect.png) | suspect
-![shipit](https://raw.githubusercontent.com/buildkite/emojis/master/images/shipit.png) | shipit, squirrel
-![rage4](https://raw.githubusercontent.com/buildkite/emojis/master/images/rage4.png) | rage4
-![rage3](https://raw.githubusercontent.com/buildkite/emojis/master/images/rage3.png) | rage3
-![rage2](https://raw.githubusercontent.com/buildkite/emojis/master/images/rage2.png) | rage2
-![rage1](https://raw.githubusercontent.com/buildkite/emojis/master/images/rage1.png) | rage1
-![octocat](https://raw.githubusercontent.com/buildkite/emojis/master/images/octocat.png) | octocat
-![neckbeard](https://raw.githubusercontent.com/buildkite/emojis/master/images/neckbeard.png) | neckbeard
-![metal](https://raw.githubusercontent.com/buildkite/emojis/master/images/metal.png) | metal
-![hurtrealbad](https://raw.githubusercontent.com/buildkite/emojis/master/images/hurtrealbad.png) | hurtrealbad
-![godmode](https://raw.githubusercontent.com/buildkite/emojis/master/images/godmode.png) | godmode
-![goberserk](https://raw.githubusercontent.com/buildkite/emojis/master/images/goberserk.png) | goberserk
-![fu](https://raw.githubusercontent.com/buildkite/emojis/master/images/fu.png) | fu
-![finnadie](https://raw.githubusercontent.com/buildkite/emojis/master/images/finnadie.png) | finnadie
-![feelsgood](https://raw.githubusercontent.com/buildkite/emojis/master/images/feelsgood.png) | feelsgood
-![bowtie](https://raw.githubusercontent.com/buildkite/emojis/master/images/bowtie.png) | bowtie
-![small_blue_diamond](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f539.png) | small_blue_diamond
-![small_orange_diamond](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f538.png) | small_orange_diamond
-![large_blue_diamond](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f537.png) | large_blue_diamond
-![large_orange_diamond](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f536.png) | large_orange_diamond
-![black_large_square](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2b1b.png) | black_large_square
-![white_large_square](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2b1c.png) | white_large_square
-![small_red_triangle_down](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f53b.png) | small_red_triangle_down
-![large_blue_circle](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f535.png) | large_blue_circle
-![red_circle](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f534.png) | red_circle
-![white_circle](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/26aa.png) | white_circle
-![black_circle](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/26ab.png) | black_circle
-![white_square_button](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f533.png) | white_square_button
-![black_square_button](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f532.png) | black_square_button
-![small_red_triangle](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f53a.png) | small_red_triangle
-![white_small_square](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/25ab.png) | white_small_square
-![black_small_square](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/25aa.png) | black_small_square
-![white_medium_small_square](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/25fd.png) | white_medium_small_square
-![black_medium_small_square](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/25fe.png) | black_medium_small_square
-![white_medium_square](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/25fb.png) | white_medium_square
-![black_medium_square](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/25fc.png) | black_medium_square
-![trident](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f531.png) | trident
-![part_alternation_mark](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/303d.png) | part_alternation_mark
-![wavy_dash](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/3030.png) | wavy_dash
-![curly_loop](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/27b0.png) | curly_loop
-![link](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f517.png) | link
-![radio_button](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f518.png) | radio_button
-![ballot_box_with_check](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2611.png) | ballot_box_with_check
-![heavy_check_mark](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2714.png) | heavy_check_mark
-![100](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4af.png) | 100
-![white_flower](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4ae.png) | white_flower
-![diamonds](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2666.png) | diamonds
-![clubs](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2663.png) | clubs
-![hearts](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2665.png) | hearts
-![spades](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2660.png) | spades
-![heavy_division_sign](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2797.png) | heavy_division_sign
-![heavy_minus_sign](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2796.png) | heavy_minus_sign
-![heavy_plus_sign](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2795.png) | heavy_plus_sign
-![heavy_multiplication_x](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2716.png) | heavy_multiplication_x
-![clock1130](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f566.png) | clock1130
-![clock1030](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f565.png) | clock1030
-![clock930](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f564.png) | clock930
-![clock830](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f563.png) | clock830
-![clock730](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f562.png) | clock730
-![clock630](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f561.png) | clock630
-![clock11](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f55a.png) | clock11
-![clock10](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f559.png) | clock10
-![clock9](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f558.png) | clock9
-![clock8](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f557.png) | clock8
-![clock7](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f556.png) | clock7
-![clock6](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f555.png) | clock6
-![clock530](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f560.png) | clock530
-![clock5](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f554.png) | clock5
-![clock430](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f55f.png) | clock430
-![clock4](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f553.png) | clock4
-![clock330](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f55e.png) | clock330
-![clock3](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f552.png) | clock3
-![clock230](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f55d.png) | clock230
-![clock2](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f551.png) | clock2
-![clock130](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f55c.png) | clock130
-![clock1](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f550.png) | clock1
-![clock1230](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f567.png) | clock1230
-![clock12](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f55b.png) | clock12
-![arrows_clockwise](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f503.png) | arrows_clockwise
-![soon](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f51c.png) | soon
-![on](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f51b.png) | on
-![back](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f519.png) | back
-![end](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f51a.png) | end
-![top](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f51d.png) | top
-![o](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2b55.png) | o
-![grey_question](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2754.png) | grey_question
-![grey_exclamation](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2755.png) | grey_exclamation
-![question](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2753.png) | question
-![exclamation](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2757.png) | exclamation, heavy_exclamation_mark
-![interrobang](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2049.png) | interrobang
-![bangbang](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/203c.png) | bangbang
-![x](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/274c.png) | x
-![tm](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2122.png) | tm
-![registered](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/00ae.png) | registered
-![copyright](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/00a9.png) | copyright
-![currency_exchange](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4b1.png) | currency_exchange
-![heavy_dollar_sign](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4b2.png) | heavy_dollar_sign
-![chart](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4b9.png) | chart
-![atm](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3e7.png) | atm
-![six_pointed_star](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f52f.png) | six_pointed_star
-![ophiuchus](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/26ce.png) | ophiuchus
-![pisces](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2653.png) | pisces
-![aquarius](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2652.png) | aquarius
-![capricorn](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2651.png) | capricorn
-![sagittarius](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2650.png) | sagittarius
-![scorpius](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/264f.png) | scorpius
-![libra](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/264e.png) | libra
-![virgo](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/264d.png) | virgo
-![leo](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/264c.png) | leo
-![cancer](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/264b.png) | cancer
-![gemini](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/264a.png) | gemini
-![taurus](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2649.png) | taurus
-![aries](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2648.png) | aries
-![recycle](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/267b.png) | recycle
-![loop](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/27bf.png) | loop
-![diamond_shape_with_a_dot_inside](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4a0.png) | diamond_shape_with_a_dot_inside
-![o2](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f17e.png) | o2
-![ab](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f18e.png) | ab
-![b](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f171.png) | b
-![a](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f170.png) | a
-![mobile_phone_off](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4f4.png) | mobile_phone_off
-![vibration_mode](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4f3.png) | vibration_mode
-![vs](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f19a.png) | vs
-![heart_decoration](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f49f.png) | heart_decoration
-![eight_pointed_black_star](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2734.png) | eight_pointed_black_star
-![white_check_mark](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2705.png) | white_check_mark
-![negative_squared_cross_mark](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/274e.png) | negative_squared_cross_mark
-![sparkle](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2747.png) | sparkle
-![eight_spoked_asterisk](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2733.png) | eight_spoked_asterisk
-![no_entry](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/26d4.png) | no_entry
-![children_crossing](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6b8.png) | children_crossing
-![no_pedestrians](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6b7.png) | no_pedestrians
-![no_bicycles](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6b3.png) | no_bicycles
-![non-potable_water](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6b1.png) | non-potable_water
-![do_not_litter](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6af.png) | do_not_litter
-![no_mobile_phones](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4f5.png) | no_mobile_phones
-![underage](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f51e.png) | underage
-![no_entry_sign](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6ab.png) | no_entry_sign
-![id](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f194.png) | id
-![sos](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f198.png) | sos
-![cl](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f191.png) | cl
-![congratulations](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/3297.png) | congratulations
-![secret](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/3299.png) | secret
-![accept](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f251.png) | accept
-![customs](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6c3.png) | customs
-![left_luggage](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6c5.png) | left_luggage
-![baggage_claim](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6c4.png) | baggage_claim
-![passport_control](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6c2.png) | passport_control
-![m](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/24c2.png) | m
-![sa](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f202.png) | sa
-![u7533](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f238.png) | u7533
-![u6708](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f237.png) | u6708
-![no_smoking](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6ad.png) | no_smoking
-![wheelchair](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/267f.png) | wheelchair
-![parking](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f17f.png) | parking
-![put_litter_in_its_place](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6ae.png) | put_litter_in_its_place
-![potable_water](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6b0.png) | potable_water
-![wc](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6be.png) | wc
-![baby_symbol](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6bc.png) | baby_symbol
-![womens](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6ba.png) | womens
-![mens](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6b9.png) | mens
-![restroom](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6bb.png) | restroom
-![u7121](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f21a.png) | u7121
-![u6709](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f236.png) | u6709
-![u55b6](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f23a.png) | u55b6
-![u5272](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f239.png) | u5272
-![ideograph_advantage](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f250.png) | ideograph_advantage
-![u7981](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f232.png) | u7981
-![u5408](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f234.png) | u5408
-![u6e80](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f235.png) | u6e80
-![u7a7a](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f233.png) | u7a7a
-![u6307](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f22f.png) | u6307
-![koko](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f201.png) | koko
-![cinema](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3a6.png) | cinema
-![signal_strength](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4f6.png) | signal_strength
-![ng](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f196.png) | ng
-![free](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f193.png) | free
-![cool](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f192.png) | cool
-![up](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f199.png) | up
-![new](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f195.png) | new
-![repeat_one](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f502.png) | repeat_one
-![repeat](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f501.png) | repeat
-![twisted_rightwards_arrows](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f500.png) | twisted_rightwards_arrows
-![ok](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f197.png) | ok
-![arrow_heading_up](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2934.png) | arrow_heading_up
-![arrow_heading_down](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2935.png) | arrow_heading_down
-![arrow_double_down](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/23ec.png) | arrow_double_down
-![arrow_double_up](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/23eb.png) | arrow_double_up
-![fast_forward](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/23e9.png) | fast_forward
-![rewind](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/23ea.png) | rewind
-![information_source](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2139.png) | information_source
-![arrow_right_hook](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/21aa.png) | arrow_right_hook
-![leftwards_arrow_with_hook](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/21a9.png) | leftwards_arrow_with_hook
-![arrow_down_small](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f53d.png) | arrow_down_small
-![arrow_up_small](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f53c.png) | arrow_up_small
-![arrow_forward](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/25b6.png) | arrow_forward
-![arrow_backward](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/25c0.png) | arrow_backward
-![arrows_counterclockwise](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f504.png) | arrows_counterclockwise
-![arrow_up_down](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2195.png) | arrow_up_down
-![left_right_arrow](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2194.png) | left_right_arrow
-![arrow_lower_left](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2199.png) | arrow_lower_left
-![arrow_lower_right](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2198.png) | arrow_lower_right
-![arrow_upper_left](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2196.png) | arrow_upper_left
-![arrow_upper_right](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2197.png) | arrow_upper_right
-![abc](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f524.png) | abc
-![abcd](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f521.png) | abcd
-![capital_abcd](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f520.png) | capital_abcd
-![arrow_right](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/27a1.png) | arrow_right
-![arrow_left](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2b05.png) | arrow_left
-![arrow_down](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2b07.png) | arrow_down
-![arrow_up](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2b06.png) | arrow_up
-![symbols](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f523.png) | symbols
-![hash](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/0023-20e3.png) | hash
-![1234](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f522.png) | 1234
-![keycap_ten](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f51f.png) | keycap_ten
-![zero](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/0030-20e3.png) | zero
-![nine](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/0039-20e3.png) | nine
-![eight](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/0038-20e3.png) | eight
-![seven](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/0037-20e3.png) | seven
-![six](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/0036-20e3.png) | six
-![five](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/0035-20e3.png) | five
-![four](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/0034-20e3.png) | four
-![three](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/0033-20e3.png) | three
-![two](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/0032-20e3.png) | two
-![one](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/0031-20e3.png) | one
-![gb](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f1ec-1f1e7.png) | gb, uk
-![ru](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f1f7-1f1fa.png) | ru
-![it](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f1ee-1f1f9.png) | it
-![es](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f1ea-1f1f8.png) | es
-![fr](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f1eb-1f1f7.png) | fr
-![us](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f1fa-1f1f8.png) | us
-![cn](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f1e8-1f1f3.png) | cn
-![de](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f1e9-1f1ea.png) | de
-![kr](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f1f0-1f1f7.png) | kr
-![jp](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f1ef-1f1f5.png) | jp
-![triangular_flag_on_post](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6a9.png) | triangular_flag_on_post
-![round_pushpin](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4cd.png) | round_pushpin
-![performing_arts](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3ad.png) | performing_arts
-![circus_tent](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3aa.png) | circus_tent
-![moyai](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f5ff.png) | moyai
-![hotsprings](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2668.png) | hotsprings
-![slot_machine](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3b0.png) | slot_machine
-![izakaya_lantern](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3ee.png) | izakaya_lantern, lantern
-![fuelpump](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/26fd.png) | fuelpump
-![beginner](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f530.png) | beginner
-![construction](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6a7.png) | construction
-![warning](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/26a0.png) | warning
-![traffic_light](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6a5.png) | traffic_light
-![vertical_traffic_light](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6a6.png) | vertical_traffic_light
-![ticket](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3ab.png) | ticket
-![busstop](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f68f.png) | busstop
-![barber](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f488.png) | barber
-![tractor](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f69c.png) | tractor
-![mountain_cableway](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6a0.png) | mountain_cableway
-![suspension_railway](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f69f.png) | suspension_railway
-![aerial_tramway](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6a1.png) | aerial_tramway
-![bike](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6b2.png) | bike
-![minibus](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f690.png) | minibus
-![ambulance](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f691.png) | ambulance
-![fire_engine](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f692.png) | fire_engine
-![oncoming_police_car](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f694.png) | oncoming_police_car
-![police_car](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f693.png) | police_car
-![rotating_light](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6a8.png) | rotating_light
-![truck](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f69a.png) | truck
-![articulated_lorry](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f69b.png) | articulated_lorry
-![oncoming_taxi](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f696.png) | oncoming_taxi
-![taxi](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f695.png) | taxi
-![car](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f697.png) | car, red_car
-![oncoming_automobile](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f698.png) | oncoming_automobile
-![blue_car](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f699.png) | blue_car
-![oncoming_bus](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f68d.png) | oncoming_bus
-![bus](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f68c.png) | bus
-![trolleybus](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f68e.png) | trolleybus
-![railway_car](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f683.png) | railway_car
-![train](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f68b.png) | train
-![monorail](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f69d.png) | monorail
-![metro](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f687.png) | metro
-![light_rail](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f688.png) | light_rail
-![bullettrain_front](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f685.png) | bullettrain_front
-![bullettrain_side](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f684.png) | bullettrain_side
-![train2](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f686.png) | train2
-![mountain_railway](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f69e.png) | mountain_railway
-![station](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f689.png) | station
-![tram](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f68a.png) | tram
-![steam_locomotive](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f682.png) | steam_locomotive
-![helicopter](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f681.png) | helicopter
-![seat](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4ba.png) | seat
-![airplane](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2708.png) | airplane
-![rocket](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f680.png) | rocket
-![anchor](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2693.png) | anchor
-![rowboat](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6a3.png) | rowboat
-![speedboat](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6a4.png) | speedboat
-![boat](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/26f5.png) | boat, sailboat
-![ship](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6a2.png) | ship
-![roller_coaster](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3a2.png) | roller_coaster
-![fountain](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/26f2.png) | fountain
-![ferris_wheel](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3a1.png) | ferris_wheel
-![carousel_horse](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3a0.png) | carousel_horse
-![bridge_at_night](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f309.png) | bridge_at_night
-![statue_of_liberty](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f5fd.png) | statue_of_liberty
-![night_with_stars](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f303.png) | night_with_stars
-![sunrise](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f305.png) | sunrise
-![sunrise_over_mountains](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f304.png) | sunrise_over_mountains
-![mount_fuji](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f5fb.png) | mount_fuji
-![japan](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f5fe.png) | japan
-![tokyo_tower](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f5fc.png) | tokyo_tower
-![factory](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3ed.png) | factory
-![tent](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/26fa.png) | tent
-![european_castle](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3f0.png) | european_castle
-![japanese_castle](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3ef.png) | japanese_castle
-![city_sunset](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f306.png) | city_sunset
-![city_sunrise](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f307.png) | city_sunrise
-![european_post_office](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3e4.png) | european_post_office
-![department_store](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3ec.png) | department_store
-![church](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/26ea.png) | church
-![wedding](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f492.png) | wedding
-![hotel](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3e8.png) | hotel
-![love_hotel](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3e9.png) | love_hotel
-![convenience_store](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3ea.png) | convenience_store
-![bank](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3e6.png) | bank
-![hospital](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3e5.png) | hospital
-![post_office](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3e3.png) | post_office
-![office](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3e2.png) | office
-![school](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3eb.png) | school
-![house_with_garden](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3e1.png) | house_with_garden
-![house](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3e0.png) | house
-![corn](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f33d.png) | corn
-![tomato](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f345.png) | tomato
-![eggplant](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f346.png) | eggplant
-![sweet_potato](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f360.png) | sweet_potato
-![pineapple](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f34d.png) | pineapple
-![pear](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f350.png) | pear
-![banana](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f34c.png) | banana
-![melon](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f348.png) | melon
-![peach](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f351.png) | peach
-![strawberry](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f353.png) | strawberry
-![watermelon](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f349.png) | watermelon
-![grapes](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f347.png) | grapes
-![cherries](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f352.png) | cherries
-![lemon](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f34b.png) | lemon
-![tangerine](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f34a.png) | tangerine
-![green_apple](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f34f.png) | green_apple
-![apple](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f34e.png) | apple
-![honey_pot](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f36f.png) | honey_pot
-![lollipop](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f36d.png) | lollipop
-![candy](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f36c.png) | candy
-![chocolate_bar](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f36b.png) | chocolate_bar
-![cookie](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f36a.png) | cookie
-![cake](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f370.png) | cake
-![birthday](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f382.png) | birthday
-![shaved_ice](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f367.png) | shaved_ice
-![ice_cream](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f368.png) | ice_cream
-![icecream](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f366.png) | icecream
-![custard](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f36e.png) | custard
-![doughnut](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f369.png) | doughnut
-![bread](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f35e.png) | bread
-![egg](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f373.png) | egg
-![dango](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f361.png) | dango
-![oden](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f362.png) | oden
-![stew](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f372.png) | stew
-![ramen](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f35c.png) | ramen
-![rice](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f35a.png) | rice
-![rice_cracker](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f358.png) | rice_cracker
-![rice_ball](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f359.png) | rice_ball
-![fish_cake](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f365.png) | fish_cake
-![sushi](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f363.png) | sushi
-![bento](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f371.png) | bento
-![fried_shrimp](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f364.png) | fried_shrimp
-![curry](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f35b.png) | curry
-![spaghetti](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f35d.png) | spaghetti
-![meat_on_bone](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f356.png) | meat_on_bone
-![poultry_leg](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f357.png) | poultry_leg
-![fries](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f35f.png) | fries
-![hamburger](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f354.png) | hamburger
-![pizza](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f355.png) | pizza
-![fork_and_knife](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f374.png) | fork_and_knife
-![wine_glass](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f377.png) | wine_glass
-![tropical_drink](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f379.png) | tropical_drink
-![cocktail](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f378.png) | cocktail
-![beers](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f37b.png) | beers
-![beer](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f37a.png) | beer
-![baby_bottle](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f37c.png) | baby_bottle
-![sake](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f376.png) | sake
-![tea](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f375.png) | tea
-![coffee](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2615.png) | coffee
-![fishing_pole_and_fish](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3a3.png) | fishing_pole_and_fish
-![surfer](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3c4.png) | surfer
-![swimmer](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3ca.png) | swimmer
-![snowboarder](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3c2.png) | snowboarder
-![ski](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3bf.png) | ski
-![trophy](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3c6.png) | trophy
-![horse_racing](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3c7.png) | horse_racing
-![checkered_flag](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3c1.png) | checkered_flag
-![bicyclist](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6b4.png) | bicyclist
-![mountain_bicyclist](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6b5.png) | mountain_bicyclist
-![golf](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/26f3.png) | golf
-![bowling](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3b3.png) | bowling
-![rugby_football](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3c9.png) | rugby_football
-![8ball](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3b1.png) | 8ball
-![tennis](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3be.png) | tennis
-![baseball](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/26be.png) | baseball
-![soccer](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/26bd.png) | soccer
-![basketball](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3c0.png) | basketball
-![football](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3c8.png) | football
-![dart](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3af.png) | dart
-![game_die](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3b2.png) | game_die
-![mahjong](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f004.png) | mahjong
-![flower_playing_cards](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3b4.png) | flower_playing_cards
-![black_joker](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f0cf.png) | black_joker
-![video_game](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3ae.png) | video_game
-![space_invader](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f47e.png) | space_invader
-![guitar](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3b8.png) | guitar
-![saxophone](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3b7.png) | saxophone
-![trumpet](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3ba.png) | trumpet
-![violin](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3bb.png) | violin
-![musical_keyboard](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3b9.png) | musical_keyboard
-![notes](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3b6.png) | notes
-![musical_note](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3b5.png) | musical_note
-![musical_score](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3bc.png) | musical_score
-![headphones](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3a7.png) | headphones
-![microphone](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3a4.png) | microphone
-![clapper](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3ac.png) | clapper
-![art](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3a8.png) | art
-![newspaper](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4f0.png) | newspaper
-![telescope](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f52d.png) | telescope
-![microscope](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f52c.png) | microscope
-![name_badge](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4db.png) | name_badge
-![bookmark](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f516.png) | bookmark
-![book](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4d6.png) | book, open_book
-![books](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4da.png) | books
-![ledger](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4d2.png) | ledger
-![notebook_with_decorative_cover](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4d4.png) | notebook_with_decorative_cover
-![notebook](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4d3.png) | notebook
-![orange_book](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4d9.png) | orange_book
-![blue_book](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4d8.png) | blue_book
-![green_book](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4d7.png) | green_book
-![closed_book](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4d5.png) | closed_book
-![triangular_ruler](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4d0.png) | triangular_ruler
-![straight_ruler](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4cf.png) | straight_ruler
-![pencil2](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/270f.png) | pencil2
-![black_nib](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2712.png) | black_nib
-![paperclip](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4ce.png) | paperclip
-![pushpin](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4cc.png) | pushpin
-![scissors](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2702.png) | scissors
-![open_file_folder](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4c2.png) | open_file_folder
-![file_folder](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4c1.png) | file_folder
-![card_index](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4c7.png) | card_index
-![calendar](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4c6.png) | calendar
-![date](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4c5.png) | date
-![clipboard](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4cb.png) | clipboard
-![scroll](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4dc.png) | scroll
-![chart_with_downwards_trend](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4c9.png) | chart_with_downwards_trend
-![chart_with_upwards_trend](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4c8.png) | chart_with_upwards_trend
-![bar_chart](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4ca.png) | bar_chart
-![bookmark_tabs](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4d1.png) | bookmark_tabs
-![page_with_curl](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4c3.png) | page_with_curl
-![page_facing_up](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4c4.png) | page_facing_up
-![memo](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4dd.png) | memo, pencil
-![package](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4e6.png) | package
-![postbox](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4ee.png) | postbox
-![mailbox_with_no_mail](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4ed.png) | mailbox_with_no_mail
-![mailbox_with_mail](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4ec.png) | mailbox_with_mail
-![mailbox_closed](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4ea.png) | mailbox_closed
-![mailbox](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4eb.png) | mailbox
-![postal_horn](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4ef.png) | postal_horn
-![incoming_envelope](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4e8.png) | incoming_envelope
-![envelope_with_arrow](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4e9.png) | envelope_with_arrow
-![email](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2709.png) | email, envelope
-![outbox_tray](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4e4.png) | outbox_tray
-![inbox_tray](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4e5.png) | inbox_tray
-![e-mail](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4e7.png) | e-mail
-![calling](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4f2.png) | calling
-![money_with_wings](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4b8.png) | money_with_wings
-![credit_card](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4b3.png) | credit_card
-![euro](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4b6.png) | euro
-![pound](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4b7.png) | pound
-![dollar](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4b5.png) | dollar
-![yen](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4b4.png) | yen
-![moneybag](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4b0.png) | moneybag
-![syringe](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f489.png) | syringe
-![pill](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f48a.png) | pill
-![hocho](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f52a.png) | hocho, knife
-![gun](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f52b.png) | gun
-![bomb](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4a3.png) | bomb
-![smoking](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6ac.png) | smoking
-![door](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6aa.png) | door
-![hammer](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f528.png) | hammer
-![nut_and_bolt](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f529.png) | nut_and_bolt
-![wrench](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f527.png) | wrench
-![toilet](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6bd.png) | toilet
-![shower](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6bf.png) | shower
-![bath](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6c0.png) | bath
-![bathtub](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6c1.png) | bathtub
-![mag](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f50d.png) | mag
-![battery](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f50b.png) | battery
-![electric_plug](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f50c.png) | electric_plug
-![low_brightness](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f505.png) | low_brightness
-![high_brightness](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f506.png) | high_brightness
-![flashlight](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f526.png) | flashlight
-![bulb](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4a1.png) | bulb
-![mag_right](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f50e.png) | mag_right
-![key](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f511.png) | key
-![closed_lock_with_key](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f510.png) | closed_lock_with_key
-![lock_with_ink_pen](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f50f.png) | lock_with_ink_pen
-![lock](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f512.png) | lock
-![unlock](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f513.png) | unlock
-![watch](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/231a.png) | watch
-![alarm_clock](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/23f0.png) | alarm_clock
-![hourglass](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/231b.png) | hourglass
-![hourglass_flowing_sand](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/23f3.png) | hourglass_flowing_sand
-![mega](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4e3.png) | mega
-![loudspeaker](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4e2.png) | loudspeaker
-![no_bell](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f515.png) | no_bell
-![bell](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f514.png) | bell
-![mute](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f507.png) | mute
-![speaker](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f508.png) | speaker
-![sound](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f509.png) | sound
-![loud_sound](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f50a.png) | loud_sound
-![radio](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4fb.png) | radio
-![tv](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4fa.png) | tv
-![satellite](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4e1.png) | satellite
-![fax](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4e0.png) | fax
-![pager](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4df.png) | pager
-![telephone_receiver](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4de.png) | telephone_receiver
-![phone](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/260e.png) | phone, telephone
-![iphone](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4f1.png) | iphone
-![computer](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4bb.png) | computer
-![floppy_disk](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4be.png) | floppy_disk
-![minidisc](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4bd.png) | minidisc
-![dvd](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4c0.png) | dvd
-![cd](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4bf.png) | cd
-![vhs](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4fc.png) | vhs
-![video_camera](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4f9.png) | video_camera
-![camera](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4f7.png) | camera
-![movie_camera](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3a5.png) | movie_camera
-![crystal_ball](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f52e.png) | crystal_ball
-![crossed_flags](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f38c.png) | crossed_flags
-![balloon](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f388.png) | balloon
-![confetti_ball](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f38a.png) | confetti_ball
-![tada](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f389.png) | tada
-![tanabata_tree](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f38b.png) | tanabata_tree
-![gift](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f381.png) | gift
-![christmas_tree](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f384.png) | christmas_tree
-![santa](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f385.png) | santa
-![ghost](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f47b.png) | ghost
-![jack_o_lantern](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f383.png) | jack_o_lantern
-![rice_scene](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f391.png) | rice_scene
-![wind_chime](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f390.png) | wind_chime
-![sparkler](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f387.png) | sparkler
-![fireworks](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f386.png) | fireworks
-![flags](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f38f.png) | flags
-![mortar_board](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f393.png) | mortar_board
-![school_satchel](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f392.png) | school_satchel
-![dolls](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f38e.png) | dolls
-![gift_heart](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f49d.png) | gift_heart
-![bamboo](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f38d.png) | bamboo
-![ocean](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f30a.png) | ocean
-![rainbow](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f308.png) | rainbow
-![foggy](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f301.png) | foggy
-![cyclone](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f300.png) | cyclone
-![snowman](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/26c4.png) | snowman
-![snowflake](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2744.png) | snowflake
-![umbrella](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2614.png) | umbrella
-![zap](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/26a1.png) | zap
-![cloud](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2601.png) | cloud
-![partly_sunny](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/26c5.png) | partly_sunny
-![sunny](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2600.png) | sunny
-![star](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2b50.png) | star
-![stars](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f320.png) | stars
-![milky_way](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f30c.png) | milky_way
-![volcano](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f30b.png) | volcano
-![earth_asia](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f30f.png) | earth_asia
-![earth_americas](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f30e.png) | earth_americas
-![earth_africa](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f30d.png) | earth_africa
-![crescent_moon](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f319.png) | crescent_moon
-![first_quarter_moon_with_face](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f31b.png) | first_quarter_moon_with_face
-![last_quarter_moon_with_face](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f31c.png) | last_quarter_moon_with_face
-![waning_crescent_moon](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f318.png) | waning_crescent_moon
-![last_quarter_moon](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f317.png) | last_quarter_moon
-![waning_gibbous_moon](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f316.png) | waning_gibbous_moon
-![full_moon](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f315.png) | full_moon
-![moon](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f314.png) | moon, waxing_gibbous_moon
-![first_quarter_moon](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f313.png) | first_quarter_moon
-![waxing_crescent_moon](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f312.png) | waxing_crescent_moon
-![new_moon](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f311.png) | new_moon
-![new_moon_with_face](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f31a.png) | new_moon_with_face
-![full_moon_with_face](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f31d.png) | full_moon_with_face
-![sun_with_face](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f31e.png) | sun_with_face
-![globe_with_meridians](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f310.png) | globe_with_meridians
-![blossom](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f33c.png) | blossom
-![seedling](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f331.png) | seedling
-![chestnut](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f330.png) | chestnut
-![deciduous_tree](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f333.png) | deciduous_tree
-![evergreen_tree](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f332.png) | evergreen_tree
-![palm_tree](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f334.png) | palm_tree
-![cactus](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f335.png) | cactus
-![mushroom](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f344.png) | mushroom
-![ear_of_rice](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f33e.png) | ear_of_rice
-![herb](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f33f.png) | herb
-![fallen_leaf](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f342.png) | fallen_leaf
-![leaves](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f343.png) | leaves
-![maple_leaf](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f341.png) | maple_leaf
-![hibiscus](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f33a.png) | hibiscus
-![sunflower](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f33b.png) | sunflower
-![rose](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f339.png) | rose
-![four_leaf_clover](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f340.png) | four_leaf_clover
-![tulip](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f337.png) | tulip
-![cherry_blossom](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f338.png) | cherry_blossom
-![bouquet](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f490.png) | bouquet
-![feet](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f43e.png) | feet, paw_prints
-![poodle](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f429.png) | poodle
-![cat2](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f408.png) | cat2
-![leopard](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f406.png) | leopard
-![dromedary_camel](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f42a.png) | dromedary_camel
-![camel](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f42b.png) | camel
-![crocodile](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f40a.png) | crocodile
-![blowfish](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f421.png) | blowfish
-![dragon_face](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f432.png) | dragon_face
-![ox](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f402.png) | ox
-![mouse2](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f401.png) | mouse2
-![pig2](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f416.png) | pig2
-![dog2](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f415.png) | dog2
-![rooster](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f413.png) | rooster
-![goat](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f410.png) | goat
-![racehorse](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f40e.png) | racehorse
-![dragon](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f409.png) | dragon
-![rabbit2](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f407.png) | rabbit2
-![tiger2](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f405.png) | tiger2
-![water_buffalo](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f403.png) | water_buffalo
-![rat](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f400.png) | rat
-![ram](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f40f.png) | ram
-![cow2](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f404.png) | cow2
-![whale2](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f40b.png) | whale2
-![whale](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f433.png) | whale
-![dolphin](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f42c.png) | dolphin, flipper
-![fish](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f41f.png) | fish
-![tropical_fish](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f420.png) | tropical_fish
-![shell](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f41a.png) | shell
-![octopus](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f419.png) | octopus
-![snail](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f40c.png) | snail
-![beetle](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f41e.png) | beetle
-![ant](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f41c.png) | ant
-![bee](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f41d.png) | bee, honeybee
-![bug](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f41b.png) | bug
-![turtle](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f422.png) | turtle
-![snake](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f40d.png) | snake
-![chicken](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f414.png) | chicken
-![hatching_chick](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f423.png) | hatching_chick
-![hatched_chick](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f425.png) | hatched_chick
-![baby_chick](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f424.png) | baby_chick
-![bird](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f426.png) | bird
-![penguin](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f427.png) | penguin
-![panda_face](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f43c.png) | panda_face
-![elephant](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f418.png) | elephant
-![sheep](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f411.png) | sheep
-![horse](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f434.png) | horse
-![monkey](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f412.png) | monkey
-![monkey_face](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f435.png) | monkey_face
-![boar](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f417.png) | boar
-![cow](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f42e.png) | cow
-![pig_nose](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f43d.png) | pig_nose
-![pig](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f437.png) | pig
-![bear](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f43b.png) | bear
-![koala](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f428.png) | koala
-![tiger](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f42f.png) | tiger
-![frog](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f438.png) | frog
-![rabbit](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f430.png) | rabbit
-![hamster](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f439.png) | hamster
-![mouse](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f42d.png) | mouse
-![cat](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f431.png) | cat
-![wolf](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f43a.png) | wolf
-![dog](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f436.png) | dog
-![thought_balloon](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4ad.png) | thought_balloon
-![footprints](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f463.png) | footprints
-![speech_balloon](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4ac.png) | speech_balloon
-![busts_in_silhouette](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f465.png) | busts_in_silhouette
-![bust_in_silhouette](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f464.png) | bust_in_silhouette
-![gem](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f48e.png) | gem
-![ring](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f48d.png) | ring
-![kiss](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f48b.png) | kiss
-![love_letter](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f48c.png) | love_letter
-![cupid](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f498.png) | cupid
-![revolving_hearts](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f49e.png) | revolving_hearts
-![sparkling_heart](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f496.png) | sparkling_heart
-![two_hearts](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f495.png) | two_hearts
-![heartbeat](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f493.png) | heartbeat
-![heartpulse](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f497.png) | heartpulse
-![broken_heart](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f494.png) | broken_heart
-![heart](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2764.png) | heart
-![green_heart](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f49a.png) | green_heart
-![purple_heart](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f49c.png) | purple_heart
-![blue_heart](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f499.png) | blue_heart
-![yellow_heart](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f49b.png) | yellow_heart
-![lipstick](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f484.png) | lipstick
-![closed_umbrella](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f302.png) | closed_umbrella
-![ribbon](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f380.png) | ribbon
-![eyeglasses](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f453.png) | eyeglasses
-![purse](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f45b.png) | purse
-![pouch](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f45d.png) | pouch
-![handbag](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f45c.png) | handbag
-![briefcase](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4bc.png) | briefcase
-![bikini](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f459.png) | bikini
-![kimono](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f458.png) | kimono
-![jeans](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f456.png) | jeans
-![running_shirt_with_sash](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3bd.png) | running_shirt_with_sash
-![dress](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f457.png) | dress
-![womans_clothes](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f45a.png) | womans_clothes
-![necktie](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f454.png) | necktie
-![shirt](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f455.png) | shirt, tshirt
-![boot](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f462.png) | boot
-![high_heel](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f460.png) | high_heel
-![sandal](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f461.png) | sandal
-![mans_shoe](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f45e.png) | mans_shoe, shoe
-![athletic_shoe](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f45f.png) | athletic_shoe
-![womans_hat](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f452.png) | womans_hat
-![crown](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f451.png) | crown
-![tophat](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3a9.png) | tophat
-![bow](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f647.png) | bow
-![person_frowning](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f64d.png) | person_frowning
-![person_with_pouting_face](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f64e.png) | person_with_pouting_face
-![bride_with_veil](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f470.png) | bride_with_veil
-![nail_care](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f485.png) | nail_care
-![haircut](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f487.png) | haircut
-![massage](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f486.png) | massage
-![raising_hand](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f64b.png) | raising_hand
-![information_desk_person](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f481.png) | information_desk_person
-![no_good](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f645.png) | no_good
-![ok_woman](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f646.png) | ok_woman
-![dancers](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f46f.png) | dancers
-![couple_with_heart](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f491.png) | couple_with_heart
-![couplekiss](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f48f.png) | couplekiss
-![two_women_holding_hands](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f46d.png) | two_women_holding_hands
-![two_men_holding_hands](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f46c.png) | two_men_holding_hands
-![family](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f46a.png) | family
-![couple](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f46b.png) | couple
-![dancer](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f483.png) | dancer
-![runner](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3c3.png) | runner, running
-![walking](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6b6.png) | walking
-![muscle](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4aa.png) | muscle
-![clap](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f44f.png) | clap
-![point_up](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/261d.png) | point_up
-![pray](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f64f.png) | pray
-![raised_hands](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f64c.png) | raised_hands
-![point_left](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f448.png) | point_left
-![point_right](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f449.png) | point_right
-![point_down](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f447.png) | point_down
-![point_up_2](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f446.png) | point_up_2
-![open_hands](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f450.png) | open_hands
-![hand](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/270b.png) | hand, raised_hand
-![wave](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f44b.png) | wave
-![v](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/270c.png) | v
-![fist](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/270a.png) | fist
-![facepunch](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f44a.png) | facepunch, punch
-![ok_hand](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f44c.png) | ok_hand
-![-1](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f44e.png) | -1, thumbsdown
-![+1](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f44d.png) | +1, thumbsup
-![lips](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f444.png) | lips
-![tongue](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f445.png) | tongue
-![nose](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f443.png) | nose
-![eyes](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f440.png) | eyes
-![ear](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f442.png) | ear
-![dash](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4a8.png) | dash
-![zzz](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4a4.png) | zzz
-![droplet](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4a7.png) | droplet
-![sweat_drops](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4a6.png) | sweat_drops
-![anger](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4a2.png) | anger
-![boom](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4a5.png) | boom, collision
-![dizzy](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4ab.png) | dizzy
-![star2](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f31f.png) | star2
-![sparkles](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2728.png) | sparkles
-![fire](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f525.png) | fire
-![hankey](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4a9.png) | hankey, poop, shit
-![alien](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f47d.png) | alien
-![skull](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f480.png) | skull
-![speak_no_evil](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f64a.png) | speak_no_evil
-![hear_no_evil](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f649.png) | hear_no_evil
-![see_no_evil](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f648.png) | see_no_evil
-![japanese_goblin](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f47a.png) | japanese_goblin
-![japanese_ogre](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f479.png) | japanese_ogre
-![pouting_cat](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f63e.png) | pouting_cat
-![joy_cat](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f639.png) | joy_cat
-![crying_cat_face](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f63f.png) | crying_cat_face
-![scream_cat](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f640.png) | scream_cat
-![smirk_cat](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f63c.png) | smirk_cat
-![kissing_cat](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f63d.png) | kissing_cat
-![heart_eyes_cat](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f63b.png) | heart_eyes_cat
-![smile_cat](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f638.png) | smile_cat
-![smiley_cat](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f63a.png) | smiley_cat
-![princess](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f478.png) | princess
-![angel](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f47c.png) | angel
-![person_with_blond_hair](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f471.png) | person_with_blond_hair
-![older_woman](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f475.png) | older_woman
-![older_man](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f474.png) | older_man
-![woman](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f469.png) | woman
-![man](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f468.png) | man
-![girl](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f467.png) | girl
-![boy](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f466.png) | boy
-![baby](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f476.png) | baby
-![guardsman](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f482.png) | guardsman
-![construction_worker](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f477.png) | construction_worker
-![cop](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f46e.png) | cop
-![man_with_turban](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f473.png) | man_with_turban
-![man_with_gua_pi_mao](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f472.png) | man_with_gua_pi_mao
-![expressionless](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f611.png) | expressionless
-![smirk](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f60f.png) | smirk
-![innocent](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f607.png) | innocent
-![no_mouth](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f636.png) | no_mouth
-![hushed](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f62f.png) | hushed
-![confused](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f615.png) | confused
-![neutral_face](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f610.png) | neutral_face
-![grimacing](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f62c.png) | grimacing
-![open_mouth](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f62e.png) | open_mouth
-![imp](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f47f.png) | imp
-![smiling_imp](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f608.png) | smiling_imp
-![anguished](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f627.png) | anguished
-![frowning](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f626.png) | frowning
-![worried](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f61f.png) | worried
-![astonished](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f632.png) | astonished
-![dizzy_face](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f635.png) | dizzy_face
-![sleeping](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f634.png) | sleeping
-![sunglasses](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f60e.png) | sunglasses
-![mask](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f637.png) | mask
-![yum](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f60b.png) | yum
-![laughing](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f606.png) | laughing, satisfied
-![confounded](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f616.png) | confounded
-![triumph](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f624.png) | triumph
-![rage](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f621.png) | rage
-![angry](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f620.png) | angry
-![scream](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f631.png) | scream
-![fearful](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f628.png) | fearful
-![tired_face](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f62b.png) | tired_face
-![weary](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f629.png) | weary
-![sweat](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f613.png) | sweat
-![sweat_smile](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f605.png) | sweat_smile
-![cold_sweat](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f630.png) | cold_sweat
-![disappointed_relieved](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f625.png) | disappointed_relieved
-![sleepy](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f62a.png) | sleepy
-![sob](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f62d.png) | sob
-![joy](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f602.png) | joy
-![cry](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f622.png) | cry
-![persevere](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f623.png) | persevere
-![disappointed](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f61e.png) | disappointed
-![unamused](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f612.png) | unamused
-![relieved](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f60c.png) | relieved
-![pensive](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f614.png) | pensive
-![grin](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f601.png) | grin
-![flushed](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f633.png) | flushed
-![stuck_out_tongue](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f61b.png) | stuck_out_tongue
-![stuck_out_tongue_closed_eyes](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f61d.png) | stuck_out_tongue_closed_eyes
-![stuck_out_tongue_winking_eye](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f61c.png) | stuck_out_tongue_winking_eye
-![kissing_smiling_eyes](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f619.png) | kissing_smiling_eyes
-![kissing](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f617.png) | kissing
-![kissing_closed_eyes](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f61a.png) | kissing_closed_eyes
-![kissing_heart](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f618.png) | kissing_heart
-![heart_eyes](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f60d.png) | heart_eyes
-![wink](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f609.png) | wink
-![relaxed](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/263a.png) | relaxed
-![blush](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f60a.png) | blush
-![grinning](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f600.png) | grinning
-![smiley](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f603.png) | smiley
-![smile](https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f604.png) | smile
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/cucumber.png" width="20" height="20" alt="cucumber"/> | cucumber
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/eslint.png" width="20" height="20" alt="eslint"/> | eslint
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/npm.png" width="20" height="20" alt="npm"/> | npm
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/llama.png" width="20" height="20" alt="llama"/> | llama
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/heroku.png" width="20" height="20" alt="heroku"/> | heroku
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/php.png" width="20" height="20" alt="php"/> | php
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/scientific_linux.png" width="20" height="20" alt="scientific_linux"/> | scientific_linux
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/oracle_linux.png" width="20" height="20" alt="oracle_linux"/> | oracle_linux
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/fedora.png" width="20" height="20" alt="fedora"/> | fedora
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/rubygems.png" width="20" height="20" alt="rubygems"/> | rubygems
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/centos.png" width="20" height="20" alt="centos"/> | centos
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/fastlane.png" width="20" height="20" alt="fastlane"/> | fastlane
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/json.png" width="20" height="20" alt="json"/> | json
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/buildkite.png" width="20" height="20" alt="buildkite"/> | buildkite
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/ansible.png" width="20" height="20" alt="ansible"/> | ansible
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/calibre.png" width="20" height="20" alt="calibre"/> | calibre
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/docker.png" width="20" height="20" alt="docker"/> | docker
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/mysql.png" width="20" height="20" alt="mysql"/> | mysql
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/datadog.png" width="20" height="20" alt="datadog"/> | datadog
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/mac.png" width="20" height="20" alt="mac"/> | mac
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/linux.png" width="20" height="20" alt="linux"/> | linux
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/windows.png" width="20" height="20" alt="windows"/> | windows
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/ubuntu.png" width="20" height="20" alt="ubuntu"/> | ubuntu
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/finder.png" width="20" height="20" alt="finder"/> | finder
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/brakeman.png" width="20" height="20" alt="brakeman"/> | brakeman
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/postgres.png" width="20" height="20" alt="postgres"/> | postgres
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/newrelic.png" width="20" height="20" alt="newrelic"/> | newrelic
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/bugsnag.png" width="20" height="20" alt="bugsnag"/> | bugsnag
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/bundler.png" width="20" height="20" alt="bundler"/> | bundler
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/ruby.png" width="20" height="20" alt="ruby"/> | ruby
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/rubocop.png" width="20" height="20" alt="rubocop"/> | rubocop
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/rspec.png" width="20" height="20" alt="rspec"/> | rspec
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/debian.png" width="20" height="20" alt="debian"/> | debian
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/golang.png" width="20" height="20" alt="golang"/> | golang, go
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/node.png" width="20" height="20" alt="node"/> | node, nodejs
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/packagecloud.png" width="20" height="20" alt="packagecloud"/> | packagecloud, package_cloud
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/terminal.png" width="20" height="20" alt="terminal"/> | terminal, console
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/redhat.png" width="20" height="20" alt="redhat"/> | redhat, rhel, enterprise_linux
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/trollface.png" width="20" height="20" alt="trollface"/> | trollface
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/suspect.png" width="20" height="20" alt="suspect"/> | suspect
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/shipit.png" width="20" height="20" alt="shipit"/> | shipit, squirrel
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/rage4.png" width="20" height="20" alt="rage4"/> | rage4
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/rage3.png" width="20" height="20" alt="rage3"/> | rage3
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/rage2.png" width="20" height="20" alt="rage2"/> | rage2
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/rage1.png" width="20" height="20" alt="rage1"/> | rage1
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/octocat.png" width="20" height="20" alt="octocat"/> | octocat
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/neckbeard.png" width="20" height="20" alt="neckbeard"/> | neckbeard
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/metal.png" width="20" height="20" alt="metal"/> | metal
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/hurtrealbad.png" width="20" height="20" alt="hurtrealbad"/> | hurtrealbad
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/godmode.png" width="20" height="20" alt="godmode"/> | godmode
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/goberserk.png" width="20" height="20" alt="goberserk"/> | goberserk
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/fu.png" width="20" height="20" alt="fu"/> | fu
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/finnadie.png" width="20" height="20" alt="finnadie"/> | finnadie
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/feelsgood.png" width="20" height="20" alt="feelsgood"/> | feelsgood
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/bowtie.png" width="20" height="20" alt="bowtie"/> | bowtie
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f539.png" width="20" height="20" alt="small_blue_diamond"/> | small_blue_diamond
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f538.png" width="20" height="20" alt="small_orange_diamond"/> | small_orange_diamond
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f537.png" width="20" height="20" alt="large_blue_diamond"/> | large_blue_diamond
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f536.png" width="20" height="20" alt="large_orange_diamond"/> | large_orange_diamond
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2b1b.png" width="20" height="20" alt="black_large_square"/> | black_large_square
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2b1c.png" width="20" height="20" alt="white_large_square"/> | white_large_square
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f53b.png" width="20" height="20" alt="small_red_triangle_down"/> | small_red_triangle_down
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f535.png" width="20" height="20" alt="large_blue_circle"/> | large_blue_circle
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f534.png" width="20" height="20" alt="red_circle"/> | red_circle
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/26aa.png" width="20" height="20" alt="white_circle"/> | white_circle
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/26ab.png" width="20" height="20" alt="black_circle"/> | black_circle
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f533.png" width="20" height="20" alt="white_square_button"/> | white_square_button
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f532.png" width="20" height="20" alt="black_square_button"/> | black_square_button
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f53a.png" width="20" height="20" alt="small_red_triangle"/> | small_red_triangle
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/25ab.png" width="20" height="20" alt="white_small_square"/> | white_small_square
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/25aa.png" width="20" height="20" alt="black_small_square"/> | black_small_square
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/25fd.png" width="20" height="20" alt="white_medium_small_square"/> | white_medium_small_square
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/25fe.png" width="20" height="20" alt="black_medium_small_square"/> | black_medium_small_square
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/25fb.png" width="20" height="20" alt="white_medium_square"/> | white_medium_square
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/25fc.png" width="20" height="20" alt="black_medium_square"/> | black_medium_square
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f531.png" width="20" height="20" alt="trident"/> | trident
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/303d.png" width="20" height="20" alt="part_alternation_mark"/> | part_alternation_mark
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/3030.png" width="20" height="20" alt="wavy_dash"/> | wavy_dash
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/27b0.png" width="20" height="20" alt="curly_loop"/> | curly_loop
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f517.png" width="20" height="20" alt="link"/> | link
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f518.png" width="20" height="20" alt="radio_button"/> | radio_button
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2611.png" width="20" height="20" alt="ballot_box_with_check"/> | ballot_box_with_check
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2714.png" width="20" height="20" alt="heavy_check_mark"/> | heavy_check_mark
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4af.png" width="20" height="20" alt="100"/> | 100
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4ae.png" width="20" height="20" alt="white_flower"/> | white_flower
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2666.png" width="20" height="20" alt="diamonds"/> | diamonds
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2663.png" width="20" height="20" alt="clubs"/> | clubs
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2665.png" width="20" height="20" alt="hearts"/> | hearts
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2660.png" width="20" height="20" alt="spades"/> | spades
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2797.png" width="20" height="20" alt="heavy_division_sign"/> | heavy_division_sign
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2796.png" width="20" height="20" alt="heavy_minus_sign"/> | heavy_minus_sign
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2795.png" width="20" height="20" alt="heavy_plus_sign"/> | heavy_plus_sign
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2716.png" width="20" height="20" alt="heavy_multiplication_x"/> | heavy_multiplication_x
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f566.png" width="20" height="20" alt="clock1130"/> | clock1130
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f565.png" width="20" height="20" alt="clock1030"/> | clock1030
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f564.png" width="20" height="20" alt="clock930"/> | clock930
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f563.png" width="20" height="20" alt="clock830"/> | clock830
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f562.png" width="20" height="20" alt="clock730"/> | clock730
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f561.png" width="20" height="20" alt="clock630"/> | clock630
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f55a.png" width="20" height="20" alt="clock11"/> | clock11
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f559.png" width="20" height="20" alt="clock10"/> | clock10
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f558.png" width="20" height="20" alt="clock9"/> | clock9
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f557.png" width="20" height="20" alt="clock8"/> | clock8
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f556.png" width="20" height="20" alt="clock7"/> | clock7
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f555.png" width="20" height="20" alt="clock6"/> | clock6
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f560.png" width="20" height="20" alt="clock530"/> | clock530
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f554.png" width="20" height="20" alt="clock5"/> | clock5
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f55f.png" width="20" height="20" alt="clock430"/> | clock430
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f553.png" width="20" height="20" alt="clock4"/> | clock4
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f55e.png" width="20" height="20" alt="clock330"/> | clock330
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f552.png" width="20" height="20" alt="clock3"/> | clock3
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f55d.png" width="20" height="20" alt="clock230"/> | clock230
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f551.png" width="20" height="20" alt="clock2"/> | clock2
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f55c.png" width="20" height="20" alt="clock130"/> | clock130
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f550.png" width="20" height="20" alt="clock1"/> | clock1
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f567.png" width="20" height="20" alt="clock1230"/> | clock1230
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f55b.png" width="20" height="20" alt="clock12"/> | clock12
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f503.png" width="20" height="20" alt="arrows_clockwise"/> | arrows_clockwise
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f51c.png" width="20" height="20" alt="soon"/> | soon
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f51b.png" width="20" height="20" alt="on"/> | on
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f519.png" width="20" height="20" alt="back"/> | back
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f51a.png" width="20" height="20" alt="end"/> | end
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f51d.png" width="20" height="20" alt="top"/> | top
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2b55.png" width="20" height="20" alt="o"/> | o
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2754.png" width="20" height="20" alt="grey_question"/> | grey_question
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2755.png" width="20" height="20" alt="grey_exclamation"/> | grey_exclamation
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2753.png" width="20" height="20" alt="question"/> | question
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2757.png" width="20" height="20" alt="exclamation"/> | exclamation, heavy_exclamation_mark
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2049.png" width="20" height="20" alt="interrobang"/> | interrobang
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/203c.png" width="20" height="20" alt="bangbang"/> | bangbang
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/274c.png" width="20" height="20" alt="x"/> | x
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2122.png" width="20" height="20" alt="tm"/> | tm
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/00ae.png" width="20" height="20" alt="registered"/> | registered
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/00a9.png" width="20" height="20" alt="copyright"/> | copyright
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4b1.png" width="20" height="20" alt="currency_exchange"/> | currency_exchange
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4b2.png" width="20" height="20" alt="heavy_dollar_sign"/> | heavy_dollar_sign
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4b9.png" width="20" height="20" alt="chart"/> | chart
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3e7.png" width="20" height="20" alt="atm"/> | atm
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f52f.png" width="20" height="20" alt="six_pointed_star"/> | six_pointed_star
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/26ce.png" width="20" height="20" alt="ophiuchus"/> | ophiuchus
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2653.png" width="20" height="20" alt="pisces"/> | pisces
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2652.png" width="20" height="20" alt="aquarius"/> | aquarius
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2651.png" width="20" height="20" alt="capricorn"/> | capricorn
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2650.png" width="20" height="20" alt="sagittarius"/> | sagittarius
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/264f.png" width="20" height="20" alt="scorpius"/> | scorpius
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/264e.png" width="20" height="20" alt="libra"/> | libra
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/264d.png" width="20" height="20" alt="virgo"/> | virgo
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/264c.png" width="20" height="20" alt="leo"/> | leo
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/264b.png" width="20" height="20" alt="cancer"/> | cancer
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/264a.png" width="20" height="20" alt="gemini"/> | gemini
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2649.png" width="20" height="20" alt="taurus"/> | taurus
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2648.png" width="20" height="20" alt="aries"/> | aries
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/267b.png" width="20" height="20" alt="recycle"/> | recycle
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/27bf.png" width="20" height="20" alt="loop"/> | loop
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4a0.png" width="20" height="20" alt="diamond_shape_with_a_dot_inside"/> | diamond_shape_with_a_dot_inside
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f17e.png" width="20" height="20" alt="o2"/> | o2
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f18e.png" width="20" height="20" alt="ab"/> | ab
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f171.png" width="20" height="20" alt="b"/> | b
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f170.png" width="20" height="20" alt="a"/> | a
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4f4.png" width="20" height="20" alt="mobile_phone_off"/> | mobile_phone_off
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4f3.png" width="20" height="20" alt="vibration_mode"/> | vibration_mode
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f19a.png" width="20" height="20" alt="vs"/> | vs
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f49f.png" width="20" height="20" alt="heart_decoration"/> | heart_decoration
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2734.png" width="20" height="20" alt="eight_pointed_black_star"/> | eight_pointed_black_star
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2705.png" width="20" height="20" alt="white_check_mark"/> | white_check_mark
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/274e.png" width="20" height="20" alt="negative_squared_cross_mark"/> | negative_squared_cross_mark
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2747.png" width="20" height="20" alt="sparkle"/> | sparkle
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2733.png" width="20" height="20" alt="eight_spoked_asterisk"/> | eight_spoked_asterisk
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/26d4.png" width="20" height="20" alt="no_entry"/> | no_entry
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6b8.png" width="20" height="20" alt="children_crossing"/> | children_crossing
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6b7.png" width="20" height="20" alt="no_pedestrians"/> | no_pedestrians
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6b3.png" width="20" height="20" alt="no_bicycles"/> | no_bicycles
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6b1.png" width="20" height="20" alt="non-potable_water"/> | non-potable_water
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6af.png" width="20" height="20" alt="do_not_litter"/> | do_not_litter
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4f5.png" width="20" height="20" alt="no_mobile_phones"/> | no_mobile_phones
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f51e.png" width="20" height="20" alt="underage"/> | underage
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6ab.png" width="20" height="20" alt="no_entry_sign"/> | no_entry_sign
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f194.png" width="20" height="20" alt="id"/> | id
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f198.png" width="20" height="20" alt="sos"/> | sos
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f191.png" width="20" height="20" alt="cl"/> | cl
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/3297.png" width="20" height="20" alt="congratulations"/> | congratulations
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/3299.png" width="20" height="20" alt="secret"/> | secret
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f251.png" width="20" height="20" alt="accept"/> | accept
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6c3.png" width="20" height="20" alt="customs"/> | customs
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6c5.png" width="20" height="20" alt="left_luggage"/> | left_luggage
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6c4.png" width="20" height="20" alt="baggage_claim"/> | baggage_claim
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6c2.png" width="20" height="20" alt="passport_control"/> | passport_control
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/24c2.png" width="20" height="20" alt="m"/> | m
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f202.png" width="20" height="20" alt="sa"/> | sa
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f238.png" width="20" height="20" alt="u7533"/> | u7533
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f237.png" width="20" height="20" alt="u6708"/> | u6708
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6ad.png" width="20" height="20" alt="no_smoking"/> | no_smoking
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/267f.png" width="20" height="20" alt="wheelchair"/> | wheelchair
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f17f.png" width="20" height="20" alt="parking"/> | parking
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6ae.png" width="20" height="20" alt="put_litter_in_its_place"/> | put_litter_in_its_place
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6b0.png" width="20" height="20" alt="potable_water"/> | potable_water
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6be.png" width="20" height="20" alt="wc"/> | wc
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6bc.png" width="20" height="20" alt="baby_symbol"/> | baby_symbol
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6ba.png" width="20" height="20" alt="womens"/> | womens
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6b9.png" width="20" height="20" alt="mens"/> | mens
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6bb.png" width="20" height="20" alt="restroom"/> | restroom
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f21a.png" width="20" height="20" alt="u7121"/> | u7121
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f236.png" width="20" height="20" alt="u6709"/> | u6709
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f23a.png" width="20" height="20" alt="u55b6"/> | u55b6
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f239.png" width="20" height="20" alt="u5272"/> | u5272
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f250.png" width="20" height="20" alt="ideograph_advantage"/> | ideograph_advantage
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f232.png" width="20" height="20" alt="u7981"/> | u7981
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f234.png" width="20" height="20" alt="u5408"/> | u5408
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f235.png" width="20" height="20" alt="u6e80"/> | u6e80
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f233.png" width="20" height="20" alt="u7a7a"/> | u7a7a
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f22f.png" width="20" height="20" alt="u6307"/> | u6307
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f201.png" width="20" height="20" alt="koko"/> | koko
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3a6.png" width="20" height="20" alt="cinema"/> | cinema
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4f6.png" width="20" height="20" alt="signal_strength"/> | signal_strength
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f196.png" width="20" height="20" alt="ng"/> | ng
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f193.png" width="20" height="20" alt="free"/> | free
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f192.png" width="20" height="20" alt="cool"/> | cool
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f199.png" width="20" height="20" alt="up"/> | up
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f195.png" width="20" height="20" alt="new"/> | new
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f502.png" width="20" height="20" alt="repeat_one"/> | repeat_one
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f501.png" width="20" height="20" alt="repeat"/> | repeat
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f500.png" width="20" height="20" alt="twisted_rightwards_arrows"/> | twisted_rightwards_arrows
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f197.png" width="20" height="20" alt="ok"/> | ok
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2934.png" width="20" height="20" alt="arrow_heading_up"/> | arrow_heading_up
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2935.png" width="20" height="20" alt="arrow_heading_down"/> | arrow_heading_down
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/23ec.png" width="20" height="20" alt="arrow_double_down"/> | arrow_double_down
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/23eb.png" width="20" height="20" alt="arrow_double_up"/> | arrow_double_up
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/23e9.png" width="20" height="20" alt="fast_forward"/> | fast_forward
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/23ea.png" width="20" height="20" alt="rewind"/> | rewind
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2139.png" width="20" height="20" alt="information_source"/> | information_source
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/21aa.png" width="20" height="20" alt="arrow_right_hook"/> | arrow_right_hook
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/21a9.png" width="20" height="20" alt="leftwards_arrow_with_hook"/> | leftwards_arrow_with_hook
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f53d.png" width="20" height="20" alt="arrow_down_small"/> | arrow_down_small
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f53c.png" width="20" height="20" alt="arrow_up_small"/> | arrow_up_small
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/25b6.png" width="20" height="20" alt="arrow_forward"/> | arrow_forward
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/25c0.png" width="20" height="20" alt="arrow_backward"/> | arrow_backward
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f504.png" width="20" height="20" alt="arrows_counterclockwise"/> | arrows_counterclockwise
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2195.png" width="20" height="20" alt="arrow_up_down"/> | arrow_up_down
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2194.png" width="20" height="20" alt="left_right_arrow"/> | left_right_arrow
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2199.png" width="20" height="20" alt="arrow_lower_left"/> | arrow_lower_left
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2198.png" width="20" height="20" alt="arrow_lower_right"/> | arrow_lower_right
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2196.png" width="20" height="20" alt="arrow_upper_left"/> | arrow_upper_left
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2197.png" width="20" height="20" alt="arrow_upper_right"/> | arrow_upper_right
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f524.png" width="20" height="20" alt="abc"/> | abc
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f521.png" width="20" height="20" alt="abcd"/> | abcd
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f520.png" width="20" height="20" alt="capital_abcd"/> | capital_abcd
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/27a1.png" width="20" height="20" alt="arrow_right"/> | arrow_right
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2b05.png" width="20" height="20" alt="arrow_left"/> | arrow_left
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2b07.png" width="20" height="20" alt="arrow_down"/> | arrow_down
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2b06.png" width="20" height="20" alt="arrow_up"/> | arrow_up
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f523.png" width="20" height="20" alt="symbols"/> | symbols
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/0023-20e3.png" width="20" height="20" alt="hash"/> | hash
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f522.png" width="20" height="20" alt="1234"/> | 1234
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f51f.png" width="20" height="20" alt="keycap_ten"/> | keycap_ten
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/0030-20e3.png" width="20" height="20" alt="zero"/> | zero
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/0039-20e3.png" width="20" height="20" alt="nine"/> | nine
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/0038-20e3.png" width="20" height="20" alt="eight"/> | eight
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/0037-20e3.png" width="20" height="20" alt="seven"/> | seven
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/0036-20e3.png" width="20" height="20" alt="six"/> | six
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/0035-20e3.png" width="20" height="20" alt="five"/> | five
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/0034-20e3.png" width="20" height="20" alt="four"/> | four
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/0033-20e3.png" width="20" height="20" alt="three"/> | three
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/0032-20e3.png" width="20" height="20" alt="two"/> | two
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/0031-20e3.png" width="20" height="20" alt="one"/> | one
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f1ec-1f1e7.png" width="20" height="20" alt="gb"/> | gb, uk
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f1f7-1f1fa.png" width="20" height="20" alt="ru"/> | ru
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f1ee-1f1f9.png" width="20" height="20" alt="it"/> | it
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f1ea-1f1f8.png" width="20" height="20" alt="es"/> | es
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f1eb-1f1f7.png" width="20" height="20" alt="fr"/> | fr
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f1fa-1f1f8.png" width="20" height="20" alt="us"/> | us
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f1e8-1f1f3.png" width="20" height="20" alt="cn"/> | cn
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f1e9-1f1ea.png" width="20" height="20" alt="de"/> | de
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f1f0-1f1f7.png" width="20" height="20" alt="kr"/> | kr
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f1ef-1f1f5.png" width="20" height="20" alt="jp"/> | jp
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6a9.png" width="20" height="20" alt="triangular_flag_on_post"/> | triangular_flag_on_post
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4cd.png" width="20" height="20" alt="round_pushpin"/> | round_pushpin
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3ad.png" width="20" height="20" alt="performing_arts"/> | performing_arts
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3aa.png" width="20" height="20" alt="circus_tent"/> | circus_tent
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f5ff.png" width="20" height="20" alt="moyai"/> | moyai
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2668.png" width="20" height="20" alt="hotsprings"/> | hotsprings
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3b0.png" width="20" height="20" alt="slot_machine"/> | slot_machine
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3ee.png" width="20" height="20" alt="izakaya_lantern"/> | izakaya_lantern, lantern
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/26fd.png" width="20" height="20" alt="fuelpump"/> | fuelpump
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f530.png" width="20" height="20" alt="beginner"/> | beginner
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6a7.png" width="20" height="20" alt="construction"/> | construction
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/26a0.png" width="20" height="20" alt="warning"/> | warning
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6a5.png" width="20" height="20" alt="traffic_light"/> | traffic_light
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6a6.png" width="20" height="20" alt="vertical_traffic_light"/> | vertical_traffic_light
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3ab.png" width="20" height="20" alt="ticket"/> | ticket
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f68f.png" width="20" height="20" alt="busstop"/> | busstop
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f488.png" width="20" height="20" alt="barber"/> | barber
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f69c.png" width="20" height="20" alt="tractor"/> | tractor
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6a0.png" width="20" height="20" alt="mountain_cableway"/> | mountain_cableway
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f69f.png" width="20" height="20" alt="suspension_railway"/> | suspension_railway
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6a1.png" width="20" height="20" alt="aerial_tramway"/> | aerial_tramway
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6b2.png" width="20" height="20" alt="bike"/> | bike
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f690.png" width="20" height="20" alt="minibus"/> | minibus
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f691.png" width="20" height="20" alt="ambulance"/> | ambulance
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f692.png" width="20" height="20" alt="fire_engine"/> | fire_engine
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f694.png" width="20" height="20" alt="oncoming_police_car"/> | oncoming_police_car
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f693.png" width="20" height="20" alt="police_car"/> | police_car
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6a8.png" width="20" height="20" alt="rotating_light"/> | rotating_light
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f69a.png" width="20" height="20" alt="truck"/> | truck
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f69b.png" width="20" height="20" alt="articulated_lorry"/> | articulated_lorry
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f696.png" width="20" height="20" alt="oncoming_taxi"/> | oncoming_taxi
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f695.png" width="20" height="20" alt="taxi"/> | taxi
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f697.png" width="20" height="20" alt="car"/> | car, red_car
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f698.png" width="20" height="20" alt="oncoming_automobile"/> | oncoming_automobile
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f699.png" width="20" height="20" alt="blue_car"/> | blue_car
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f68d.png" width="20" height="20" alt="oncoming_bus"/> | oncoming_bus
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f68c.png" width="20" height="20" alt="bus"/> | bus
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f68e.png" width="20" height="20" alt="trolleybus"/> | trolleybus
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f683.png" width="20" height="20" alt="railway_car"/> | railway_car
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f68b.png" width="20" height="20" alt="train"/> | train
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f69d.png" width="20" height="20" alt="monorail"/> | monorail
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f687.png" width="20" height="20" alt="metro"/> | metro
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f688.png" width="20" height="20" alt="light_rail"/> | light_rail
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f685.png" width="20" height="20" alt="bullettrain_front"/> | bullettrain_front
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f684.png" width="20" height="20" alt="bullettrain_side"/> | bullettrain_side
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f686.png" width="20" height="20" alt="train2"/> | train2
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f69e.png" width="20" height="20" alt="mountain_railway"/> | mountain_railway
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f689.png" width="20" height="20" alt="station"/> | station
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f68a.png" width="20" height="20" alt="tram"/> | tram
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f682.png" width="20" height="20" alt="steam_locomotive"/> | steam_locomotive
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f681.png" width="20" height="20" alt="helicopter"/> | helicopter
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4ba.png" width="20" height="20" alt="seat"/> | seat
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2708.png" width="20" height="20" alt="airplane"/> | airplane
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f680.png" width="20" height="20" alt="rocket"/> | rocket
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2693.png" width="20" height="20" alt="anchor"/> | anchor
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6a3.png" width="20" height="20" alt="rowboat"/> | rowboat
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6a4.png" width="20" height="20" alt="speedboat"/> | speedboat
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/26f5.png" width="20" height="20" alt="boat"/> | boat, sailboat
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6a2.png" width="20" height="20" alt="ship"/> | ship
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3a2.png" width="20" height="20" alt="roller_coaster"/> | roller_coaster
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/26f2.png" width="20" height="20" alt="fountain"/> | fountain
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3a1.png" width="20" height="20" alt="ferris_wheel"/> | ferris_wheel
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3a0.png" width="20" height="20" alt="carousel_horse"/> | carousel_horse
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f309.png" width="20" height="20" alt="bridge_at_night"/> | bridge_at_night
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f5fd.png" width="20" height="20" alt="statue_of_liberty"/> | statue_of_liberty
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f303.png" width="20" height="20" alt="night_with_stars"/> | night_with_stars
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f305.png" width="20" height="20" alt="sunrise"/> | sunrise
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f304.png" width="20" height="20" alt="sunrise_over_mountains"/> | sunrise_over_mountains
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f5fb.png" width="20" height="20" alt="mount_fuji"/> | mount_fuji
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f5fe.png" width="20" height="20" alt="japan"/> | japan
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f5fc.png" width="20" height="20" alt="tokyo_tower"/> | tokyo_tower
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3ed.png" width="20" height="20" alt="factory"/> | factory
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/26fa.png" width="20" height="20" alt="tent"/> | tent
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3f0.png" width="20" height="20" alt="european_castle"/> | european_castle
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3ef.png" width="20" height="20" alt="japanese_castle"/> | japanese_castle
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f306.png" width="20" height="20" alt="city_sunset"/> | city_sunset
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f307.png" width="20" height="20" alt="city_sunrise"/> | city_sunrise
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3e4.png" width="20" height="20" alt="european_post_office"/> | european_post_office
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3ec.png" width="20" height="20" alt="department_store"/> | department_store
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/26ea.png" width="20" height="20" alt="church"/> | church
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f492.png" width="20" height="20" alt="wedding"/> | wedding
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3e8.png" width="20" height="20" alt="hotel"/> | hotel
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3e9.png" width="20" height="20" alt="love_hotel"/> | love_hotel
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3ea.png" width="20" height="20" alt="convenience_store"/> | convenience_store
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3e6.png" width="20" height="20" alt="bank"/> | bank
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3e5.png" width="20" height="20" alt="hospital"/> | hospital
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3e3.png" width="20" height="20" alt="post_office"/> | post_office
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3e2.png" width="20" height="20" alt="office"/> | office
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3eb.png" width="20" height="20" alt="school"/> | school
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3e1.png" width="20" height="20" alt="house_with_garden"/> | house_with_garden
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3e0.png" width="20" height="20" alt="house"/> | house
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f33d.png" width="20" height="20" alt="corn"/> | corn
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f345.png" width="20" height="20" alt="tomato"/> | tomato
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f346.png" width="20" height="20" alt="eggplant"/> | eggplant
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f360.png" width="20" height="20" alt="sweet_potato"/> | sweet_potato
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f34d.png" width="20" height="20" alt="pineapple"/> | pineapple
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f350.png" width="20" height="20" alt="pear"/> | pear
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f34c.png" width="20" height="20" alt="banana"/> | banana
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f348.png" width="20" height="20" alt="melon"/> | melon
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f351.png" width="20" height="20" alt="peach"/> | peach
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f353.png" width="20" height="20" alt="strawberry"/> | strawberry
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f349.png" width="20" height="20" alt="watermelon"/> | watermelon
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f347.png" width="20" height="20" alt="grapes"/> | grapes
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f352.png" width="20" height="20" alt="cherries"/> | cherries
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f34b.png" width="20" height="20" alt="lemon"/> | lemon
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f34a.png" width="20" height="20" alt="tangerine"/> | tangerine
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f34f.png" width="20" height="20" alt="green_apple"/> | green_apple
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f34e.png" width="20" height="20" alt="apple"/> | apple
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f36f.png" width="20" height="20" alt="honey_pot"/> | honey_pot
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f36d.png" width="20" height="20" alt="lollipop"/> | lollipop
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f36c.png" width="20" height="20" alt="candy"/> | candy
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f36b.png" width="20" height="20" alt="chocolate_bar"/> | chocolate_bar
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f36a.png" width="20" height="20" alt="cookie"/> | cookie
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f370.png" width="20" height="20" alt="cake"/> | cake
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f382.png" width="20" height="20" alt="birthday"/> | birthday
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f367.png" width="20" height="20" alt="shaved_ice"/> | shaved_ice
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f368.png" width="20" height="20" alt="ice_cream"/> | ice_cream
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f366.png" width="20" height="20" alt="icecream"/> | icecream
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f36e.png" width="20" height="20" alt="custard"/> | custard
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f369.png" width="20" height="20" alt="doughnut"/> | doughnut
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f35e.png" width="20" height="20" alt="bread"/> | bread
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f373.png" width="20" height="20" alt="egg"/> | egg
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f361.png" width="20" height="20" alt="dango"/> | dango
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f362.png" width="20" height="20" alt="oden"/> | oden
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f372.png" width="20" height="20" alt="stew"/> | stew
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f35c.png" width="20" height="20" alt="ramen"/> | ramen
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f35a.png" width="20" height="20" alt="rice"/> | rice
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f358.png" width="20" height="20" alt="rice_cracker"/> | rice_cracker
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f359.png" width="20" height="20" alt="rice_ball"/> | rice_ball
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f365.png" width="20" height="20" alt="fish_cake"/> | fish_cake
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f363.png" width="20" height="20" alt="sushi"/> | sushi
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f371.png" width="20" height="20" alt="bento"/> | bento
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f364.png" width="20" height="20" alt="fried_shrimp"/> | fried_shrimp
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f35b.png" width="20" height="20" alt="curry"/> | curry
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f35d.png" width="20" height="20" alt="spaghetti"/> | spaghetti
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f356.png" width="20" height="20" alt="meat_on_bone"/> | meat_on_bone
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f357.png" width="20" height="20" alt="poultry_leg"/> | poultry_leg
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f35f.png" width="20" height="20" alt="fries"/> | fries
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f354.png" width="20" height="20" alt="hamburger"/> | hamburger
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f355.png" width="20" height="20" alt="pizza"/> | pizza
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f374.png" width="20" height="20" alt="fork_and_knife"/> | fork_and_knife
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f377.png" width="20" height="20" alt="wine_glass"/> | wine_glass
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f379.png" width="20" height="20" alt="tropical_drink"/> | tropical_drink
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f378.png" width="20" height="20" alt="cocktail"/> | cocktail
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f37b.png" width="20" height="20" alt="beers"/> | beers
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f37a.png" width="20" height="20" alt="beer"/> | beer
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f37c.png" width="20" height="20" alt="baby_bottle"/> | baby_bottle
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f376.png" width="20" height="20" alt="sake"/> | sake
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f375.png" width="20" height="20" alt="tea"/> | tea
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2615.png" width="20" height="20" alt="coffee"/> | coffee
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3a3.png" width="20" height="20" alt="fishing_pole_and_fish"/> | fishing_pole_and_fish
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3c4.png" width="20" height="20" alt="surfer"/> | surfer
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3ca.png" width="20" height="20" alt="swimmer"/> | swimmer
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3c2.png" width="20" height="20" alt="snowboarder"/> | snowboarder
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3bf.png" width="20" height="20" alt="ski"/> | ski
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3c6.png" width="20" height="20" alt="trophy"/> | trophy
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3c7.png" width="20" height="20" alt="horse_racing"/> | horse_racing
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3c1.png" width="20" height="20" alt="checkered_flag"/> | checkered_flag
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6b4.png" width="20" height="20" alt="bicyclist"/> | bicyclist
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6b5.png" width="20" height="20" alt="mountain_bicyclist"/> | mountain_bicyclist
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/26f3.png" width="20" height="20" alt="golf"/> | golf
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3b3.png" width="20" height="20" alt="bowling"/> | bowling
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3c9.png" width="20" height="20" alt="rugby_football"/> | rugby_football
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3b1.png" width="20" height="20" alt="8ball"/> | 8ball
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3be.png" width="20" height="20" alt="tennis"/> | tennis
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/26be.png" width="20" height="20" alt="baseball"/> | baseball
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/26bd.png" width="20" height="20" alt="soccer"/> | soccer
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3c0.png" width="20" height="20" alt="basketball"/> | basketball
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3c8.png" width="20" height="20" alt="football"/> | football
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3af.png" width="20" height="20" alt="dart"/> | dart
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3b2.png" width="20" height="20" alt="game_die"/> | game_die
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f004.png" width="20" height="20" alt="mahjong"/> | mahjong
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3b4.png" width="20" height="20" alt="flower_playing_cards"/> | flower_playing_cards
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f0cf.png" width="20" height="20" alt="black_joker"/> | black_joker
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3ae.png" width="20" height="20" alt="video_game"/> | video_game
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f47e.png" width="20" height="20" alt="space_invader"/> | space_invader
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3b8.png" width="20" height="20" alt="guitar"/> | guitar
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3b7.png" width="20" height="20" alt="saxophone"/> | saxophone
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3ba.png" width="20" height="20" alt="trumpet"/> | trumpet
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3bb.png" width="20" height="20" alt="violin"/> | violin
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3b9.png" width="20" height="20" alt="musical_keyboard"/> | musical_keyboard
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3b6.png" width="20" height="20" alt="notes"/> | notes
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3b5.png" width="20" height="20" alt="musical_note"/> | musical_note
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3bc.png" width="20" height="20" alt="musical_score"/> | musical_score
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3a7.png" width="20" height="20" alt="headphones"/> | headphones
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3a4.png" width="20" height="20" alt="microphone"/> | microphone
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3ac.png" width="20" height="20" alt="clapper"/> | clapper
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3a8.png" width="20" height="20" alt="art"/> | art
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4f0.png" width="20" height="20" alt="newspaper"/> | newspaper
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f52d.png" width="20" height="20" alt="telescope"/> | telescope
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f52c.png" width="20" height="20" alt="microscope"/> | microscope
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4db.png" width="20" height="20" alt="name_badge"/> | name_badge
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f516.png" width="20" height="20" alt="bookmark"/> | bookmark
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4d6.png" width="20" height="20" alt="book"/> | book, open_book
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4da.png" width="20" height="20" alt="books"/> | books
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4d2.png" width="20" height="20" alt="ledger"/> | ledger
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4d4.png" width="20" height="20" alt="notebook_with_decorative_cover"/> | notebook_with_decorative_cover
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4d3.png" width="20" height="20" alt="notebook"/> | notebook
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4d9.png" width="20" height="20" alt="orange_book"/> | orange_book
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4d8.png" width="20" height="20" alt="blue_book"/> | blue_book
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4d7.png" width="20" height="20" alt="green_book"/> | green_book
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4d5.png" width="20" height="20" alt="closed_book"/> | closed_book
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4d0.png" width="20" height="20" alt="triangular_ruler"/> | triangular_ruler
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4cf.png" width="20" height="20" alt="straight_ruler"/> | straight_ruler
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/270f.png" width="20" height="20" alt="pencil2"/> | pencil2
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2712.png" width="20" height="20" alt="black_nib"/> | black_nib
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4ce.png" width="20" height="20" alt="paperclip"/> | paperclip
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4cc.png" width="20" height="20" alt="pushpin"/> | pushpin
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2702.png" width="20" height="20" alt="scissors"/> | scissors
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4c2.png" width="20" height="20" alt="open_file_folder"/> | open_file_folder
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4c1.png" width="20" height="20" alt="file_folder"/> | file_folder
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4c7.png" width="20" height="20" alt="card_index"/> | card_index
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4c6.png" width="20" height="20" alt="calendar"/> | calendar
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4c5.png" width="20" height="20" alt="date"/> | date
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4cb.png" width="20" height="20" alt="clipboard"/> | clipboard
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4dc.png" width="20" height="20" alt="scroll"/> | scroll
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4c9.png" width="20" height="20" alt="chart_with_downwards_trend"/> | chart_with_downwards_trend
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4c8.png" width="20" height="20" alt="chart_with_upwards_trend"/> | chart_with_upwards_trend
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4ca.png" width="20" height="20" alt="bar_chart"/> | bar_chart
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4d1.png" width="20" height="20" alt="bookmark_tabs"/> | bookmark_tabs
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4c3.png" width="20" height="20" alt="page_with_curl"/> | page_with_curl
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4c4.png" width="20" height="20" alt="page_facing_up"/> | page_facing_up
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4dd.png" width="20" height="20" alt="memo"/> | memo, pencil
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4e6.png" width="20" height="20" alt="package"/> | package
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4ee.png" width="20" height="20" alt="postbox"/> | postbox
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4ed.png" width="20" height="20" alt="mailbox_with_no_mail"/> | mailbox_with_no_mail
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4ec.png" width="20" height="20" alt="mailbox_with_mail"/> | mailbox_with_mail
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4ea.png" width="20" height="20" alt="mailbox_closed"/> | mailbox_closed
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4eb.png" width="20" height="20" alt="mailbox"/> | mailbox
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4ef.png" width="20" height="20" alt="postal_horn"/> | postal_horn
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4e8.png" width="20" height="20" alt="incoming_envelope"/> | incoming_envelope
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4e9.png" width="20" height="20" alt="envelope_with_arrow"/> | envelope_with_arrow
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2709.png" width="20" height="20" alt="email"/> | email, envelope
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4e4.png" width="20" height="20" alt="outbox_tray"/> | outbox_tray
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4e5.png" width="20" height="20" alt="inbox_tray"/> | inbox_tray
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4e7.png" width="20" height="20" alt="e-mail"/> | e-mail
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4f2.png" width="20" height="20" alt="calling"/> | calling
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4b8.png" width="20" height="20" alt="money_with_wings"/> | money_with_wings
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4b3.png" width="20" height="20" alt="credit_card"/> | credit_card
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4b6.png" width="20" height="20" alt="euro"/> | euro
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4b7.png" width="20" height="20" alt="pound"/> | pound
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4b5.png" width="20" height="20" alt="dollar"/> | dollar
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4b4.png" width="20" height="20" alt="yen"/> | yen
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4b0.png" width="20" height="20" alt="moneybag"/> | moneybag
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f489.png" width="20" height="20" alt="syringe"/> | syringe
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f48a.png" width="20" height="20" alt="pill"/> | pill
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f52a.png" width="20" height="20" alt="hocho"/> | hocho, knife
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f52b.png" width="20" height="20" alt="gun"/> | gun
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4a3.png" width="20" height="20" alt="bomb"/> | bomb
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6ac.png" width="20" height="20" alt="smoking"/> | smoking
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6aa.png" width="20" height="20" alt="door"/> | door
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f528.png" width="20" height="20" alt="hammer"/> | hammer
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f529.png" width="20" height="20" alt="nut_and_bolt"/> | nut_and_bolt
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f527.png" width="20" height="20" alt="wrench"/> | wrench
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6bd.png" width="20" height="20" alt="toilet"/> | toilet
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6bf.png" width="20" height="20" alt="shower"/> | shower
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6c0.png" width="20" height="20" alt="bath"/> | bath
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6c1.png" width="20" height="20" alt="bathtub"/> | bathtub
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f50d.png" width="20" height="20" alt="mag"/> | mag
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f50b.png" width="20" height="20" alt="battery"/> | battery
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f50c.png" width="20" height="20" alt="electric_plug"/> | electric_plug
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f505.png" width="20" height="20" alt="low_brightness"/> | low_brightness
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f506.png" width="20" height="20" alt="high_brightness"/> | high_brightness
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f526.png" width="20" height="20" alt="flashlight"/> | flashlight
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4a1.png" width="20" height="20" alt="bulb"/> | bulb
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f50e.png" width="20" height="20" alt="mag_right"/> | mag_right
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f511.png" width="20" height="20" alt="key"/> | key
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f510.png" width="20" height="20" alt="closed_lock_with_key"/> | closed_lock_with_key
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f50f.png" width="20" height="20" alt="lock_with_ink_pen"/> | lock_with_ink_pen
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f512.png" width="20" height="20" alt="lock"/> | lock
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f513.png" width="20" height="20" alt="unlock"/> | unlock
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/231a.png" width="20" height="20" alt="watch"/> | watch
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/23f0.png" width="20" height="20" alt="alarm_clock"/> | alarm_clock
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/231b.png" width="20" height="20" alt="hourglass"/> | hourglass
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/23f3.png" width="20" height="20" alt="hourglass_flowing_sand"/> | hourglass_flowing_sand
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4e3.png" width="20" height="20" alt="mega"/> | mega
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4e2.png" width="20" height="20" alt="loudspeaker"/> | loudspeaker
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f515.png" width="20" height="20" alt="no_bell"/> | no_bell
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f514.png" width="20" height="20" alt="bell"/> | bell
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f507.png" width="20" height="20" alt="mute"/> | mute
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f508.png" width="20" height="20" alt="speaker"/> | speaker
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f509.png" width="20" height="20" alt="sound"/> | sound
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f50a.png" width="20" height="20" alt="loud_sound"/> | loud_sound
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4fb.png" width="20" height="20" alt="radio"/> | radio
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4fa.png" width="20" height="20" alt="tv"/> | tv
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4e1.png" width="20" height="20" alt="satellite"/> | satellite
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4e0.png" width="20" height="20" alt="fax"/> | fax
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4df.png" width="20" height="20" alt="pager"/> | pager
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4de.png" width="20" height="20" alt="telephone_receiver"/> | telephone_receiver
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/260e.png" width="20" height="20" alt="phone"/> | phone, telephone
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4f1.png" width="20" height="20" alt="iphone"/> | iphone
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4bb.png" width="20" height="20" alt="computer"/> | computer
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4be.png" width="20" height="20" alt="floppy_disk"/> | floppy_disk
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4bd.png" width="20" height="20" alt="minidisc"/> | minidisc
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4c0.png" width="20" height="20" alt="dvd"/> | dvd
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4bf.png" width="20" height="20" alt="cd"/> | cd
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4fc.png" width="20" height="20" alt="vhs"/> | vhs
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4f9.png" width="20" height="20" alt="video_camera"/> | video_camera
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4f7.png" width="20" height="20" alt="camera"/> | camera
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3a5.png" width="20" height="20" alt="movie_camera"/> | movie_camera
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f52e.png" width="20" height="20" alt="crystal_ball"/> | crystal_ball
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f38c.png" width="20" height="20" alt="crossed_flags"/> | crossed_flags
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f388.png" width="20" height="20" alt="balloon"/> | balloon
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f38a.png" width="20" height="20" alt="confetti_ball"/> | confetti_ball
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f389.png" width="20" height="20" alt="tada"/> | tada
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f38b.png" width="20" height="20" alt="tanabata_tree"/> | tanabata_tree
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f381.png" width="20" height="20" alt="gift"/> | gift
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f384.png" width="20" height="20" alt="christmas_tree"/> | christmas_tree
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f385.png" width="20" height="20" alt="santa"/> | santa
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f47b.png" width="20" height="20" alt="ghost"/> | ghost
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f383.png" width="20" height="20" alt="jack_o_lantern"/> | jack_o_lantern
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f391.png" width="20" height="20" alt="rice_scene"/> | rice_scene
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f390.png" width="20" height="20" alt="wind_chime"/> | wind_chime
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f387.png" width="20" height="20" alt="sparkler"/> | sparkler
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f386.png" width="20" height="20" alt="fireworks"/> | fireworks
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f38f.png" width="20" height="20" alt="flags"/> | flags
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f393.png" width="20" height="20" alt="mortar_board"/> | mortar_board
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f392.png" width="20" height="20" alt="school_satchel"/> | school_satchel
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f38e.png" width="20" height="20" alt="dolls"/> | dolls
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f49d.png" width="20" height="20" alt="gift_heart"/> | gift_heart
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f38d.png" width="20" height="20" alt="bamboo"/> | bamboo
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f30a.png" width="20" height="20" alt="ocean"/> | ocean
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f308.png" width="20" height="20" alt="rainbow"/> | rainbow
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f301.png" width="20" height="20" alt="foggy"/> | foggy
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f300.png" width="20" height="20" alt="cyclone"/> | cyclone
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/26c4.png" width="20" height="20" alt="snowman"/> | snowman
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2744.png" width="20" height="20" alt="snowflake"/> | snowflake
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2614.png" width="20" height="20" alt="umbrella"/> | umbrella
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/26a1.png" width="20" height="20" alt="zap"/> | zap
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2601.png" width="20" height="20" alt="cloud"/> | cloud
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/26c5.png" width="20" height="20" alt="partly_sunny"/> | partly_sunny
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2600.png" width="20" height="20" alt="sunny"/> | sunny
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2b50.png" width="20" height="20" alt="star"/> | star
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f320.png" width="20" height="20" alt="stars"/> | stars
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f30c.png" width="20" height="20" alt="milky_way"/> | milky_way
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f30b.png" width="20" height="20" alt="volcano"/> | volcano
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f30f.png" width="20" height="20" alt="earth_asia"/> | earth_asia
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f30e.png" width="20" height="20" alt="earth_americas"/> | earth_americas
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f30d.png" width="20" height="20" alt="earth_africa"/> | earth_africa
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f319.png" width="20" height="20" alt="crescent_moon"/> | crescent_moon
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f31b.png" width="20" height="20" alt="first_quarter_moon_with_face"/> | first_quarter_moon_with_face
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f31c.png" width="20" height="20" alt="last_quarter_moon_with_face"/> | last_quarter_moon_with_face
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f318.png" width="20" height="20" alt="waning_crescent_moon"/> | waning_crescent_moon
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f317.png" width="20" height="20" alt="last_quarter_moon"/> | last_quarter_moon
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f316.png" width="20" height="20" alt="waning_gibbous_moon"/> | waning_gibbous_moon
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f315.png" width="20" height="20" alt="full_moon"/> | full_moon
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f314.png" width="20" height="20" alt="moon"/> | moon, waxing_gibbous_moon
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f313.png" width="20" height="20" alt="first_quarter_moon"/> | first_quarter_moon
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f312.png" width="20" height="20" alt="waxing_crescent_moon"/> | waxing_crescent_moon
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f311.png" width="20" height="20" alt="new_moon"/> | new_moon
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f31a.png" width="20" height="20" alt="new_moon_with_face"/> | new_moon_with_face
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f31d.png" width="20" height="20" alt="full_moon_with_face"/> | full_moon_with_face
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f31e.png" width="20" height="20" alt="sun_with_face"/> | sun_with_face
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f310.png" width="20" height="20" alt="globe_with_meridians"/> | globe_with_meridians
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f33c.png" width="20" height="20" alt="blossom"/> | blossom
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f331.png" width="20" height="20" alt="seedling"/> | seedling
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f330.png" width="20" height="20" alt="chestnut"/> | chestnut
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f333.png" width="20" height="20" alt="deciduous_tree"/> | deciduous_tree
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f332.png" width="20" height="20" alt="evergreen_tree"/> | evergreen_tree
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f334.png" width="20" height="20" alt="palm_tree"/> | palm_tree
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f335.png" width="20" height="20" alt="cactus"/> | cactus
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f344.png" width="20" height="20" alt="mushroom"/> | mushroom
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f33e.png" width="20" height="20" alt="ear_of_rice"/> | ear_of_rice
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f33f.png" width="20" height="20" alt="herb"/> | herb
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f342.png" width="20" height="20" alt="fallen_leaf"/> | fallen_leaf
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f343.png" width="20" height="20" alt="leaves"/> | leaves
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f341.png" width="20" height="20" alt="maple_leaf"/> | maple_leaf
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f33a.png" width="20" height="20" alt="hibiscus"/> | hibiscus
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f33b.png" width="20" height="20" alt="sunflower"/> | sunflower
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f339.png" width="20" height="20" alt="rose"/> | rose
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f340.png" width="20" height="20" alt="four_leaf_clover"/> | four_leaf_clover
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f337.png" width="20" height="20" alt="tulip"/> | tulip
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f338.png" width="20" height="20" alt="cherry_blossom"/> | cherry_blossom
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f490.png" width="20" height="20" alt="bouquet"/> | bouquet
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f43e.png" width="20" height="20" alt="feet"/> | feet, paw_prints
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f429.png" width="20" height="20" alt="poodle"/> | poodle
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f408.png" width="20" height="20" alt="cat2"/> | cat2
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f406.png" width="20" height="20" alt="leopard"/> | leopard
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f42a.png" width="20" height="20" alt="dromedary_camel"/> | dromedary_camel
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f42b.png" width="20" height="20" alt="camel"/> | camel
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f40a.png" width="20" height="20" alt="crocodile"/> | crocodile
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f421.png" width="20" height="20" alt="blowfish"/> | blowfish
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f432.png" width="20" height="20" alt="dragon_face"/> | dragon_face
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f402.png" width="20" height="20" alt="ox"/> | ox
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f401.png" width="20" height="20" alt="mouse2"/> | mouse2
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f416.png" width="20" height="20" alt="pig2"/> | pig2
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f415.png" width="20" height="20" alt="dog2"/> | dog2
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f413.png" width="20" height="20" alt="rooster"/> | rooster
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f410.png" width="20" height="20" alt="goat"/> | goat
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f40e.png" width="20" height="20" alt="racehorse"/> | racehorse
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f409.png" width="20" height="20" alt="dragon"/> | dragon
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f407.png" width="20" height="20" alt="rabbit2"/> | rabbit2
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f405.png" width="20" height="20" alt="tiger2"/> | tiger2
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f403.png" width="20" height="20" alt="water_buffalo"/> | water_buffalo
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f400.png" width="20" height="20" alt="rat"/> | rat
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f40f.png" width="20" height="20" alt="ram"/> | ram
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f404.png" width="20" height="20" alt="cow2"/> | cow2
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f40b.png" width="20" height="20" alt="whale2"/> | whale2
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f433.png" width="20" height="20" alt="whale"/> | whale
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f42c.png" width="20" height="20" alt="dolphin"/> | dolphin, flipper
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f41f.png" width="20" height="20" alt="fish"/> | fish
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f420.png" width="20" height="20" alt="tropical_fish"/> | tropical_fish
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f41a.png" width="20" height="20" alt="shell"/> | shell
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f419.png" width="20" height="20" alt="octopus"/> | octopus
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f40c.png" width="20" height="20" alt="snail"/> | snail
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f41e.png" width="20" height="20" alt="beetle"/> | beetle
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f41c.png" width="20" height="20" alt="ant"/> | ant
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f41d.png" width="20" height="20" alt="bee"/> | bee, honeybee
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f41b.png" width="20" height="20" alt="bug"/> | bug
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f422.png" width="20" height="20" alt="turtle"/> | turtle
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f40d.png" width="20" height="20" alt="snake"/> | snake
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f414.png" width="20" height="20" alt="chicken"/> | chicken
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f423.png" width="20" height="20" alt="hatching_chick"/> | hatching_chick
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f425.png" width="20" height="20" alt="hatched_chick"/> | hatched_chick
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f424.png" width="20" height="20" alt="baby_chick"/> | baby_chick
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f426.png" width="20" height="20" alt="bird"/> | bird
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f427.png" width="20" height="20" alt="penguin"/> | penguin
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f43c.png" width="20" height="20" alt="panda_face"/> | panda_face
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f418.png" width="20" height="20" alt="elephant"/> | elephant
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f411.png" width="20" height="20" alt="sheep"/> | sheep
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f434.png" width="20" height="20" alt="horse"/> | horse
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f412.png" width="20" height="20" alt="monkey"/> | monkey
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f435.png" width="20" height="20" alt="monkey_face"/> | monkey_face
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f417.png" width="20" height="20" alt="boar"/> | boar
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f42e.png" width="20" height="20" alt="cow"/> | cow
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f43d.png" width="20" height="20" alt="pig_nose"/> | pig_nose
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f437.png" width="20" height="20" alt="pig"/> | pig
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f43b.png" width="20" height="20" alt="bear"/> | bear
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f428.png" width="20" height="20" alt="koala"/> | koala
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f42f.png" width="20" height="20" alt="tiger"/> | tiger
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f438.png" width="20" height="20" alt="frog"/> | frog
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f430.png" width="20" height="20" alt="rabbit"/> | rabbit
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f439.png" width="20" height="20" alt="hamster"/> | hamster
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f42d.png" width="20" height="20" alt="mouse"/> | mouse
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f431.png" width="20" height="20" alt="cat"/> | cat
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f43a.png" width="20" height="20" alt="wolf"/> | wolf
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f436.png" width="20" height="20" alt="dog"/> | dog
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4ad.png" width="20" height="20" alt="thought_balloon"/> | thought_balloon
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f463.png" width="20" height="20" alt="footprints"/> | footprints
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4ac.png" width="20" height="20" alt="speech_balloon"/> | speech_balloon
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f465.png" width="20" height="20" alt="busts_in_silhouette"/> | busts_in_silhouette
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f464.png" width="20" height="20" alt="bust_in_silhouette"/> | bust_in_silhouette
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f48e.png" width="20" height="20" alt="gem"/> | gem
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f48d.png" width="20" height="20" alt="ring"/> | ring
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f48b.png" width="20" height="20" alt="kiss"/> | kiss
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f48c.png" width="20" height="20" alt="love_letter"/> | love_letter
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f498.png" width="20" height="20" alt="cupid"/> | cupid
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f49e.png" width="20" height="20" alt="revolving_hearts"/> | revolving_hearts
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f496.png" width="20" height="20" alt="sparkling_heart"/> | sparkling_heart
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f495.png" width="20" height="20" alt="two_hearts"/> | two_hearts
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f493.png" width="20" height="20" alt="heartbeat"/> | heartbeat
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f497.png" width="20" height="20" alt="heartpulse"/> | heartpulse
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f494.png" width="20" height="20" alt="broken_heart"/> | broken_heart
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2764.png" width="20" height="20" alt="heart"/> | heart
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f49a.png" width="20" height="20" alt="green_heart"/> | green_heart
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f49c.png" width="20" height="20" alt="purple_heart"/> | purple_heart
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f499.png" width="20" height="20" alt="blue_heart"/> | blue_heart
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f49b.png" width="20" height="20" alt="yellow_heart"/> | yellow_heart
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f484.png" width="20" height="20" alt="lipstick"/> | lipstick
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f302.png" width="20" height="20" alt="closed_umbrella"/> | closed_umbrella
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f380.png" width="20" height="20" alt="ribbon"/> | ribbon
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f453.png" width="20" height="20" alt="eyeglasses"/> | eyeglasses
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f45b.png" width="20" height="20" alt="purse"/> | purse
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f45d.png" width="20" height="20" alt="pouch"/> | pouch
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f45c.png" width="20" height="20" alt="handbag"/> | handbag
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4bc.png" width="20" height="20" alt="briefcase"/> | briefcase
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f459.png" width="20" height="20" alt="bikini"/> | bikini
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f458.png" width="20" height="20" alt="kimono"/> | kimono
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f456.png" width="20" height="20" alt="jeans"/> | jeans
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3bd.png" width="20" height="20" alt="running_shirt_with_sash"/> | running_shirt_with_sash
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f457.png" width="20" height="20" alt="dress"/> | dress
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f45a.png" width="20" height="20" alt="womans_clothes"/> | womans_clothes
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f454.png" width="20" height="20" alt="necktie"/> | necktie
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f455.png" width="20" height="20" alt="shirt"/> | shirt, tshirt
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f462.png" width="20" height="20" alt="boot"/> | boot
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f460.png" width="20" height="20" alt="high_heel"/> | high_heel
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f461.png" width="20" height="20" alt="sandal"/> | sandal
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f45e.png" width="20" height="20" alt="mans_shoe"/> | mans_shoe, shoe
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f45f.png" width="20" height="20" alt="athletic_shoe"/> | athletic_shoe
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f452.png" width="20" height="20" alt="womans_hat"/> | womans_hat
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f451.png" width="20" height="20" alt="crown"/> | crown
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3a9.png" width="20" height="20" alt="tophat"/> | tophat
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f647.png" width="20" height="20" alt="bow"/> | bow
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f64d.png" width="20" height="20" alt="person_frowning"/> | person_frowning
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f64e.png" width="20" height="20" alt="person_with_pouting_face"/> | person_with_pouting_face
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f470.png" width="20" height="20" alt="bride_with_veil"/> | bride_with_veil
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f485.png" width="20" height="20" alt="nail_care"/> | nail_care
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f487.png" width="20" height="20" alt="haircut"/> | haircut
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f486.png" width="20" height="20" alt="massage"/> | massage
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f64b.png" width="20" height="20" alt="raising_hand"/> | raising_hand
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f481.png" width="20" height="20" alt="information_desk_person"/> | information_desk_person
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f645.png" width="20" height="20" alt="no_good"/> | no_good
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f646.png" width="20" height="20" alt="ok_woman"/> | ok_woman
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f46f.png" width="20" height="20" alt="dancers"/> | dancers
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f491.png" width="20" height="20" alt="couple_with_heart"/> | couple_with_heart
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f48f.png" width="20" height="20" alt="couplekiss"/> | couplekiss
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f46d.png" width="20" height="20" alt="two_women_holding_hands"/> | two_women_holding_hands
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f46c.png" width="20" height="20" alt="two_men_holding_hands"/> | two_men_holding_hands
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f46a.png" width="20" height="20" alt="family"/> | family
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f46b.png" width="20" height="20" alt="couple"/> | couple
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f483.png" width="20" height="20" alt="dancer"/> | dancer
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f3c3.png" width="20" height="20" alt="runner"/> | runner, running
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f6b6.png" width="20" height="20" alt="walking"/> | walking
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4aa.png" width="20" height="20" alt="muscle"/> | muscle
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f44f.png" width="20" height="20" alt="clap"/> | clap
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/261d.png" width="20" height="20" alt="point_up"/> | point_up
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f64f.png" width="20" height="20" alt="pray"/> | pray
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f64c.png" width="20" height="20" alt="raised_hands"/> | raised_hands
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f448.png" width="20" height="20" alt="point_left"/> | point_left
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f449.png" width="20" height="20" alt="point_right"/> | point_right
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f447.png" width="20" height="20" alt="point_down"/> | point_down
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f446.png" width="20" height="20" alt="point_up_2"/> | point_up_2
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f450.png" width="20" height="20" alt="open_hands"/> | open_hands
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/270b.png" width="20" height="20" alt="hand"/> | hand, raised_hand
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f44b.png" width="20" height="20" alt="wave"/> | wave
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/270c.png" width="20" height="20" alt="v"/> | v
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/270a.png" width="20" height="20" alt="fist"/> | fist
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f44a.png" width="20" height="20" alt="facepunch"/> | facepunch, punch
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f44c.png" width="20" height="20" alt="ok_hand"/> | ok_hand
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f44e.png" width="20" height="20" alt="-1"/> | -1, thumbsdown
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f44d.png" width="20" height="20" alt="+1"/> | +1, thumbsup
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f444.png" width="20" height="20" alt="lips"/> | lips
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f445.png" width="20" height="20" alt="tongue"/> | tongue
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f443.png" width="20" height="20" alt="nose"/> | nose
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f440.png" width="20" height="20" alt="eyes"/> | eyes
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f442.png" width="20" height="20" alt="ear"/> | ear
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4a8.png" width="20" height="20" alt="dash"/> | dash
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4a4.png" width="20" height="20" alt="zzz"/> | zzz
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4a7.png" width="20" height="20" alt="droplet"/> | droplet
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4a6.png" width="20" height="20" alt="sweat_drops"/> | sweat_drops
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4a2.png" width="20" height="20" alt="anger"/> | anger
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4a5.png" width="20" height="20" alt="boom"/> | boom, collision
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4ab.png" width="20" height="20" alt="dizzy"/> | dizzy
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f31f.png" width="20" height="20" alt="star2"/> | star2
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/2728.png" width="20" height="20" alt="sparkles"/> | sparkles
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f525.png" width="20" height="20" alt="fire"/> | fire
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f4a9.png" width="20" height="20" alt="hankey"/> | hankey, poop, shit
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f47d.png" width="20" height="20" alt="alien"/> | alien
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f480.png" width="20" height="20" alt="skull"/> | skull
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f64a.png" width="20" height="20" alt="speak_no_evil"/> | speak_no_evil
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f649.png" width="20" height="20" alt="hear_no_evil"/> | hear_no_evil
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f648.png" width="20" height="20" alt="see_no_evil"/> | see_no_evil
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f47a.png" width="20" height="20" alt="japanese_goblin"/> | japanese_goblin
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f479.png" width="20" height="20" alt="japanese_ogre"/> | japanese_ogre
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f63e.png" width="20" height="20" alt="pouting_cat"/> | pouting_cat
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f639.png" width="20" height="20" alt="joy_cat"/> | joy_cat
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f63f.png" width="20" height="20" alt="crying_cat_face"/> | crying_cat_face
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f640.png" width="20" height="20" alt="scream_cat"/> | scream_cat
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f63c.png" width="20" height="20" alt="smirk_cat"/> | smirk_cat
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f63d.png" width="20" height="20" alt="kissing_cat"/> | kissing_cat
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f63b.png" width="20" height="20" alt="heart_eyes_cat"/> | heart_eyes_cat
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f638.png" width="20" height="20" alt="smile_cat"/> | smile_cat
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f63a.png" width="20" height="20" alt="smiley_cat"/> | smiley_cat
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f478.png" width="20" height="20" alt="princess"/> | princess
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f47c.png" width="20" height="20" alt="angel"/> | angel
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f471.png" width="20" height="20" alt="person_with_blond_hair"/> | person_with_blond_hair
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f475.png" width="20" height="20" alt="older_woman"/> | older_woman
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f474.png" width="20" height="20" alt="older_man"/> | older_man
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f469.png" width="20" height="20" alt="woman"/> | woman
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f468.png" width="20" height="20" alt="man"/> | man
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f467.png" width="20" height="20" alt="girl"/> | girl
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f466.png" width="20" height="20" alt="boy"/> | boy
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f476.png" width="20" height="20" alt="baby"/> | baby
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f482.png" width="20" height="20" alt="guardsman"/> | guardsman
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f477.png" width="20" height="20" alt="construction_worker"/> | construction_worker
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f46e.png" width="20" height="20" alt="cop"/> | cop
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f473.png" width="20" height="20" alt="man_with_turban"/> | man_with_turban
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f472.png" width="20" height="20" alt="man_with_gua_pi_mao"/> | man_with_gua_pi_mao
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f611.png" width="20" height="20" alt="expressionless"/> | expressionless
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f60f.png" width="20" height="20" alt="smirk"/> | smirk
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f607.png" width="20" height="20" alt="innocent"/> | innocent
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f636.png" width="20" height="20" alt="no_mouth"/> | no_mouth
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f62f.png" width="20" height="20" alt="hushed"/> | hushed
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f615.png" width="20" height="20" alt="confused"/> | confused
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f610.png" width="20" height="20" alt="neutral_face"/> | neutral_face
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f62c.png" width="20" height="20" alt="grimacing"/> | grimacing
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f62e.png" width="20" height="20" alt="open_mouth"/> | open_mouth
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f47f.png" width="20" height="20" alt="imp"/> | imp
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f608.png" width="20" height="20" alt="smiling_imp"/> | smiling_imp
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f627.png" width="20" height="20" alt="anguished"/> | anguished
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f626.png" width="20" height="20" alt="frowning"/> | frowning
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f61f.png" width="20" height="20" alt="worried"/> | worried
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f632.png" width="20" height="20" alt="astonished"/> | astonished
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f635.png" width="20" height="20" alt="dizzy_face"/> | dizzy_face
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f634.png" width="20" height="20" alt="sleeping"/> | sleeping
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f60e.png" width="20" height="20" alt="sunglasses"/> | sunglasses
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f637.png" width="20" height="20" alt="mask"/> | mask
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f60b.png" width="20" height="20" alt="yum"/> | yum
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f606.png" width="20" height="20" alt="laughing"/> | laughing, satisfied
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f616.png" width="20" height="20" alt="confounded"/> | confounded
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f624.png" width="20" height="20" alt="triumph"/> | triumph
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f621.png" width="20" height="20" alt="rage"/> | rage
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f620.png" width="20" height="20" alt="angry"/> | angry
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f631.png" width="20" height="20" alt="scream"/> | scream
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f628.png" width="20" height="20" alt="fearful"/> | fearful
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f62b.png" width="20" height="20" alt="tired_face"/> | tired_face
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f629.png" width="20" height="20" alt="weary"/> | weary
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f613.png" width="20" height="20" alt="sweat"/> | sweat
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f605.png" width="20" height="20" alt="sweat_smile"/> | sweat_smile
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f630.png" width="20" height="20" alt="cold_sweat"/> | cold_sweat
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f625.png" width="20" height="20" alt="disappointed_relieved"/> | disappointed_relieved
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f62a.png" width="20" height="20" alt="sleepy"/> | sleepy
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f62d.png" width="20" height="20" alt="sob"/> | sob
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f602.png" width="20" height="20" alt="joy"/> | joy
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f622.png" width="20" height="20" alt="cry"/> | cry
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f623.png" width="20" height="20" alt="persevere"/> | persevere
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f61e.png" width="20" height="20" alt="disappointed"/> | disappointed
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f612.png" width="20" height="20" alt="unamused"/> | unamused
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f60c.png" width="20" height="20" alt="relieved"/> | relieved
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f614.png" width="20" height="20" alt="pensive"/> | pensive
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f601.png" width="20" height="20" alt="grin"/> | grin
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f633.png" width="20" height="20" alt="flushed"/> | flushed
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f61b.png" width="20" height="20" alt="stuck_out_tongue"/> | stuck_out_tongue
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f61d.png" width="20" height="20" alt="stuck_out_tongue_closed_eyes"/> | stuck_out_tongue_closed_eyes
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f61c.png" width="20" height="20" alt="stuck_out_tongue_winking_eye"/> | stuck_out_tongue_winking_eye
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f619.png" width="20" height="20" alt="kissing_smiling_eyes"/> | kissing_smiling_eyes
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f617.png" width="20" height="20" alt="kissing"/> | kissing
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f61a.png" width="20" height="20" alt="kissing_closed_eyes"/> | kissing_closed_eyes
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f618.png" width="20" height="20" alt="kissing_heart"/> | kissing_heart
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f60d.png" width="20" height="20" alt="heart_eyes"/> | heart_eyes
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f609.png" width="20" height="20" alt="wink"/> | wink
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/263a.png" width="20" height="20" alt="relaxed"/> | relaxed
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f60a.png" width="20" height="20" alt="blush"/> | blush
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f600.png" width="20" height="20" alt="grinning"/> | grinning
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f603.png" width="20" height="20" alt="smiley"/> | smiley
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f604.png" width="20" height="20" alt="smile"/> | smile
 
 ## Contribute
 

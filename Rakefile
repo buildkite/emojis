@@ -16,7 +16,7 @@ task :default do
   rows = []
   Emoji.all.each do |emoji|
     rows << [
-      "![#{emoji.name}](https://raw.githubusercontent.com/buildkite/emojis/master/images/#{emoji.image_filename})",
+      %{<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/#{emoji.image_filename}" width="20" height="20" alt="#{emoji.name}"/>},
       [ emoji.name, emoji.aliases ].flatten.compact.uniq.join(", ")
     ]
   end
