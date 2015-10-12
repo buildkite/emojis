@@ -1,0 +1,11 @@
+GEM
+  specs:
+    gemoji (2.1.0)
+    terminal-table (1.5.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  gemoji
+  terminal-table
