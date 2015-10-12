@@ -14,13 +14,15 @@ task :default do
   end
 
   rows = []
-
   Emoji.all.each do |emoji|
     rows << [
       "![#{emoji.name}](https://raw.githubusercontent.com/buildkite/emojis/master/images/#{emoji.image_filename})",
       [ emoji.name, emoji.aliases ].flatten.compact.uniq.join(", ")
     ]
   end
+
+  # Reverse the rows so the latest emojis show up first
+  rows = rows.reverse
 
   puts "Emoji | Aliases"
   puts "----- | -------"
