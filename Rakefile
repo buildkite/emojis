@@ -22,5 +22,9 @@ task :default do
     ]
   end
 
-  puts Terminal::Table.new(rows: rows, headings: [ "Emoji", "Aliases" ])
+  puts "Emoji | Aliases"
+  puts "----- | -------"
+  rows.each do |cols|
+    puts cols.join(" | ")
+  end
 end
