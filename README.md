@@ -2,6 +2,18 @@
 
 Custom emojis supported by [Buildkite](https://buildkite.com/) which you can use in your build pipelines and terminal output. These are in the addition to the built-in [gemoji](https://github.com/github/gemoji) emojis.
 
+## Contribute
+
+To contribute a new custom emoji simply:
+
+* Fork this repo
+* Add the image to the `images` directory
+* Add it to the JSON
+* Add it to the top of the table in this markdown file
+* Send a pull request
+
+## Emojis
+
 Emoji | Aliases
 ----- | -------
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/cucumber.png" width="20" height="20" alt="cucumber"/> | cucumber
@@ -905,15 +917,8 @@ Emoji | Aliases
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f603.png" width="20" height="20" alt="smiley"/> | smiley
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f604.png" width="20" height="20" alt="smile"/> | smile
 
-## Contribute
-
-To contribute a new custom emoji simply:
-
-* Fork this repo
-* Add the image to the `images` directory
-* Add it to the JSON
-* Send a pull request
-
 ## License
 
-See [LICENSE.md](LICENSE.md) (MIT)
+Gemoji is licenced MIT. See their [LICENSE](https://github.com/github/gemoji/blob/master/LICENSE) for more information.
+
+Each logo is owned by their respective creators.
