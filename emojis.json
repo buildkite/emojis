@@ -40,5 +40,6 @@
   "llama": true,
   "npm": true,
   "eslint": true,
-  "cucumber": true
+  "cucumber": true,
+  "knapsack": true
 }

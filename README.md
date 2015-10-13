@@ -16,6 +16,7 @@ To contribute a new custom emoji simply:
 
 Emoji | Aliases
 ----- | -------
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/knapsack.png" width="20" height="20" alt="knapsack"/> | knapsack
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/cucumber.png" width="20" height="20" alt="cucumber"/> | cucumber
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/eslint.png" width="20" height="20" alt="eslint"/> | eslint
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/npm.png" width="20" height="20" alt="npm"/> | npm
