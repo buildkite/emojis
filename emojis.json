@@ -17,7 +17,7 @@
   "ubuntu": true,
   "windows": true,
   "linux": true,
-  "mac": true,
+  "mac": ["darwin"],
   "datadog": true,
   "finder": true,
   "ubuntu": true,
