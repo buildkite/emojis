@@ -41,5 +41,6 @@
   "npm": true,
   "eslint": true,
   "cucumber": true,
-  "knapsack": true
+  "knapsack": true,
+  "freebsd": true
 }
