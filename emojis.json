@@ -42,5 +42,6 @@
   "eslint": true,
   "cucumber": true,
   "knapsack": true,
-  "freebsd": true
+  "freebsd": true,
+  "taco": true
 }
