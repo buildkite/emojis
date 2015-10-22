@@ -43,5 +43,6 @@
   "cucumber": true,
   "knapsack": true,
   "freebsd": true,
-  "taco": true
+  "taco": true,
+  "codecov": true
 }
