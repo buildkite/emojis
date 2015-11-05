@@ -44,5 +44,16 @@
   "knapsack": true,
   "freebsd": true,
   "taco": true,
-  "codecov": true
+  "codecov": true,
+  "cloudformation": true,
+  "codedeploy": true,
+  "codepipeline": true,
+  "ec2": true,
+  "lambda": true,
+  "s3": true,
+  "elasticbeanstalk": true,
+  "route53": true,
+  "googlecloud": ["gcloud"],
+  "appengine": ["gappengine"],
+  "compute": ["gcompute"]
 }
