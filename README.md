@@ -16,6 +16,17 @@ To contribute a new custom emoji simply:
 
 Emoji | Aliases
 ----- | -------
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/compute.png" width="20" height="20" alt="compute"/> | compute, gcompute
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/appengine.png" width="20" height="20" alt="appengine"/> | appengine, gappengine
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/googlecloud.png" width="20" height="20" alt="googlecloud"/> | googlecloud, gcloud
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/route53.png" width="20" height="20" alt="route53"/> | route53
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/elasticbeanstalk.png" width="20" height="20" alt="elasticbeanstalk"/> | elasticbeanstalk
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/s3.png" width="20" height="20" alt="s3"/> | s3
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/lambda.png" width="20" height="20" alt="lambda"/> | lambda
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/ec2.png" width="20" height="20" alt="ec2"/> | ec2
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/codepipeline.png" width="20" height="20" alt="codepipeline"/> | codepipeline
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/codedeploy.png" width="20" height="20" alt="codedeploy"/> | codedeploy
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/cloudformation.png" width="20" height="20" alt="cloudformation"/> | cloudformation
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/codecov.png" width="20" height="20" alt="codecov"/> | codecov
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/taco.png" width="20" height="20" alt="taco"/> | taco
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/freebsd.png" width="20" height="20" alt="freebsd"/> | freebsd
@@ -39,7 +50,7 @@ Emoji | Aliases
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/docker.png" width="20" height="20" alt="docker"/> | docker
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/mysql.png" width="20" height="20" alt="mysql"/> | mysql
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/datadog.png" width="20" height="20" alt="datadog"/> | datadog
-<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/mac.png" width="20" height="20" alt="mac"/> | mac
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/mac.png" width="20" height="20" alt="mac"/> | mac, darwin
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/linux.png" width="20" height="20" alt="linux"/> | linux
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/windows.png" width="20" height="20" alt="windows"/> | windows
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/ubuntu.png" width="20" height="20" alt="ubuntu"/> | ubuntu
