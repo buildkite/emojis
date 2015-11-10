@@ -55,5 +55,7 @@
   "route53": true,
   "googlecloud": ["gcloud"],
   "appengine": ["gappengine"],
-  "compute": ["gcompute"]
+  "compute": ["gcompute"],
+  "red_button": true,
+  "green_button": true
 }
