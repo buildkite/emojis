@@ -57,5 +57,6 @@
   "appengine": ["gappengine"],
   "compute": ["gcompute"],
   "red_button": true,
-  "green_button": true
+  "green_button": true,
+  "webpack": true
 }
