@@ -58,5 +58,6 @@
   "compute": ["gcompute"],
   "red_button": [],
   "green_button": [],
-  "webpack": []
+  "webpack": [],
+  "allthethings": []
 }
