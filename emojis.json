@@ -1,4 +1,5 @@
 {
+  "nginx": [],
   "redhat": ["rhel", "enterprise_linux"],
   "terminal": ["console"],
   "packagecloud": ["package_cloud"],
