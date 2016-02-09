@@ -1,4 +1,5 @@
 {
+  "pipeline": ["pipeline_upload"],
   "nginx": [],
   "redhat": ["rhel", "enterprise_linux"],
   "terminal": ["console"],
