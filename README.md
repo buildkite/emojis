@@ -937,6 +937,15 @@ Emoji | Aliases
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f600.png" width="20" height="20" alt="grinning"/> | grinning
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f603.png" width="20" height="20" alt="smiley"/> | smiley
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/unicode/1f604.png" width="20" height="20" alt="smile"/> | smile
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/aussieparrot.png" width="20" height="20" alt="aussieparrot"/> | aussieparrot
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/boredparrot.png" width="20" height="20" alt="boredparrot"/> | boredparrot
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/gothparrot.png" width="20" height="20" alt="gothparrot"/> | gothparrot
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/middleparrot.png" width="20" height="20" alt="middleparrot"/> | middleparrot
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/oldtimeyparrot.png" width="20" height="20" alt="oldtimeyparrot"/> | oldtimeyparrot
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/parrot.png" width="20" height="20" alt="parrot"/> | parrot
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/rightparrot.png" width="20" height="20" alt="rightparrot"/> | rightparrot
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/shufflefurtherparrot.png" width="20" height="20" alt="shufflefurtherparrot"/> | shufflefurtherparrot
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/shuffleparrot.png" width="20" height="20" alt="shuffleparrot"/> | shuffleparrot
 
 ## License
 
