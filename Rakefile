@@ -1,3 +1,9 @@
+# Generates a table to be copy and pasted into the readme when emojis are updated
+#
+# To run via Docker:
+# 
+#   docker run -it --rm -v "$(pwd)":/src ruby bash -c "cd /src && bundle install && rake"
+
 require 'bundler/setup'
 require 'json'
 

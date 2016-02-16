@@ -16,6 +16,9 @@ To contribute a new custom emoji simply:
 
 Emoji | Aliases
 ----- | -------
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/pipeline.png" width="20" height="20" alt="pipeline"/> | pipeline, pipeline_upload
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/nginx.png" width="20" height="20" alt="nginx"/> | nginx
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/allthethings.png" width="20" height="20" alt="allthethings"/> | allthethings
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/webpack.png" width="20" height="20" alt="webpack"/> | webpack
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/green_button.png" width="20" height="20" alt="green_button"/> | green_button
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/images/red_button.png" width="20" height="20" alt="red_button"/> | red_button
