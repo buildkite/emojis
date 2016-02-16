@@ -1,0 +1,3 @@
+steps:
+  - name: ":shipit:"
+    command: "bundle exec rake deploy"
