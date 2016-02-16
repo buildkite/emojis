@@ -577,14 +577,6 @@
     ]
   },
   {
-    "name": "taco",
-    "image": "img-buildkite-64/taco.png",
-    "category": "Buildkite",
-    "aliases": [
-
-    ]
-  },
-  {
     "name": "terminal",
     "image": "img-buildkite-64/terminal.png",
     "category": "Buildkite",
