@@ -1,5 +1,13 @@
 [
   {
+    "name": "pipeline",
+    "image": "img-buildkite-64/pipeline.png",
+    "category": "Buildkite",
+    "aliases": [
+      "pipeline_upload"
+    ]
+  },
+  {
     "name": "allthethings",
     "image": "img-buildkite-64/allthethings.png",
     "category": "Buildkite",
