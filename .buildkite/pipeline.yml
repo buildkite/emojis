@@ -1,5 +1,5 @@
 steps:
   - name: ":shipit:"
-    command: "bundle exec rake deploy"
+    command: ".buildkite/deploy.sh"
     agents:
       queue: "deploy"
