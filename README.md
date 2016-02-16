@@ -1,6 +1,6 @@
 # :heart::purple_heart::blue_heart::green_heart::yellow_heart: Buildkite Emojis :yellow_heart::green_heart::blue_heart::purple_heart::heart:
 
-Custom emojis supported by [Buildkite](https://buildkite.com/) which you can use in your build pipelines and terminal output. These are in the addition to the built-in [gemoji](https://github.com/github/gemoji) emojis.
+Custom emojis supported by [Buildkite](https://buildkite.com/) which you can use in your build pipelines and terminal output.
 
 ## Contribute
 
