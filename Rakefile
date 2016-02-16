@@ -70,7 +70,3 @@ task :generate do
 
   puts JSON.pretty_generate(new)
 end
-
-task :deploy do
-  puts "I will deploy!"
-end
