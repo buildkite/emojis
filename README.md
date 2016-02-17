@@ -88,7 +88,6 @@ Emoji | Aliases
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/scientific_linux.png" width="20" height="20" alt="scientific_linux"/> | scientific_linux
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/shipit.png" width="20" height="20" alt="shipit"/> | shipit
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/suspect.png" width="20" height="20" alt="suspect"/> | suspect
-<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/taco.png" width="20" height="20" alt="taco"/> | taco
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/terminal.png" width="20" height="20" alt="terminal"/> | terminal, console
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/trollface.png" width="20" height="20" alt="trollface"/> | trollface, troll
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/ubuntu.png" width="20" height="20" alt="ubuntu"/> | ubuntu
