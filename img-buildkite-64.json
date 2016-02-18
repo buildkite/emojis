@@ -1,5 +1,13 @@
 [
   {
+    "name": "babel",
+    "image": "img-buildkite-64/babel.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "pipeline",
     "image": "img-buildkite-64/pipeline.png",
     "category": "Buildkite",
