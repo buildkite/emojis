@@ -29,6 +29,7 @@ Emoji | Aliases
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/buildkite.png" width="20" height="20" alt="buildkite"/> | buildkite
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/bundler.png" width="20" height="20" alt="bundler"/> | bundler
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/calibre.png" width="20" height="20" alt="calibre"/> | calibre
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/capistrano.png" width="20" height="20" alt="capistrano"/> | capistrano, cap
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/centos.png" width="20" height="20" alt="centos"/> | centos
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/cloudformation.png" width="20" height="20" alt="cloudformation"/> | cloudformation
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/codecov.png" width="20" height="20" alt="codecov"/> | codecov

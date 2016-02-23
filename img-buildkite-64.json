@@ -104,6 +104,14 @@
     ]
   },
   {
+    "name": "capistrano",
+    "image": "img-buildkite-64/capistrano.png",
+    "category": "Buildkite",
+    "aliases": [
+      "cap"
+    ]
+  },
+  {
     "name": "centos",
     "image": "img-buildkite-64/centos.png",
     "category": "Buildkite",
