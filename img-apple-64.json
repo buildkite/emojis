@@ -11054,7 +11054,7 @@
   },
   {
     "name": "left_speech_bubble",
-    "category": null,
+    "category": "Symbols",
     "image": "img-apple-64/1f5e8.png",
     "unicode": "1F5E8",
     "aliases": [
@@ -13694,7 +13694,7 @@
   },
   {
     "name": "keycap_star",
-    "category": null,
+    "category": "Symbols",
     "image": "img-apple-64/002a-20e3.png",
     "unicode": "002A-20E3",
     "aliases": [

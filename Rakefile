@@ -13,21 +13,49 @@ task :default do
     emojis.concat JSON.parse(File.read(catalogue)).reverse
   end
 
-  rows = []
+  groups = {}
+
   emojis.each do |emoji|
-    rows << [
+    category = emoji['category']
+
+    next if emoji['name'] =~ /skin-tone/
+    raise "No category for emoji: #{emoji.inspect}" if category.nil?
+
+    groups[category] ||= []
+    groups[category] << [
       %{<img src="https://raw.githubusercontent.com/buildkite/emojis/master/#{emoji['image']}" width="20" height="20" alt="#{emoji['name']}"/>},
-      [ emoji['name'], emoji['aliases'] ].flatten.compact.uniq.join(", ")
+      [ emoji['name'], emoji['aliases'] ].flatten.compact.uniq.map{|s| "`:#{s}:`" }.join(", ")
     ]
+
+    if emoji['modifiers'] && emoji['modifiers'].length > 0
+      emoji['modifiers'].each do |modifier|
+        groups[category] << [
+          %{<img src="https://raw.githubusercontent.com/buildkite/emojis/master/#{modifier['image']}" width="20" height="20" alt="#{emoji['name']}"/>},
+          "`:#{emoji['name']}::#{modifier['name']}:`"
+        ]
+      end
+    end
   end
 
-  # Reverse the rows so the latest emojis show up first
-  rows = rows.reverse
+  order = ["Buildkite", "People", "Nature", "Foods", "Activity", "Places", "Objects", "Symbols", "Flags"]
 
-  puts "Emoji | Aliases"
-  puts "----- | -------"
-  rows.each do |cols|
-    puts cols.join(" | ")
+  order.each do |name|
+    rows = groups.delete(name)
+
+    # Reverse the order of the BK group so the latest emojis get added to the top
+    rows = rows.reverse if name == "Buildkite"
+
+    puts "## #{name}\n\n"
+    puts "Emoji | Aliases"
+    puts "----- | -------"
+    rows.each do |cols|
+      puts cols.join(" | ")
+    end
+    puts "\n"
+  end
+
+  if groups.keys.length > 0
+    raise "Now all groups were shown: `#{group.keys.inspect}`"
   end
 end
 
