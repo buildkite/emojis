@@ -1,5 +1,11 @@
 [
   {
+    "name": "packer",
+    "image": "img-buildkite-64/packer.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "babel",
     "image": "img-buildkite-64/babel.png",
     "category": "Buildkite",
