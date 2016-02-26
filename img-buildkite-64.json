@@ -428,7 +428,8 @@
     "image": "img-buildkite-64/node.png",
     "category": "Buildkite",
     "aliases": [
-      "node_js"
+      "node_js",
+      "nodejs"
     ]
   },
   {
