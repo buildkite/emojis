@@ -69,7 +69,7 @@ Emoji | Aliases
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/neckbeard.png" width="20" height="20" alt="neckbeard"/> | `:neckbeard:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/newrelic.png" width="20" height="20" alt="newrelic"/> | `:newrelic:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/nginx.png" width="20" height="20" alt="nginx"/> | `:nginx:`
-<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/node.png" width="20" height="20" alt="node"/> | `:node:`, `:node_js:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/node.png" width="20" height="20" alt="node"/> | `:node:`, `:node_js:`, `:nodejs:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/npm.png" width="20" height="20" alt="npm"/> | `:npm:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/octocat.png" width="20" height="20" alt="octocat"/> | `:octocat:`, `:github:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/oracle_linux.png" width="20" height="20" alt="oracle_linux"/> | `:oracle_linux:`
