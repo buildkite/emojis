@@ -64,6 +64,14 @@
     ]
   },
   {
+    "name": "bower",
+    "image": "img-buildkite-64/bower.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "bowtie",
     "image": "img-buildkite-64/bowtie.png",
     "category": "Buildkite",
@@ -338,6 +346,14 @@
   {
     "name": "json",
     "image": "img-buildkite-64/json.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
+    "name": "karma",
+    "image": "img-buildkite-64/karma.png",
     "category": "Buildkite",
     "aliases": [
 
