@@ -59,6 +59,7 @@ Emoji | Aliases
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/heroku.png" width="20" height="20" alt="heroku"/> | `:heroku:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/hurtrealbad.png" width="20" height="20" alt="hurtrealbad"/> | `:hurtrealbad:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/json.png" width="20" height="20" alt="json"/> | `:json:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/karma.png" width="20" height="20" alt="karma"/> | `:karma:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/knapsack.png" width="20" height="20" alt="knapsack"/> | `:knapsack:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/lambda.png" width="20" height="20" alt="lambda"/> | `:lambda:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/linux.png" width="20" height="20" alt="linux"/> | `:linux:`
