@@ -344,6 +344,14 @@
     ]
   },
   {
+    "name": "karma",
+    "image": "img-buildkite-64/karma.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "knapsack",
     "image": "img-buildkite-64/knapsack.png",
     "category": "Buildkite",
