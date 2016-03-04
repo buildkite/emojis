@@ -64,6 +64,14 @@
     ]
   },
   {
+    "name": "bower",
+    "image": "img-buildkite-64/bower.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "bowtie",
     "image": "img-buildkite-64/bowtie.png",
     "category": "Buildkite",
