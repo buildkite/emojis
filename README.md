@@ -16,6 +16,7 @@ To contribute a new custom emoji simply:
 
 Emoji | Aliases
 ----- | -------
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/quay.png" width="20" height="20" alt="quay"/> | `:quay:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/bower.png" width="20" height="20" alt="bower"/> | `:bower:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/packer.png" width="20" height="20" alt="packer"/> | `:packer:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/babel.png" width="20" height="20" alt="babel"/> | `:babel:`

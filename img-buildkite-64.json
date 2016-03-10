@@ -656,5 +656,13 @@
     "aliases": [
 
     ]
+  },
+  {
+    "name": "quay",
+    "image": "img-buildkite-64/quay.png",
+    "category": "Buildkite",
+    "aliases": [
+      "quay.io"
+    ]
   }
 ]
