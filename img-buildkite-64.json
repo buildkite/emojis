@@ -1,5 +1,21 @@
 [
   {
+    "name": "javascript",
+    "image": "img-buildkite-64/javascript.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
+    "name": "git",
+    "image": "img-buildkite-64/git.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "packer",
     "image": "img-buildkite-64/packer.png",
     "category": "Buildkite",
