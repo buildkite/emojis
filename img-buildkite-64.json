@@ -1,5 +1,13 @@
 [
   {
+    "name": "terraform",
+    "image": "img-buildkite-64/terraform.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "javascript",
     "image": "img-buildkite-64/javascript.png",
     "category": "Buildkite",
