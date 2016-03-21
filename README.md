@@ -16,6 +16,7 @@ To contribute a new custom emoji simply:
 
 Emoji | Aliases
 ----- | -------
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/rails.png" width="20" height="20" alt="rails"/> | `:rails:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/jasmine.png" width="20" height="20" alt="jasmine"/> | `:jasmine:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/react.png" width="20" height="20" alt="react"/> | `:react:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/terraform.png" width="20" height="20" alt="terraform"/> | `:terraform:`
