@@ -1,5 +1,13 @@
 [
   {
+    "name": "jasmine",
+    "image": "img-buildkite-64/jasmine.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "react",
     "image": "img-buildkite-64/react.png",
     "category": "Buildkite",
