@@ -1,5 +1,13 @@
 [
   {
+    "name": "mocha",
+    "image": "img-buildkite-64/mocha.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "rails",
     "image": "img-buildkite-64/rails.png",
     "category": "Buildkite",
