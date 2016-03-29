@@ -1,6 +1,6 @@
 [
   {
-    "name": "cog",
+    "name": "cogops",
     "image": "img-buildkite-64/cog.png",
     "category": "Buildkite",
     "aliases": [
