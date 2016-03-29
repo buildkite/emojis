@@ -1,5 +1,13 @@
 [
   {
+    "name": "cog",
+    "image": "img-buildkite-64/cog.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "aws",
     "image": "img-buildkite-64/aws.png",
     "category": "Buildkite",
