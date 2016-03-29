@@ -1,5 +1,13 @@
 [
   {
+    "name": "cloudwatch",
+    "image": "img-buildkite-64/cloudwatch.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "mocha",
     "image": "img-buildkite-64/mocha.png",
     "category": "Buildkite",
