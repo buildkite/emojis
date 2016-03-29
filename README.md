@@ -16,6 +16,7 @@ To contribute a new custom emoji simply:
 
 Emoji | Aliases
 ----- | -------
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/graphql.png" width="20" height="20" alt="graphql"/> | `:graphql:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/cogops.png" width="20" height="20" alt="cogops"/> | `:cogops:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/cloudwatch.png" width="20" height="20" alt="cloudwatch"/> | `:cloudwatch:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/aws.png" width="20" height="20" alt="aws"/> | `:aws:`
