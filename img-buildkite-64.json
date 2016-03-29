@@ -1,5 +1,13 @@
 [
   {
+    "name": "swift",
+    "image": "img-buildkite-64/swift.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "graphql",
     "image": "img-buildkite-64/graphql.png",
     "category": "Buildkite",
