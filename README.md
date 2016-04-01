@@ -16,6 +16,12 @@ To contribute a new custom emoji simply:
 
 Emoji | Aliases
 ----- | -------
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/slack.png" width="20" height="20" alt="slack"/> | `:slack:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/hipchat.png" width="20" height="20" alt="hipchat"/> | `:hipchat:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/flowdock.png" width="20" height="20" alt="flowdock"/> | `:flowdock:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/campfire.png" width="20" height="20" alt="campfire"/> | `:campfire:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/webhook.png" width="20" height="20" alt="webhook"/> | `:webhook:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/sumologic.png" width="20" height="20" alt="sumologic"/> | `:sumologic:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/swift.png" width="20" height="20" alt="swift"/> | `:swift:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/graphql.png" width="20" height="20" alt="graphql"/> | `:graphql:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/cogops.png" width="20" height="20" alt="cogops"/> | `:cogops:`

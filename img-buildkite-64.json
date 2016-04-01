@@ -1,5 +1,53 @@
 [
   {
+    "name": "webhook",
+    "image": "img-buildkite-64/webhook.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
+    "name": "slack",
+    "image": "img-buildkite-64/slack.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
+    "name": "hipchat",
+    "image": "img-buildkite-64/hipchat.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
+    "name": "flowdock",
+    "image": "img-buildkite-64/flowdock.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
+    "name": "campfire",
+    "image": "img-buildkite-64/campfire.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
+    "name": "sumologic",
+    "image": "img-buildkite-64/sumologic.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "swift",
     "image": "img-buildkite-64/swift.png",
     "category": "Buildkite",
