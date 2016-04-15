@@ -722,6 +722,14 @@
     ]
   },
   {
+    "name": "elixir",
+    "image": "img-buildkite-64/elixir.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "rubygems",
     "image": "img-buildkite-64/rubygems.png",
     "category": "Buildkite",
