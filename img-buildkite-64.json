@@ -104,6 +104,14 @@
     ]
   },
   {
+    "name": "phoenix",
+    "image": "img-buildkite-64/phoenix.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "jasmine",
     "image": "img-buildkite-64/jasmine.png",
     "category": "Buildkite",
