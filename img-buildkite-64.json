@@ -104,6 +104,14 @@
     ]
   },
   {
+    "name": "phoenix",
+    "image": "img-buildkite-64/phoenix.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "jasmine",
     "image": "img-buildkite-64/jasmine.png",
     "category": "Buildkite",
@@ -716,6 +724,14 @@
   {
     "name": "ruby",
     "image": "img-buildkite-64/ruby.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
+    "name": "elixir",
+    "image": "img-buildkite-64/elixir.png",
     "category": "Buildkite",
     "aliases": [
 
