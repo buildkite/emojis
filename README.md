@@ -16,6 +16,8 @@ To contribute a new custom emoji simply:
 
 Emoji | Aliases
 ----- | -------
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/phoenix.png" width="20" height="20" alt="phoenix"/> | `:phoenix:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/elixir.png" width="20" height="20" alt="elixir"/> | `:elixir:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/slack.png" width="20" height="20" alt="slack"/> | `:slack:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/hipchat.png" width="20" height="20" alt="hipchat"/> | `:hipchat:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/flowdock.png" width="20" height="20" alt="flowdock"/> | `:flowdock:`
