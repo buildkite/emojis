@@ -112,6 +112,14 @@
     ]
   },
   {
+    "name": "android",
+    "image": "img-buildkite-64/android.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "jasmine",
     "image": "img-buildkite-64/jasmine.png",
     "category": "Buildkite",
