@@ -1,5 +1,13 @@
 [
   {
+    "name": "mina",
+    "image": "img-buildkite-64/mina.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "webhook",
     "image": "img-buildkite-64/webhook.png",
     "category": "Buildkite",
