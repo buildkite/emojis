@@ -121,6 +121,7 @@ Emoji | Aliases
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/ubuntu.png" width="20" height="20" alt="ubuntu"/> | `:ubuntu:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/webpack.png" width="20" height="20" alt="webpack"/> | `:webpack:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/windows.png" width="20" height="20" alt="windows"/> | `:windows:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/wraith.png" width="20" height="20" alt="wraith"/> | `:wraith:`
 
 ## People
 
