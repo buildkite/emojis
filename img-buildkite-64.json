@@ -1,5 +1,13 @@
 [
   {
+    "name": "firefox",
+    "image": "img-buildkite-64/firefox.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "mina",
     "image": "img-buildkite-64/mina.png",
     "category": "Buildkite",
