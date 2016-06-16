@@ -1,5 +1,13 @@
 [
   {
+    "name": "apex",
+    "image": "img-buildkite-64/apex.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "serverless",
     "image": "img-buildkite-64/serverless.png",
     "category": "Buildkite",
