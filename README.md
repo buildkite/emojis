@@ -16,6 +16,7 @@ To contribute a new custom emoji simply:
 
 Emoji | Aliases
 ----- | -------
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/serverless.png" width="20" height="20" alt="serverless"/> | `:serverless:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/hockeyapp.png" width="20" height="20" alt="hockeyapp"/> | `:hockeyapp:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/firefox.png" width="20" height="20" alt="firefox"/> | `:firefox:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/mina.png" width="20" height="20" alt="mina"/> | `:mina:`
