@@ -1,5 +1,21 @@
 [
   {
+    "name": "apex",
+    "image": "img-buildkite-64/apex.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
+    "name": "serverless",
+    "image": "img-buildkite-64/serverless.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "hockeyapp",
     "image": "img-buildkite-64/hockeyapp.png",
     "category": "Buildkite",
