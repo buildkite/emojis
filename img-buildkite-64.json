@@ -1,5 +1,13 @@
 [
   {
+    "name": "partyparrot",
+    "image": "img-buildkite-64/partyparrot.gif",
+    "category": "Buildkite",
+    "aliases": [
+      "parrot"
+    ]
+  },
+  {
     "name": "apex",
     "image": "img-buildkite-64/apex.png",
     "category": "Buildkite",
