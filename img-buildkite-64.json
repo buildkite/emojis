@@ -1,5 +1,19 @@
 [
   {
+    "name": "js-hint",
+    "image": "img-buildkite-64/jshint-dark.png",
+    "category": "Buildkite",
+    "aliases": [
+    ]
+  },
+  {
+    "name": "scss-lint",
+    "image": "img-buildkite-64/scss-lint.png",
+    "category": "Buildkite",
+    "aliases": [
+    ]
+  },
+  {
     "name": "partyparrot",
     "image": "img-buildkite-64/partyparrot.gif",
     "category": "Buildkite",
