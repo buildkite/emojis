@@ -1,5 +1,21 @@
 [
   {
+    "name": "jshint",
+    "image": "img-buildkite-64/jshint.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
+    "name": "scsslint",
+    "image": "img-buildkite-64/scsslint.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "sasslang",
     "image": "img-buildkite-64/sasslang.png",
     "category": "Buildkite",

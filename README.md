@@ -16,6 +16,8 @@ To contribute a new custom emoji simply:
 
 Emoji | Aliases
 ----- | -------
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/jshint.png" width="20" height="20" alt="jshint"/> | `:jshint:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/scsslint.png" width="20" height="20" alt="scsslint"/> | `:scsslint:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/sasslang.png" width="20" height="20" alt="sasslang"/> | `:sasslang:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/sadpanda.png" width="20" height="20" alt="sadpanda"/> | `:sadpanda:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/partyparrot.gif" width="20" height="20" alt="partyparrot"/> | `:partyparrot:`
