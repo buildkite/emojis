@@ -1,5 +1,13 @@
 [
   {
+    "name": "sadpanda",
+    "image": "img-buildkite-64/sadpanda.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "partyparrot",
     "image": "img-buildkite-64/partyparrot.gif",
     "category": "Buildkite",
