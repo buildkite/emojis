@@ -1,5 +1,13 @@
 [
   {
+    "name": "rollbar",
+    "image": "img-buildkite-64/rollbar.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  }
+  {
     "name": "jshint",
     "image": "img-buildkite-64/jshint.png",
     "category": "Buildkite",
