@@ -17,6 +17,8 @@ To contribute a new custom emoji simply:
 Emoji | Aliases
 ----- | -------
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/rollbar.png" width="20" height="20" alt="rollbar"/> | `:rollbar:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/lendinghome.png" width="20" height="20" alt="lendinghome"/> | `:lendinghome:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/lendinghome_ops.png" width="20" height="20" alt="lendinghome_ops"/> | `:lendinghome_ops:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/jshint.png" width="20" height="20" alt="jshint"/> | `:jshint:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/scsslint.png" width="20" height="20" alt="scsslint"/> | `:scsslint:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/sasslang.png" width="20" height="20" alt="sasslang"/> | `:sasslang:`
