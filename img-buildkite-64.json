@@ -6,7 +6,23 @@
     "aliases": [
 
     ]
-  }
+  },
+  {
+    "name": "lendinghome",
+    "image": "img-buildkite-64/lendinghome.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
+    "name": "lendinghome_ops",
+    "image": "img-buildkite-64/lendinghome_ops.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
   {
     "name": "jshint",
     "image": "img-buildkite-64/jshint.png",
