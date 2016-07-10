@@ -1,5 +1,13 @@
 [
   {
+    "name": "testflight",
+    "image": "img-buildkite-64/testflight.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "rollbar",
     "image": "img-buildkite-64/rollbar.png",
     "category": "Buildkite",
