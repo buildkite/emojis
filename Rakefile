@@ -6,6 +6,20 @@
 
 require 'json'
 
+desc "Pick a random emoji"
+task :random do
+  emojis = []
+
+  emojis_dir = File.dirname(__FILE__)
+  Dir.glob("#{emojis_dir}/img-*.json").each do |catalogue|
+    emojis.concat JSON.parse(File.read(catalogue)).reverse
+  end
+
+  emoj = emojis[Random.rand(emojis.count)]
+
+  puts ":#{emoj['name']}:"
+end
+
 task :default do
   emojis = []
 
