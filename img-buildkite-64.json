@@ -264,6 +264,14 @@
     ]
   },
   {
+    "name": "typescript",
+    "image": "img-buildkite-64/typescript.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]  
+  },
+  {
     "name": "git",
     "image": "img-buildkite-64/git.png",
     "category": "Buildkite",

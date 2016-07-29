@@ -50,6 +50,7 @@ Emoji | Aliases
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/react.png" width="20" height="20" alt="react"/> | `:react:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/terraform.png" width="20" height="20" alt="terraform"/> | `:terraform:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/javascript.png" width="20" height="20" alt="javascript"/> | `:javascript:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/typescript.png" width="20" height="20" alt="typescript"/> | `:typescript:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/git.png" width="20" height="20" alt="git"/> | `:git:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/quay.png" width="20" height="20" alt="quay"/> | `:quay:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/bower.png" width="20" height="20" alt="bower"/> | `:bower:`
