@@ -1,5 +1,13 @@
 [
   {
+    "name": "medicalimaging",
+    "image": "img-buildkite-64/medicalimaging.png",
+    "category": "Buildkite",
+    "aliases": [
+      "med_imaging"
+    ]
+  },
+  {
     "name": "testflight",
     "image": "img-buildkite-64/testflight.png",
     "category": "Buildkite",
