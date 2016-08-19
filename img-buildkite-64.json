@@ -1,5 +1,13 @@
 [
   {
+    "name": "electron",
+    "image": "img-buildkite-64/electron.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "testflight",
     "image": "img-buildkite-64/testflight.png",
     "category": "Buildkite",
@@ -269,7 +277,7 @@
     "category": "Buildkite",
     "aliases": [
 
-    ]  
+    ]
   },
   {
     "name": "git",
