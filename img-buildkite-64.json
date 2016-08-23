@@ -1,5 +1,13 @@
 [
   {
+    "name": "protractor",
+    "image": "img-buildkite-64/protractor.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "electron",
     "image": "img-buildkite-64/electron.png",
     "category": "Buildkite",
