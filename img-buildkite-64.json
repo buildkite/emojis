@@ -1,5 +1,13 @@
 [
   {
+    "name": "grunt",
+    "image": "img-buildkite-64/grunt.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "protractor",
     "image": "img-buildkite-64/protractor.png",
     "category": "Buildkite",
