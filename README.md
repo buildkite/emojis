@@ -16,6 +16,7 @@ To contribute a new custom emoji simply:
 
 Emoji | Aliases
 ----- | -------
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/flowtype.png" width="20" height="20" alt="flowtype"/> | `:flowtype:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/grunt.png" width="20" height="20" alt="grunt"/> | `:grunt:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/protractor.png" width="20" height="20" alt="protractor"/> | `:protractor:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/electron.png" width="20" height="20" alt="electron"/> | `:electron:`
