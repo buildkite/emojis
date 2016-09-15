@@ -1,5 +1,13 @@
 [
   {
+    "name": "flowtype",
+    "image": "img-buildkite-64/flowtype.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "grunt",
     "image": "img-buildkite-64/grunt.png",
     "category": "Buildkite",
