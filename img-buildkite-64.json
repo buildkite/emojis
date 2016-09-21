@@ -1,5 +1,13 @@
 [
   {
+    "name": "chrome",
+    "image": "img-buildkite-64/chrome.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "flowtype",
     "image": "img-buildkite-64/flowtype.png",
     "category": "Buildkite",
