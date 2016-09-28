@@ -1,5 +1,13 @@
 [
   {
+    "name": "stylelint",
+    "image": "img-buildkite-64/stylelint.png",
+    "category": "BuildKite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "chrome",
     "image": "img-buildkite-64/chrome.png",
     "category": "Buildkite",
