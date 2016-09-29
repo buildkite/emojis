@@ -1,5 +1,13 @@
 [
   {
+    "name": "fork",
+    "image": "img-buildkite-64/fork.png",
+    "category": "BuildKite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "stylelint",
     "image": "img-buildkite-64/stylelint.png",
     "category": "BuildKite",
