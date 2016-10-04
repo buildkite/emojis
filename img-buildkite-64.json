@@ -1,8 +1,16 @@
 [
   {
+    "name": "jest",
+    "image": "img-buildkite-64/jest.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "fork",
     "image": "img-buildkite-64/fork.png",
-    "category": "BuildKite",
+    "category": "Buildkite",
     "aliases": [
 
     ]
@@ -10,7 +18,7 @@
   {
     "name": "stylelint",
     "image": "img-buildkite-64/stylelint.png",
-    "category": "BuildKite",
+    "category": "Buildkite",
     "aliases": [
 
     ]
