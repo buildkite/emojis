@@ -1,5 +1,13 @@
 [
   {
+    "name": "yarn",
+    "image": "img-buildkite-64/yarn.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "jest",
     "image": "img-buildkite-64/jest.png",
     "category": "Buildkite",
