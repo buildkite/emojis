@@ -8,6 +8,14 @@
     ]
   },
   {
+    "name": "looker",
+    "image": "img-buildkite-64/looker.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "jest",
     "image": "img-buildkite-64/jest.png",
     "category": "Buildkite",
