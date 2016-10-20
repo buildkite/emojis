@@ -1,5 +1,13 @@
 [
   {
+    "name": "pagerduty",
+    "image": "img-buildkite-64/pagerduty.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "yarn",
     "image": "img-buildkite-64/yarn.png",
     "category": "Buildkite",
