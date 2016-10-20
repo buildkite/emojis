@@ -16,7 +16,7 @@ To contribute a new custom emoji simply:
 
 Emoji | Aliases
 ----- | -------
-<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/pagerduty" width="20" height="20" alt="pagerduty"/> | `:pagerduty:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/pagerduty.png" width="20" height="20" alt="pagerduty"/> | `:pagerduty:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/yarn.png" width="20" height="20" alt="yarn"/> | `:yarn:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/looker.png" width="20" height="20" alt="looker"/> | `:looker:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/jest.png" width="20" height="20" alt="jest"/> | `:jest:`
