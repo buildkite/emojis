@@ -1,5 +1,13 @@
 [
   {
+    "name": "akamai",
+    "image": "img-buildkite-64/akamai.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "pagerduty",
     "image": "img-buildkite-64/pagerduty.png",
     "category": "Buildkite",
