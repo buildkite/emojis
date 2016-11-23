@@ -1,5 +1,13 @@
 [
   {
+    "name": "haml",
+    "image": "img-buildkite-64/haml.png",
+    "category": "Buildkite",
+    "aliases": [
+      "haml-lang"
+    ]
+  },
+  {
     "name": "akamai",
     "image": "img-buildkite-64/akamai.png",
     "category": "Buildkite",
