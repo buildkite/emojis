@@ -16,7 +16,7 @@ To contribute a new custom emoji simply:
 
 Emoji | Aliases
 ----- | -------
-<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/html.png" width="20" height="20" alt="html"/> | `:html:`, `:html:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/html.png" width="20" height="20" alt="html"/> | `:html:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/civicrm.png" width="20" height="20" alt="civicrm"/> | `:civicrm:`, `:civi:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/haml.png" width="20" height="20" alt="haml"/> | `:haml:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/akamai.png" width="20" height="20" alt="akamai"/> | `:akamai:`
