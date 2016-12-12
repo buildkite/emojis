@@ -8,6 +8,14 @@
     ]
   },
   {
+    "name": "html-proofer",
+    "image": "img-buildkite-64/html.png",
+    "category": "Buildkite",
+    "aliases": [
+      "html"
+    ]
+  },
+  {
     "name": "haml",
     "image": "img-buildkite-64/haml.png",
     "category": "Buildkite",
