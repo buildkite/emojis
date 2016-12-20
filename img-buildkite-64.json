@@ -1,5 +1,13 @@
 [
   {
+    "name": "percy",
+    "image": "img-buildkite-64/percy.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "civicrm",
     "image": "img-buildkite-64/civicrm.png",
     "category": "Buildkite",
