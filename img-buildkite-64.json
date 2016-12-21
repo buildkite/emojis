@@ -1,5 +1,21 @@
 [
   {
+    "name": "scala",
+    "image": "img-buildkite-64/scala.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
+    "name": "sbt",
+    "image": "img-buildkite-64/sbt.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "ecs",
     "image": "img-buildkite-64/ecs.png",
     "category": "Buildkite",
