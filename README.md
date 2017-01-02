@@ -16,6 +16,10 @@ To contribute a new custom emoji simply:
 
 Emoji | Aliases
 ----- | -------
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/kinesis.png" width="20" height="20" alt="kinesis"/> | `:kinesis:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/spark.png" width="20" height="20" alt="spark"/> | `:spark:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/hadoop.png" width="20" height="20" alt="hadoop"/> | `:hadoop:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/emr.png" width="20" height="20" alt="emr"/> | `:emr:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/scala.png" width="20" height="20" alt="scala"/> | `:scala:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/sbt.png" width="20" height="20" alt="sbt"/> | `:sbt:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/ecs.png" width="20" height="20" alt="ecs"/> | `:ecs:`

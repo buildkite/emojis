@@ -1,5 +1,37 @@
 [
   {
+    "name": "kinesis",
+    "image": "img-buildkite-64/kinesis.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
+    "name": "spark",
+    "image": "img-buildkite-64/spark.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
+    "name": "hadoop",
+    "image": "img-buildkite-64/hadoop.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
+    "name": "emr",
+    "image": "img-buildkite-64/emr.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "scala",
     "image": "img-buildkite-64/scala.png",
     "category": "Buildkite",
