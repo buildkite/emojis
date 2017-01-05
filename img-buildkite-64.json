@@ -1,5 +1,13 @@
 [
   {
+    "name": "kubernetes",
+    "image": "img-buildkite-64/kubernetes.png",
+    "category": "Buildkite",
+    "aliases": [
+      "k8s"
+    ]
+  },
+  {
     "name": "kinesis",
     "image": "img-buildkite-64/kinesis.png",
     "category": "Buildkite",
