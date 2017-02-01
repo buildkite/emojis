@@ -1,5 +1,21 @@
 [
   {
+    "name": "cargo",
+    "image": "img-buildkite-64/cargo.png",
+    "category": "Buildkite",
+    "aliases": [
+      "crates"
+    ]
+  },
+  {
+    "name": "rust",
+    "image": "img-buildkite-64/rust.png",
+    "category": "Buildkite",
+    "aliases": [
+      "rustlang"
+    ]
+  },
+  {
     "name": "kubernetes",
     "image": "img-buildkite-64/kubernetes.png",
     "category": "Buildkite",
