@@ -1,5 +1,13 @@
 [
   {
+    "name": "saucelabs",
+    "image": "img-buildkite-64/saucelabs.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "cargo",
     "image": "img-buildkite-64/cargo.png",
     "category": "Buildkite",
