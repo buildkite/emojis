@@ -16,6 +16,7 @@ To contribute a new custom emoji simply:
 
 Emoji | Aliases
 ----- | -------
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/chromium.png" width="20" height="20" alt="chromium"/> | `:chromium:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/selenium.png" width="20" height="20" alt="selenium"/> | `:selenium:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/saucelabs.png" width="20" height="20" alt="saucelabs"/> | `:saucelabs:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/cargo.png" width="20" height="20" alt="cargo"/> | `:cargo:`, `:crates:`

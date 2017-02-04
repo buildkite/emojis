@@ -1,5 +1,13 @@
 [
   {
+    "name": "chromium",
+    "image": "img-buildkite-64/chromium.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "selenium",
     "image": "img-buildkite-64/selenium.png",
     "category": "Buildkite",
