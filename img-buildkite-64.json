@@ -1,5 +1,13 @@
 [
   {
+    "name": "storybook",
+    "image": "img-buildkite-64/storybook.png",
+    "category": "Buildkite",
+    "aliases": [
+      "react-storybook"
+    ]
+  },
+  {
     "name": "chromium",
     "image": "img-buildkite-64/chromium.png",
     "category": "Buildkite",
