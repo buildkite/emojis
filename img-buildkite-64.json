@@ -1,5 +1,45 @@
 [
   {
+    "name": "closure-compiler",
+    "image": "img-buildkite-64/closure-compiler.png",
+    "category": "Buildkite",
+    "aliases": [
+      "google-closure-compiler"
+    ]
+  },
+  {
+    "name": "storybook",
+    "image": "img-buildkite-64/storybook.png",
+    "category": "Buildkite",
+    "aliases": [
+      "react-storybook"
+    ]
+  },
+  {
+    "name": "chromium",
+    "image": "img-buildkite-64/chromium.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
+    "name": "selenium",
+    "image": "img-buildkite-64/selenium.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
+    "name": "saucelabs",
+    "image": "img-buildkite-64/saucelabs.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "cargo",
     "image": "img-buildkite-64/cargo.png",
     "category": "Buildkite",

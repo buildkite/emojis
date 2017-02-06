@@ -16,6 +16,11 @@ To contribute a new custom emoji simply:
 
 Emoji | Aliases
 ----- | -------
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/closure-compiler.png" width="20" height="20" alt="closure compiler"/> | `:closure-compiler:`, `:google-closure-compiler:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/storybook.png" width="20" height="20" alt="storybook"/> | `:storybook:`, `:react-storybook:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/chromium.png" width="20" height="20" alt="chromium"/> | `:chromium:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/selenium.png" width="20" height="20" alt="selenium"/> | `:selenium:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/saucelabs.png" width="20" height="20" alt="saucelabs"/> | `:saucelabs:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/cargo.png" width="20" height="20" alt="cargo"/> | `:cargo:`, `:crates:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/rust.png" width="20" height="20" alt="rust"/> | `:rust:`, `:rustlang:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/kubernetes.png" width="20" height="20" alt="kubernetes"/> | `:kubernetes:`
