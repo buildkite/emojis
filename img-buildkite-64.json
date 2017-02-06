@@ -1,5 +1,13 @@
 [
   {
+    "name": "closure-compiler",
+    "image": "img-buildkite-64/closure-compiler.png",
+    "category": "Buildkite",
+    "aliases": [
+      "google-closure-compiler"
+    ]
+  },
+  {
     "name": "storybook",
     "image": "img-buildkite-64/storybook.png",
     "category": "Buildkite",
