@@ -1,5 +1,13 @@
 [
   {
+    "name": "maven",
+    "image": "img-buildkite-64/maven.png",
+    "category": "Buildkite",
+    "aliases": [
+      "mvn"
+    ]
+  },
+  {
     "name": "closure-compiler",
     "image": "img-buildkite-64/closure-compiler.png",
     "category": "Buildkite",
