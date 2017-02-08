@@ -1,5 +1,13 @@
 [
   {
+    "name": "junit",
+    "image": "img-buildkite-64/junit.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "maven",
     "image": "img-buildkite-64/maven.png",
     "category": "Buildkite",
