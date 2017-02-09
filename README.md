@@ -17,6 +17,7 @@ To contribute a new custom emoji simply:
 Emoji | Aliases
 ----- | -------
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/junit.png" width="20" height="20" alt="junit"/> | `:junit:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/elm.png" width="20" height="20" alt="elm"/> | `:elm:`, `:elmlang:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/maven.png" width="20" height="20" alt="maven"/> | `:maven:`, `:mvn:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/closure-compiler.png" width="20" height="20" alt="closure compiler"/> | `:closure-compiler:`, `:google-closure-compiler:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/storybook.png" width="20" height="20" alt="storybook"/> | `:storybook:`, `:react-storybook:`
