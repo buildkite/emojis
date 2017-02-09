@@ -1216,5 +1216,13 @@
     "aliases": [
 
     ]
-  }
+  },
+  {
+    "name": "elm",
+    "image": "img-buildkite-64/elm.png",
+    "category": "Buildkite",
+    "aliases": [
+      "elmlang"
+    ]
+  },
 ]
