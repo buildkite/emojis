@@ -1,5 +1,11 @@
 [
   {
+    "name": "bazel",
+    "image": "img-buildkite-64/bazel.png",
+    "category": "Bazel",
+    "aliases": []
+  },
+  {
     "name": "junit",
     "image": "img-buildkite-64/junit.png",
     "category": "Buildkite",
