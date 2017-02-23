@@ -1,5 +1,11 @@
 [
   {
+    "name": "jekyll",
+    "image": "img-buildkite-64/jekyll.png",
+    "category": "Jekyll",
+    "aliases": []
+  },
+  {
     "name": "bazel",
     "image": "img-buildkite-64/bazel.png",
     "category": "Bazel",
