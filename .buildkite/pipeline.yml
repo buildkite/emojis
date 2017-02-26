@@ -1,5 +1,6 @@
 steps:
   - name: ":shipit:"
     command: ".buildkite/deploy.sh"
+    branches: "master"
     agents:
       queue: "deploy"
