@@ -1,14 +1,20 @@
 [
   {
+    "name": "bash",
+    "image": "img-buildkite-64/bash.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "jekyll",
     "image": "img-buildkite-64/jekyll.png",
-    "category": "Jekyll",
+    "category": "Buildkite",
     "aliases": []
   },
   {
     "name": "bazel",
     "image": "img-buildkite-64/bazel.png",
-    "category": "Bazel",
+    "category": "Buildkite",
     "aliases": []
   },
   {
