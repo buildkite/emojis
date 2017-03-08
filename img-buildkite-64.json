@@ -1168,6 +1168,14 @@
     ]
   },
   {
+    "name": "hex",
+    "image": "img-buildkite-64/hex.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "rubygems",
     "image": "img-buildkite-64/rubygems.png",
     "category": "Buildkite",
