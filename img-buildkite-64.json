@@ -1168,6 +1168,14 @@
     ]
   },
   {
+    "name": "erlang",
+    "image": "img-buildkite-64/erlang.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "hex",
     "image": "img-buildkite-64/hex.png",
     "category": "Buildkite",
