@@ -70,6 +70,7 @@ Emoji | Aliases
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/firefox.png" width="20" height="20" alt="firefox"/> | `:firefox:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/mina.png" width="20" height="20" alt="mina"/> | `:mina:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/webhook.png" width="20" height="20" alt="webhook"/> | `:webhook:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/brunch.png" width="20" height="20" alt="brunch"/> | `:brunch:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/hex.png" width="20" height="20" alt="hex"/> | `:hex:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/erlang.png" width="20" height="20" alt="erlang"/> | `:erlang:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/slack.png" width="20" height="20" alt="slack"/> | `:slack:`

@@ -526,6 +526,14 @@
     ]
   },
   {
+    "name": "brunch",
+    "image": "img-buildkite-64/brunch.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "android",
     "image": "img-buildkite-64/android.png",
     "category": "Buildkite",
