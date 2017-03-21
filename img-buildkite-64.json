@@ -1250,5 +1250,13 @@
     "aliases": [
       "elmlang"
     ]
+  },
+  {
+    "name": "exploding_death_star",
+    "image": "img-buildkite-64/exploding_death_star.gif",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
   }
 ]
