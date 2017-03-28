@@ -16,6 +16,7 @@ To contribute a new custom emoji simply:
 
 Emoji | Aliases
 ----- | -------
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/composer.png" width="20" height="20" alt="composer"/> | `:composer:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/exploding_death_star.gif" width="20" height="20" alt="exploding_death_star"/> | `:exploding_death_star:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/bash.png" width="20" height="20" alt="bash"/> | `:bash:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/jekyll.png" width="20" height="20" alt="jekyll"/> | `:jekyll:`

@@ -1258,5 +1258,13 @@
     "aliases": [
 
     ]
+  },
+  {
+    "name": "composer",
+    "image": "img-buildkite-64/composer.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
   }
 ]
