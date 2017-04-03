@@ -1,5 +1,13 @@
 [
   {
+    "name": "stryker",
+    "image": "img-buildkite-64/stryker.png",
+    "category": "Buildkite",
+    "aliases": [
+      "stryker-js"
+    ]
+  },
+  {
     "name": "bash",
     "image": "img-buildkite-64/bash.png",
     "category": "Buildkite",
