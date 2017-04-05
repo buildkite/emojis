@@ -1,5 +1,11 @@
 [
   {
+    "name": "gulp",
+    "image": "img-buildkite-64/gulp.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "stryker",
     "image": "img-buildkite-64/stryker.png",
     "category": "Buildkite",
