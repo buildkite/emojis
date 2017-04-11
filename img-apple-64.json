@@ -505,7 +505,7 @@
   },
   {
     "name": "umbrella",
-    "category": "Nature",
+    "category": "People",
     "image": "img-apple-64/2602.png",
     "unicode": "2602",
     "aliases": [
@@ -637,7 +637,7 @@
   },
   {
     "name": "skull_and_crossbones",
-    "category": "Objects",
+    "category": "People",
     "image": "img-apple-64/2620.png",
     "unicode": "2620",
     "aliases": [
@@ -1309,7 +1309,7 @@
   },
   {
     "name": "umbrella_on_ground",
-    "category": "Objects",
+    "category": "Places",
     "image": "img-apple-64/26f1.png",
     "unicode": "26F1",
     "aliases": [
@@ -2581,7 +2581,7 @@
   },
   {
     "name": "rainbow",
-    "category": "Places",
+    "category": "Nature",
     "image": "img-apple-64/1f308.png",
     "unicode": "1F308",
     "aliases": [
@@ -3037,7 +3037,7 @@
   },
   {
     "name": "chestnut",
-    "category": "Nature",
+    "category": "Foods",
     "image": "img-apple-64/1f330.png",
     "unicode": "1F330",
     "aliases": [
@@ -4033,7 +4033,7 @@
   },
   {
     "name": "jack_o_lantern",
-    "category": "Nature",
+    "category": "People",
     "image": "img-apple-64/1f383.png",
     "unicode": "1F383",
     "aliases": [
@@ -4165,7 +4165,7 @@
   },
   {
     "name": "crossed_flags",
-    "category": "Objects",
+    "category": "Flags",
     "image": "img-apple-64/1f38c.png",
     "unicode": "1F38C",
     "aliases": [
@@ -4741,7 +4741,7 @@
   },
   {
     "name": "checkered_flag",
-    "category": "Places",
+    "category": "Flags",
     "image": "img-apple-64/1f3c1.png",
     "unicode": "1F3C1",
     "aliases": [
@@ -5437,7 +5437,7 @@
   },
   {
     "name": "waving_white_flag",
-    "category": "Objects",
+    "category": "Flags",
     "image": "img-apple-64/1f3f3.png",
     "unicode": "1F3F3",
     "aliases": [
@@ -5449,7 +5449,7 @@
   },
   {
     "name": "waving_black_flag",
-    "category": "Objects",
+    "category": "Flags",
     "image": "img-apple-64/1f3f4.png",
     "unicode": "1F3F4",
     "aliases": [
@@ -7765,7 +7765,7 @@
   },
   {
     "name": "space_invader",
-    "category": "Activity",
+    "category": "People",
     "image": "img-apple-64/1f47e.png",
     "unicode": "1F47E",
     "aliases": [
@@ -8365,7 +8365,7 @@
   },
   {
     "name": "zzz",
-    "category": "People",
+    "category": "Symbols",
     "image": "img-apple-64/1f4a4.png",
     "unicode": "1F4A4",
     "aliases": [
@@ -10622,7 +10622,7 @@
   },
   {
     "name": "man_in_business_suit_levitating",
-    "category": "Activity",
+    "category": "People",
     "image": "img-apple-64/1f574.png",
     "unicode": "1F574",
     "aliases": [
@@ -11114,7 +11114,7 @@
   },
   {
     "name": "world_map",
-    "category": "Objects",
+    "category": "Places",
     "image": "img-apple-64/1f5fa.png",
     "unicode": "1F5FA",
     "aliases": [
@@ -11174,7 +11174,7 @@
   },
   {
     "name": "moyai",
-    "category": "Objects",
+    "category": "Places",
     "image": "img-apple-64/1f5ff.png",
     "unicode": "1F5FF",
     "aliases": [
@@ -12854,7 +12854,7 @@
   },
   {
     "name": "triangular_flag_on_post",
-    "category": "Objects",
+    "category": "Flags",
     "image": "img-apple-64/1f6a9.png",
     "unicode": "1F6A9",
     "aliases": [
@@ -12938,7 +12938,7 @@
   },
   {
     "name": "potable_water",
-    "category": "Symbols",
+    "category": "Objects",
     "image": "img-apple-64/1f6b0.png",
     "unicode": "1F6B0",
     "aliases": [
@@ -13202,7 +13202,7 @@
   },
   {
     "name": "bath",
-    "category": "Activity",
+    "category": "Objects",
     "image": "img-apple-64/1f6c0.png",
     "unicode": "1F6C0",
     "aliases": [
@@ -16988,6 +16988,18 @@
     "unicode": "1F468-200D-1F468-200D-1F467-200D-1F467",
     "aliases": [
 
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "man-woman-boy",
+    "category": "People",
+    "image": "img-apple-64/1f468-200d-1f469-200d-1f466.png",
+    "unicode": "1F468-200D-1F469-200D-1F466",
+    "aliases": [
+      "family"
     ],
     "modifiers": [
 
