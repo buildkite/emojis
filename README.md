@@ -17,23 +17,20 @@ To contribute a new custom emoji simply:
 Emoji | Aliases
 ----- | -------
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/gulp.png" width="20" height="20" alt="gulp"/> | `:gulp:`
-<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/stryker.png" width="20" height="20" alt="stryker"/> | `:stryker:`
-<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/composer.png" width="20" height="20" alt="composer"/> | `:composer:`
-<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/exploding_death_star.gif" width="20" height="20" alt="exploding_death_star"/> | `:exploding_death_star:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/stryker.png" width="20" height="20" alt="stryker"/> | `:stryker:`, `:stryker-js:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/bash.png" width="20" height="20" alt="bash"/> | `:bash:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/jekyll.png" width="20" height="20" alt="jekyll"/> | `:jekyll:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/bazel.png" width="20" height="20" alt="bazel"/> | `:bazel:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/junit.png" width="20" height="20" alt="junit"/> | `:junit:`
-<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/elm.png" width="20" height="20" alt="elm"/> | `:elm:`, `:elmlang:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/maven.png" width="20" height="20" alt="maven"/> | `:maven:`, `:mvn:`
-<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/closure-compiler.png" width="20" height="20" alt="closure compiler"/> | `:closure-compiler:`, `:google-closure-compiler:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/closure-compiler.png" width="20" height="20" alt="closure-compiler"/> | `:closure-compiler:`, `:google-closure-compiler:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/storybook.png" width="20" height="20" alt="storybook"/> | `:storybook:`, `:react-storybook:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/chromium.png" width="20" height="20" alt="chromium"/> | `:chromium:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/selenium.png" width="20" height="20" alt="selenium"/> | `:selenium:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/saucelabs.png" width="20" height="20" alt="saucelabs"/> | `:saucelabs:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/cargo.png" width="20" height="20" alt="cargo"/> | `:cargo:`, `:crates:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/rust.png" width="20" height="20" alt="rust"/> | `:rust:`, `:rustlang:`
-<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/kubernetes.png" width="20" height="20" alt="kubernetes"/> | `:kubernetes:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/kubernetes.png" width="20" height="20" alt="kubernetes"/> | `:kubernetes:`, `:k8s:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/kinesis.png" width="20" height="20" alt="kinesis"/> | `:kinesis:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/spark.png" width="20" height="20" alt="spark"/> | `:spark:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/hadoop.png" width="20" height="20" alt="hadoop"/> | `:hadoop:`
@@ -42,9 +39,9 @@ Emoji | Aliases
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/sbt.png" width="20" height="20" alt="sbt"/> | `:sbt:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/ecs.png" width="20" height="20" alt="ecs"/> | `:ecs:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/percy.png" width="20" height="20" alt="percy"/> | `:percy:`
-<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/html.png" width="20" height="20" alt="html"/> | `:html:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/civicrm.png" width="20" height="20" alt="civicrm"/> | `:civicrm:`, `:civi:`
-<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/haml.png" width="20" height="20" alt="haml"/> | `:haml:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/html.png" width="20" height="20" alt="html-proofer"/> | `:html-proofer:`, `:html:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/haml.png" width="20" height="20" alt="haml"/> | `:haml:`, `:haml-lang:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/akamai.png" width="20" height="20" alt="akamai"/> | `:akamai:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/pagerduty.png" width="20" height="20" alt="pagerduty"/> | `:pagerduty:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/yarn.png" width="20" height="20" alt="yarn"/> | `:yarn:`
@@ -57,7 +54,6 @@ Emoji | Aliases
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/grunt.png" width="20" height="20" alt="grunt"/> | `:grunt:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/protractor.png" width="20" height="20" alt="protractor"/> | `:protractor:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/electron.png" width="20" height="20" alt="electron"/> | `:electron:`
-<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/typescript.png" width="20" height="20" alt="typescript"/> | `:typescript:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/testflight.png" width="20" height="20" alt="testflight"/> | `:testflight:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/rollbar.png" width="20" height="20" alt="rollbar"/> | `:rollbar:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/lendinghome.png" width="20" height="20" alt="lendinghome"/> | `:lendinghome:`
@@ -66,36 +62,33 @@ Emoji | Aliases
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/scsslint.png" width="20" height="20" alt="scsslint"/> | `:scsslint:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/sasslang.png" width="20" height="20" alt="sasslang"/> | `:sasslang:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/sadpanda.png" width="20" height="20" alt="sadpanda"/> | `:sadpanda:`
-<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/partyparrot.gif" width="20" height="20" alt="partyparrot"/> | `:partyparrot:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/partyparrot.gif" width="20" height="20" alt="partyparrot"/> | `:partyparrot:`, `:parrot:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/apex.png" width="20" height="20" alt="apex"/> | `:apex:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/serverless.png" width="20" height="20" alt="serverless"/> | `:serverless:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/hockeyapp.png" width="20" height="20" alt="hockeyapp"/> | `:hockeyapp:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/firefox.png" width="20" height="20" alt="firefox"/> | `:firefox:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/mina.png" width="20" height="20" alt="mina"/> | `:mina:`
-<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/android.png" width="20" height="20" alt="android"/> | `:android:`
-<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/phoenix.png" width="20" height="20" alt="phoenix"/> | `:phoenix:`
-<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/elixir.png" width="20" height="20" alt="elixir"/> | `:elixir:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/webhook.png" width="20" height="20" alt="webhook"/> | `:webhook:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/slack.png" width="20" height="20" alt="slack"/> | `:slack:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/hipchat.png" width="20" height="20" alt="hipchat"/> | `:hipchat:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/flowdock.png" width="20" height="20" alt="flowdock"/> | `:flowdock:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/campfire.png" width="20" height="20" alt="campfire"/> | `:campfire:`
-<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/webhook.png" width="20" height="20" alt="webhook"/> | `:webhook:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/sumologic.png" width="20" height="20" alt="sumologic"/> | `:sumologic:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/swift.png" width="20" height="20" alt="swift"/> | `:swift:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/graphql.png" width="20" height="20" alt="graphql"/> | `:graphql:`
-<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/cogops.png" width="20" height="20" alt="cogops"/> | `:cogops:`
-<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/cloudwatch.png" width="20" height="20" alt="cloudwatch"/> | `:cloudwatch:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/cog.png" width="20" height="20" alt="cogops"/> | `:cogops:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/aws.png" width="20" height="20" alt="aws"/> | `:aws:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/cloudwatch.png" width="20" height="20" alt="cloudwatch"/> | `:cloudwatch:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/mocha.png" width="20" height="20" alt="mocha"/> | `:mocha:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/rails.png" width="20" height="20" alt="rails"/> | `:rails:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/phoenix.png" width="20" height="20" alt="phoenix"/> | `:phoenix:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/android.png" width="20" height="20" alt="android"/> | `:android:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/jasmine.png" width="20" height="20" alt="jasmine"/> | `:jasmine:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/react.png" width="20" height="20" alt="react"/> | `:react:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/terraform.png" width="20" height="20" alt="terraform"/> | `:terraform:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/javascript.png" width="20" height="20" alt="javascript"/> | `:javascript:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/typescript.png" width="20" height="20" alt="typescript"/> | `:typescript:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/git.png" width="20" height="20" alt="git"/> | `:git:`
-<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/quay.png" width="20" height="20" alt="quay"/> | `:quay:`
-<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/bower.png" width="20" height="20" alt="bower"/> | `:bower:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/packer.png" width="20" height="20" alt="packer"/> | `:packer:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/babel.png" width="20" height="20" alt="babel"/> | `:babel:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/pipeline.png" width="20" height="20" alt="pipeline"/> | `:pipeline:`, `:pipeline_upload:`
@@ -104,6 +97,7 @@ Emoji | Aliases
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/appengine.png" width="20" height="20" alt="appengine"/> | `:appengine:`, `:gappengine:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/basecamp.png" width="20" height="20" alt="basecamp"/> | `:basecamp:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/basecampy.png" width="20" height="20" alt="basecampy"/> | `:basecampy:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/bower.png" width="20" height="20" alt="bower"/> | `:bower:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/bowtie.png" width="20" height="20" alt="bowtie"/> | `:bowtie:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/brakeman.png" width="20" height="20" alt="brakeman"/> | `:brakeman:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/bugsnag.png" width="20" height="20" alt="bugsnag"/> | `:bugsnag:`
@@ -167,6 +161,7 @@ Emoji | Aliases
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/rspec.png" width="20" height="20" alt="rspec"/> | `:rspec:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/rubocop.png" width="20" height="20" alt="rubocop"/> | `:rubocop:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/ruby.png" width="20" height="20" alt="ruby"/> | `:ruby:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/elixir.png" width="20" height="20" alt="elixir"/> | `:elixir:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/rubygems.png" width="20" height="20" alt="rubygems"/> | `:rubygems:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/s3.png" width="20" height="20" alt="s3"/> | `:s3:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/scientific_linux.png" width="20" height="20" alt="scientific_linux"/> | `:scientific_linux:`
@@ -177,7 +172,11 @@ Emoji | Aliases
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/ubuntu.png" width="20" height="20" alt="ubuntu"/> | `:ubuntu:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/webpack.png" width="20" height="20" alt="webpack"/> | `:webpack:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/windows.png" width="20" height="20" alt="windows"/> | `:windows:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/quay.png" width="20" height="20" alt="quay"/> | `:quay:`, `:quay.io:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/wraith.png" width="20" height="20" alt="wraith"/> | `:wraith:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/elm.png" width="20" height="20" alt="elm"/> | `:elm:`, `:elmlang:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/exploding_death_star.gif" width="20" height="20" alt="exploding_death_star"/> | `:exploding_death_star:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/composer.png" width="20" height="20" alt="composer"/> | `:composer:`
 
 ## People
 
@@ -359,6 +358,11 @@ Emoji | Aliases
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-apple-64/1f590-1f3ff.png" width="20" height="20" alt="raised_hand_with_fingers_splayed"/> | `:raised_hand_with_fingers_splayed::skin-tone-6:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-apple-64/1f576.png" width="20" height="20" alt="dark_sunglasses"/> | `:dark_sunglasses:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-apple-64/1f575.png" width="20" height="20" alt="sleuth_or_spy"/> | `:sleuth_or_spy:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-apple-64/1f575-1f3fb.png" width="20" height="20" alt="sleuth_or_spy"/> | `:sleuth_or_spy::skin-tone-2:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-apple-64/1f575-1f3fc.png" width="20" height="20" alt="sleuth_or_spy"/> | `:sleuth_or_spy::skin-tone-3:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-apple-64/1f575-1f3fd.png" width="20" height="20" alt="sleuth_or_spy"/> | `:sleuth_or_spy::skin-tone-4:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-apple-64/1f575-1f3fe.png" width="20" height="20" alt="sleuth_or_spy"/> | `:sleuth_or_spy::skin-tone-5:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-apple-64/1f575-1f3ff.png" width="20" height="20" alt="sleuth_or_spy"/> | `:sleuth_or_spy::skin-tone-6:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-apple-64/1f4bc.png" width="20" height="20" alt="briefcase"/> | `:briefcase:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-apple-64/1f4aa.png" width="20" height="20" alt="muscle"/> | `:muscle:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-apple-64/1f4aa-1f3fb.png" width="20" height="20" alt="muscle"/> | `:muscle::skin-tone-2:`
@@ -805,12 +809,12 @@ Emoji | Aliases
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-apple-64/2728.png" width="20" height="20" alt="sparkles"/> | `:sparkles:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-apple-64/26c8.png" width="20" height="20" alt="thunder_cloud_and_rain"/> | `:thunder_cloud_and_rain:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-apple-64/26c5.png" width="20" height="20" alt="partly_sunny"/> | `:partly_sunny:`
-<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-apple-64/26c4.png" width="20" height="20" alt="snowman"/> | `:snowman:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-apple-64/26c4.png" width="20" height="20" alt="snowman_without_snow"/> | `:snowman_without_snow:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-apple-64/26a1.png" width="20" height="20" alt="zap"/> | `:zap:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-apple-64/2618.png" width="20" height="20" alt="shamrock"/> | `:shamrock:`
-<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-apple-64/2614.png" width="20" height="20" alt="umbrella"/> | `:umbrella:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-apple-64/2614.png" width="20" height="20" alt="umbrella_with_rain_drops"/> | `:umbrella_with_rain_drops:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-apple-64/2604.png" width="20" height="20" alt="comet"/> | `:comet:`
-<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-apple-64/2603.png" width="20" height="20" alt="showman"/> | `:showman:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-apple-64/2603.png" width="20" height="20" alt="snowman"/> | `:snowman:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-apple-64/2602.png" width="20" height="20" alt="umbrella"/> | `:umbrella:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-apple-64/2601.png" width="20" height="20" alt="cloud"/> | `:cloud:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-apple-64/2600.png" width="20" height="20" alt="sunny"/> | `:sunny:`
@@ -1202,7 +1206,7 @@ Emoji | Aliases
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-apple-64/1f4e6.png" width="20" height="20" alt="package"/> | `:package:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-apple-64/1f4e5.png" width="20" height="20" alt="inbox_tray"/> | `:inbox_tray:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-apple-64/1f4e4.png" width="20" height="20" alt="outbox_tray"/> | `:outbox_tray:`
-<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-apple-64/1f4e1.png" width="20" height="20" alt="satellite"/> | `:satellite:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-apple-64/1f4e1.png" width="20" height="20" alt="satellite_antenna"/> | `:satellite_antenna:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-apple-64/1f4e0.png" width="20" height="20" alt="fax"/> | `:fax:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-apple-64/1f4df.png" width="20" height="20" alt="pager"/> | `:pager:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-apple-64/1f4de.png" width="20" height="20" alt="telephone_receiver"/> | `:telephone_receiver:`

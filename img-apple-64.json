@@ -516,7 +516,7 @@
     ]
   },
   {
-    "name": "showman",
+    "name": "snowman",
     "category": "Nature",
     "image": "img-apple-64/2603.png",
     "unicode": "2603",
@@ -564,7 +564,7 @@
     ]
   },
   {
-    "name": "umbrella",
+    "name": "umbrella_with_rain_drops",
     "category": "Nature",
     "image": "img-apple-64/2614.png",
     "unicode": "2614",
@@ -1176,7 +1176,7 @@
     ]
   },
   {
-    "name": "snowman",
+    "name": "snowman_without_snow",
     "category": "Nature",
     "image": "img-apple-64/26c4.png",
     "unicode": "26C4",
@@ -5521,7 +5521,7 @@
   },
   {
     "name": "skin-tone-2",
-    "category": null,
+    "category": "Skin Tones",
     "image": "img-apple-64/1f3fb.png",
     "unicode": "1F3FB",
     "aliases": [
@@ -5533,7 +5533,7 @@
   },
   {
     "name": "skin-tone-3",
-    "category": null,
+    "category": "Skin Tones",
     "image": "img-apple-64/1f3fc.png",
     "unicode": "1F3FC",
     "aliases": [
@@ -5545,7 +5545,7 @@
   },
   {
     "name": "skin-tone-4",
-    "category": null,
+    "category": "Skin Tones",
     "image": "img-apple-64/1f3fd.png",
     "unicode": "1F3FD",
     "aliases": [
@@ -5557,7 +5557,7 @@
   },
   {
     "name": "skin-tone-5",
-    "category": null,
+    "category": "Skin Tones",
     "image": "img-apple-64/1f3fe.png",
     "unicode": "1F3FE",
     "aliases": [
@@ -5569,7 +5569,7 @@
   },
   {
     "name": "skin-tone-6",
-    "category": null,
+    "category": "Skin Tones",
     "image": "img-apple-64/1f3ff.png",
     "unicode": "1F3FF",
     "aliases": [
@@ -9121,7 +9121,7 @@
     ]
   },
   {
-    "name": "satellite",
+    "name": "satellite_antenna",
     "category": "Objects",
     "image": "img-apple-64/1f4e1.png",
     "unicode": "1F4E1",
@@ -10641,7 +10641,31 @@
 
     ],
     "modifiers": [
-
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f575-1f3fb.png",
+        "unicode": "1F575-1F3FB"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f575-1f3fc.png",
+        "unicode": "1F575-1F3FC"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f575-1f3fd.png",
+        "unicode": "1F575-1F3FD"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f575-1f3fe.png",
+        "unicode": "1F575-1F3FE"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f575-1f3ff.png",
+        "unicode": "1F575-1F3FF"
+      }
     ]
   },
   {
