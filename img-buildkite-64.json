@@ -1,5 +1,11 @@
 [
   {
+    "name": "nightmare",
+    "image": "img-buildkite-64/nightmare.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "gulp",
     "image": "img-buildkite-64/gulp.png",
     "category": "Buildkite",

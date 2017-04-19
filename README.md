@@ -16,6 +16,7 @@ To contribute a new custom emoji simply:
 
 Emoji | Aliases
 ----- | -------
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/nightmare.png" width="20" height="20" alt="nightmare"/> | `:nightmare:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/gulp.png" width="20" height="20" alt="gulp"/> | `:gulp:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/stryker.png" width="20" height="20" alt="stryker"/> | `:stryker:`, `:stryker-js:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/bash.png" width="20" height="20" alt="bash"/> | `:bash:`
