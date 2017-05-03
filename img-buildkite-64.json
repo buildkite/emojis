@@ -1,5 +1,11 @@
 [
   {
+    "name": "rancher",
+    "image": "img-buildkite-64/rancher.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "nightmare",
     "image": "img-buildkite-64/nightmare.png",
     "category": "Buildkite",
