@@ -16,6 +16,9 @@ To contribute a new custom emoji simply:
 
 Emoji | Aliases
 ----- | -------
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/netbsd.png" width="20" height="20" alt="netbsd"/> | `:netbsd:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/openbsd.png" width="20" height="20" alt="openbsd"/> | `:openbsd:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/dragonflybsd.png" width="20" height="20" alt="dragonflybsd"/> | `:dragonflybsd:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/rancher.png" width="20" height="20" alt="rancher"/> | `:rancher:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/nightmare.png" width="20" height="20" alt="nightmare"/> | `:nightmare:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/gulp.png" width="20" height="20" alt="gulp"/> | `:gulp:`
@@ -71,9 +74,6 @@ Emoji | Aliases
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/firefox.png" width="20" height="20" alt="firefox"/> | `:firefox:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/mina.png" width="20" height="20" alt="mina"/> | `:mina:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/webhook.png" width="20" height="20" alt="webhook"/> | `:webhook:`
-<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/brunch.png" width="20" height="20" alt="brunch"/> | `:brunch:`
-<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/hex.png" width="20" height="20" alt="hex"/> | `:hex:`
-<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/erlang.png" width="20" height="20" alt="erlang"/> | `:erlang:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/slack.png" width="20" height="20" alt="slack"/> | `:slack:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/hipchat.png" width="20" height="20" alt="hipchat"/> | `:hipchat:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/flowdock.png" width="20" height="20" alt="flowdock"/> | `:flowdock:`
@@ -87,6 +87,7 @@ Emoji | Aliases
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/mocha.png" width="20" height="20" alt="mocha"/> | `:mocha:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/rails.png" width="20" height="20" alt="rails"/> | `:rails:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/phoenix.png" width="20" height="20" alt="phoenix"/> | `:phoenix:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/brunch.png" width="20" height="20" alt="brunch"/> | `:brunch:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/android.png" width="20" height="20" alt="android"/> | `:android:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/jasmine.png" width="20" height="20" alt="jasmine"/> | `:jasmine:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/react.png" width="20" height="20" alt="react"/> | `:react:`
@@ -167,6 +168,8 @@ Emoji | Aliases
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/rubocop.png" width="20" height="20" alt="rubocop"/> | `:rubocop:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/ruby.png" width="20" height="20" alt="ruby"/> | `:ruby:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/elixir.png" width="20" height="20" alt="elixir"/> | `:elixir:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/erlang.png" width="20" height="20" alt="erlang"/> | `:erlang:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/hex.png" width="20" height="20" alt="hex"/> | `:hex:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/rubygems.png" width="20" height="20" alt="rubygems"/> | `:rubygems:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/s3.png" width="20" height="20" alt="s3"/> | `:s3:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/scientific_linux.png" width="20" height="20" alt="scientific_linux"/> | `:scientific_linux:`

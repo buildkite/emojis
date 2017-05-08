@@ -1,5 +1,23 @@
 [
   {
+    "name": "netbsd",
+    "image": "img-buildkite-64/netbsd.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "openbsd",
+    "image": "img-buildkite-64/openbsd.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "dragonflybsd",
+    "image": "img-buildkite-64/dragonflybsd.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "rancher",
     "image": "img-buildkite-64/rancher.png",
     "category": "Buildkite",
