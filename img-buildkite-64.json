@@ -1200,6 +1200,14 @@
     ]
   },
   {
+    "name": "credo",
+    "image": "img-buildkite-64/credo.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "erlang",
     "image": "img-buildkite-64/erlang.png",
     "category": "Buildkite",
