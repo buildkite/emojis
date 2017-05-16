@@ -1,5 +1,13 @@
 [
   {
+    "name": "cloudfoundry",
+    "image": "img-buildkite-64/cloudfoundry.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "netbsd",
     "image": "img-buildkite-64/netbsd.png",
     "category": "Buildkite",
