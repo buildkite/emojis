@@ -1020,6 +1020,18 @@
     ]
   },
   {
+    "name": "staff_of_aesculapius",
+    "category": "Symbols",
+    "image": "img-apple-64/2695.png",
+    "unicode": "2695",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
     "name": "scales",
     "category": "Objects",
     "image": "img-apple-64/2696.png",
@@ -3840,12 +3852,12 @@
     ]
   },
   {
-    "name": "egg",
+    "name": "fried_egg",
     "category": "Foods",
     "image": "img-apple-64/1f373.png",
     "unicode": "1F373",
     "aliases": [
-
+      "cooking"
     ],
     "modifiers": [
 
@@ -4760,7 +4772,31 @@
 
     ],
     "modifiers": [
-
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f3c2-1f3fb.png",
+        "unicode": "1F3C2-1F3FB"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f3c2-1f3fc.png",
+        "unicode": "1F3C2-1F3FC"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f3c2-1f3fd.png",
+        "unicode": "1F3C2-1F3FD"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f3c2-1f3fe.png",
+        "unicode": "1F3C2-1F3FE"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f3c2-1f3ff.png",
+        "unicode": "1F3C2-1F3FF"
+      }
     ]
   },
   {
@@ -5000,7 +5036,31 @@
 
     ],
     "modifiers": [
-
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f3cc-1f3fb.png",
+        "unicode": "1F3CC-1F3FB"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f3cc-1f3fc.png",
+        "unicode": "1F3CC-1F3FC"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f3cc-1f3fd.png",
+        "unicode": "1F3CC-1F3FD"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f3cc-1f3fe.png",
+        "unicode": "1F3CC-1F3FE"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f3cc-1f3ff.png",
+        "unicode": "1F3CC-1F3FF"
+      }
     ]
   },
   {
@@ -10629,7 +10689,31 @@
 
     ],
     "modifiers": [
-
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f574-1f3fb.png",
+        "unicode": "1F574-1F3FB"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f574-1f3fc.png",
+        "unicode": "1F574-1F3FC"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f574-1f3fd.png",
+        "unicode": "1F574-1F3FD"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f574-1f3fe.png",
+        "unicode": "1F574-1F3FE"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f574-1f3ff.png",
+        "unicode": "1F574-1F3FF"
+      }
     ]
   },
   {
@@ -10714,6 +10798,42 @@
     ],
     "modifiers": [
 
+    ]
+  },
+  {
+    "name": "man_dancing",
+    "category": "People",
+    "image": "img-apple-64/1f57a.png",
+    "unicode": "1F57A",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f57a-1f3fb.png",
+        "unicode": "1F57A-1F3FB"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f57a-1f3fc.png",
+        "unicode": "1F57A-1F3FC"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f57a-1f3fd.png",
+        "unicode": "1F57A-1F3FD"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f57a-1f3fe.png",
+        "unicode": "1F57A-1F3FE"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f57a-1f3ff.png",
+        "unicode": "1F57A-1F3FF"
+      }
     ]
   },
   {
@@ -10882,6 +11002,18 @@
         "image": "img-apple-64/1f596-1f3ff.png",
         "unicode": "1F596-1F3FF"
       }
+    ]
+  },
+  {
+    "name": "black_heart",
+    "category": "Symbols",
+    "image": "img-apple-64/1f5a4.png",
+    "unicode": "1F5A4",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
     ]
   },
   {
@@ -13317,7 +13449,31 @@
 
     ],
     "modifiers": [
-
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f6cc-1f3fb.png",
+        "unicode": "1F6CC-1F3FB"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f6cc-1f3fc.png",
+        "unicode": "1F6CC-1F3FC"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f6cc-1f3fd.png",
+        "unicode": "1F6CC-1F3FD"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f6cc-1f3fe.png",
+        "unicode": "1F6CC-1F3FE"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f6cc-1f3ff.png",
+        "unicode": "1F6CC-1F3FF"
+      }
     ]
   },
   {
@@ -13361,6 +13517,30 @@
     "category": "Symbols",
     "image": "img-apple-64/1f6d0.png",
     "unicode": "1F6D0",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "octagonal_sign",
+    "category": "Symbols",
+    "image": "img-apple-64/1f6d1.png",
+    "unicode": "1F6D1",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "shopping_trolley",
+    "category": "Objects",
+    "image": "img-apple-64/1f6d2.png",
+    "unicode": "1F6D2",
     "aliases": [
 
     ],
@@ -13501,6 +13681,42 @@
     ]
   },
   {
+    "name": "scooter",
+    "category": "Places",
+    "image": "img-apple-64/1f6f4.png",
+    "unicode": "1F6F4",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "motor_scooter",
+    "category": "Places",
+    "image": "img-apple-64/1f6f5.png",
+    "unicode": "1F6F5",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "canoe",
+    "category": "Places",
+    "image": "img-apple-64/1f6f6.png",
+    "unicode": "1F6F6",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
     "name": "zipper_mouth_face",
     "category": "People",
     "image": "img-apple-64/1f910.png",
@@ -13633,6 +13849,1014 @@
     ]
   },
   {
+    "name": "call_me_hand",
+    "category": "People",
+    "image": "img-apple-64/1f919.png",
+    "unicode": "1F919",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f919-1f3fb.png",
+        "unicode": "1F919-1F3FB"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f919-1f3fc.png",
+        "unicode": "1F919-1F3FC"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f919-1f3fd.png",
+        "unicode": "1F919-1F3FD"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f919-1f3fe.png",
+        "unicode": "1F919-1F3FE"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f919-1f3ff.png",
+        "unicode": "1F919-1F3FF"
+      }
+    ]
+  },
+  {
+    "name": "raised_back_of_hand",
+    "category": "People",
+    "image": "img-apple-64/1f91a.png",
+    "unicode": "1F91A",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f91a-1f3fb.png",
+        "unicode": "1F91A-1F3FB"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f91a-1f3fc.png",
+        "unicode": "1F91A-1F3FC"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f91a-1f3fd.png",
+        "unicode": "1F91A-1F3FD"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f91a-1f3fe.png",
+        "unicode": "1F91A-1F3FE"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f91a-1f3ff.png",
+        "unicode": "1F91A-1F3FF"
+      }
+    ]
+  },
+  {
+    "name": "left-facing_fist",
+    "category": "People",
+    "image": "img-apple-64/1f91b.png",
+    "unicode": "1F91B",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f91b-1f3fb.png",
+        "unicode": "1F91B-1F3FB"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f91b-1f3fc.png",
+        "unicode": "1F91B-1F3FC"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f91b-1f3fd.png",
+        "unicode": "1F91B-1F3FD"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f91b-1f3fe.png",
+        "unicode": "1F91B-1F3FE"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f91b-1f3ff.png",
+        "unicode": "1F91B-1F3FF"
+      }
+    ]
+  },
+  {
+    "name": "right-facing_fist",
+    "category": "People",
+    "image": "img-apple-64/1f91c.png",
+    "unicode": "1F91C",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f91c-1f3fb.png",
+        "unicode": "1F91C-1F3FB"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f91c-1f3fc.png",
+        "unicode": "1F91C-1F3FC"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f91c-1f3fd.png",
+        "unicode": "1F91C-1F3FD"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f91c-1f3fe.png",
+        "unicode": "1F91C-1F3FE"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f91c-1f3ff.png",
+        "unicode": "1F91C-1F3FF"
+      }
+    ]
+  },
+  {
+    "name": "handshake",
+    "category": "People",
+    "image": "img-apple-64/1f91d.png",
+    "unicode": "1F91D",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "hand_with_index_and_middle_fingers_crossed",
+    "category": "People",
+    "image": "img-apple-64/1f91e.png",
+    "unicode": "1F91E",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f91e-1f3fb.png",
+        "unicode": "1F91E-1F3FB"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f91e-1f3fc.png",
+        "unicode": "1F91E-1F3FC"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f91e-1f3fd.png",
+        "unicode": "1F91E-1F3FD"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f91e-1f3fe.png",
+        "unicode": "1F91E-1F3FE"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f91e-1f3ff.png",
+        "unicode": "1F91E-1F3FF"
+      }
+    ]
+  },
+  {
+    "name": "face_with_cowboy_hat",
+    "category": "People",
+    "image": "img-apple-64/1f920.png",
+    "unicode": "1F920",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "clown_face",
+    "category": "People",
+    "image": "img-apple-64/1f921.png",
+    "unicode": "1F921",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "nauseated_face",
+    "category": "People",
+    "image": "img-apple-64/1f922.png",
+    "unicode": "1F922",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "rolling_on_the_floor_laughing",
+    "category": "People",
+    "image": "img-apple-64/1f923.png",
+    "unicode": "1F923",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "drooling_face",
+    "category": "People",
+    "image": "img-apple-64/1f924.png",
+    "unicode": "1F924",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "lying_face",
+    "category": "People",
+    "image": "img-apple-64/1f925.png",
+    "unicode": "1F925",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "face_palm",
+    "category": "People",
+    "image": "img-apple-64/1f926.png",
+    "unicode": "1F926",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f926-1f3fb.png",
+        "unicode": "1F926-1F3FB"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f926-1f3fc.png",
+        "unicode": "1F926-1F3FC"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f926-1f3fd.png",
+        "unicode": "1F926-1F3FD"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f926-1f3fe.png",
+        "unicode": "1F926-1F3FE"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f926-1f3ff.png",
+        "unicode": "1F926-1F3FF"
+      }
+    ]
+  },
+  {
+    "name": "sneezing_face",
+    "category": "People",
+    "image": "img-apple-64/1f927.png",
+    "unicode": "1F927",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "pregnant_woman",
+    "category": "People",
+    "image": "img-apple-64/1f930.png",
+    "unicode": "1F930",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f930-1f3fb.png",
+        "unicode": "1F930-1F3FB"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f930-1f3fc.png",
+        "unicode": "1F930-1F3FC"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f930-1f3fd.png",
+        "unicode": "1F930-1F3FD"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f930-1f3fe.png",
+        "unicode": "1F930-1F3FE"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f930-1f3ff.png",
+        "unicode": "1F930-1F3FF"
+      }
+    ]
+  },
+  {
+    "name": "selfie",
+    "category": "People",
+    "image": "img-apple-64/1f933.png",
+    "unicode": "1F933",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f933-1f3fb.png",
+        "unicode": "1F933-1F3FB"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f933-1f3fc.png",
+        "unicode": "1F933-1F3FC"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f933-1f3fd.png",
+        "unicode": "1F933-1F3FD"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f933-1f3fe.png",
+        "unicode": "1F933-1F3FE"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f933-1f3ff.png",
+        "unicode": "1F933-1F3FF"
+      }
+    ]
+  },
+  {
+    "name": "prince",
+    "category": "People",
+    "image": "img-apple-64/1f934.png",
+    "unicode": "1F934",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f934-1f3fb.png",
+        "unicode": "1F934-1F3FB"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f934-1f3fc.png",
+        "unicode": "1F934-1F3FC"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f934-1f3fd.png",
+        "unicode": "1F934-1F3FD"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f934-1f3fe.png",
+        "unicode": "1F934-1F3FE"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f934-1f3ff.png",
+        "unicode": "1F934-1F3FF"
+      }
+    ]
+  },
+  {
+    "name": "man_in_tuxedo",
+    "category": "People",
+    "image": "img-apple-64/1f935.png",
+    "unicode": "1F935",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f935-1f3fb.png",
+        "unicode": "1F935-1F3FB"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f935-1f3fc.png",
+        "unicode": "1F935-1F3FC"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f935-1f3fd.png",
+        "unicode": "1F935-1F3FD"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f935-1f3fe.png",
+        "unicode": "1F935-1F3FE"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f935-1f3ff.png",
+        "unicode": "1F935-1F3FF"
+      }
+    ]
+  },
+  {
+    "name": "mother_christmas",
+    "category": "People",
+    "image": "img-apple-64/1f936.png",
+    "unicode": "1F936",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f936-1f3fb.png",
+        "unicode": "1F936-1F3FB"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f936-1f3fc.png",
+        "unicode": "1F936-1F3FC"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f936-1f3fd.png",
+        "unicode": "1F936-1F3FD"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f936-1f3fe.png",
+        "unicode": "1F936-1F3FE"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f936-1f3ff.png",
+        "unicode": "1F936-1F3FF"
+      }
+    ]
+  },
+  {
+    "name": "shrug",
+    "category": "People",
+    "image": "img-apple-64/1f937.png",
+    "unicode": "1F937",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f937-1f3fb.png",
+        "unicode": "1F937-1F3FB"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f937-1f3fc.png",
+        "unicode": "1F937-1F3FC"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f937-1f3fd.png",
+        "unicode": "1F937-1F3FD"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f937-1f3fe.png",
+        "unicode": "1F937-1F3FE"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f937-1f3ff.png",
+        "unicode": "1F937-1F3FF"
+      }
+    ]
+  },
+  {
+    "name": "person_doing_cartwheel",
+    "category": "Activity",
+    "image": "img-apple-64/1f938.png",
+    "unicode": "1F938",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f938-1f3fb.png",
+        "unicode": "1F938-1F3FB"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f938-1f3fc.png",
+        "unicode": "1F938-1F3FC"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f938-1f3fd.png",
+        "unicode": "1F938-1F3FD"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f938-1f3fe.png",
+        "unicode": "1F938-1F3FE"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f938-1f3ff.png",
+        "unicode": "1F938-1F3FF"
+      }
+    ]
+  },
+  {
+    "name": "juggling",
+    "category": "Activity",
+    "image": "img-apple-64/1f939.png",
+    "unicode": "1F939",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f939-1f3fb.png",
+        "unicode": "1F939-1F3FB"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f939-1f3fc.png",
+        "unicode": "1F939-1F3FC"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f939-1f3fd.png",
+        "unicode": "1F939-1F3FD"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f939-1f3fe.png",
+        "unicode": "1F939-1F3FE"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f939-1f3ff.png",
+        "unicode": "1F939-1F3FF"
+      }
+    ]
+  },
+  {
+    "name": "fencer",
+    "category": "Activity",
+    "image": "img-apple-64/1f93a.png",
+    "unicode": "1F93A",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "wrestlers",
+    "category": "Activity",
+    "image": "img-apple-64/1f93c.png",
+    "unicode": "1F93C",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "water_polo",
+    "category": "Activity",
+    "image": "img-apple-64/1f93d.png",
+    "unicode": "1F93D",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f93d-1f3fb.png",
+        "unicode": "1F93D-1F3FB"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f93d-1f3fc.png",
+        "unicode": "1F93D-1F3FC"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f93d-1f3fd.png",
+        "unicode": "1F93D-1F3FD"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f93d-1f3fe.png",
+        "unicode": "1F93D-1F3FE"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f93d-1f3ff.png",
+        "unicode": "1F93D-1F3FF"
+      }
+    ]
+  },
+  {
+    "name": "handball",
+    "category": "Activity",
+    "image": "img-apple-64/1f93e.png",
+    "unicode": "1F93E",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f93e-1f3fb.png",
+        "unicode": "1F93E-1F3FB"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f93e-1f3fc.png",
+        "unicode": "1F93E-1F3FC"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f93e-1f3fd.png",
+        "unicode": "1F93E-1F3FD"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f93e-1f3fe.png",
+        "unicode": "1F93E-1F3FE"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f93e-1f3ff.png",
+        "unicode": "1F93E-1F3FF"
+      }
+    ]
+  },
+  {
+    "name": "wilted_flower",
+    "category": "Nature",
+    "image": "img-apple-64/1f940.png",
+    "unicode": "1F940",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "drum_with_drumsticks",
+    "category": "Activity",
+    "image": "img-apple-64/1f941.png",
+    "unicode": "1F941",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "clinking_glasses",
+    "category": "Foods",
+    "image": "img-apple-64/1f942.png",
+    "unicode": "1F942",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "tumbler_glass",
+    "category": "Foods",
+    "image": "img-apple-64/1f943.png",
+    "unicode": "1F943",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "spoon",
+    "category": "Foods",
+    "image": "img-apple-64/1f944.png",
+    "unicode": "1F944",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "goal_net",
+    "category": "Activity",
+    "image": "img-apple-64/1f945.png",
+    "unicode": "1F945",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "first_place_medal",
+    "category": "Activity",
+    "image": "img-apple-64/1f947.png",
+    "unicode": "1F947",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "second_place_medal",
+    "category": "Activity",
+    "image": "img-apple-64/1f948.png",
+    "unicode": "1F948",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "third_place_medal",
+    "category": "Activity",
+    "image": "img-apple-64/1f949.png",
+    "unicode": "1F949",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "boxing_glove",
+    "category": "Activity",
+    "image": "img-apple-64/1f94a.png",
+    "unicode": "1F94A",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "martial_arts_uniform",
+    "category": "Activity",
+    "image": "img-apple-64/1f94b.png",
+    "unicode": "1F94B",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "croissant",
+    "category": "Foods",
+    "image": "img-apple-64/1f950.png",
+    "unicode": "1F950",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "avocado",
+    "category": "Foods",
+    "image": "img-apple-64/1f951.png",
+    "unicode": "1F951",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "cucumber",
+    "category": "Foods",
+    "image": "img-apple-64/1f952.png",
+    "unicode": "1F952",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "bacon",
+    "category": "Foods",
+    "image": "img-apple-64/1f953.png",
+    "unicode": "1F953",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "potato",
+    "category": "Foods",
+    "image": "img-apple-64/1f954.png",
+    "unicode": "1F954",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "carrot",
+    "category": "Foods",
+    "image": "img-apple-64/1f955.png",
+    "unicode": "1F955",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "baguette_bread",
+    "category": "Foods",
+    "image": "img-apple-64/1f956.png",
+    "unicode": "1F956",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "green_salad",
+    "category": "Foods",
+    "image": "img-apple-64/1f957.png",
+    "unicode": "1F957",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "shallow_pan_of_food",
+    "category": "Foods",
+    "image": "img-apple-64/1f958.png",
+    "unicode": "1F958",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "stuffed_flatbread",
+    "category": "Foods",
+    "image": "img-apple-64/1f959.png",
+    "unicode": "1F959",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "egg",
+    "category": "Foods",
+    "image": "img-apple-64/1f95a.png",
+    "unicode": "1F95A",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "glass_of_milk",
+    "category": "Foods",
+    "image": "img-apple-64/1f95b.png",
+    "unicode": "1F95B",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "peanuts",
+    "category": "Foods",
+    "image": "img-apple-64/1f95c.png",
+    "unicode": "1F95C",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "kiwifruit",
+    "category": "Foods",
+    "image": "img-apple-64/1f95d.png",
+    "unicode": "1F95D",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "pancakes",
+    "category": "Foods",
+    "image": "img-apple-64/1f95e.png",
+    "unicode": "1F95E",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
     "name": "crab",
     "category": "Nature",
     "image": "img-apple-64/1f980.png",
@@ -13685,6 +14909,162 @@
     "category": "Nature",
     "image": "img-apple-64/1f984.png",
     "unicode": "1F984",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "eagle",
+    "category": "Nature",
+    "image": "img-apple-64/1f985.png",
+    "unicode": "1F985",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "duck",
+    "category": "Nature",
+    "image": "img-apple-64/1f986.png",
+    "unicode": "1F986",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "bat",
+    "category": "Nature",
+    "image": "img-apple-64/1f987.png",
+    "unicode": "1F987",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "shark",
+    "category": "Nature",
+    "image": "img-apple-64/1f988.png",
+    "unicode": "1F988",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "owl",
+    "category": "Nature",
+    "image": "img-apple-64/1f989.png",
+    "unicode": "1F989",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "fox_face",
+    "category": "Nature",
+    "image": "img-apple-64/1f98a.png",
+    "unicode": "1F98A",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "butterfly",
+    "category": "Nature",
+    "image": "img-apple-64/1f98b.png",
+    "unicode": "1F98B",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "deer",
+    "category": "Nature",
+    "image": "img-apple-64/1f98c.png",
+    "unicode": "1F98C",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "gorilla",
+    "category": "Nature",
+    "image": "img-apple-64/1f98d.png",
+    "unicode": "1F98D",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "lizard",
+    "category": "Nature",
+    "image": "img-apple-64/1f98e.png",
+    "unicode": "1F98E",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "rhinoceros",
+    "category": "Nature",
+    "image": "img-apple-64/1f98f.png",
+    "unicode": "1F98F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "shrimp",
+    "category": "Nature",
+    "image": "img-apple-64/1f990.png",
+    "unicode": "1F990",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "squid",
+    "category": "Nature",
+    "image": "img-apple-64/1f991.png",
+    "unicode": "1F991",
     "aliases": [
 
     ],
@@ -16934,6 +18314,1410 @@
     ]
   },
   {
+    "name": "male-farmer",
+    "category": "People",
+    "image": "img-apple-64/1f468-200d-1f33e.png",
+    "unicode": "1F468-200D-1F33E",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f468-1f3fb-200d-1f33e.png",
+        "unicode": "1F468-1F3FB-200D-1F33E"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f468-1f3fc-200d-1f33e.png",
+        "unicode": "1F468-1F3FC-200D-1F33E"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f468-1f3fd-200d-1f33e.png",
+        "unicode": "1F468-1F3FD-200D-1F33E"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f468-1f3fe-200d-1f33e.png",
+        "unicode": "1F468-1F3FE-200D-1F33E"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f468-1f3ff-200d-1f33e.png",
+        "unicode": "1F468-1F3FF-200D-1F33E"
+      }
+    ]
+  },
+  {
+    "name": "male-cook",
+    "category": "People",
+    "image": "img-apple-64/1f468-200d-1f373.png",
+    "unicode": "1F468-200D-1F373",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f468-1f3fb-200d-1f373.png",
+        "unicode": "1F468-1F3FB-200D-1F373"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f468-1f3fc-200d-1f373.png",
+        "unicode": "1F468-1F3FC-200D-1F373"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f468-1f3fd-200d-1f373.png",
+        "unicode": "1F468-1F3FD-200D-1F373"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f468-1f3fe-200d-1f373.png",
+        "unicode": "1F468-1F3FE-200D-1F373"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f468-1f3ff-200d-1f373.png",
+        "unicode": "1F468-1F3FF-200D-1F373"
+      }
+    ]
+  },
+  {
+    "name": "male-student",
+    "category": "People",
+    "image": "img-apple-64/1f468-200d-1f393.png",
+    "unicode": "1F468-200D-1F393",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f468-1f3fb-200d-1f393.png",
+        "unicode": "1F468-1F3FB-200D-1F393"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f468-1f3fc-200d-1f393.png",
+        "unicode": "1F468-1F3FC-200D-1F393"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f468-1f3fd-200d-1f393.png",
+        "unicode": "1F468-1F3FD-200D-1F393"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f468-1f3fe-200d-1f393.png",
+        "unicode": "1F468-1F3FE-200D-1F393"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f468-1f3ff-200d-1f393.png",
+        "unicode": "1F468-1F3FF-200D-1F393"
+      }
+    ]
+  },
+  {
+    "name": "male-singer",
+    "category": "People",
+    "image": "img-apple-64/1f468-200d-1f3a4.png",
+    "unicode": "1F468-200D-1F3A4",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f468-1f3fb-200d-1f3a4.png",
+        "unicode": "1F468-1F3FB-200D-1F3A4"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f468-1f3fc-200d-1f3a4.png",
+        "unicode": "1F468-1F3FC-200D-1F3A4"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f468-1f3fd-200d-1f3a4.png",
+        "unicode": "1F468-1F3FD-200D-1F3A4"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f468-1f3fe-200d-1f3a4.png",
+        "unicode": "1F468-1F3FE-200D-1F3A4"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f468-1f3ff-200d-1f3a4.png",
+        "unicode": "1F468-1F3FF-200D-1F3A4"
+      }
+    ]
+  },
+  {
+    "name": "male-artist",
+    "category": "People",
+    "image": "img-apple-64/1f468-200d-1f3a8.png",
+    "unicode": "1F468-200D-1F3A8",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f468-1f3fb-200d-1f3a8.png",
+        "unicode": "1F468-1F3FB-200D-1F3A8"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f468-1f3fc-200d-1f3a8.png",
+        "unicode": "1F468-1F3FC-200D-1F3A8"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f468-1f3fd-200d-1f3a8.png",
+        "unicode": "1F468-1F3FD-200D-1F3A8"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f468-1f3fe-200d-1f3a8.png",
+        "unicode": "1F468-1F3FE-200D-1F3A8"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f468-1f3ff-200d-1f3a8.png",
+        "unicode": "1F468-1F3FF-200D-1F3A8"
+      }
+    ]
+  },
+  {
+    "name": "male-teacher",
+    "category": "People",
+    "image": "img-apple-64/1f468-200d-1f3eb.png",
+    "unicode": "1F468-200D-1F3EB",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f468-1f3fb-200d-1f3eb.png",
+        "unicode": "1F468-1F3FB-200D-1F3EB"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f468-1f3fc-200d-1f3eb.png",
+        "unicode": "1F468-1F3FC-200D-1F3EB"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f468-1f3fd-200d-1f3eb.png",
+        "unicode": "1F468-1F3FD-200D-1F3EB"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f468-1f3fe-200d-1f3eb.png",
+        "unicode": "1F468-1F3FE-200D-1F3EB"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f468-1f3ff-200d-1f3eb.png",
+        "unicode": "1F468-1F3FF-200D-1F3EB"
+      }
+    ]
+  },
+  {
+    "name": "male-factory-worker",
+    "category": "People",
+    "image": "img-apple-64/1f468-200d-1f3ed.png",
+    "unicode": "1F468-200D-1F3ED",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f468-1f3fb-200d-1f3ed.png",
+        "unicode": "1F468-1F3FB-200D-1F3ED"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f468-1f3fc-200d-1f3ed.png",
+        "unicode": "1F468-1F3FC-200D-1F3ED"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f468-1f3fd-200d-1f3ed.png",
+        "unicode": "1F468-1F3FD-200D-1F3ED"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f468-1f3fe-200d-1f3ed.png",
+        "unicode": "1F468-1F3FE-200D-1F3ED"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f468-1f3ff-200d-1f3ed.png",
+        "unicode": "1F468-1F3FF-200D-1F3ED"
+      }
+    ]
+  },
+  {
+    "name": "man-boy",
+    "category": "People",
+    "image": "img-apple-64/1f468-200d-1f466.png",
+    "unicode": "1F468-200D-1F466",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "man-girl",
+    "category": "People",
+    "image": "img-apple-64/1f468-200d-1f467.png",
+    "unicode": "1F468-200D-1F467",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "male-technologist",
+    "category": "People",
+    "image": "img-apple-64/1f468-200d-1f4bb.png",
+    "unicode": "1F468-200D-1F4BB",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f468-1f3fb-200d-1f4bb.png",
+        "unicode": "1F468-1F3FB-200D-1F4BB"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f468-1f3fc-200d-1f4bb.png",
+        "unicode": "1F468-1F3FC-200D-1F4BB"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f468-1f3fd-200d-1f4bb.png",
+        "unicode": "1F468-1F3FD-200D-1F4BB"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f468-1f3fe-200d-1f4bb.png",
+        "unicode": "1F468-1F3FE-200D-1F4BB"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f468-1f3ff-200d-1f4bb.png",
+        "unicode": "1F468-1F3FF-200D-1F4BB"
+      }
+    ]
+  },
+  {
+    "name": "male-office-worker",
+    "category": "People",
+    "image": "img-apple-64/1f468-200d-1f4bc.png",
+    "unicode": "1F468-200D-1F4BC",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f468-1f3fb-200d-1f4bc.png",
+        "unicode": "1F468-1F3FB-200D-1F4BC"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f468-1f3fc-200d-1f4bc.png",
+        "unicode": "1F468-1F3FC-200D-1F4BC"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f468-1f3fd-200d-1f4bc.png",
+        "unicode": "1F468-1F3FD-200D-1F4BC"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f468-1f3fe-200d-1f4bc.png",
+        "unicode": "1F468-1F3FE-200D-1F4BC"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f468-1f3ff-200d-1f4bc.png",
+        "unicode": "1F468-1F3FF-200D-1F4BC"
+      }
+    ]
+  },
+  {
+    "name": "male-mechanic",
+    "category": "People",
+    "image": "img-apple-64/1f468-200d-1f527.png",
+    "unicode": "1F468-200D-1F527",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f468-1f3fb-200d-1f527.png",
+        "unicode": "1F468-1F3FB-200D-1F527"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f468-1f3fc-200d-1f527.png",
+        "unicode": "1F468-1F3FC-200D-1F527"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f468-1f3fd-200d-1f527.png",
+        "unicode": "1F468-1F3FD-200D-1F527"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f468-1f3fe-200d-1f527.png",
+        "unicode": "1F468-1F3FE-200D-1F527"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f468-1f3ff-200d-1f527.png",
+        "unicode": "1F468-1F3FF-200D-1F527"
+      }
+    ]
+  },
+  {
+    "name": "male-scientist",
+    "category": "People",
+    "image": "img-apple-64/1f468-200d-1f52c.png",
+    "unicode": "1F468-200D-1F52C",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f468-1f3fb-200d-1f52c.png",
+        "unicode": "1F468-1F3FB-200D-1F52C"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f468-1f3fc-200d-1f52c.png",
+        "unicode": "1F468-1F3FC-200D-1F52C"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f468-1f3fd-200d-1f52c.png",
+        "unicode": "1F468-1F3FD-200D-1F52C"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f468-1f3fe-200d-1f52c.png",
+        "unicode": "1F468-1F3FE-200D-1F52C"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f468-1f3ff-200d-1f52c.png",
+        "unicode": "1F468-1F3FF-200D-1F52C"
+      }
+    ]
+  },
+  {
+    "name": "male-astronaut",
+    "category": "People",
+    "image": "img-apple-64/1f468-200d-1f680.png",
+    "unicode": "1F468-200D-1F680",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f468-1f3fb-200d-1f680.png",
+        "unicode": "1F468-1F3FB-200D-1F680"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f468-1f3fc-200d-1f680.png",
+        "unicode": "1F468-1F3FC-200D-1F680"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f468-1f3fd-200d-1f680.png",
+        "unicode": "1F468-1F3FD-200D-1F680"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f468-1f3fe-200d-1f680.png",
+        "unicode": "1F468-1F3FE-200D-1F680"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f468-1f3ff-200d-1f680.png",
+        "unicode": "1F468-1F3FF-200D-1F680"
+      }
+    ]
+  },
+  {
+    "name": "male-firefighter",
+    "category": "People",
+    "image": "img-apple-64/1f468-200d-1f692.png",
+    "unicode": "1F468-200D-1F692",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f468-1f3fb-200d-1f692.png",
+        "unicode": "1F468-1F3FB-200D-1F692"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f468-1f3fc-200d-1f692.png",
+        "unicode": "1F468-1F3FC-200D-1F692"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f468-1f3fd-200d-1f692.png",
+        "unicode": "1F468-1F3FD-200D-1F692"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f468-1f3fe-200d-1f692.png",
+        "unicode": "1F468-1F3FE-200D-1F692"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f468-1f3ff-200d-1f692.png",
+        "unicode": "1F468-1F3FF-200D-1F692"
+      }
+    ]
+  },
+  {
+    "name": "female-farmer",
+    "category": "People",
+    "image": "img-apple-64/1f469-200d-1f33e.png",
+    "unicode": "1F469-200D-1F33E",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f469-1f3fb-200d-1f33e.png",
+        "unicode": "1F469-1F3FB-200D-1F33E"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f469-1f3fc-200d-1f33e.png",
+        "unicode": "1F469-1F3FC-200D-1F33E"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f469-1f3fd-200d-1f33e.png",
+        "unicode": "1F469-1F3FD-200D-1F33E"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f469-1f3fe-200d-1f33e.png",
+        "unicode": "1F469-1F3FE-200D-1F33E"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f469-1f3ff-200d-1f33e.png",
+        "unicode": "1F469-1F3FF-200D-1F33E"
+      }
+    ]
+  },
+  {
+    "name": "female-cook",
+    "category": "People",
+    "image": "img-apple-64/1f469-200d-1f373.png",
+    "unicode": "1F469-200D-1F373",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f469-1f3fb-200d-1f373.png",
+        "unicode": "1F469-1F3FB-200D-1F373"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f469-1f3fc-200d-1f373.png",
+        "unicode": "1F469-1F3FC-200D-1F373"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f469-1f3fd-200d-1f373.png",
+        "unicode": "1F469-1F3FD-200D-1F373"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f469-1f3fe-200d-1f373.png",
+        "unicode": "1F469-1F3FE-200D-1F373"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f469-1f3ff-200d-1f373.png",
+        "unicode": "1F469-1F3FF-200D-1F373"
+      }
+    ]
+  },
+  {
+    "name": "female-student",
+    "category": "People",
+    "image": "img-apple-64/1f469-200d-1f393.png",
+    "unicode": "1F469-200D-1F393",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f469-1f3fb-200d-1f393.png",
+        "unicode": "1F469-1F3FB-200D-1F393"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f469-1f3fc-200d-1f393.png",
+        "unicode": "1F469-1F3FC-200D-1F393"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f469-1f3fd-200d-1f393.png",
+        "unicode": "1F469-1F3FD-200D-1F393"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f469-1f3fe-200d-1f393.png",
+        "unicode": "1F469-1F3FE-200D-1F393"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f469-1f3ff-200d-1f393.png",
+        "unicode": "1F469-1F3FF-200D-1F393"
+      }
+    ]
+  },
+  {
+    "name": "female-singer",
+    "category": "People",
+    "image": "img-apple-64/1f469-200d-1f3a4.png",
+    "unicode": "1F469-200D-1F3A4",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f469-1f3fb-200d-1f3a4.png",
+        "unicode": "1F469-1F3FB-200D-1F3A4"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f469-1f3fc-200d-1f3a4.png",
+        "unicode": "1F469-1F3FC-200D-1F3A4"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f469-1f3fd-200d-1f3a4.png",
+        "unicode": "1F469-1F3FD-200D-1F3A4"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f469-1f3fe-200d-1f3a4.png",
+        "unicode": "1F469-1F3FE-200D-1F3A4"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f469-1f3ff-200d-1f3a4.png",
+        "unicode": "1F469-1F3FF-200D-1F3A4"
+      }
+    ]
+  },
+  {
+    "name": "female-artist",
+    "category": "People",
+    "image": "img-apple-64/1f469-200d-1f3a8.png",
+    "unicode": "1F469-200D-1F3A8",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f469-1f3fb-200d-1f3a8.png",
+        "unicode": "1F469-1F3FB-200D-1F3A8"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f469-1f3fc-200d-1f3a8.png",
+        "unicode": "1F469-1F3FC-200D-1F3A8"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f469-1f3fd-200d-1f3a8.png",
+        "unicode": "1F469-1F3FD-200D-1F3A8"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f469-1f3fe-200d-1f3a8.png",
+        "unicode": "1F469-1F3FE-200D-1F3A8"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f469-1f3ff-200d-1f3a8.png",
+        "unicode": "1F469-1F3FF-200D-1F3A8"
+      }
+    ]
+  },
+  {
+    "name": "female-teacher",
+    "category": "People",
+    "image": "img-apple-64/1f469-200d-1f3eb.png",
+    "unicode": "1F469-200D-1F3EB",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f469-1f3fb-200d-1f3eb.png",
+        "unicode": "1F469-1F3FB-200D-1F3EB"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f469-1f3fc-200d-1f3eb.png",
+        "unicode": "1F469-1F3FC-200D-1F3EB"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f469-1f3fd-200d-1f3eb.png",
+        "unicode": "1F469-1F3FD-200D-1F3EB"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f469-1f3fe-200d-1f3eb.png",
+        "unicode": "1F469-1F3FE-200D-1F3EB"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f469-1f3ff-200d-1f3eb.png",
+        "unicode": "1F469-1F3FF-200D-1F3EB"
+      }
+    ]
+  },
+  {
+    "name": "female-factory-worker",
+    "category": "People",
+    "image": "img-apple-64/1f469-200d-1f3ed.png",
+    "unicode": "1F469-200D-1F3ED",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f469-1f3fb-200d-1f3ed.png",
+        "unicode": "1F469-1F3FB-200D-1F3ED"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f469-1f3fc-200d-1f3ed.png",
+        "unicode": "1F469-1F3FC-200D-1F3ED"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f469-1f3fd-200d-1f3ed.png",
+        "unicode": "1F469-1F3FD-200D-1F3ED"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f469-1f3fe-200d-1f3ed.png",
+        "unicode": "1F469-1F3FE-200D-1F3ED"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f469-1f3ff-200d-1f3ed.png",
+        "unicode": "1F469-1F3FF-200D-1F3ED"
+      }
+    ]
+  },
+  {
+    "name": "woman-boy",
+    "category": "People",
+    "image": "img-apple-64/1f469-200d-1f466.png",
+    "unicode": "1F469-200D-1F466",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "woman-girl",
+    "category": "People",
+    "image": "img-apple-64/1f469-200d-1f467.png",
+    "unicode": "1F469-200D-1F467",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "female-technologist",
+    "category": "People",
+    "image": "img-apple-64/1f469-200d-1f4bb.png",
+    "unicode": "1F469-200D-1F4BB",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f469-1f3fb-200d-1f4bb.png",
+        "unicode": "1F469-1F3FB-200D-1F4BB"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f469-1f3fc-200d-1f4bb.png",
+        "unicode": "1F469-1F3FC-200D-1F4BB"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f469-1f3fd-200d-1f4bb.png",
+        "unicode": "1F469-1F3FD-200D-1F4BB"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f469-1f3fe-200d-1f4bb.png",
+        "unicode": "1F469-1F3FE-200D-1F4BB"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f469-1f3ff-200d-1f4bb.png",
+        "unicode": "1F469-1F3FF-200D-1F4BB"
+      }
+    ]
+  },
+  {
+    "name": "female-office-worker",
+    "category": "People",
+    "image": "img-apple-64/1f469-200d-1f4bc.png",
+    "unicode": "1F469-200D-1F4BC",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f469-1f3fb-200d-1f4bc.png",
+        "unicode": "1F469-1F3FB-200D-1F4BC"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f469-1f3fc-200d-1f4bc.png",
+        "unicode": "1F469-1F3FC-200D-1F4BC"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f469-1f3fd-200d-1f4bc.png",
+        "unicode": "1F469-1F3FD-200D-1F4BC"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f469-1f3fe-200d-1f4bc.png",
+        "unicode": "1F469-1F3FE-200D-1F4BC"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f469-1f3ff-200d-1f4bc.png",
+        "unicode": "1F469-1F3FF-200D-1F4BC"
+      }
+    ]
+  },
+  {
+    "name": "female-mechanic",
+    "category": "People",
+    "image": "img-apple-64/1f469-200d-1f527.png",
+    "unicode": "1F469-200D-1F527",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f469-1f3fb-200d-1f527.png",
+        "unicode": "1F469-1F3FB-200D-1F527"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f469-1f3fc-200d-1f527.png",
+        "unicode": "1F469-1F3FC-200D-1F527"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f469-1f3fd-200d-1f527.png",
+        "unicode": "1F469-1F3FD-200D-1F527"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f469-1f3fe-200d-1f527.png",
+        "unicode": "1F469-1F3FE-200D-1F527"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f469-1f3ff-200d-1f527.png",
+        "unicode": "1F469-1F3FF-200D-1F527"
+      }
+    ]
+  },
+  {
+    "name": "female-scientist",
+    "category": "People",
+    "image": "img-apple-64/1f469-200d-1f52c.png",
+    "unicode": "1F469-200D-1F52C",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f469-1f3fb-200d-1f52c.png",
+        "unicode": "1F469-1F3FB-200D-1F52C"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f469-1f3fc-200d-1f52c.png",
+        "unicode": "1F469-1F3FC-200D-1F52C"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f469-1f3fd-200d-1f52c.png",
+        "unicode": "1F469-1F3FD-200D-1F52C"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f469-1f3fe-200d-1f52c.png",
+        "unicode": "1F469-1F3FE-200D-1F52C"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f469-1f3ff-200d-1f52c.png",
+        "unicode": "1F469-1F3FF-200D-1F52C"
+      }
+    ]
+  },
+  {
+    "name": "female-astronaut",
+    "category": "People",
+    "image": "img-apple-64/1f469-200d-1f680.png",
+    "unicode": "1F469-200D-1F680",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f469-1f3fb-200d-1f680.png",
+        "unicode": "1F469-1F3FB-200D-1F680"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f469-1f3fc-200d-1f680.png",
+        "unicode": "1F469-1F3FC-200D-1F680"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f469-1f3fd-200d-1f680.png",
+        "unicode": "1F469-1F3FD-200D-1F680"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f469-1f3fe-200d-1f680.png",
+        "unicode": "1F469-1F3FE-200D-1F680"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f469-1f3ff-200d-1f680.png",
+        "unicode": "1F469-1F3FF-200D-1F680"
+      }
+    ]
+  },
+  {
+    "name": "female-firefighter",
+    "category": "People",
+    "image": "img-apple-64/1f469-200d-1f692.png",
+    "unicode": "1F469-200D-1F692",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f469-1f3fb-200d-1f692.png",
+        "unicode": "1F469-1F3FB-200D-1F692"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f469-1f3fc-200d-1f692.png",
+        "unicode": "1F469-1F3FC-200D-1F692"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f469-1f3fd-200d-1f692.png",
+        "unicode": "1F469-1F3FD-200D-1F692"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f469-1f3fe-200d-1f692.png",
+        "unicode": "1F469-1F3FE-200D-1F692"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f469-1f3ff-200d-1f692.png",
+        "unicode": "1F469-1F3FF-200D-1F692"
+      }
+    ]
+  },
+  {
+    "name": "woman-running",
+    "category": "People",
+    "image": "img-apple-64/1f3c3-200d-2640-fe0f.png",
+    "unicode": "1F3C3-200D-2640-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f3c3-1f3fb-200d-2640-fe0f.png",
+        "unicode": "1F3C3-1F3FB-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f3c3-1f3fc-200d-2640-fe0f.png",
+        "unicode": "1F3C3-1F3FC-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f3c3-1f3fd-200d-2640-fe0f.png",
+        "unicode": "1F3C3-1F3FD-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f3c3-1f3fe-200d-2640-fe0f.png",
+        "unicode": "1F3C3-1F3FE-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f3c3-1f3ff-200d-2640-fe0f.png",
+        "unicode": "1F3C3-1F3FF-200D-2640-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "man-running",
+    "category": "People",
+    "image": "img-apple-64/1f3c3-200d-2642-fe0f.png",
+    "unicode": "1F3C3-200D-2642-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f3c3-1f3fb-200d-2642-fe0f.png",
+        "unicode": "1F3C3-1F3FB-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f3c3-1f3fc-200d-2642-fe0f.png",
+        "unicode": "1F3C3-1F3FC-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f3c3-1f3fd-200d-2642-fe0f.png",
+        "unicode": "1F3C3-1F3FD-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f3c3-1f3fe-200d-2642-fe0f.png",
+        "unicode": "1F3C3-1F3FE-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f3c3-1f3ff-200d-2642-fe0f.png",
+        "unicode": "1F3C3-1F3FF-200D-2642-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "woman-surfing",
+    "category": "Activity",
+    "image": "img-apple-64/1f3c4-200d-2640-fe0f.png",
+    "unicode": "1F3C4-200D-2640-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f3c4-1f3fb-200d-2640-fe0f.png",
+        "unicode": "1F3C4-1F3FB-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f3c4-1f3fc-200d-2640-fe0f.png",
+        "unicode": "1F3C4-1F3FC-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f3c4-1f3fd-200d-2640-fe0f.png",
+        "unicode": "1F3C4-1F3FD-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f3c4-1f3fe-200d-2640-fe0f.png",
+        "unicode": "1F3C4-1F3FE-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f3c4-1f3ff-200d-2640-fe0f.png",
+        "unicode": "1F3C4-1F3FF-200D-2640-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "man-surfing",
+    "category": "Activity",
+    "image": "img-apple-64/1f3c4-200d-2642-fe0f.png",
+    "unicode": "1F3C4-200D-2642-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f3c4-1f3fb-200d-2642-fe0f.png",
+        "unicode": "1F3C4-1F3FB-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f3c4-1f3fc-200d-2642-fe0f.png",
+        "unicode": "1F3C4-1F3FC-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f3c4-1f3fd-200d-2642-fe0f.png",
+        "unicode": "1F3C4-1F3FD-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f3c4-1f3fe-200d-2642-fe0f.png",
+        "unicode": "1F3C4-1F3FE-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f3c4-1f3ff-200d-2642-fe0f.png",
+        "unicode": "1F3C4-1F3FF-200D-2642-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "woman-swimming",
+    "category": "Activity",
+    "image": "img-apple-64/1f3ca-200d-2640-fe0f.png",
+    "unicode": "1F3CA-200D-2640-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f3ca-1f3fb-200d-2640-fe0f.png",
+        "unicode": "1F3CA-1F3FB-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f3ca-1f3fc-200d-2640-fe0f.png",
+        "unicode": "1F3CA-1F3FC-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f3ca-1f3fd-200d-2640-fe0f.png",
+        "unicode": "1F3CA-1F3FD-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f3ca-1f3fe-200d-2640-fe0f.png",
+        "unicode": "1F3CA-1F3FE-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f3ca-1f3ff-200d-2640-fe0f.png",
+        "unicode": "1F3CA-1F3FF-200D-2640-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "man-swimming",
+    "category": "Activity",
+    "image": "img-apple-64/1f3ca-200d-2642-fe0f.png",
+    "unicode": "1F3CA-200D-2642-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f3ca-1f3fb-200d-2642-fe0f.png",
+        "unicode": "1F3CA-1F3FB-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f3ca-1f3fc-200d-2642-fe0f.png",
+        "unicode": "1F3CA-1F3FC-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f3ca-1f3fd-200d-2642-fe0f.png",
+        "unicode": "1F3CA-1F3FD-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f3ca-1f3fe-200d-2642-fe0f.png",
+        "unicode": "1F3CA-1F3FE-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f3ca-1f3ff-200d-2642-fe0f.png",
+        "unicode": "1F3CA-1F3FF-200D-2642-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "woman-lifting-weights",
+    "category": "Activity",
+    "image": "img-apple-64/1f3cb-fe0f-200d-2640-fe0f.png",
+    "unicode": "1F3CB-FE0F-200D-2640-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f3cb-1f3fb-200d-2640-fe0f.png",
+        "unicode": "1F3CB-1F3FB-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f3cb-1f3fc-200d-2640-fe0f.png",
+        "unicode": "1F3CB-1F3FC-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f3cb-1f3fd-200d-2640-fe0f.png",
+        "unicode": "1F3CB-1F3FD-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f3cb-1f3fe-200d-2640-fe0f.png",
+        "unicode": "1F3CB-1F3FE-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f3cb-1f3ff-200d-2640-fe0f.png",
+        "unicode": "1F3CB-1F3FF-200D-2640-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "man-lifting-weights",
+    "category": "Activity",
+    "image": "img-apple-64/1f3cb-fe0f-200d-2642-fe0f.png",
+    "unicode": "1F3CB-FE0F-200D-2642-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f3cb-1f3fb-200d-2642-fe0f.png",
+        "unicode": "1F3CB-1F3FB-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f3cb-1f3fc-200d-2642-fe0f.png",
+        "unicode": "1F3CB-1F3FC-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f3cb-1f3fd-200d-2642-fe0f.png",
+        "unicode": "1F3CB-1F3FD-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f3cb-1f3fe-200d-2642-fe0f.png",
+        "unicode": "1F3CB-1F3FE-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f3cb-1f3ff-200d-2642-fe0f.png",
+        "unicode": "1F3CB-1F3FF-200D-2642-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "woman-golfing",
+    "category": "Activity",
+    "image": "img-apple-64/1f3cc-fe0f-200d-2640-fe0f.png",
+    "unicode": "1F3CC-FE0F-200D-2640-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f3cc-1f3fb-200d-2640-fe0f.png",
+        "unicode": "1F3CC-1F3FB-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f3cc-1f3fc-200d-2640-fe0f.png",
+        "unicode": "1F3CC-1F3FC-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f3cc-1f3fd-200d-2640-fe0f.png",
+        "unicode": "1F3CC-1F3FD-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f3cc-1f3fe-200d-2640-fe0f.png",
+        "unicode": "1F3CC-1F3FE-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f3cc-1f3ff-200d-2640-fe0f.png",
+        "unicode": "1F3CC-1F3FF-200D-2640-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "man-golfing",
+    "category": "Activity",
+    "image": "img-apple-64/1f3cc-fe0f-200d-2642-fe0f.png",
+    "unicode": "1F3CC-FE0F-200D-2642-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f3cc-1f3fb-200d-2642-fe0f.png",
+        "unicode": "1F3CC-1F3FB-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f3cc-1f3fc-200d-2642-fe0f.png",
+        "unicode": "1F3CC-1F3FC-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f3cc-1f3fd-200d-2642-fe0f.png",
+        "unicode": "1F3CC-1F3FD-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f3cc-1f3fe-200d-2642-fe0f.png",
+        "unicode": "1F3CC-1F3FE-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f3cc-1f3ff-200d-2642-fe0f.png",
+        "unicode": "1F3CC-1F3FF-200D-2642-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "rainbow-flag",
+    "category": "Flags",
+    "image": "img-apple-64/1f3f3-fe0f-200d-1f308.png",
+    "unicode": "1F3F3-FE0F-200D-1F308",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "eye-in-speech-bubble",
+    "category": "Symbols",
+    "image": "img-apple-64/1f441-fe0f-200d-1f5e8-fe0f.png",
+    "unicode": "1F441-FE0F-200D-1F5E8-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "man-boy-boy",
+    "category": "People",
+    "image": "img-apple-64/1f468-200d-1f466-200d-1f466.png",
+    "unicode": "1F468-200D-1F466-200D-1F466",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "man-girl-boy",
+    "category": "People",
+    "image": "img-apple-64/1f468-200d-1f467-200d-1f466.png",
+    "unicode": "1F468-200D-1F467-200D-1F466",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "man-girl-girl",
+    "category": "People",
+    "image": "img-apple-64/1f468-200d-1f467-200d-1f467.png",
+    "unicode": "1F468-200D-1F467-200D-1F467",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
     "name": "man-man-boy",
     "category": "People",
     "image": "img-apple-64/1f468-200d-1f468-200d-1f466.png",
@@ -17054,6 +19838,114 @@
     ]
   },
   {
+    "name": "male-doctor",
+    "category": "People",
+    "image": "img-apple-64/1f468-200d-2695-fe0f.png",
+    "unicode": "1F468-200D-2695-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f468-1f3fb-200d-2695-fe0f.png",
+        "unicode": "1F468-1F3FB-200D-2695-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f468-1f3fc-200d-2695-fe0f.png",
+        "unicode": "1F468-1F3FC-200D-2695-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f468-1f3fd-200d-2695-fe0f.png",
+        "unicode": "1F468-1F3FD-200D-2695-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f468-1f3fe-200d-2695-fe0f.png",
+        "unicode": "1F468-1F3FE-200D-2695-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f468-1f3ff-200d-2695-fe0f.png",
+        "unicode": "1F468-1F3FF-200D-2695-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "male-judge",
+    "category": "People",
+    "image": "img-apple-64/1f468-200d-2696-fe0f.png",
+    "unicode": "1F468-200D-2696-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f468-1f3fb-200d-2696-fe0f.png",
+        "unicode": "1F468-1F3FB-200D-2696-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f468-1f3fc-200d-2696-fe0f.png",
+        "unicode": "1F468-1F3FC-200D-2696-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f468-1f3fd-200d-2696-fe0f.png",
+        "unicode": "1F468-1F3FD-200D-2696-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f468-1f3fe-200d-2696-fe0f.png",
+        "unicode": "1F468-1F3FE-200D-2696-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f468-1f3ff-200d-2696-fe0f.png",
+        "unicode": "1F468-1F3FF-200D-2696-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "male-pilot",
+    "category": "People",
+    "image": "img-apple-64/1f468-200d-2708-fe0f.png",
+    "unicode": "1F468-200D-2708-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f468-1f3fb-200d-2708-fe0f.png",
+        "unicode": "1F468-1F3FB-200D-2708-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f468-1f3fc-200d-2708-fe0f.png",
+        "unicode": "1F468-1F3FC-200D-2708-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f468-1f3fd-200d-2708-fe0f.png",
+        "unicode": "1F468-1F3FD-200D-2708-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f468-1f3fe-200d-2708-fe0f.png",
+        "unicode": "1F468-1F3FE-200D-2708-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f468-1f3ff-200d-2708-fe0f.png",
+        "unicode": "1F468-1F3FF-200D-2708-FE0F"
+      }
+    ]
+  },
+  {
     "name": "man-heart-man",
     "category": "People",
     "image": "img-apple-64/1f468-200d-2764-fe0f-200d-1f468.png",
@@ -17070,6 +19962,42 @@
     "category": "People",
     "image": "img-apple-64/1f468-200d-2764-fe0f-200d-1f48b-200d-1f468.png",
     "unicode": "1F468-200D-2764-FE0F-200D-1F48B-200D-1F468",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "woman-boy-boy",
+    "category": "People",
+    "image": "img-apple-64/1f469-200d-1f466-200d-1f466.png",
+    "unicode": "1F469-200D-1F466-200D-1F466",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "woman-girl-boy",
+    "category": "People",
+    "image": "img-apple-64/1f469-200d-1f467-200d-1f466.png",
+    "unicode": "1F469-200D-1F467-200D-1F466",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "woman-girl-girl",
+    "category": "People",
+    "image": "img-apple-64/1f469-200d-1f467-200d-1f467.png",
+    "unicode": "1F469-200D-1F467-200D-1F467",
     "aliases": [
 
     ],
@@ -17138,10 +20066,142 @@
     ]
   },
   {
+    "name": "female-doctor",
+    "category": "People",
+    "image": "img-apple-64/1f469-200d-2695-fe0f.png",
+    "unicode": "1F469-200D-2695-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f469-1f3fb-200d-2695-fe0f.png",
+        "unicode": "1F469-1F3FB-200D-2695-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f469-1f3fc-200d-2695-fe0f.png",
+        "unicode": "1F469-1F3FC-200D-2695-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f469-1f3fd-200d-2695-fe0f.png",
+        "unicode": "1F469-1F3FD-200D-2695-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f469-1f3fe-200d-2695-fe0f.png",
+        "unicode": "1F469-1F3FE-200D-2695-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f469-1f3ff-200d-2695-fe0f.png",
+        "unicode": "1F469-1F3FF-200D-2695-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "female-judge",
+    "category": "People",
+    "image": "img-apple-64/1f469-200d-2696-fe0f.png",
+    "unicode": "1F469-200D-2696-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f469-1f3fb-200d-2696-fe0f.png",
+        "unicode": "1F469-1F3FB-200D-2696-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f469-1f3fc-200d-2696-fe0f.png",
+        "unicode": "1F469-1F3FC-200D-2696-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f469-1f3fd-200d-2696-fe0f.png",
+        "unicode": "1F469-1F3FD-200D-2696-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f469-1f3fe-200d-2696-fe0f.png",
+        "unicode": "1F469-1F3FE-200D-2696-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f469-1f3ff-200d-2696-fe0f.png",
+        "unicode": "1F469-1F3FF-200D-2696-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "female-pilot",
+    "category": "People",
+    "image": "img-apple-64/1f469-200d-2708-fe0f.png",
+    "unicode": "1F469-200D-2708-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f469-1f3fb-200d-2708-fe0f.png",
+        "unicode": "1F469-1F3FB-200D-2708-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f469-1f3fc-200d-2708-fe0f.png",
+        "unicode": "1F469-1F3FC-200D-2708-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f469-1f3fd-200d-2708-fe0f.png",
+        "unicode": "1F469-1F3FD-200D-2708-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f469-1f3fe-200d-2708-fe0f.png",
+        "unicode": "1F469-1F3FE-200D-2708-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f469-1f3ff-200d-2708-fe0f.png",
+        "unicode": "1F469-1F3FF-200D-2708-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "woman-heart-man",
+    "category": "People",
+    "image": "img-apple-64/1f469-200d-2764-fe0f-200d-1f468.png",
+    "unicode": "1F469-200D-2764-FE0F-200D-1F468",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
     "name": "woman-heart-woman",
     "category": "People",
     "image": "img-apple-64/1f469-200d-2764-fe0f-200d-1f469.png",
     "unicode": "1F469-200D-2764-FE0F-200D-1F469",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "woman-kiss-man",
+    "category": "People",
+    "image": "img-apple-64/1f469-200d-2764-fe0f-200d-1f48b-200d-1f468.png",
+    "unicode": "1F469-200D-2764-FE0F-200D-1F48B-200D-1F468",
     "aliases": [
 
     ],
@@ -17159,6 +20219,1926 @@
     ],
     "modifiers": [
 
+    ]
+  },
+  {
+    "name": "female-police-officer",
+    "category": "People",
+    "image": "img-apple-64/1f46e-200d-2640-fe0f.png",
+    "unicode": "1F46E-200D-2640-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f46e-1f3fb-200d-2640-fe0f.png",
+        "unicode": "1F46E-1F3FB-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f46e-1f3fc-200d-2640-fe0f.png",
+        "unicode": "1F46E-1F3FC-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f46e-1f3fd-200d-2640-fe0f.png",
+        "unicode": "1F46E-1F3FD-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f46e-1f3fe-200d-2640-fe0f.png",
+        "unicode": "1F46E-1F3FE-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f46e-1f3ff-200d-2640-fe0f.png",
+        "unicode": "1F46E-1F3FF-200D-2640-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "male-police-officer",
+    "category": "People",
+    "image": "img-apple-64/1f46e-200d-2642-fe0f.png",
+    "unicode": "1F46E-200D-2642-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f46e-1f3fb-200d-2642-fe0f.png",
+        "unicode": "1F46E-1F3FB-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f46e-1f3fc-200d-2642-fe0f.png",
+        "unicode": "1F46E-1F3FC-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f46e-1f3fd-200d-2642-fe0f.png",
+        "unicode": "1F46E-1F3FD-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f46e-1f3fe-200d-2642-fe0f.png",
+        "unicode": "1F46E-1F3FE-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f46e-1f3ff-200d-2642-fe0f.png",
+        "unicode": "1F46E-1F3FF-200D-2642-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "woman-with-bunny-ears-partying",
+    "category": "People",
+    "image": "img-apple-64/1f46f-200d-2640-fe0f.png",
+    "unicode": "1F46F-200D-2640-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "man-with-bunny-ears-partying",
+    "category": "People",
+    "image": "img-apple-64/1f46f-200d-2642-fe0f.png",
+    "unicode": "1F46F-200D-2642-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "blond-haired-woman",
+    "category": "People",
+    "image": "img-apple-64/1f471-200d-2640-fe0f.png",
+    "unicode": "1F471-200D-2640-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f471-1f3fb-200d-2640-fe0f.png",
+        "unicode": "1F471-1F3FB-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f471-1f3fc-200d-2640-fe0f.png",
+        "unicode": "1F471-1F3FC-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f471-1f3fd-200d-2640-fe0f.png",
+        "unicode": "1F471-1F3FD-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f471-1f3fe-200d-2640-fe0f.png",
+        "unicode": "1F471-1F3FE-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f471-1f3ff-200d-2640-fe0f.png",
+        "unicode": "1F471-1F3FF-200D-2640-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "blond-haired-man",
+    "category": "People",
+    "image": "img-apple-64/1f471-200d-2642-fe0f.png",
+    "unicode": "1F471-200D-2642-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f471-1f3fb-200d-2642-fe0f.png",
+        "unicode": "1F471-1F3FB-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f471-1f3fc-200d-2642-fe0f.png",
+        "unicode": "1F471-1F3FC-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f471-1f3fd-200d-2642-fe0f.png",
+        "unicode": "1F471-1F3FD-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f471-1f3fe-200d-2642-fe0f.png",
+        "unicode": "1F471-1F3FE-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f471-1f3ff-200d-2642-fe0f.png",
+        "unicode": "1F471-1F3FF-200D-2642-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "woman-wearing-turban",
+    "category": "People",
+    "image": "img-apple-64/1f473-200d-2640-fe0f.png",
+    "unicode": "1F473-200D-2640-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f473-1f3fb-200d-2640-fe0f.png",
+        "unicode": "1F473-1F3FB-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f473-1f3fc-200d-2640-fe0f.png",
+        "unicode": "1F473-1F3FC-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f473-1f3fd-200d-2640-fe0f.png",
+        "unicode": "1F473-1F3FD-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f473-1f3fe-200d-2640-fe0f.png",
+        "unicode": "1F473-1F3FE-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f473-1f3ff-200d-2640-fe0f.png",
+        "unicode": "1F473-1F3FF-200D-2640-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "man-wearing-turban",
+    "category": "People",
+    "image": "img-apple-64/1f473-200d-2642-fe0f.png",
+    "unicode": "1F473-200D-2642-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f473-1f3fb-200d-2642-fe0f.png",
+        "unicode": "1F473-1F3FB-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f473-1f3fc-200d-2642-fe0f.png",
+        "unicode": "1F473-1F3FC-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f473-1f3fd-200d-2642-fe0f.png",
+        "unicode": "1F473-1F3FD-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f473-1f3fe-200d-2642-fe0f.png",
+        "unicode": "1F473-1F3FE-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f473-1f3ff-200d-2642-fe0f.png",
+        "unicode": "1F473-1F3FF-200D-2642-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "female-construction-worker",
+    "category": "People",
+    "image": "img-apple-64/1f477-200d-2640-fe0f.png",
+    "unicode": "1F477-200D-2640-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f477-1f3fb-200d-2640-fe0f.png",
+        "unicode": "1F477-1F3FB-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f477-1f3fc-200d-2640-fe0f.png",
+        "unicode": "1F477-1F3FC-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f477-1f3fd-200d-2640-fe0f.png",
+        "unicode": "1F477-1F3FD-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f477-1f3fe-200d-2640-fe0f.png",
+        "unicode": "1F477-1F3FE-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f477-1f3ff-200d-2640-fe0f.png",
+        "unicode": "1F477-1F3FF-200D-2640-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "male-construction-worker",
+    "category": "People",
+    "image": "img-apple-64/1f477-200d-2642-fe0f.png",
+    "unicode": "1F477-200D-2642-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f477-1f3fb-200d-2642-fe0f.png",
+        "unicode": "1F477-1F3FB-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f477-1f3fc-200d-2642-fe0f.png",
+        "unicode": "1F477-1F3FC-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f477-1f3fd-200d-2642-fe0f.png",
+        "unicode": "1F477-1F3FD-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f477-1f3fe-200d-2642-fe0f.png",
+        "unicode": "1F477-1F3FE-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f477-1f3ff-200d-2642-fe0f.png",
+        "unicode": "1F477-1F3FF-200D-2642-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "woman-tipping-hand",
+    "category": "People",
+    "image": "img-apple-64/1f481-200d-2640-fe0f.png",
+    "unicode": "1F481-200D-2640-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f481-1f3fb-200d-2640-fe0f.png",
+        "unicode": "1F481-1F3FB-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f481-1f3fc-200d-2640-fe0f.png",
+        "unicode": "1F481-1F3FC-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f481-1f3fd-200d-2640-fe0f.png",
+        "unicode": "1F481-1F3FD-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f481-1f3fe-200d-2640-fe0f.png",
+        "unicode": "1F481-1F3FE-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f481-1f3ff-200d-2640-fe0f.png",
+        "unicode": "1F481-1F3FF-200D-2640-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "man-tipping-hand",
+    "category": "People",
+    "image": "img-apple-64/1f481-200d-2642-fe0f.png",
+    "unicode": "1F481-200D-2642-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f481-1f3fb-200d-2642-fe0f.png",
+        "unicode": "1F481-1F3FB-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f481-1f3fc-200d-2642-fe0f.png",
+        "unicode": "1F481-1F3FC-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f481-1f3fd-200d-2642-fe0f.png",
+        "unicode": "1F481-1F3FD-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f481-1f3fe-200d-2642-fe0f.png",
+        "unicode": "1F481-1F3FE-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f481-1f3ff-200d-2642-fe0f.png",
+        "unicode": "1F481-1F3FF-200D-2642-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "female-guard",
+    "category": "People",
+    "image": "img-apple-64/1f482-200d-2640-fe0f.png",
+    "unicode": "1F482-200D-2640-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f482-1f3fb-200d-2640-fe0f.png",
+        "unicode": "1F482-1F3FB-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f482-1f3fc-200d-2640-fe0f.png",
+        "unicode": "1F482-1F3FC-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f482-1f3fd-200d-2640-fe0f.png",
+        "unicode": "1F482-1F3FD-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f482-1f3fe-200d-2640-fe0f.png",
+        "unicode": "1F482-1F3FE-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f482-1f3ff-200d-2640-fe0f.png",
+        "unicode": "1F482-1F3FF-200D-2640-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "male-guard",
+    "category": "People",
+    "image": "img-apple-64/1f482-200d-2642-fe0f.png",
+    "unicode": "1F482-200D-2642-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f482-1f3fb-200d-2642-fe0f.png",
+        "unicode": "1F482-1F3FB-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f482-1f3fc-200d-2642-fe0f.png",
+        "unicode": "1F482-1F3FC-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f482-1f3fd-200d-2642-fe0f.png",
+        "unicode": "1F482-1F3FD-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f482-1f3fe-200d-2642-fe0f.png",
+        "unicode": "1F482-1F3FE-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f482-1f3ff-200d-2642-fe0f.png",
+        "unicode": "1F482-1F3FF-200D-2642-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "woman-getting-massage",
+    "category": "People",
+    "image": "img-apple-64/1f486-200d-2640-fe0f.png",
+    "unicode": "1F486-200D-2640-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f486-1f3fb-200d-2640-fe0f.png",
+        "unicode": "1F486-1F3FB-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f486-1f3fc-200d-2640-fe0f.png",
+        "unicode": "1F486-1F3FC-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f486-1f3fd-200d-2640-fe0f.png",
+        "unicode": "1F486-1F3FD-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f486-1f3fe-200d-2640-fe0f.png",
+        "unicode": "1F486-1F3FE-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f486-1f3ff-200d-2640-fe0f.png",
+        "unicode": "1F486-1F3FF-200D-2640-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "man-getting-massage",
+    "category": "People",
+    "image": "img-apple-64/1f486-200d-2642-fe0f.png",
+    "unicode": "1F486-200D-2642-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f486-1f3fb-200d-2642-fe0f.png",
+        "unicode": "1F486-1F3FB-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f486-1f3fc-200d-2642-fe0f.png",
+        "unicode": "1F486-1F3FC-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f486-1f3fd-200d-2642-fe0f.png",
+        "unicode": "1F486-1F3FD-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f486-1f3fe-200d-2642-fe0f.png",
+        "unicode": "1F486-1F3FE-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f486-1f3ff-200d-2642-fe0f.png",
+        "unicode": "1F486-1F3FF-200D-2642-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "woman-getting-haircut",
+    "category": "People",
+    "image": "img-apple-64/1f487-200d-2640-fe0f.png",
+    "unicode": "1F487-200D-2640-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f487-1f3fb-200d-2640-fe0f.png",
+        "unicode": "1F487-1F3FB-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f487-1f3fc-200d-2640-fe0f.png",
+        "unicode": "1F487-1F3FC-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f487-1f3fd-200d-2640-fe0f.png",
+        "unicode": "1F487-1F3FD-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f487-1f3fe-200d-2640-fe0f.png",
+        "unicode": "1F487-1F3FE-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f487-1f3ff-200d-2640-fe0f.png",
+        "unicode": "1F487-1F3FF-200D-2640-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "man-getting-haircut",
+    "category": "People",
+    "image": "img-apple-64/1f487-200d-2642-fe0f.png",
+    "unicode": "1F487-200D-2642-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f487-1f3fb-200d-2642-fe0f.png",
+        "unicode": "1F487-1F3FB-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f487-1f3fc-200d-2642-fe0f.png",
+        "unicode": "1F487-1F3FC-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f487-1f3fd-200d-2642-fe0f.png",
+        "unicode": "1F487-1F3FD-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f487-1f3fe-200d-2642-fe0f.png",
+        "unicode": "1F487-1F3FE-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f487-1f3ff-200d-2642-fe0f.png",
+        "unicode": "1F487-1F3FF-200D-2642-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "female-detective",
+    "category": "People",
+    "image": "img-apple-64/1f575-fe0f-200d-2640-fe0f.png",
+    "unicode": "1F575-FE0F-200D-2640-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f575-1f3fb-200d-2640-fe0f.png",
+        "unicode": "1F575-1F3FB-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f575-1f3fc-200d-2640-fe0f.png",
+        "unicode": "1F575-1F3FC-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f575-1f3fd-200d-2640-fe0f.png",
+        "unicode": "1F575-1F3FD-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f575-1f3fe-200d-2640-fe0f.png",
+        "unicode": "1F575-1F3FE-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f575-1f3ff-200d-2640-fe0f.png",
+        "unicode": "1F575-1F3FF-200D-2640-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "male-detective",
+    "category": "People",
+    "image": "img-apple-64/1f575-fe0f-200d-2642-fe0f.png",
+    "unicode": "1F575-FE0F-200D-2642-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f575-1f3fb-200d-2642-fe0f.png",
+        "unicode": "1F575-1F3FB-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f575-1f3fc-200d-2642-fe0f.png",
+        "unicode": "1F575-1F3FC-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f575-1f3fd-200d-2642-fe0f.png",
+        "unicode": "1F575-1F3FD-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f575-1f3fe-200d-2642-fe0f.png",
+        "unicode": "1F575-1F3FE-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f575-1f3ff-200d-2642-fe0f.png",
+        "unicode": "1F575-1F3FF-200D-2642-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "woman-gesturing-no",
+    "category": "People",
+    "image": "img-apple-64/1f645-200d-2640-fe0f.png",
+    "unicode": "1F645-200D-2640-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f645-1f3fb-200d-2640-fe0f.png",
+        "unicode": "1F645-1F3FB-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f645-1f3fc-200d-2640-fe0f.png",
+        "unicode": "1F645-1F3FC-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f645-1f3fd-200d-2640-fe0f.png",
+        "unicode": "1F645-1F3FD-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f645-1f3fe-200d-2640-fe0f.png",
+        "unicode": "1F645-1F3FE-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f645-1f3ff-200d-2640-fe0f.png",
+        "unicode": "1F645-1F3FF-200D-2640-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "man-gesturing-no",
+    "category": "People",
+    "image": "img-apple-64/1f645-200d-2642-fe0f.png",
+    "unicode": "1F645-200D-2642-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f645-1f3fb-200d-2642-fe0f.png",
+        "unicode": "1F645-1F3FB-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f645-1f3fc-200d-2642-fe0f.png",
+        "unicode": "1F645-1F3FC-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f645-1f3fd-200d-2642-fe0f.png",
+        "unicode": "1F645-1F3FD-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f645-1f3fe-200d-2642-fe0f.png",
+        "unicode": "1F645-1F3FE-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f645-1f3ff-200d-2642-fe0f.png",
+        "unicode": "1F645-1F3FF-200D-2642-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "woman-gesturing-ok",
+    "category": "People",
+    "image": "img-apple-64/1f646-200d-2640-fe0f.png",
+    "unicode": "1F646-200D-2640-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f646-1f3fb-200d-2640-fe0f.png",
+        "unicode": "1F646-1F3FB-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f646-1f3fc-200d-2640-fe0f.png",
+        "unicode": "1F646-1F3FC-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f646-1f3fd-200d-2640-fe0f.png",
+        "unicode": "1F646-1F3FD-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f646-1f3fe-200d-2640-fe0f.png",
+        "unicode": "1F646-1F3FE-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f646-1f3ff-200d-2640-fe0f.png",
+        "unicode": "1F646-1F3FF-200D-2640-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "man-gesturing-ok",
+    "category": "People",
+    "image": "img-apple-64/1f646-200d-2642-fe0f.png",
+    "unicode": "1F646-200D-2642-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f646-1f3fb-200d-2642-fe0f.png",
+        "unicode": "1F646-1F3FB-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f646-1f3fc-200d-2642-fe0f.png",
+        "unicode": "1F646-1F3FC-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f646-1f3fd-200d-2642-fe0f.png",
+        "unicode": "1F646-1F3FD-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f646-1f3fe-200d-2642-fe0f.png",
+        "unicode": "1F646-1F3FE-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f646-1f3ff-200d-2642-fe0f.png",
+        "unicode": "1F646-1F3FF-200D-2642-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "woman-bowing",
+    "category": "People",
+    "image": "img-apple-64/1f647-200d-2640-fe0f.png",
+    "unicode": "1F647-200D-2640-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f647-1f3fb-200d-2640-fe0f.png",
+        "unicode": "1F647-1F3FB-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f647-1f3fc-200d-2640-fe0f.png",
+        "unicode": "1F647-1F3FC-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f647-1f3fd-200d-2640-fe0f.png",
+        "unicode": "1F647-1F3FD-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f647-1f3fe-200d-2640-fe0f.png",
+        "unicode": "1F647-1F3FE-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f647-1f3ff-200d-2640-fe0f.png",
+        "unicode": "1F647-1F3FF-200D-2640-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "man-bowing",
+    "category": "People",
+    "image": "img-apple-64/1f647-200d-2642-fe0f.png",
+    "unicode": "1F647-200D-2642-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f647-1f3fb-200d-2642-fe0f.png",
+        "unicode": "1F647-1F3FB-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f647-1f3fc-200d-2642-fe0f.png",
+        "unicode": "1F647-1F3FC-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f647-1f3fd-200d-2642-fe0f.png",
+        "unicode": "1F647-1F3FD-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f647-1f3fe-200d-2642-fe0f.png",
+        "unicode": "1F647-1F3FE-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f647-1f3ff-200d-2642-fe0f.png",
+        "unicode": "1F647-1F3FF-200D-2642-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "woman-raising-hand",
+    "category": "People",
+    "image": "img-apple-64/1f64b-200d-2640-fe0f.png",
+    "unicode": "1F64B-200D-2640-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f64b-1f3fb-200d-2640-fe0f.png",
+        "unicode": "1F64B-1F3FB-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f64b-1f3fc-200d-2640-fe0f.png",
+        "unicode": "1F64B-1F3FC-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f64b-1f3fd-200d-2640-fe0f.png",
+        "unicode": "1F64B-1F3FD-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f64b-1f3fe-200d-2640-fe0f.png",
+        "unicode": "1F64B-1F3FE-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f64b-1f3ff-200d-2640-fe0f.png",
+        "unicode": "1F64B-1F3FF-200D-2640-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "man-raising-hand",
+    "category": "People",
+    "image": "img-apple-64/1f64b-200d-2642-fe0f.png",
+    "unicode": "1F64B-200D-2642-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f64b-1f3fb-200d-2642-fe0f.png",
+        "unicode": "1F64B-1F3FB-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f64b-1f3fc-200d-2642-fe0f.png",
+        "unicode": "1F64B-1F3FC-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f64b-1f3fd-200d-2642-fe0f.png",
+        "unicode": "1F64B-1F3FD-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f64b-1f3fe-200d-2642-fe0f.png",
+        "unicode": "1F64B-1F3FE-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f64b-1f3ff-200d-2642-fe0f.png",
+        "unicode": "1F64B-1F3FF-200D-2642-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "woman-frowning",
+    "category": "People",
+    "image": "img-apple-64/1f64d-200d-2640-fe0f.png",
+    "unicode": "1F64D-200D-2640-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f64d-1f3fb-200d-2640-fe0f.png",
+        "unicode": "1F64D-1F3FB-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f64d-1f3fc-200d-2640-fe0f.png",
+        "unicode": "1F64D-1F3FC-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f64d-1f3fd-200d-2640-fe0f.png",
+        "unicode": "1F64D-1F3FD-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f64d-1f3fe-200d-2640-fe0f.png",
+        "unicode": "1F64D-1F3FE-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f64d-1f3ff-200d-2640-fe0f.png",
+        "unicode": "1F64D-1F3FF-200D-2640-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "man-frowning",
+    "category": "People",
+    "image": "img-apple-64/1f64d-200d-2642-fe0f.png",
+    "unicode": "1F64D-200D-2642-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f64d-1f3fb-200d-2642-fe0f.png",
+        "unicode": "1F64D-1F3FB-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f64d-1f3fc-200d-2642-fe0f.png",
+        "unicode": "1F64D-1F3FC-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f64d-1f3fd-200d-2642-fe0f.png",
+        "unicode": "1F64D-1F3FD-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f64d-1f3fe-200d-2642-fe0f.png",
+        "unicode": "1F64D-1F3FE-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f64d-1f3ff-200d-2642-fe0f.png",
+        "unicode": "1F64D-1F3FF-200D-2642-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "woman-pouting",
+    "category": "People",
+    "image": "img-apple-64/1f64e-200d-2640-fe0f.png",
+    "unicode": "1F64E-200D-2640-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f64e-1f3fb-200d-2640-fe0f.png",
+        "unicode": "1F64E-1F3FB-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f64e-1f3fc-200d-2640-fe0f.png",
+        "unicode": "1F64E-1F3FC-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f64e-1f3fd-200d-2640-fe0f.png",
+        "unicode": "1F64E-1F3FD-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f64e-1f3fe-200d-2640-fe0f.png",
+        "unicode": "1F64E-1F3FE-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f64e-1f3ff-200d-2640-fe0f.png",
+        "unicode": "1F64E-1F3FF-200D-2640-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "man-pouting",
+    "category": "People",
+    "image": "img-apple-64/1f64e-200d-2642-fe0f.png",
+    "unicode": "1F64E-200D-2642-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f64e-1f3fb-200d-2642-fe0f.png",
+        "unicode": "1F64E-1F3FB-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f64e-1f3fc-200d-2642-fe0f.png",
+        "unicode": "1F64E-1F3FC-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f64e-1f3fd-200d-2642-fe0f.png",
+        "unicode": "1F64E-1F3FD-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f64e-1f3fe-200d-2642-fe0f.png",
+        "unicode": "1F64E-1F3FE-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f64e-1f3ff-200d-2642-fe0f.png",
+        "unicode": "1F64E-1F3FF-200D-2642-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "woman-rowing-boat",
+    "category": "Activity",
+    "image": "img-apple-64/1f6a3-200d-2640-fe0f.png",
+    "unicode": "1F6A3-200D-2640-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f6a3-1f3fb-200d-2640-fe0f.png",
+        "unicode": "1F6A3-1F3FB-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f6a3-1f3fc-200d-2640-fe0f.png",
+        "unicode": "1F6A3-1F3FC-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f6a3-1f3fd-200d-2640-fe0f.png",
+        "unicode": "1F6A3-1F3FD-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f6a3-1f3fe-200d-2640-fe0f.png",
+        "unicode": "1F6A3-1F3FE-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f6a3-1f3ff-200d-2640-fe0f.png",
+        "unicode": "1F6A3-1F3FF-200D-2640-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "man-rowing-boat",
+    "category": "Activity",
+    "image": "img-apple-64/1f6a3-200d-2642-fe0f.png",
+    "unicode": "1F6A3-200D-2642-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f6a3-1f3fb-200d-2642-fe0f.png",
+        "unicode": "1F6A3-1F3FB-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f6a3-1f3fc-200d-2642-fe0f.png",
+        "unicode": "1F6A3-1F3FC-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f6a3-1f3fd-200d-2642-fe0f.png",
+        "unicode": "1F6A3-1F3FD-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f6a3-1f3fe-200d-2642-fe0f.png",
+        "unicode": "1F6A3-1F3FE-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f6a3-1f3ff-200d-2642-fe0f.png",
+        "unicode": "1F6A3-1F3FF-200D-2642-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "woman-biking",
+    "category": "Activity",
+    "image": "img-apple-64/1f6b4-200d-2640-fe0f.png",
+    "unicode": "1F6B4-200D-2640-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f6b4-1f3fb-200d-2640-fe0f.png",
+        "unicode": "1F6B4-1F3FB-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f6b4-1f3fc-200d-2640-fe0f.png",
+        "unicode": "1F6B4-1F3FC-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f6b4-1f3fd-200d-2640-fe0f.png",
+        "unicode": "1F6B4-1F3FD-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f6b4-1f3fe-200d-2640-fe0f.png",
+        "unicode": "1F6B4-1F3FE-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f6b4-1f3ff-200d-2640-fe0f.png",
+        "unicode": "1F6B4-1F3FF-200D-2640-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "man-biking",
+    "category": "Activity",
+    "image": "img-apple-64/1f6b4-200d-2642-fe0f.png",
+    "unicode": "1F6B4-200D-2642-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f6b4-1f3fb-200d-2642-fe0f.png",
+        "unicode": "1F6B4-1F3FB-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f6b4-1f3fc-200d-2642-fe0f.png",
+        "unicode": "1F6B4-1F3FC-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f6b4-1f3fd-200d-2642-fe0f.png",
+        "unicode": "1F6B4-1F3FD-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f6b4-1f3fe-200d-2642-fe0f.png",
+        "unicode": "1F6B4-1F3FE-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f6b4-1f3ff-200d-2642-fe0f.png",
+        "unicode": "1F6B4-1F3FF-200D-2642-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "woman-mountain-biking",
+    "category": "Activity",
+    "image": "img-apple-64/1f6b5-200d-2640-fe0f.png",
+    "unicode": "1F6B5-200D-2640-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f6b5-1f3fb-200d-2640-fe0f.png",
+        "unicode": "1F6B5-1F3FB-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f6b5-1f3fc-200d-2640-fe0f.png",
+        "unicode": "1F6B5-1F3FC-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f6b5-1f3fd-200d-2640-fe0f.png",
+        "unicode": "1F6B5-1F3FD-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f6b5-1f3fe-200d-2640-fe0f.png",
+        "unicode": "1F6B5-1F3FE-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f6b5-1f3ff-200d-2640-fe0f.png",
+        "unicode": "1F6B5-1F3FF-200D-2640-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "man-mountain-biking",
+    "category": "Activity",
+    "image": "img-apple-64/1f6b5-200d-2642-fe0f.png",
+    "unicode": "1F6B5-200D-2642-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f6b5-1f3fb-200d-2642-fe0f.png",
+        "unicode": "1F6B5-1F3FB-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f6b5-1f3fc-200d-2642-fe0f.png",
+        "unicode": "1F6B5-1F3FC-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f6b5-1f3fd-200d-2642-fe0f.png",
+        "unicode": "1F6B5-1F3FD-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f6b5-1f3fe-200d-2642-fe0f.png",
+        "unicode": "1F6B5-1F3FE-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f6b5-1f3ff-200d-2642-fe0f.png",
+        "unicode": "1F6B5-1F3FF-200D-2642-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "woman-walking",
+    "category": "People",
+    "image": "img-apple-64/1f6b6-200d-2640-fe0f.png",
+    "unicode": "1F6B6-200D-2640-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f6b6-1f3fb-200d-2640-fe0f.png",
+        "unicode": "1F6B6-1F3FB-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f6b6-1f3fc-200d-2640-fe0f.png",
+        "unicode": "1F6B6-1F3FC-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f6b6-1f3fd-200d-2640-fe0f.png",
+        "unicode": "1F6B6-1F3FD-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f6b6-1f3fe-200d-2640-fe0f.png",
+        "unicode": "1F6B6-1F3FE-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f6b6-1f3ff-200d-2640-fe0f.png",
+        "unicode": "1F6B6-1F3FF-200D-2640-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "man-walking",
+    "category": "People",
+    "image": "img-apple-64/1f6b6-200d-2642-fe0f.png",
+    "unicode": "1F6B6-200D-2642-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f6b6-1f3fb-200d-2642-fe0f.png",
+        "unicode": "1F6B6-1F3FB-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f6b6-1f3fc-200d-2642-fe0f.png",
+        "unicode": "1F6B6-1F3FC-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f6b6-1f3fd-200d-2642-fe0f.png",
+        "unicode": "1F6B6-1F3FD-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f6b6-1f3fe-200d-2642-fe0f.png",
+        "unicode": "1F6B6-1F3FE-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f6b6-1f3ff-200d-2642-fe0f.png",
+        "unicode": "1F6B6-1F3FF-200D-2642-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "woman-facepalming",
+    "category": "People",
+    "image": "img-apple-64/1f926-200d-2640-fe0f.png",
+    "unicode": "1F926-200D-2640-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f926-1f3fb-200d-2640-fe0f.png",
+        "unicode": "1F926-1F3FB-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f926-1f3fc-200d-2640-fe0f.png",
+        "unicode": "1F926-1F3FC-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f926-1f3fd-200d-2640-fe0f.png",
+        "unicode": "1F926-1F3FD-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f926-1f3fe-200d-2640-fe0f.png",
+        "unicode": "1F926-1F3FE-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f926-1f3ff-200d-2640-fe0f.png",
+        "unicode": "1F926-1F3FF-200D-2640-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "man-facepalming",
+    "category": "People",
+    "image": "img-apple-64/1f926-200d-2642-fe0f.png",
+    "unicode": "1F926-200D-2642-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f926-1f3fb-200d-2642-fe0f.png",
+        "unicode": "1F926-1F3FB-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f926-1f3fc-200d-2642-fe0f.png",
+        "unicode": "1F926-1F3FC-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f926-1f3fd-200d-2642-fe0f.png",
+        "unicode": "1F926-1F3FD-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f926-1f3fe-200d-2642-fe0f.png",
+        "unicode": "1F926-1F3FE-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f926-1f3ff-200d-2642-fe0f.png",
+        "unicode": "1F926-1F3FF-200D-2642-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "woman-shrugging",
+    "category": "People",
+    "image": "img-apple-64/1f937-200d-2640-fe0f.png",
+    "unicode": "1F937-200D-2640-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f937-1f3fb-200d-2640-fe0f.png",
+        "unicode": "1F937-1F3FB-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f937-1f3fc-200d-2640-fe0f.png",
+        "unicode": "1F937-1F3FC-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f937-1f3fd-200d-2640-fe0f.png",
+        "unicode": "1F937-1F3FD-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f937-1f3fe-200d-2640-fe0f.png",
+        "unicode": "1F937-1F3FE-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f937-1f3ff-200d-2640-fe0f.png",
+        "unicode": "1F937-1F3FF-200D-2640-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "man-shrugging",
+    "category": "People",
+    "image": "img-apple-64/1f937-200d-2642-fe0f.png",
+    "unicode": "1F937-200D-2642-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f937-1f3fb-200d-2642-fe0f.png",
+        "unicode": "1F937-1F3FB-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f937-1f3fc-200d-2642-fe0f.png",
+        "unicode": "1F937-1F3FC-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f937-1f3fd-200d-2642-fe0f.png",
+        "unicode": "1F937-1F3FD-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f937-1f3fe-200d-2642-fe0f.png",
+        "unicode": "1F937-1F3FE-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f937-1f3ff-200d-2642-fe0f.png",
+        "unicode": "1F937-1F3FF-200D-2642-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "woman-cartwheeling",
+    "category": "Activity",
+    "image": "img-apple-64/1f938-200d-2640-fe0f.png",
+    "unicode": "1F938-200D-2640-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f938-1f3fb-200d-2640-fe0f.png",
+        "unicode": "1F938-1F3FB-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f938-1f3fc-200d-2640-fe0f.png",
+        "unicode": "1F938-1F3FC-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f938-1f3fd-200d-2640-fe0f.png",
+        "unicode": "1F938-1F3FD-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f938-1f3fe-200d-2640-fe0f.png",
+        "unicode": "1F938-1F3FE-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f938-1f3ff-200d-2640-fe0f.png",
+        "unicode": "1F938-1F3FF-200D-2640-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "man-cartwheeling",
+    "category": "Activity",
+    "image": "img-apple-64/1f938-200d-2642-fe0f.png",
+    "unicode": "1F938-200D-2642-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f938-1f3fb-200d-2642-fe0f.png",
+        "unicode": "1F938-1F3FB-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f938-1f3fc-200d-2642-fe0f.png",
+        "unicode": "1F938-1F3FC-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f938-1f3fd-200d-2642-fe0f.png",
+        "unicode": "1F938-1F3FD-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f938-1f3fe-200d-2642-fe0f.png",
+        "unicode": "1F938-1F3FE-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f938-1f3ff-200d-2642-fe0f.png",
+        "unicode": "1F938-1F3FF-200D-2642-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "woman-juggling",
+    "category": "Activity",
+    "image": "img-apple-64/1f939-200d-2640-fe0f.png",
+    "unicode": "1F939-200D-2640-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f939-1f3fb-200d-2640-fe0f.png",
+        "unicode": "1F939-1F3FB-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f939-1f3fc-200d-2640-fe0f.png",
+        "unicode": "1F939-1F3FC-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f939-1f3fd-200d-2640-fe0f.png",
+        "unicode": "1F939-1F3FD-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f939-1f3fe-200d-2640-fe0f.png",
+        "unicode": "1F939-1F3FE-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f939-1f3ff-200d-2640-fe0f.png",
+        "unicode": "1F939-1F3FF-200D-2640-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "man-juggling",
+    "category": "Activity",
+    "image": "img-apple-64/1f939-200d-2642-fe0f.png",
+    "unicode": "1F939-200D-2642-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f939-1f3fb-200d-2642-fe0f.png",
+        "unicode": "1F939-1F3FB-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f939-1f3fc-200d-2642-fe0f.png",
+        "unicode": "1F939-1F3FC-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f939-1f3fd-200d-2642-fe0f.png",
+        "unicode": "1F939-1F3FD-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f939-1f3fe-200d-2642-fe0f.png",
+        "unicode": "1F939-1F3FE-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f939-1f3ff-200d-2642-fe0f.png",
+        "unicode": "1F939-1F3FF-200D-2642-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "woman-wrestling",
+    "category": "Activity",
+    "image": "img-apple-64/1f93c-200d-2640-fe0f.png",
+    "unicode": "1F93C-200D-2640-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "man-wrestling",
+    "category": "Activity",
+    "image": "img-apple-64/1f93c-200d-2642-fe0f.png",
+    "unicode": "1F93C-200D-2642-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "woman-playing-water-polo",
+    "category": "Activity",
+    "image": "img-apple-64/1f93d-200d-2640-fe0f.png",
+    "unicode": "1F93D-200D-2640-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f93d-1f3fb-200d-2640-fe0f.png",
+        "unicode": "1F93D-1F3FB-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f93d-1f3fc-200d-2640-fe0f.png",
+        "unicode": "1F93D-1F3FC-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f93d-1f3fd-200d-2640-fe0f.png",
+        "unicode": "1F93D-1F3FD-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f93d-1f3fe-200d-2640-fe0f.png",
+        "unicode": "1F93D-1F3FE-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f93d-1f3ff-200d-2640-fe0f.png",
+        "unicode": "1F93D-1F3FF-200D-2640-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "man-playing-water-polo",
+    "category": "Activity",
+    "image": "img-apple-64/1f93d-200d-2642-fe0f.png",
+    "unicode": "1F93D-200D-2642-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f93d-1f3fb-200d-2642-fe0f.png",
+        "unicode": "1F93D-1F3FB-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f93d-1f3fc-200d-2642-fe0f.png",
+        "unicode": "1F93D-1F3FC-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f93d-1f3fd-200d-2642-fe0f.png",
+        "unicode": "1F93D-1F3FD-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f93d-1f3fe-200d-2642-fe0f.png",
+        "unicode": "1F93D-1F3FE-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f93d-1f3ff-200d-2642-fe0f.png",
+        "unicode": "1F93D-1F3FF-200D-2642-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "woman-playing-handball",
+    "category": "Activity",
+    "image": "img-apple-64/1f93e-200d-2640-fe0f.png",
+    "unicode": "1F93E-200D-2640-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f93e-1f3fb-200d-2640-fe0f.png",
+        "unicode": "1F93E-1F3FB-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f93e-1f3fc-200d-2640-fe0f.png",
+        "unicode": "1F93E-1F3FC-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f93e-1f3fd-200d-2640-fe0f.png",
+        "unicode": "1F93E-1F3FD-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f93e-1f3fe-200d-2640-fe0f.png",
+        "unicode": "1F93E-1F3FE-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f93e-1f3ff-200d-2640-fe0f.png",
+        "unicode": "1F93E-1F3FF-200D-2640-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "man-playing-handball",
+    "category": "Activity",
+    "image": "img-apple-64/1f93e-200d-2642-fe0f.png",
+    "unicode": "1F93E-200D-2642-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1f93e-1f3fb-200d-2642-fe0f.png",
+        "unicode": "1F93E-1F3FB-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1f93e-1f3fc-200d-2642-fe0f.png",
+        "unicode": "1F93E-1F3FC-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1f93e-1f3fd-200d-2642-fe0f.png",
+        "unicode": "1F93E-1F3FD-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1f93e-1f3fe-200d-2642-fe0f.png",
+        "unicode": "1F93E-1F3FE-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1f93e-1f3ff-200d-2642-fe0f.png",
+        "unicode": "1F93E-1F3FF-200D-2642-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "woman-bouncing-ball",
+    "category": "Activity",
+    "image": "img-apple-64/26f9-fe0f-200d-2640-fe0f.png",
+    "unicode": "26F9-FE0F-200D-2640-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/26f9-1f3fb-200d-2640-fe0f.png",
+        "unicode": "26F9-1F3FB-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/26f9-1f3fc-200d-2640-fe0f.png",
+        "unicode": "26F9-1F3FC-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/26f9-1f3fd-200d-2640-fe0f.png",
+        "unicode": "26F9-1F3FD-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/26f9-1f3fe-200d-2640-fe0f.png",
+        "unicode": "26F9-1F3FE-200D-2640-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/26f9-1f3ff-200d-2640-fe0f.png",
+        "unicode": "26F9-1F3FF-200D-2640-FE0F"
+      }
+    ]
+  },
+  {
+    "name": "man-bouncing-ball",
+    "category": "Activity",
+    "image": "img-apple-64/26f9-fe0f-200d-2642-fe0f.png",
+    "unicode": "26F9-FE0F-200D-2642-FE0F",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/26f9-1f3fb-200d-2642-fe0f.png",
+        "unicode": "26F9-1F3FB-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/26f9-1f3fc-200d-2642-fe0f.png",
+        "unicode": "26F9-1F3FC-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/26f9-1f3fd-200d-2642-fe0f.png",
+        "unicode": "26F9-1F3FD-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/26f9-1f3fe-200d-2642-fe0f.png",
+        "unicode": "26F9-1F3FE-200D-2642-FE0F"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/26f9-1f3ff-200d-2642-fe0f.png",
+        "unicode": "26F9-1F3FF-200D-2642-FE0F"
+      }
     ]
   }
 ]
