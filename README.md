@@ -16,6 +16,7 @@ To contribute a new custom emoji simply:
 
 Emoji | Aliases
 ----- | -------
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/hiptest.png" width="20" height="20" alt="hiptest"/> | `:hiptest:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/cloudfoundry.png" width="20" height="20" alt="cloudfoundry"/> | `:cloudfoundry:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/netbsd.png" width="20" height="20" alt="netbsd"/> | `:netbsd:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/openbsd.png" width="20" height="20" alt="openbsd"/> | `:openbsd:`

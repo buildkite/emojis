@@ -1,5 +1,11 @@
 [
   {
+    "name": "hiptest",
+    "image": "img-buildkite-64/hiptest.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "cloudfoundry",
     "image": "img-buildkite-64/cloudfoundry.png",
     "category": "Buildkite",
