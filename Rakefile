@@ -1,16 +1,15 @@
-# Generates a table to be copy and pasted into the readme when emojis are updated
-#
+require 'json'
+require 'fileutils'
+
 # To run via Docker:
 #
 #   docker run -it --rm -v "$(pwd)":/src ruby bash -c "cd /src && bundle install && rake"
-
-require 'json'
 
 desc "Pick a random emoji"
 task :random do
   emojis = []
 
-  emojis_dir = File.dirname(__FILE__)
+  emojis_dir = __dir__
   Dir.glob("#{emojis_dir}/img-*.json").each do |catalogue|
     emojis.concat JSON.parse(File.read(catalogue)).reverse
   end
@@ -20,6 +19,7 @@ task :random do
   puts ":#{emoj['name']}:"
 end
 
+desc "Generate a table to be copy and pasted into the readme when emojis are updated"
 task :default do
   emojis = []
 
@@ -73,8 +73,7 @@ task :default do
   end
 end
 
-task :generate do
-  parsed = JSON.parse(File.read(ENV.fetch("EMOJI_JSON")))
+def preprocess_emoji_json(parsed)
   new = []
 
   parsed.each do |e|
@@ -110,5 +109,29 @@ task :generate do
     }
   end
 
-  puts JSON.pretty_generate(new)
+  JSON.pretty_generate(new)
+end
+
+desc "Generate and show processed emoji data file"
+task :generate do
+  parsed = JSON.parse(File.read(ENV.fetch("EMOJI_JSON")))
+  puts preprocess_emoji_json(parsed)
+end
+
+desc "Synchronise emoji data and images"
+task :sync do
+  puts 'Synchronising Unicode emoji images...'
+  FileUtils.cp(
+    Dir["#{__dir__}/node_modules/emoji-datasource-apple/img/apple/64/*.png"],
+    "#{__dir__}/img-apple-64"
+  )
+
+  puts 'Synchronising Unicode emoji metadata...'
+  unicode_emoji_catalogue = JSON.parse(File.read("#{__dir__}/node_modules/emoji-datasource-apple/emoji.json"))
+  File.write(
+    "#{__dir__}/img-apple-64.json",
+    preprocess_emoji_json(unicode_emoji_catalogue)
+  )
+
+  puts 'Done!'
 end
