@@ -1,5 +1,11 @@
 [
   {
+    "name": "python",
+    "image": "img-buildkite-64/python.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "hiptest",
     "image": "img-buildkite-64/hiptest.png",
     "category": "Buildkite",
