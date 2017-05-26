@@ -912,6 +912,14 @@
     ]
   },
   {
+    "name": "flynn",
+    "image": "img-buildkite-64/flynn.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "freebsd",
     "image": "img-buildkite-64/freebsd.png",
     "category": "Buildkite",
