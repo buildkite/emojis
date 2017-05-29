@@ -16,7 +16,9 @@ To contribute a new custom emoji simply:
 
 Emoji | Aliases
 ----- | -------
-<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/cloudfront.png" width="20" height="20" alt="cloudfront"/> | `:cloudfront`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/swagger.png" width="20" height="20" alt="swagger"/> | `:swagger:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/piedpiper.png" width="20" height="20" alt="piedpiper"/> | `:piedpiper:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/cloudfront.png" width="20" height="20" alt="cloudfront"/> | `:cloudfront:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/python.png" width="20" height="20" alt="python"/> | `:python:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/hiptest.png" width="20" height="20" alt="hiptest"/> | `:hiptest:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/cloudfoundry.png" width="20" height="20" alt="cloudfoundry"/> | `:cloudfoundry:`

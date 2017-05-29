@@ -1,4 +1,16 @@
 [
+ {
+    "name": "swagger",
+    "image": "img-buildkite-64/swagger.png",
+    "category": "Buildkite",
+    "aliases": []
+ },
+ {
+    "name": "piedpiper",
+    "image": "img-buildkite-64/piedpiper.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
   {
     "name": "cloudfront",
     "image": "img-buildkite-64/cloudfront.png",
