@@ -7,7 +7,7 @@ Custom emojis supported by [Buildkite](https://buildkite.com/) which you can use
 To contribute a new custom emoji simply:
 
 * Fork this repo
-* Add the image to the `img-buildkite-64` directory
+* Add the image (as a `75x75` PNG) to the `img-buildkite-64` directory
 * Add it to the `img-buildkite-64.json` file
 * Add it to the top of the table in this markdown file
 * Send a pull request
@@ -17,6 +17,8 @@ To contribute a new custom emoji simply:
 Emoji | Aliases
 ----- | -------
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/flynn.png" width="20" height="20" alt="flynn"/> | `:flynn:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/swagger.png" width="20" height="20" alt="swagger"/> | `:swagger:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/piedpiper.png" width="20" height="20" alt="piedpiper"/> | `:piedpiper:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/cloudfront.png" width="20" height="20" alt="cloudfront"/> | `:cloudfront:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/python.png" width="20" height="20" alt="python"/> | `:python:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/hiptest.png" width="20" height="20" alt="hiptest"/> | `:hiptest:`
