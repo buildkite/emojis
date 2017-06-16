@@ -1,0 +1,10 @@
+{
+  "name": "buildkite-emojis",
+  "version": "2.0.0",
+  "description": "Custom emojis supported by Buildkite which you can use in your build pipelines and terminal output.",
+  "repository": "https://github.com/buildkite/emojis",
+  "author": "Buildkite <hello@buildkite.com>",
+  "dependencies": {
+    "emoji-datasource-apple": "^3.0.0"
+  }
+}
