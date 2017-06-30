@@ -1400,5 +1400,13 @@
     "aliases": [
 
     ]
+  },
+  {
+    "name": "singularity",
+    "image": "img-buildkite-64/singularity.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
   }
 ]
