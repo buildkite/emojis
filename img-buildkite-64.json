@@ -1,5 +1,11 @@
 [
  {
+    "name": "markdown",
+    "image": "img-buildkite-64/markdown.png",
+    "category": "Buildkite",
+    "aliases": ["md"]
+ },
+ {
     "name": "relay",
     "image": "img-buildkite-64/relay.png",
     "category": "Buildkite",
