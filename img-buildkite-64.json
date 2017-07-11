@@ -1414,5 +1414,13 @@
     "aliases": [
 
     ]
+  },
+  {
+    "name": "kotlin",
+    "image": "img-buildkite-64/kotlin.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
   }
 ]
