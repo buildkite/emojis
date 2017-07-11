@@ -16,6 +16,7 @@ To contribute a new custom emoji simply:
 
 Emoji | Aliases
 ----- | -------
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/kotlin.png" width="20" height="20" alt="kotlin"/> | `:kotlin:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/markdown.png" width="20" height="20" alt="markdown"/> | `:markdown:`, `:md:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/singularity.png" width="20" height="20" alt="singularity"/> | `:singularity:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/relay.png" width="20" height="20" alt="relay"/> | `:relay:`
