@@ -1,5 +1,11 @@
 [
  {
+    "name": "convox",
+    "image": "img-buildkite-64/convox.png",
+    "category": "Buildkite",
+    "aliases": []
+ },
+ {
     "name": "helm",
     "image": "img-buildkite-64/helm.png",
     "category": "Buildkite",
