@@ -1,41 +1,53 @@
 [
- {
+  {
+    "name": "suitest",
+    "image": "img-buildkite-64/suitest.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "codeclimate",
+    "image": "img-buildkite-64/codeclimate.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "convox",
     "image": "img-buildkite-64/convox.png",
     "category": "Buildkite",
     "aliases": []
- },
- {
+  },
+  {
     "name": "helm",
     "image": "img-buildkite-64/helm.png",
     "category": "Buildkite",
     "aliases": []
- },
- {
+  },
+  {
     "name": "markdown",
     "image": "img-buildkite-64/markdown.png",
     "category": "Buildkite",
     "aliases": ["md"]
- },
- {
+  },
+  {
     "name": "relay",
     "image": "img-buildkite-64/relay.png",
     "category": "Buildkite",
     "aliases": []
- },
- {
+  },
+  {
     "name": "watchman",
     "image": "img-buildkite-64/watchman.png",
     "category": "Buildkite",
     "aliases": []
- },
- {
+  },
+  {
     "name": "swagger",
     "image": "img-buildkite-64/swagger.png",
     "category": "Buildkite",
     "aliases": []
- },
- {
+  },
+  {
     "name": "piedpiper",
     "image": "img-buildkite-64/piedpiper.png",
     "category": "Buildkite",
