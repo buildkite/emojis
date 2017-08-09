@@ -1,5 +1,11 @@
 [
   {
+    "name": "dynamodb",
+    "image": "img-buildkite-64/dynamodb.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "suitest",
     "image": "img-buildkite-64/suitest.png",
     "category": "Buildkite",
