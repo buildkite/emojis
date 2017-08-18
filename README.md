@@ -7,7 +7,7 @@ Custom emojis supported by [Buildkite](https://buildkite.com/) which you can use
 To contribute a new custom emoji simply:
 
 * Fork this repo
-* Add the image (as a `75x75` PNG) to the `img-buildkite-64` directory
+* Add the image (as a `64x64` PNG) to the `img-buildkite-64` directory
 * Add it to the `img-buildkite-64.json` file
 * Add it to the top of the table in this markdown file
 * Send a pull request
