@@ -1,5 +1,17 @@
 [
   {
+    "name": "clojure",
+    "image": "img-buildkite-64/clojure.png",
+    "category": "Buildkite",
+    "aliases": ["clj"]
+  },
+  {
+    "name": "clojurescript",
+    "image": "img-buildkite-64/clojurescript.png",
+    "category": "Buildkite",
+    "aliases": ["cljs"]
+  },
+  {
     "name": "dynamodb",
     "image": "img-buildkite-64/dynamodb.png",
     "category": "Buildkite",
