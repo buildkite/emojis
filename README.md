@@ -16,6 +16,8 @@ To contribute a new custom emoji simply:
 
 Emoji | Aliases
 ----- | -------
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/safari.png" width="20" height="20" alt="safari"/> | `:safari:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/edge.png" width="20" height="20" alt="edge"/> | `:edge:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/clojure.png" width="20" height="20" alt="clojure"/> | `:clojure:`, `:clj:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/clojurescript.png" width="20" height="20" alt="clojurescript"/> | `:clojurescript:`, `:cljs:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/dynamodb.png" width="20" height="20" alt="dynamodb"/> | `:dynamodb:`
