@@ -36,6 +36,12 @@
     "aliases": []
   },
   {
+    "name": "edge",
+    "image": "img-buildkite-64/edge.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "helm",
     "image": "img-buildkite-64/helm.png",
     "category": "Buildkite",
@@ -56,6 +62,12 @@
   {
     "name": "watchman",
     "image": "img-buildkite-64/watchman.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "safari",
+    "image": "img-buildkite-64/safari.png",
     "category": "Buildkite",
     "aliases": []
   },
