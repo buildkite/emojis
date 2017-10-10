@@ -1,5 +1,17 @@
 [
   {
+    "name": "fabric",
+    "image": "img-buildkite-64/fabric.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "cocoapods",
+    "image": "img-buildkite-64/cocoapods.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "safari",
     "image": "img-buildkite-64/safari.png",
     "category": "Buildkite",
@@ -613,7 +625,7 @@
   },
   {
     "name": "cogops",
-    "image": "img-buildkite-64/cog.png",
+    "image": "img-buildkite-64/cogops.png",
     "category": "Buildkite",
     "aliases": [
 
