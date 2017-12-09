@@ -1494,5 +1494,13 @@
     "aliases": [
 
     ]
+  },
+  {
+    "name": "buck",
+    "image": "img-buildkite-64/buck.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
   }
 ]
