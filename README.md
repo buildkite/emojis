@@ -16,6 +16,7 @@ To contribute a new custom emoji simply:
 
 Emoji | Aliases
 ----- | -------
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/buck.png" width="20" height="20" alt="buck"/> | `:buck:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/quick.png" width="20" height="20" alt="quick"/> | `:quick:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/fabric.png" width="20" height="20" alt="fabric"/> | `:fabric:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/cocoapods.png" width="20" height="20" alt="cocoapods"/> | `:cocoapods:`
