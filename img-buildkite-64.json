@@ -326,6 +326,14 @@
     ]
   },
   {
+    "name": "ecr",
+    "image": "img-buildkite-64/ecr.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "percy",
     "image": "img-buildkite-64/percy.png",
     "category": "Buildkite",
