@@ -1510,5 +1510,13 @@
     "aliases": [
 
     ]
+  },
+  {
+    "name": "cypress",
+    "image": "img-buildkite-64/cypress.png",
+    "category": "Buildkite",
+    "aliases": [
+      "cypressio"
+    ]
   }
 ]
