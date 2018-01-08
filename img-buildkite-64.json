@@ -1518,5 +1518,13 @@
     "aliases": [
       "cypressio"
     ]
-  }
+  },
+  {
+    "name": "virtru",
+    "image": "img-buildkite-64/virtru.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+   }
 ]
