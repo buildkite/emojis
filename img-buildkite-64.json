@@ -1,5 +1,11 @@
 [
   {
+    "name": "prettier",
+    "image": "img-buildkite-64/prettier.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "quick",
     "image": "img-buildkite-64/quick.png",
     "category": "Buildkite",

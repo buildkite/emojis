@@ -16,6 +16,7 @@ To contribute a new custom emoji simply:
 
 Emoji | Aliases
 ----- | -------
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/prettier.png" width="20" height="20" alt="prettier"/> | `:prettier:, :prettier:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/cypress.png" width="20" height="20" alt="cypress"/> | `:cypress:, :cypressio:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/ecr.png" width="20" height="20" alt="ecr"/> | `:ecr:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/buck.png" width="20" height="20" alt="buck"/> | `:buck:`
