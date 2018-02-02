@@ -1,5 +1,11 @@
 [
   {
+    "name": "retirejs",
+    "image": "img-buildkite-64/retirejs.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "nodesecurity",
     "image": "img-buildkite-64/nsp.png",
     "category": "Buildkite",
