@@ -16,8 +16,9 @@ To contribute a new custom emoji simply:
 
 Emoji | Aliases
 ----- | -------
-<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/nsp.png" width="20" height="20" alt="cypress"/> | `:nodesecurity:, :nsp:`
-<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/cypress.png" width="20" height="20" alt="cypress"/> | `:cypress:, :cypressio:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/retirejs.png" width="20" height="20" alt="retirejs"/> | `:retirejs:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/nsp.png" width="20" height="20" alt="nsp"/> | `:nodesecurity:`, `:nsp:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/cypress.png" width="20" height="20" alt="cypress"/> | `:cypress:`, `:cypressio:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/ecr.png" width="20" height="20" alt="ecr"/> | `:ecr:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/buck.png" width="20" height="20" alt="buck"/> | `:buck:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/quick.png" width="20" height="20" alt="quick"/> | `:quick:`
