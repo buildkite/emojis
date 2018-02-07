@@ -1,5 +1,25 @@
 [
   {
+    "name": "prettier",
+    "image": "img-buildkite-64/prettier.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "retirejs",
+    "image": "img-buildkite-64/retirejs.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "nodesecurity",
+    "image": "img-buildkite-64/nsp.png",
+    "category": "Buildkite",
+    "aliases": [
+      "nsp"
+    ]
+  },
+  {
     "name": "quick",
     "image": "img-buildkite-64/quick.png",
     "category": "Buildkite",
