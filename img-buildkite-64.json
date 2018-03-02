@@ -47,7 +47,7 @@
     "name": "edge",
     "image": "img-buildkite-64/edge.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": ["microsoftedge"]
   },
   {
     "name": "clojure",
