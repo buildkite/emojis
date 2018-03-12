@@ -16,6 +16,7 @@ To contribute a new custom emoji simply:
 
 Emoji | Aliases
 ----- | -------
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/sentry.png" width="20" height="20" alt="sentry"/> | `:sentry:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/virtru.png" width="20" height="20" alt="virtru"/> | `:virtru:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/prettier.png" width="20" height="20" alt="prettier"/> | `:prettier:, :prettier:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/retirejs.png" width="20" height="20" alt="retirejs"/> | `:retirejs:`
