@@ -1552,5 +1552,13 @@
     "aliases": [
 
     ]
-   }
+  },
+  {
+    "name": "happo",
+    "image": "img-buildkite-64/happo.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  }
 ]
