@@ -1568,5 +1568,13 @@
     "aliases": [
 
     ]
+  },
+  {
+    "name": "carthage",
+    "image": "img-buildkite-64/carthage.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
   }
 ]
