@@ -20,7 +20,7 @@ Emoji | Aliases
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/happo.png" width="20" height="20" alt="happo"/> | `:happo:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/sentry.png" width="20" height="20" alt="sentry"/> | `:sentry:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/virtru.png" width="20" height="20" alt="virtru"/> | `:virtru:`
-<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/prettier.png" width="20" height="20" alt="prettier"/> | `:prettier:, :prettier:`
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/prettier.png" width="20" height="20" alt="prettier"/> | `:prettier:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/retirejs.png" width="20" height="20" alt="retirejs"/> | `:retirejs:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/nsp.png" width="20" height="20" alt="nsp"/> | `:nodesecurity:`, `:nsp:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/cypress.png" width="20" height="20" alt="cypress"/> | `:cypress:`, `:cypressio:`
