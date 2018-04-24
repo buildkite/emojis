@@ -38,14 +38,14 @@ task :default do
 
     groups[category] ||= []
     groups[category] << [
-      %{<img src="https://raw.githubusercontent.com/buildkite/emojis/master/#{emoji['image']}" width="20" height="20" alt="#{emoji['name']}"/>},
+      %{<img src="#{emoji['image']}" width="20" height="20" alt="#{emoji['name']}"/>},
       [ emoji['name'], emoji['aliases'] ].flatten.compact.uniq.map{|s| "`:#{s}:`" }.join(", ")
     ]
 
     if emoji['modifiers'] && emoji['modifiers'].length > 0
       emoji['modifiers'].each do |modifier|
         groups[category] << [
-          %{<img src="https://raw.githubusercontent.com/buildkite/emojis/master/#{modifier['image']}" width="20" height="20" alt="#{emoji['name']}"/>},
+          %{<img src="#{modifier['image']}" width="20" height="20" alt="#{emoji['name']}"/>},
           "`:#{emoji['name']}::#{modifier['name']}:`"
         ]
       end
