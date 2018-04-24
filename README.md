@@ -16,6 +16,7 @@ To contribute a new custom emoji simply:
 
 Emoji | Aliases
 ----- | -------
+<img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/carthage.png" width="20" height="20" alt="carthage"/> | `:carthage:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/rea.png" width="20" height="20" alt="rea"/> | `:rea:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/happo.png" width="20" height="20" alt="happo"/> | `:happo:`
 <img src="https://raw.githubusercontent.com/buildkite/emojis/master/img-buildkite-64/sentry.png" width="20" height="20" alt="sentry"/> | `:sentry:`
