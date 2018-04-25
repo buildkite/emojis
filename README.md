@@ -14,10 +14,86 @@ To contribute a new custom emoji simply:
 
 ## Buildkite
 
-## Buildkite
-
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/amazon-apigateway.png" width="20" height="20" alt="amazon-apigateway"/> | `:amazon-apigateway:`
+<img src="img-buildkite-64/amazon-athena.png" width="20" height="20" alt="amazon-athena"/> | `:amazon-athena:`
+<img src="img-buildkite-64/amazon-chime.png" width="20" height="20" alt="amazon-chime"/> | `:amazon-chime:`
+<img src="img-buildkite-64/amazon-clouddirectory.png" width="20" height="20" alt="amazon-clouddirectory"/> | `:amazon-clouddirectory:`
+<img src="img-buildkite-64/amazon-cloudsearch.png" width="20" height="20" alt="amazon-cloudsearch"/> | `:amazon-cloudsearch:`
+<img src="img-buildkite-64/amazon-cloudwatch.png" width="20" height="20" alt="amazon-cloudwatch"/> | `:amazon-cloudwatch:`, `:cloudwatch:`
+<img src="img-buildkite-64/amazon-cognito.png" width="20" height="20" alt="amazon-cognito"/> | `:amazon-cognito:`
+<img src="img-buildkite-64/amazon-connect.png" width="20" height="20" alt="amazon-connect"/> | `:amazon-connect:`
+<img src="img-buildkite-64/amazon-dynamodb.png" width="20" height="20" alt="amazon-dynamodb"/> | `:amazon-dynamodb:`, `:dynamodb:`
+<img src="img-buildkite-64/amazon-dynamodbaccelerator.png" width="20" height="20" alt="amazon-dynamodbaccelerator"/> | `:amazon-dynamodbaccelerator:`
+<img src="img-buildkite-64/amazon-ec2.png" width="20" height="20" alt="amazon-ec2"/> | `:amazon-ec2:`, `:ec2:`
+<img src="img-buildkite-64/amazon-ec2systemsmanager.png" width="20" height="20" alt="amazon-ec2systemsmanager"/> | `:amazon-ec2systemsmanager:`
+<img src="img-buildkite-64/amazon-ecs.png" width="20" height="20" alt="amazon-ecs"/> | `:amazon-ecs:`, `:ecs:`
+<img src="img-buildkite-64/amazon-efs.png" width="20" height="20" alt="amazon-efs"/> | `:amazon-efs:`
+<img src="img-buildkite-64/amazon-elasticcache.png" width="20" height="20" alt="amazon-elasticcache"/> | `:amazon-elasticcache:`
+<img src="img-buildkite-64/amazon-elastictranscoder.png" width="20" height="20" alt="amazon-elastictranscoder"/> | `:amazon-elastictranscoder:`
+<img src="img-buildkite-64/amazon-emr.png" width="20" height="20" alt="amazon-emr"/> | `:amazon-emr:`, `:emr:`
+<img src="img-buildkite-64/amazon-es.png" width="20" height="20" alt="amazon-es"/> | `:amazon-es:`
+<img src="img-buildkite-64/amazon-gamelift.png" width="20" height="20" alt="amazon-gamelift"/> | `:amazon-gamelift:`
+<img src="img-buildkite-64/amazon-glacier.png" width="20" height="20" alt="amazon-glacier"/> | `:amazon-glacier:`
+<img src="img-buildkite-64/amazon-inspector.png" width="20" height="20" alt="amazon-inspector"/> | `:amazon-inspector:`
+<img src="img-buildkite-64/amazon-kinesis.png" width="20" height="20" alt="amazon-kinesis"/> | `:amazon-kinesis:`, `:kinesis:`
+<img src="img-buildkite-64/amazon-lex.png" width="20" height="20" alt="amazon-lex"/> | `:amazon-lex:`
+<img src="img-buildkite-64/amazon-lightsail.png" width="20" height="20" alt="amazon-lightsail"/> | `:amazon-lightsail:`
+<img src="img-buildkite-64/amazon-machinelearning.png" width="20" height="20" alt="amazon-machinelearning"/> | `:amazon-machinelearning:`
+<img src="img-buildkite-64/amazon-macie.png" width="20" height="20" alt="amazon-macie"/> | `:amazon-macie:`
+<img src="img-buildkite-64/amazon-mechanicalturk.png" width="20" height="20" alt="amazon-mechanicalturk"/> | `:amazon-mechanicalturk:`
+<img src="img-buildkite-64/amazon-mobileanalytics.png" width="20" height="20" alt="amazon-mobileanalytics"/> | `:amazon-mobileanalytics:`
+<img src="img-buildkite-64/amazon-pinpoint.png" width="20" height="20" alt="amazon-pinpoint"/> | `:amazon-pinpoint:`
+<img src="img-buildkite-64/amazon-polly.png" width="20" height="20" alt="amazon-polly"/> | `:amazon-polly:`
+<img src="img-buildkite-64/amazon-quicksight.png" width="20" height="20" alt="amazon-quicksight"/> | `:amazon-quicksight:`
+<img src="img-buildkite-64/amazon-rds.png" width="20" height="20" alt="amazon-rds"/> | `:amazon-rds:`
+<img src="img-buildkite-64/amazon-redshift.png" width="20" height="20" alt="amazon-redshift"/> | `:amazon-redshift:`
+<img src="img-buildkite-64/amazon-rekognition.png" width="20" height="20" alt="amazon-rekognition"/> | `:amazon-rekognition:`
+<img src="img-buildkite-64/amazon-s3.png" width="20" height="20" alt="amazon-s3"/> | `:amazon-s3:`, `:s3:`
+<img src="img-buildkite-64/amazon-ses.png" width="20" height="20" alt="amazon-ses"/> | `:amazon-ses:`
+<img src="img-buildkite-64/amazon-sns.png" width="20" height="20" alt="amazon-sns"/> | `:amazon-sns:`
+<img src="img-buildkite-64/amazon-sqs.png" width="20" height="20" alt="amazon-sqs"/> | `:amazon-sqs:`
+<img src="img-buildkite-64/amazon-swf.png" width="20" height="20" alt="amazon-swf"/> | `:amazon-swf:`
+<img src="img-buildkite-64/amazon-vpc.png" width="20" height="20" alt="amazon-vpc"/> | `:amazon-vpc:`
+<img src="img-buildkite-64/aws-applicationdiscoveryservice.png" width="20" height="20" alt="aws-applicationdiscoveryservice"/> | `:aws-applicationdiscoveryservice:`
+<img src="img-buildkite-64/aws-artifact.png" width="20" height="20" alt="aws-artifact"/> | `:aws-artifact:`
+<img src="img-buildkite-64/aws-batch.png" width="20" height="20" alt="aws-batch"/> | `:aws-batch:`
+<img src="img-buildkite-64/aws-certificatemanager.png" width="20" height="20" alt="aws-certificatemanager"/> | `:aws-certificatemanager:`
+<img src="img-buildkite-64/aws-cli.png" width="20" height="20" alt="aws-cli"/> | `:aws-cli:`
+<img src="img-buildkite-64/aws-cloudformation.png" width="20" height="20" alt="aws-cloudformation"/> | `:aws-cloudformation:`, `:cloudformation:`
+<img src="img-buildkite-64/aws-cloudhsm.png" width="20" height="20" alt="aws-cloudhsm"/> | `:aws-cloudhsm:`
+<img src="img-buildkite-64/aws-cloudtrail.png" width="20" height="20" alt="aws-cloudtrail"/> | `:aws-cloudtrail:`
+<img src="img-buildkite-64/aws-codebuild.png" width="20" height="20" alt="aws-codebuild"/> | `:aws-codebuild:`
+<img src="img-buildkite-64/aws-codecommit.png" width="20" height="20" alt="aws-codecommit"/> | `:aws-codecommit:`
+<img src="img-buildkite-64/aws-codedeploy.png" width="20" height="20" alt="aws-codedeploy"/> | `:aws-codedeploy:`, `:codedeploy:`
+<img src="img-buildkite-64/aws-codepipeline.png" width="20" height="20" alt="aws-codepipeline"/> | `:aws-codepipeline:`, `:codepipeline:`
+<img src="img-buildkite-64/aws-codestar.png" width="20" height="20" alt="aws-codestar"/> | `:aws-codestar:`
+<img src="img-buildkite-64/aws-config.png" width="20" height="20" alt="aws-config"/> | `:aws-config:`
+<img src="img-buildkite-64/aws-datapipeline.png" width="20" height="20" alt="aws-datapipeline"/> | `:aws-datapipeline:`
+<img src="img-buildkite-64/aws-devicefarm.png" width="20" height="20" alt="aws-devicefarm"/> | `:aws-devicefarm:`
+<img src="img-buildkite-64/aws-directoryservice.png" width="20" height="20" alt="aws-directoryservice"/> | `:aws-directoryservice:`
+<img src="img-buildkite-64/aws-dms.png" width="20" height="20" alt="aws-dms"/> | `:aws-dms:`
+<img src="img-buildkite-64/aws-elasticbeanstalk.png" width="20" height="20" alt="aws-elasticbeanstalk"/> | `:aws-elasticbeanstalk:`, `:elasticbeanstalk:`
+<img src="img-buildkite-64/aws-glue.png" width="20" height="20" alt="aws-glue"/> | `:aws-glue:`
+<img src="img-buildkite-64/aws-iam.png" width="20" height="20" alt="aws-iam"/> | `:aws-iam:`
+<img src="img-buildkite-64/aws-iot.png" width="20" height="20" alt="aws-iot"/> | `:aws-iot:`
+<img src="img-buildkite-64/aws-kms.png" width="20" height="20" alt="aws-kms"/> | `:aws-kms:`
+<img src="img-buildkite-64/aws-lambda.png" width="20" height="20" alt="aws-lambda"/> | `:aws-lambda:`, `:lambda:`
+<img src="img-buildkite-64/aws-logo.png" width="20" height="20" alt="aws-logo"/> | `:aws-logo:`
+<img src="img-buildkite-64/aws-managedservices.png" width="20" height="20" alt="aws-managedservices"/> | `:aws-managedservices:`
+<img src="img-buildkite-64/aws-opsworks.png" width="20" height="20" alt="aws-opsworks"/> | `:aws-opsworks:`
+<img src="img-buildkite-64/aws-organizations.png" width="20" height="20" alt="aws-organizations"/> | `:aws-organizations:`
+<img src="img-buildkite-64/aws-servicecatalog.png" width="20" height="20" alt="aws-servicecatalog"/> | `:aws-servicecatalog:`
+<img src="img-buildkite-64/aws-shield.png" width="20" height="20" alt="aws-shield"/> | `:aws-shield:`
+<img src="img-buildkite-64/aws-sms.png" width="20" height="20" alt="aws-sms"/> | `:aws-sms:`
+<img src="img-buildkite-64/aws-snowball.png" width="20" height="20" alt="aws-snowball"/> | `:aws-snowball:`
+<img src="img-buildkite-64/aws-stepfunctions.png" width="20" height="20" alt="aws-stepfunctions"/> | `:aws-stepfunctions:`
+<img src="img-buildkite-64/aws-storagegateway.png" width="20" height="20" alt="aws-storagegateway"/> | `:aws-storagegateway:`
+<img src="img-buildkite-64/aws-trustedadvisor.png" width="20" height="20" alt="aws-trustedadvisor"/> | `:aws-trustedadvisor:`
+<img src="img-buildkite-64/aws-waf.png" width="20" height="20" alt="aws-waf"/> | `:aws-waf:`
+<img src="img-buildkite-64/aws-x-ray.png" width="20" height="20" alt="aws-x-ray"/> | `:aws-x-ray:`
+<img src="img-buildkite-64/elasticloadbalancing.png" width="20" height="20" alt="elasticloadbalancing"/> | `:elasticloadbalancing:`
 <img src="img-buildkite-64/sentry.png" width="20" height="20" alt="sentry"/> | `:sentry:`
 <img src="img-buildkite-64/prettier.png" width="20" height="20" alt="prettier"/> | `:prettier:`
 <img src="img-buildkite-64/retirejs.png" width="20" height="20" alt="retirejs"/> | `:retirejs:`

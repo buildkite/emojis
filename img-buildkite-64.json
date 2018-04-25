@@ -68,12 +68,6 @@
     "aliases": ["cljs"]
   },
   {
-    "name": "dynamodb",
-    "image": "img-buildkite-64/dynamodb.png",
-    "category": "Buildkite",
-    "aliases": []
-  },
-  {
     "name": "suitest",
     "image": "img-buildkite-64/suitest.png",
     "category": "Buildkite",
@@ -296,14 +290,6 @@
     ]
   },
   {
-    "name": "kinesis",
-    "image": "img-buildkite-64/kinesis.png",
-    "category": "Buildkite",
-    "aliases": [
-
-    ]
-  },
-  {
     "name": "spark",
     "image": "img-buildkite-64/spark.png",
     "category": "Buildkite",
@@ -320,14 +306,6 @@
     ]
   },
   {
-    "name": "emr",
-    "image": "img-buildkite-64/emr.png",
-    "category": "Buildkite",
-    "aliases": [
-
-    ]
-  },
-  {
     "name": "scala",
     "image": "img-buildkite-64/scala.png",
     "category": "Buildkite",
@@ -338,14 +316,6 @@
   {
     "name": "sbt",
     "image": "img-buildkite-64/sbt.png",
-    "category": "Buildkite",
-    "aliases": [
-
-    ]
-  },
-  {
-    "name": "ecs",
-    "image": "img-buildkite-64/ecs.png",
     "category": "Buildkite",
     "aliases": [
 
@@ -680,14 +650,6 @@
     ]
   },
   {
-    "name": "cloudwatch",
-    "image": "img-buildkite-64/cloudwatch.png",
-    "category": "Buildkite",
-    "aliases": [
-
-    ]
-  },
-  {
     "name": "mocha",
     "image": "img-buildkite-64/mocha.png",
     "category": "Buildkite",
@@ -912,32 +874,8 @@
     ]
   },
   {
-    "name": "cloudformation",
-    "image": "img-buildkite-64/cloudformation.png",
-    "category": "Buildkite",
-    "aliases": [
-
-    ]
-  },
-  {
     "name": "codecov",
     "image": "img-buildkite-64/codecov.png",
-    "category": "Buildkite",
-    "aliases": [
-
-    ]
-  },
-  {
-    "name": "codedeploy",
-    "image": "img-buildkite-64/codedeploy.png",
-    "category": "Buildkite",
-    "aliases": [
-
-    ]
-  },
-  {
-    "name": "codepipeline",
-    "image": "img-buildkite-64/codepipeline.png",
     "category": "Buildkite",
     "aliases": [
 
@@ -978,22 +916,6 @@
   {
     "name": "docker",
     "image": "img-buildkite-64/docker.png",
-    "category": "Buildkite",
-    "aliases": [
-
-    ]
-  },
-  {
-    "name": "ec2",
-    "image": "img-buildkite-64/ec2.png",
-    "category": "Buildkite",
-    "aliases": [
-
-    ]
-  },
-  {
-    "name": "elasticbeanstalk",
-    "image": "img-buildkite-64/elasticbeanstalk.png",
     "category": "Buildkite",
     "aliases": [
 
@@ -1146,14 +1068,6 @@
   {
     "name": "knapsack",
     "image": "img-buildkite-64/knapsack.png",
-    "category": "Buildkite",
-    "aliases": [
-
-    ]
-  },
-  {
-    "name": "lambda",
-    "image": "img-buildkite-64/lambda.png",
     "category": "Buildkite",
     "aliases": [
 
@@ -1402,14 +1316,6 @@
     ]
   },
   {
-    "name": "s3",
-    "image": "img-buildkite-64/s3.png",
-    "category": "Buildkite",
-    "aliases": [
-
-    ]
-  },
-  {
     "name": "scientific_linux",
     "image": "img-buildkite-64/scientific_linux.png",
     "category": "Buildkite",
@@ -1576,5 +1482,497 @@
     "aliases": [
 
     ]
+  },
+  {
+    "name": "amazon-apigateway",
+    "image": "img-buildkite-64/amazon-apigateway.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "amazon-athena",
+    "image": "img-buildkite-64/amazon-athena.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "amazon-chime",
+    "image": "img-buildkite-64/amazon-chime.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "amazon-clouddirectory",
+    "image": "img-buildkite-64/amazon-clouddirectory.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "amazon-cloudsearch",
+    "image": "img-buildkite-64/amazon-cloudsearch.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "amazon-cloudwatch",
+    "image": "img-buildkite-64/amazon-cloudwatch.png",
+    "category": "Buildkite",
+    "aliases": [
+      "cloudwatch"
+    ]
+  },
+  {
+    "name": "amazon-cognito",
+    "image": "img-buildkite-64/amazon-cognito.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "amazon-connect",
+    "image": "img-buildkite-64/amazon-connect.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "amazon-dynamodb",
+    "image": "img-buildkite-64/amazon-dynamodb.png",
+    "category": "Buildkite",
+    "aliases": [
+      "dynamodb"
+    ]
+  },
+  {
+    "name": "amazon-dynamodbaccelerator",
+    "image": "img-buildkite-64/amazon-dynamodbaccelerator.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "amazon-ec2",
+    "image": "img-buildkite-64/amazon-ec2.png",
+    "category": "Buildkite",
+    "aliases": [
+      "ec2"
+    ]
+  },
+  {
+    "name": "amazon-ec2systemsmanager",
+    "image": "img-buildkite-64/amazon-ec2systemsmanager.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "amazon-ecs",
+    "image": "img-buildkite-64/amazon-ecs.png",
+    "category": "Buildkite",
+    "aliases": [
+      "ecs"
+    ]
+  },
+  {
+    "name": "amazon-efs",
+    "image": "img-buildkite-64/amazon-efs.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "amazon-elasticcache",
+    "image": "img-buildkite-64/amazon-elasticcache.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "amazon-elastictranscoder",
+    "image": "img-buildkite-64/amazon-elastictranscoder.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "amazon-emr",
+    "image": "img-buildkite-64/amazon-emr.png",
+    "category": "Buildkite",
+    "aliases": [
+      "emr"
+    ]
+  },
+  {
+    "name": "amazon-es",
+    "image": "img-buildkite-64/amazon-es.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "amazon-gamelift",
+    "image": "img-buildkite-64/amazon-gamelift.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "amazon-glacier",
+    "image": "img-buildkite-64/amazon-glacier.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "amazon-inspector",
+    "image": "img-buildkite-64/amazon-inspector.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "amazon-kinesis",
+    "image": "img-buildkite-64/amazon-kinesis.png",
+    "category": "Buildkite",
+    "aliases": [
+      "kinesis"
+    ]
+  },
+  {
+    "name": "amazon-lex",
+    "image": "img-buildkite-64/amazon-lex.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "amazon-lightsail",
+    "image": "img-buildkite-64/amazon-lightsail.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "amazon-machinelearning",
+    "image": "img-buildkite-64/amazon-machinelearning.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "amazon-macie",
+    "image": "img-buildkite-64/amazon-macie.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "amazon-mechanicalturk",
+    "image": "img-buildkite-64/amazon-mechanicalturk.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "amazon-mobileanalytics",
+    "image": "img-buildkite-64/amazon-mobileanalytics.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "amazon-pinpoint",
+    "image": "img-buildkite-64/amazon-pinpoint.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "amazon-polly",
+    "image": "img-buildkite-64/amazon-polly.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "amazon-quicksight",
+    "image": "img-buildkite-64/amazon-quicksight.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "amazon-rds",
+    "image": "img-buildkite-64/amazon-rds.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "amazon-redshift",
+    "image": "img-buildkite-64/amazon-redshift.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "amazon-rekognition",
+    "image": "img-buildkite-64/amazon-rekognition.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "amazon-s3",
+    "image": "img-buildkite-64/amazon-s3.png",
+    "category": "Buildkite",
+    "aliases": [
+      "s3"
+    ]
+  },
+  {
+    "name": "amazon-ses",
+    "image": "img-buildkite-64/amazon-ses.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "amazon-sns",
+    "image": "img-buildkite-64/amazon-sns.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "amazon-sqs",
+    "image": "img-buildkite-64/amazon-sqs.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "amazon-swf",
+    "image": "img-buildkite-64/amazon-swf.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "amazon-vpc",
+    "image": "img-buildkite-64/amazon-vpc.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aws-applicationdiscoveryservice",
+    "image": "img-buildkite-64/aws-applicationdiscoveryservice.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aws-artifact",
+    "image": "img-buildkite-64/aws-artifact.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aws-batch",
+    "image": "img-buildkite-64/aws-batch.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aws-certificatemanager",
+    "image": "img-buildkite-64/aws-certificatemanager.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aws-cli",
+    "image": "img-buildkite-64/aws-cli.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aws-cloudformation",
+    "image": "img-buildkite-64/aws-cloudformation.png",
+    "category": "Buildkite",
+    "aliases": [
+      "cloudformation"
+    ]
+  },
+  {
+    "name": "aws-cloudhsm",
+    "image": "img-buildkite-64/aws-cloudhsm.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aws-cloudtrail",
+    "image": "img-buildkite-64/aws-cloudtrail.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aws-codebuild",
+    "image": "img-buildkite-64/aws-codebuild.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aws-codecommit",
+    "image": "img-buildkite-64/aws-codecommit.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aws-codedeploy",
+    "image": "img-buildkite-64/aws-codedeploy.png",
+    "category": "Buildkite",
+    "aliases": [
+      "codedeploy"
+    ]
+  },
+  {
+    "name": "aws-codepipeline",
+    "image": "img-buildkite-64/aws-codepipeline.png",
+    "category": "Buildkite",
+    "aliases": [
+      "codepipeline"
+    ]
+  },
+  {
+    "name": "aws-codestar",
+    "image": "img-buildkite-64/aws-codestar.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aws-config",
+    "image": "img-buildkite-64/aws-config.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aws-datapipeline",
+    "image": "img-buildkite-64/aws-datapipeline.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aws-devicefarm",
+    "image": "img-buildkite-64/aws-devicefarm.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aws-directoryservice",
+    "image": "img-buildkite-64/aws-directoryservice.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aws-dms",
+    "image": "img-buildkite-64/aws-dms.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aws-elasticbeanstalk",
+    "image": "img-buildkite-64/aws-elasticbeanstalk.png",
+    "category": "Buildkite",
+    "aliases": [
+      "elasticbeanstalk"
+    ]
+  },
+  {
+    "name": "aws-glue",
+    "image": "img-buildkite-64/aws-glue.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aws-iam",
+    "image": "img-buildkite-64/aws-iam.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aws-iot",
+    "image": "img-buildkite-64/aws-iot.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aws-kms",
+    "image": "img-buildkite-64/aws-kms.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aws-lambda",
+    "image": "img-buildkite-64/aws-lambda.png",
+    "category": "Buildkite",
+    "aliases": [
+      "lambda"
+    ]
+  },
+  {
+    "name": "aws-logo",
+    "image": "img-buildkite-64/aws-logo.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aws-managedservices",
+    "image": "img-buildkite-64/aws-managedservices.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aws-opsworks",
+    "image": "img-buildkite-64/aws-opsworks.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aws-organizations",
+    "image": "img-buildkite-64/aws-organizations.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aws-servicecatalog",
+    "image": "img-buildkite-64/aws-servicecatalog.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aws-shield",
+    "image": "img-buildkite-64/aws-shield.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aws-sms",
+    "image": "img-buildkite-64/aws-sms.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aws-snowball",
+    "image": "img-buildkite-64/aws-snowball.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aws-stepfunctions",
+    "image": "img-buildkite-64/aws-stepfunctions.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aws-storagegateway",
+    "image": "img-buildkite-64/aws-storagegateway.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aws-trustedadvisor",
+    "image": "img-buildkite-64/aws-trustedadvisor.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aws-waf",
+    "image": "img-buildkite-64/aws-waf.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aws-x-ray",
+    "image": "img-buildkite-64/aws-x-ray.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "elasticloadbalancing",
+    "image": "img-buildkite-64/elasticloadbalancing.png",
+    "category": "Buildkite",
+    "aliases": []
   }
 ]
