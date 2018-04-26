@@ -105,7 +105,6 @@ Emoji | Aliases
 <img src="img-buildkite-64/edge.png" width="20" height="20" alt="edge"/> | `:edge:`, `:microsoftedge:`
 <img src="img-buildkite-64/clojure.png" width="20" height="20" alt="clojure"/> | `:clojure:`, `:clj:`
 <img src="img-buildkite-64/clojurescript.png" width="20" height="20" alt="clojurescript"/> | `:clojurescript:`, `:cljs:`
-<img src="img-buildkite-64/dynamodb.png" width="20" height="20" alt="dynamodb"/> | `:dynamodb:`
 <img src="img-buildkite-64/suitest.png" width="20" height="20" alt="suitest"/> | `:suitest:`
 <img src="img-buildkite-64/codeclimate.png" width="20" height="20" alt="codeclimate"/> | `:codeclimate:`
 <img src="img-buildkite-64/convox.png" width="20" height="20" alt="convox"/> | `:convox:`
@@ -139,13 +138,10 @@ Emoji | Aliases
 <img src="img-buildkite-64/cargo.png" width="20" height="20" alt="cargo"/> | `:cargo:`, `:crates:`
 <img src="img-buildkite-64/rust.png" width="20" height="20" alt="rust"/> | `:rust:`, `:rustlang:`
 <img src="img-buildkite-64/kubernetes.png" width="20" height="20" alt="kubernetes"/> | `:kubernetes:`, `:k8s:`
-<img src="img-buildkite-64/kinesis.png" width="20" height="20" alt="kinesis"/> | `:kinesis:`
 <img src="img-buildkite-64/spark.png" width="20" height="20" alt="spark"/> | `:spark:`
 <img src="img-buildkite-64/hadoop.png" width="20" height="20" alt="hadoop"/> | `:hadoop:`
-<img src="img-buildkite-64/emr.png" width="20" height="20" alt="emr"/> | `:emr:`
 <img src="img-buildkite-64/scala.png" width="20" height="20" alt="scala"/> | `:scala:`
 <img src="img-buildkite-64/sbt.png" width="20" height="20" alt="sbt"/> | `:sbt:`
-<img src="img-buildkite-64/ecs.png" width="20" height="20" alt="ecs"/> | `:ecs:`
 <img src="img-buildkite-64/ecr.png" width="20" height="20" alt="ecr"/> | `:ecr:`
 <img src="img-buildkite-64/percy.png" width="20" height="20" alt="percy"/> | `:percy:`
 <img src="img-buildkite-64/civicrm.png" width="20" height="20" alt="civicrm"/> | `:civicrm:`, `:civi:`
@@ -187,7 +183,6 @@ Emoji | Aliases
 <img src="img-buildkite-64/graphql.png" width="20" height="20" alt="graphql"/> | `:graphql:`
 <img src="img-buildkite-64/cogops.png" width="20" height="20" alt="cogops"/> | `:cogops:`
 <img src="img-buildkite-64/aws.png" width="20" height="20" alt="aws"/> | `:aws:`
-<img src="img-buildkite-64/cloudwatch.png" width="20" height="20" alt="cloudwatch"/> | `:cloudwatch:`
 <img src="img-buildkite-64/mocha.png" width="20" height="20" alt="mocha"/> | `:mocha:`
 <img src="img-buildkite-64/rails.png" width="20" height="20" alt="rails"/> | `:rails:`
 <img src="img-buildkite-64/phoenix.png" width="20" height="20" alt="phoenix"/> | `:phoenix:`
@@ -216,17 +211,12 @@ Emoji | Aliases
 <img src="img-buildkite-64/calibre.png" width="20" height="20" alt="calibre"/> | `:calibre:`
 <img src="img-buildkite-64/capistrano.png" width="20" height="20" alt="capistrano"/> | `:capistrano:`
 <img src="img-buildkite-64/centos.png" width="20" height="20" alt="centos"/> | `:centos:`
-<img src="img-buildkite-64/cloudformation.png" width="20" height="20" alt="cloudformation"/> | `:cloudformation:`
 <img src="img-buildkite-64/codecov.png" width="20" height="20" alt="codecov"/> | `:codecov:`
-<img src="img-buildkite-64/codedeploy.png" width="20" height="20" alt="codedeploy"/> | `:codedeploy:`
-<img src="img-buildkite-64/codepipeline.png" width="20" height="20" alt="codepipeline"/> | `:codepipeline:`
 <img src="img-buildkite-64/compute.png" width="20" height="20" alt="compute"/> | `:compute:`, `:gcompute:`
 <img src="img-buildkite-64/cucumber.png" width="20" height="20" alt="cucumber"/> | `:cucumber:`
 <img src="img-buildkite-64/datadog.png" width="20" height="20" alt="datadog"/> | `:datadog:`
 <img src="img-buildkite-64/debian.png" width="20" height="20" alt="debian"/> | `:debian:`
 <img src="img-buildkite-64/docker.png" width="20" height="20" alt="docker"/> | `:docker:`
-<img src="img-buildkite-64/ec2.png" width="20" height="20" alt="ec2"/> | `:ec2:`
-<img src="img-buildkite-64/elasticbeanstalk.png" width="20" height="20" alt="elasticbeanstalk"/> | `:elasticbeanstalk:`
 <img src="img-buildkite-64/eslint.png" width="20" height="20" alt="eslint"/> | `:eslint:`
 <img src="img-buildkite-64/fastlane.png" width="20" height="20" alt="fastlane"/> | `:fastlane:`
 <img src="img-buildkite-64/fedora.png" width="20" height="20" alt="fedora"/> | `:fedora:`
@@ -246,7 +236,6 @@ Emoji | Aliases
 <img src="img-buildkite-64/json.png" width="20" height="20" alt="json"/> | `:json:`
 <img src="img-buildkite-64/karma.png" width="20" height="20" alt="karma"/> | `:karma:`
 <img src="img-buildkite-64/knapsack.png" width="20" height="20" alt="knapsack"/> | `:knapsack:`
-<img src="img-buildkite-64/lambda.png" width="20" height="20" alt="lambda"/> | `:lambda:`
 <img src="img-buildkite-64/linux.png" width="20" height="20" alt="linux"/> | `:linux:`
 <img src="img-buildkite-64/llama.png" width="20" height="20" alt="llama"/> | `:llama:`
 <img src="img-buildkite-64/mac.png" width="20" height="20" alt="mac"/> | `:mac:`, `:darwin:`
@@ -277,7 +266,6 @@ Emoji | Aliases
 <img src="img-buildkite-64/erlang.png" width="20" height="20" alt="erlang"/> | `:erlang:`
 <img src="img-buildkite-64/hex.png" width="20" height="20" alt="hex"/> | `:hex:`
 <img src="img-buildkite-64/rubygems.png" width="20" height="20" alt="rubygems"/> | `:rubygems:`
-<img src="img-buildkite-64/s3.png" width="20" height="20" alt="s3"/> | `:s3:`
 <img src="img-buildkite-64/scientific_linux.png" width="20" height="20" alt="scientific_linux"/> | `:scientific_linux:`
 <img src="img-buildkite-64/shipit.png" width="20" height="20" alt="shipit"/> | `:shipit:`
 <img src="img-buildkite-64/suspect.png" width="20" height="20" alt="suspect"/> | `:suspect:`
