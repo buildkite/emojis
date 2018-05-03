@@ -1,5 +1,11 @@
 [
   {
+    "name": "hyper",
+    "image": "img-buildkite-64/hyper.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "sentry",
     "image": "img-buildkite-64/sentry.png",
     "category": "Buildkite",
