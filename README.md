@@ -233,6 +233,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/green_button.png" width="20" height="20" alt="green_button"/> | `:green_button:`
 <img src="img-buildkite-64/heroku.png" width="20" height="20" alt="heroku"/> | `:heroku:`
 <img src="img-buildkite-64/hurtrealbad.png" width="20" height="20" alt="hurtrealbad"/> | `:hurtrealbad:`
+<img src="img-buildkite-64/hyper.png" width="20" height="20" alt="hyper"/> | `:hyper:`
 <img src="img-buildkite-64/json.png" width="20" height="20" alt="json"/> | `:json:`
 <img src="img-buildkite-64/karma.png" width="20" height="20" alt="karma"/> | `:karma:`
 <img src="img-buildkite-64/knapsack.png" width="20" height="20" alt="knapsack"/> | `:knapsack:`
