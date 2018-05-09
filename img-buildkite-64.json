@@ -1,5 +1,19 @@
 [
   {
+    "name": "chef",
+    "image": "img-buildkite-64/chef-logo.png",
+    "category": "Buildkite",
+    "aliases": [
+      "opscode"
+    ]
+  },
+  {
+    "name": "inspec",
+    "image": "img-buildkite-64/chef-inspec.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "hyper",
     "image": "img-buildkite-64/hyper.png",
     "category": "Buildkite",
