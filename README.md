@@ -16,6 +16,8 @@ To contribute a new custom emoji simply:
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/chef-logo.png" width="20" height="20" alt="chef"/> | `:chef:`
+<img src="img-buildkite-64/chef-inspec.png" width="20" height="20" alt="inspec"/> | `:inspec:`
 <img src="img-buildkite-64/amazon-apigateway.png" width="20" height="20" alt="amazon-apigateway"/> | `:amazon-apigateway:`
 <img src="img-buildkite-64/amazon-athena.png" width="20" height="20" alt="amazon-athena"/> | `:amazon-athena:`
 <img src="img-buildkite-64/amazon-chime.png" width="20" height="20" alt="amazon-chime"/> | `:amazon-chime:`
