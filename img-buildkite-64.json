@@ -1384,6 +1384,14 @@
     ]
   },
   {
+    "name": "parcel",
+    "image": "img-buildkite-64/parcel.png",
+    "category": "Buildkite",
+    "aliases": [
+      "parcel-bundler"
+    ]
+  },
+  {
     "name": "webpack",
     "image": "img-buildkite-64/webpack.png",
     "category": "Buildkite",
