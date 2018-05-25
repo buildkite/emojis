@@ -2002,5 +2002,11 @@
     "image": "img-buildkite-64/elasticloadbalancing.png",
     "category": "Buildkite",
     "aliases": []
+  },
+  {
+    "name": "splunk",
+    "image": "img-buildkite-64/splunk.png",
+    "category": "Buildkite",
+    "aliases": []
   }
 ]
