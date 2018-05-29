@@ -16,6 +16,9 @@ To contribute a new custom emoji simply:
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/rogue.png" width="20" height="20" alt="rogue"/> | `:rogue:`
+<img src="img-buildkite-64/rogue2.png" width="20" height="20" alt="rogue2"/> | `:rogue2:`
+<img src="img-buildkite-64/bluesteel.png" width="20" height="20" alt="bluesteel"/> | `:bluesteel:`
 <img src="img-buildkite-64/parcel.png" width="20" height="20" alt="parcel"/> | `:parcel:`, `:parcel-bundler:`
 <img src="img-buildkite-64/chef-logo.png" width="20" height="20" alt="chef"/> | `:chef:`
 <img src="img-buildkite-64/chef-inspec.png" width="20" height="20" alt="inspec"/> | `:inspec:`
