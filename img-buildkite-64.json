@@ -1,5 +1,11 @@
 [
   {
+    "name": "habicat",
+    "image": "img-buildkite-64/habicat.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "chef",
     "image": "img-buildkite-64/chef-logo.png",
     "category": "Buildkite",
