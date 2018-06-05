@@ -16,6 +16,7 @@ To contribute a new custom emoji simply:
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/batman.png" width="20" height="20" alt="batman"/> | `:batman:`
 <img src="img-buildkite-64/habicat.png" width="20" height="20" alt="habicat"/> | `:habicat:`
 <img src="img-buildkite-64/parcel.png" width="20" height="20" alt="parcel"/> | `:parcel:`, `:parcel-bundler:`
 <img src="img-buildkite-64/chef-logo.png" width="20" height="20" alt="chef"/> | `:chef:`
