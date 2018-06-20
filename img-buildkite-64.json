@@ -324,6 +324,14 @@
     ]
   },
   {
+    "name": "kafka",
+    "image": "img-buildkite-64/kafka.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "hadoop",
     "image": "img-buildkite-64/hadoop.png",
     "category": "Buildkite",
