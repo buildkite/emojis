@@ -1,5 +1,11 @@
 [
   {
+    "name": "pie",
+    "image": "img-buildkite-64/pie.png",
+    "category": "Food",
+    "aliases": []
+  },
+  {
     "name": "habicat",
     "image": "img-buildkite-64/habicat.png",
     "category": "Buildkite",

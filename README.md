@@ -1482,6 +1482,7 @@ Emoji | Aliases
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/pie.png" width="20" height="20" alt="pie"/> | `:pie:`
 <img src="img-apple-64/1f9c0.png" width="20" height="20" alt="cheese_wedge"/> | `:cheese_wedge:`
 <img src="img-apple-64/1f95e.png" width="20" height="20" alt="pancakes"/> | `:pancakes:`
 <img src="img-apple-64/1f95d.png" width="20" height="20" alt="kiwifruit"/> | `:kiwifruit:`
