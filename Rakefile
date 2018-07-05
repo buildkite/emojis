@@ -74,6 +74,56 @@ task :default do
   end
 end
 
+desc "Check there are no duplicate emoji names"
+task :verify do
+  # These duplicates existed prior to the addition of this check,
+  # so just print them as a warning
+  ignored_duplicates = [
+    'cucumber',
+    'family',
+    'man-woman-boy'
+  ]
+
+  emoji_names = []
+
+  Dir.glob("img-*.json").each do |catalogue_file|
+    catalogue_data = JSON.parse(File.read(catalogue_file))
+
+    catalogue_data.each do |emoji|
+      emoji_names.concat([ emoji['name'], emoji['aliases'] ].flatten.compact)
+    end
+  end
+
+  emoji_names.sort!
+
+  File.write(
+    "#{__dir__}/all_emoji_names.txt",
+    emoji_names.join("\n")
+  )
+
+  warning_emoji_names = []
+  error_emoji_names = []
+
+  emoji_names.group_by { |name| name }.select { |_, list| list.size > 1 }.map do |list|
+    name = list.first
+
+    if ignored_duplicates.include?(name)
+      warning_emoji_names << ":#{name}: (#{name}) refers to #{list.length} emoji"
+    else
+      error_emoji_names << ":#{name}: (#{name}) refers to #{list.length} emoji"
+    end
+  end
+
+  if warning_emoji_names.any?
+    puts "WARNING: Ignored duplicate emoji names:\n - #{warning_emoji_names.join("\n - ")}\n"
+  end
+
+  if error_emoji_names.any?
+    puts "ERROR: Unexpected duplicate emoji names:\n - #{error_emoji_names.join("\n - ")}\n"
+    exit 1
+  end
+end
+
 def preprocess_emoji_json(parsed)
   new = []
 
