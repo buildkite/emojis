@@ -52,7 +52,15 @@ task :default do
     end
   end
 
-  order = ["Buildkite", "People", "Nature", "Foods", "Activity", "Places", "Objects", "Symbols", "Flags"]
+  order = ["Buildkite",
+           "Smileys & People",
+           "Animals & Nature",
+           "Food & Drink",
+           "Activities",
+           "Travel & Places",
+           "Objects",
+           "Symbols",
+           "Flags"]
 
   order.each do |name|
     rows = groups.delete(name)
@@ -60,7 +68,7 @@ task :default do
     # Reverse the order of the BK group so the latest emojis get added to the top
     rows = rows.reverse if name == "Buildkite"
 
-    puts "## #{name}\n\n"
+    puts "### #{name}\n\n"
     puts "Emoji | Aliases"
     puts "----- | -------"
     rows.each do |cols|
