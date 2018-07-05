@@ -2,6 +2,6 @@
 # yarn lockfile v1
 
 
-emoji-datasource-apple@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/emoji-datasource-apple/-/emoji-datasource-apple-3.0.0.tgz#1e5eb0443d0a9e20ec3ed01e77114ce601b19cec"
+emoji-datasource-apple@4.0.4:
+  version "4.0.4"
+  resolved "https://registry.yarnpkg.com/emoji-datasource-apple/-/emoji-datasource-apple-4.0.4.tgz#586048cf338623c1d64f41c0642cfb3f19552503"
