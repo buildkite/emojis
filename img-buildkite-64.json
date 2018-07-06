@@ -1,5 +1,11 @@
 [
   {
+    "name": "staff_of_aesculapius",
+    "image": "img-buildkite-64/staff-of-aesculapius.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "habicat",
     "image": "img-buildkite-64/habicat.png",
     "category": "Buildkite",
