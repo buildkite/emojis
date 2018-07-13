@@ -1,7 +1,7 @@
 [
   {
-    "name": "staff_of_aesculapius",
-    "image": "img-buildkite-64/staff-of-aesculapius.png",
+    "name": "medical_symbol",
+    "image": "img-buildkite-64/medical_symbol.png",
     "category": "Buildkite",
     "aliases": []
   },
