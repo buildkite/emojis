@@ -26,6 +26,7 @@ If we're missing a Unicode emoji, please check if it's been added to our upstrea
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/gnu.png" width="20" height="20" alt="gnu"/> | `:gnu:`
 <img src="img-buildkite-64/habicat.png" width="20" height="20" alt="habicat"/> | `:habicat:`
 <img src="img-buildkite-64/chef-logo.png" width="20" height="20" alt="chef"/> | `:chef:`, `:opscode:`
 <img src="img-buildkite-64/chef-inspec.png" width="20" height="20" alt="inspec"/> | `:inspec:`

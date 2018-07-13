@@ -1,5 +1,11 @@
 [
   {
+    "name": "gnu",
+    "image": "img-buildkite-64/gnu.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "habicat",
     "image": "img-buildkite-64/habicat.png",
     "category": "Buildkite",
