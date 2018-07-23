@@ -914,6 +914,7 @@ github
 glass_of_milk
 globe_with_meridians
 gloves
+gnu
 go
 goal_net
 goat
@@ -1023,6 +1024,7 @@ ice_skate
 icecream
 id
 ideograph_advantage
+ie
 imp
 inbox_tray
 incoming_envelope
@@ -1030,6 +1032,7 @@ information_desk_person
 information_source
 innocent
 inspec
+internet_explorer
 interrobang
 iphone
 it
@@ -1230,6 +1233,7 @@ maven
 md
 meat_on_bone
 medal
+medical_symbol
 mega
 melon
 memo
