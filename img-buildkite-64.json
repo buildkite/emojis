@@ -1,10 +1,10 @@
 [
   {
-    "name": "internet_explorer",
+    "name": "ie",
     "image": "img-buildkite-64/ie.png",
     "category": "Buildkite",
     "aliases": [
-      "ie"
+      "internet_explorer"
     ]
   },
   {
