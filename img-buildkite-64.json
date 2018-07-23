@@ -1,5 +1,13 @@
 [
   {
+    "name": "internet_explorer",
+    "image": "img-buildkite-64/ie.png",
+    "category": "Buildkite",
+    "aliases": [
+      "ie"
+    ]
+  },
+  {
     "name": "medical_symbol",
     "image": "img-buildkite-64/medical_symbol.png",
     "category": "Buildkite",
