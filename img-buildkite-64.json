@@ -1,5 +1,13 @@
 [
   {
+    "name": "pytest",
+    "image": "img-buildkite-64/pytest.png",
+    "category": "Buildkite",
+    "aliases": [
+      "pytest"
+    ]
+  },
+  {
     "name": "hugo",
     "image": "img-buildkite-64/hugo.png",
     "category": "Buildkite",
