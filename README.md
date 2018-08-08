@@ -309,6 +309,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/aws-x-ray.png" width="20" height="20" alt="aws-x-ray"/> | `:aws-x-ray:`
 <img src="img-buildkite-64/elasticloadbalancing.png" width="20" height="20" alt="elasticloadbalancing"/> | `:elasticloadbalancing:`
 <img src="img-buildkite-64/splunk.png" width="20" height="20" alt="splunk"/> | `:splunk:`
+<img src="img-buildkite-64/yaml.png" width="20" height="20" alt="yaml"/> | `:yaml:`
 
 ### Smileys & People
 

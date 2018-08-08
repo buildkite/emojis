@@ -1935,6 +1935,7 @@ wrench
 wrestlers
 writing_hand
 x
+yaml
 yarn
 yellow_heart
 yen

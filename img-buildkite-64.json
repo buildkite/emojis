@@ -1,5 +1,13 @@
 [
   {
+    "name": "yaml",
+    "image": "img-buildkite-64/yaml.png",
+    "category": "Buildkite",
+    "aliases": [
+      "yaml"
+    ]
+  },
+  {
     "name": "pytest",
     "image": "img-buildkite-64/pytest.png",
     "category": "Buildkite",
