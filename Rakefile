@@ -157,7 +157,7 @@ def preprocess_emoji_json(parsed)
     modifiers = []
 
     if emoji["skin_variations"] && !emoji["skin_variations"].empty?
-      emoji["skin_variations"].each_with_index do |(key, skin), i|
+      emoji["skin_variations"].each_with_index do |(_key, skin), i|
         modifiers << {
           name: "skin-tone-#{i + 2}",
           image: "img-apple-64/#{skin['image']}",
