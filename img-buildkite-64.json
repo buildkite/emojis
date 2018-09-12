@@ -9,9 +9,7 @@
     "name": "java",
     "image": "img-buildkite-64/java.png",
     "category": "Buildkite",
-    "aliases": [
-      "java"
-    ]
+    "aliases": []
   },
   {
     "name": "apache",

@@ -69,6 +69,7 @@ angry
 anguished
 ansible
 ant
+apache
 apex
 appengine
 apple
@@ -1045,6 +1046,7 @@ japanese_castle
 japanese_goblin
 japanese_ogre
 jasmine
+java
 javascript
 jeans
 jekyll
