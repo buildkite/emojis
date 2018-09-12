@@ -26,6 +26,7 @@ If we're missing a Unicode emoji, please check if it's been added to our upstrea
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/apache.png" width="20" height="20" alt="apache"/> | `:apache:`
 <img src="img-buildkite-64/pytest.png" width="20" height="20" alt="pytest"/> | `:pytest:`
 <img src="img-buildkite-64/hugo.png" width="20" height="20" alt="hugo"/> | `:hugo:`, `:gohugo:`
 <img src="img-buildkite-64/ie.png" width="20" height="20" alt="ie"/> | `:ie:`, `:internet_explorer:`
