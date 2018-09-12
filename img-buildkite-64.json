@@ -1,5 +1,13 @@
 [
   {
+    "name": "java",
+    "image": "img-buildkite-64/java.png",
+    "category": "Buildkite",
+    "aliases": [
+      "java"
+    ]
+  },
+  {
     "name": "apache",
     "image": "img-buildkite-64/apache.png",
     "category": "Buildkite",
