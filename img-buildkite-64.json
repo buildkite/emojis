@@ -8,6 +8,12 @@
     ]
   },
   {
+    "name": "apache",
+    "image": "img-buildkite-64/apache.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "pytest",
     "image": "img-buildkite-64/pytest.png",
     "category": "Buildkite",
