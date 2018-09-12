@@ -1,5 +1,11 @@
 [
   {
+    "name": "yaml",
+    "image": "img-buildkite-64/yaml.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "java",
     "image": "img-buildkite-64/java.png",
     "category": "Buildkite",
@@ -17,9 +23,7 @@
     "name": "pytest",
     "image": "img-buildkite-64/pytest.png",
     "category": "Buildkite",
-    "aliases": [
-      "pytest"
-    ]
+    "aliases": []
   },
   {
     "name": "hugo",
@@ -977,9 +981,7 @@
     "name": "cucumber",
     "image": "img-buildkite-64/cucumber.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "datadog",

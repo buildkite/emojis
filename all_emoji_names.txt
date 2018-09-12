@@ -920,6 +920,7 @@ goal_net
 goat
 goberserk
 godmode
+gohugo
 golang
 golf
 golfer
@@ -1014,6 +1015,7 @@ house_with_garden
 html
 html-proofer
 hugging_face
+hugo
 hurtrealbad
 hushed
 hyper
@@ -1457,6 +1459,7 @@ purple_heart
 purse
 pushpin
 put_litter_in_its_place
+pytest
 python
 quay
 quay.io
@@ -1935,6 +1938,7 @@ wrench
 wrestlers
 writing_hand
 x
+yaml
 yarn
 yellow_heart
 yen
