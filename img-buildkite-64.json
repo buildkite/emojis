@@ -131,19 +131,25 @@
     "name": "edge",
     "image": "img-buildkite-64/edge.png",
     "category": "Buildkite",
-    "aliases": ["microsoftedge"]
+    "aliases": [
+      "microsoftedge"
+    ]
   },
   {
     "name": "clojure",
     "image": "img-buildkite-64/clojure.png",
     "category": "Buildkite",
-    "aliases": ["clj"]
+    "aliases": [
+      "clj"
+    ]
   },
   {
     "name": "clojurescript",
     "image": "img-buildkite-64/clojurescript.png",
     "category": "Buildkite",
-    "aliases": ["cljs"]
+    "aliases": [
+      "cljs"
+    ]
   },
   {
     "name": "suitest",
@@ -173,7 +179,9 @@
     "name": "markdown",
     "image": "img-buildkite-64/markdown.png",
     "category": "Buildkite",
-    "aliases": ["md"]
+    "aliases": [
+      "md"
+    ]
   },
   {
     "name": "relay",
@@ -221,9 +229,7 @@
     "name": "cloudfoundry",
     "image": "img-buildkite-64/cloudfoundry.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "netbsd",
@@ -291,9 +297,7 @@
     "name": "junit",
     "image": "img-buildkite-64/junit.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "maven",
@@ -323,25 +327,19 @@
     "name": "chromium",
     "image": "img-buildkite-64/chromium.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "selenium",
     "image": "img-buildkite-64/selenium.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "saucelabs",
     "image": "img-buildkite-64/saucelabs.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "cargo",
@@ -371,57 +369,43 @@
     "name": "spark",
     "image": "img-buildkite-64/spark.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "kafka",
     "image": "img-buildkite-64/kafka.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "hadoop",
     "image": "img-buildkite-64/hadoop.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "scala",
     "image": "img-buildkite-64/scala.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "sbt",
     "image": "img-buildkite-64/sbt.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "ecr",
     "image": "img-buildkite-64/ecr.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "percy",
     "image": "img-buildkite-64/percy.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "civicrm",
@@ -451,161 +435,121 @@
     "name": "akamai",
     "image": "img-buildkite-64/akamai.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "pagerduty",
     "image": "img-buildkite-64/pagerduty.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "yarn",
     "image": "img-buildkite-64/yarn.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "looker",
     "image": "img-buildkite-64/looker.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "jest",
     "image": "img-buildkite-64/jest.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "fork",
     "image": "img-buildkite-64/fork.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "stylelint",
     "image": "img-buildkite-64/stylelint.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "chrome",
     "image": "img-buildkite-64/chrome.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "flowtype",
     "image": "img-buildkite-64/flowtype.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "grunt",
     "image": "img-buildkite-64/grunt.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "protractor",
     "image": "img-buildkite-64/protractor.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "electron",
     "image": "img-buildkite-64/electron.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "testflight",
     "image": "img-buildkite-64/testflight.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "rollbar",
     "image": "img-buildkite-64/rollbar.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "lendinghome",
     "image": "img-buildkite-64/lendinghome.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "lendinghome_ops",
     "image": "img-buildkite-64/lendinghome_ops.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "jshint",
     "image": "img-buildkite-64/jshint.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "scsslint",
     "image": "img-buildkite-64/scsslint.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "sasslang",
     "image": "img-buildkite-64/sasslang.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "sadpanda",
     "image": "img-buildkite-64/sadpanda.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "partyparrot",
@@ -619,225 +563,169 @@
     "name": "apex",
     "image": "img-buildkite-64/apex.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "serverless",
     "image": "img-buildkite-64/serverless.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "hockeyapp",
     "image": "img-buildkite-64/hockeyapp.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "firefox",
     "image": "img-buildkite-64/firefox.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "mina",
     "image": "img-buildkite-64/mina.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "webhook",
     "image": "img-buildkite-64/webhook.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "slack",
     "image": "img-buildkite-64/slack.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "hipchat",
     "image": "img-buildkite-64/hipchat.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "flowdock",
     "image": "img-buildkite-64/flowdock.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "campfire",
     "image": "img-buildkite-64/campfire.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "sumologic",
     "image": "img-buildkite-64/sumologic.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "swift",
     "image": "img-buildkite-64/swift.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "graphql",
     "image": "img-buildkite-64/graphql.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "cogops",
     "image": "img-buildkite-64/cogops.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "aws",
     "image": "img-buildkite-64/aws.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "mocha",
     "image": "img-buildkite-64/mocha.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "rails",
     "image": "img-buildkite-64/rails.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "phoenix",
     "image": "img-buildkite-64/phoenix.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "brunch",
     "image": "img-buildkite-64/brunch.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "android",
     "image": "img-buildkite-64/android.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "jasmine",
     "image": "img-buildkite-64/jasmine.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "react",
     "image": "img-buildkite-64/react.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "terraform",
     "image": "img-buildkite-64/terraform.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "javascript",
     "image": "img-buildkite-64/javascript.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "typescript",
     "image": "img-buildkite-64/typescript.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "git",
     "image": "img-buildkite-64/git.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "packer",
     "image": "img-buildkite-64/packer.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "babel",
     "image": "img-buildkite-64/babel.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "pipeline",
@@ -851,17 +739,13 @@
     "name": "allthethings",
     "image": "img-buildkite-64/allthethings.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "ansible",
     "image": "img-buildkite-64/ansible.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "appengine",
@@ -875,97 +759,73 @@
     "name": "basecamp",
     "image": "img-buildkite-64/basecamp.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "basecampy",
     "image": "img-buildkite-64/basecampy.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "bower",
     "image": "img-buildkite-64/bower.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "bowtie",
     "image": "img-buildkite-64/bowtie.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "brakeman",
     "image": "img-buildkite-64/brakeman.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "bugsnag",
     "image": "img-buildkite-64/bugsnag.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "buildkite",
     "image": "img-buildkite-64/buildkite.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "bundler",
     "image": "img-buildkite-64/bundler.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "calibre",
     "image": "img-buildkite-64/calibre.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "capistrano",
     "image": "img-buildkite-64/capistrano.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "centos",
     "image": "img-buildkite-64/centos.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "codecov",
     "image": "img-buildkite-64/codecov.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "compute",
@@ -985,113 +845,85 @@
     "name": "datadog",
     "image": "img-buildkite-64/datadog.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "debian",
     "image": "img-buildkite-64/debian.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "docker",
     "image": "img-buildkite-64/docker.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "eslint",
     "image": "img-buildkite-64/eslint.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "fastlane",
     "image": "img-buildkite-64/fastlane.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "fedora",
     "image": "img-buildkite-64/fedora.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "feelsgood",
     "image": "img-buildkite-64/feelsgood.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "finder",
     "image": "img-buildkite-64/finder.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "finnadie",
     "image": "img-buildkite-64/finnadie.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "flynn",
     "image": "img-buildkite-64/flynn.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "freebsd",
     "image": "img-buildkite-64/freebsd.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "fu",
     "image": "img-buildkite-64/fu.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "goberserk",
     "image": "img-buildkite-64/goberserk.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "godmode",
     "image": "img-buildkite-64/godmode.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "golang",
@@ -1113,65 +945,49 @@
     "name": "green_button",
     "image": "img-buildkite-64/green_button.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "heroku",
     "image": "img-buildkite-64/heroku.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "hurtrealbad",
     "image": "img-buildkite-64/hurtrealbad.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "json",
     "image": "img-buildkite-64/json.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "karma",
     "image": "img-buildkite-64/karma.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "knapsack",
     "image": "img-buildkite-64/knapsack.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "linux",
     "image": "img-buildkite-64/linux.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "llama",
     "image": "img-buildkite-64/llama.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "mac",
@@ -1185,41 +1001,31 @@
     "name": "metal",
     "image": "img-buildkite-64/metal.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "mysql",
     "image": "img-buildkite-64/mysql.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "neckbeard",
     "image": "img-buildkite-64/neckbeard.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "newrelic",
     "image": "img-buildkite-64/newrelic.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "nginx",
     "image": "img-buildkite-64/nginx.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "node",
@@ -1234,9 +1040,7 @@
     "name": "npm",
     "image": "img-buildkite-64/npm.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "octocat",
@@ -1250,9 +1054,7 @@
     "name": "oracle_linux",
     "image": "img-buildkite-64/oracle_linux.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "packagecloud",
@@ -1266,57 +1068,43 @@
     "name": "php",
     "image": "img-buildkite-64/php.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "postgres",
     "image": "img-buildkite-64/postgres.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "rage1",
     "image": "img-buildkite-64/rage1.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "rage2",
     "image": "img-buildkite-64/rage2.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "rage3",
     "image": "img-buildkite-64/rage3.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "rage4",
     "image": "img-buildkite-64/rage4.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "red_button",
     "image": "img-buildkite-64/red_button.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "redhat",
@@ -1331,97 +1119,73 @@
     "name": "route53",
     "image": "img-buildkite-64/route53.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "rspec",
     "image": "img-buildkite-64/rspec.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "rubocop",
     "image": "img-buildkite-64/rubocop.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "ruby",
     "image": "img-buildkite-64/ruby.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "elixir",
     "image": "img-buildkite-64/elixir.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "credo",
     "image": "img-buildkite-64/credo.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "erlang",
     "image": "img-buildkite-64/erlang.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "hex",
     "image": "img-buildkite-64/hex.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "rubygems",
     "image": "img-buildkite-64/rubygems.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "scientific_linux",
     "image": "img-buildkite-64/scientific_linux.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "shipit",
     "image": "img-buildkite-64/shipit.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "suspect",
     "image": "img-buildkite-64/suspect.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "terminal",
@@ -1443,9 +1207,7 @@
     "name": "ubuntu",
     "image": "img-buildkite-64/ubuntu.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "parcel",
@@ -1459,17 +1221,13 @@
     "name": "webpack",
     "image": "img-buildkite-64/webpack.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "windows",
     "image": "img-buildkite-64/windows.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "quay",
@@ -1483,9 +1241,7 @@
     "name": "wraith",
     "image": "img-buildkite-64/wraith.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "elm",
@@ -1499,41 +1255,31 @@
     "name": "exploding_death_star",
     "image": "img-buildkite-64/exploding_death_star.gif",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "composer",
     "image": "img-buildkite-64/composer.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "singularity",
     "image": "img-buildkite-64/singularity.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "kotlin",
     "image": "img-buildkite-64/kotlin.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "buck",
     "image": "img-buildkite-64/buck.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "cypress",
@@ -1547,33 +1293,25 @@
     "name": "virtru",
     "image": "img-buildkite-64/virtru.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "happo",
     "image": "img-buildkite-64/happo.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "rea",
     "image": "img-buildkite-64/rea.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "carthage",
     "image": "img-buildkite-64/carthage.png",
     "category": "Buildkite",
-    "aliases": [
-
-    ]
+    "aliases": []
   },
   {
     "name": "amazon-apigateway",
