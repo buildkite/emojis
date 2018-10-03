@@ -1,5 +1,13 @@
 [
   {
+    "name": "anka",
+    "image": "img-buildkite-64/anka.png",
+    "category": "Buildkite",
+    "aliases": [
+
+    ]
+  },
+  {
     "name": "yaml",
     "image": "img-buildkite-64/yaml.png",
     "category": "Buildkite",
