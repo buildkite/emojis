@@ -1,5 +1,13 @@
 [
   {
+    "name": "m3db",
+    "image": "img-buildkite-64/m3db.png",
+    "category": "Buildkite",
+    "aliases": [
+      "m3"
+    ]
+  },
+  {
     "name": "yaml",
     "image": "img-buildkite-64/yaml.png",
     "category": "Buildkite",
