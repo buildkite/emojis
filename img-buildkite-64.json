@@ -1,5 +1,11 @@
 [
   {
+    "name": "redis",
+    "image": "img-buildkite-64/redis.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "anka",
     "image": "img-buildkite-64/anka.png",
     "category": "Buildkite",
