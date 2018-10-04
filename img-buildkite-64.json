@@ -1,5 +1,11 @@
 [
   {
+    "name": "anka",
+    "image": "img-buildkite-64/anka.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "m3db",
     "image": "img-buildkite-64/m3db.png",
     "category": "Buildkite",
