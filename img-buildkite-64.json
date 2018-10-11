@@ -1,5 +1,11 @@
 [
   {
+    "name": "angular",
+    "image": "img-buildkite-64/angular.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "redis",
     "image": "img-buildkite-64/redis.png",
     "category": "Buildkite",
