@@ -1,5 +1,11 @@
 [
   {
+    "name": "appium",
+    "image": "img-buildkite-64/appium.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "redis",
     "image": "img-buildkite-64/redis.png",
     "category": "Buildkite",
