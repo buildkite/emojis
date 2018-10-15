@@ -1,5 +1,11 @@
 [
   {
+    "name": "angular",
+    "image": "img-buildkite-64/angular.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "appium",
     "image": "img-buildkite-64/appium.png",
     "category": "Buildkite",
