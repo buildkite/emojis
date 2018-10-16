@@ -1,4 +1,10 @@
-[
+[ 
+  {
+  "name": "testobject",
+  "image": "img-buildkite-64/testobject.png",
+  "category": "Buildkite",
+  "aliases": []
+  },
   {
     "name": "angular",
     "image": "img-buildkite-64/angular.png",
