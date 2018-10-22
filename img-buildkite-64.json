@@ -3,7 +3,9 @@
     "name": "ember",
     "image": "img-buildkite-64/ember.png",
     "category": "Buildkite",
-    "aliases": ["tomster"]
+    "aliases": [
+      "tomster"
+    ]
   },
   {
     "name": "angular",
