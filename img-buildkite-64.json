@@ -1,5 +1,11 @@
 [
   {
+    "name": "rubysec",
+    "image": "img-buildkite-64/rubysec.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "ember",
     "image": "img-buildkite-64/ember.png",
     "category": "Buildkite",
