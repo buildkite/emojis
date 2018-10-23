@@ -6,6 +6,14 @@
     "aliases": []
   },
   {
+    "name": "ember",
+    "image": "img-buildkite-64/ember.png",
+    "category": "Buildkite",
+    "aliases": [
+      "tomster"
+    ]
+  },
+  {
     "name": "angular",
     "image": "img-buildkite-64/angular.png",
     "category": "Buildkite",
