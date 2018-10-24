@@ -1,5 +1,11 @@
 [
   {
+    "name": "coverage",
+    "image": "img-buildkite-64/coverage.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "fsociety",
     "image": "img-buildkite-64/fsociety.png",
     "category": "Buildkite",
