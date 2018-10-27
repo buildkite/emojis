@@ -6,6 +6,32 @@
     "aliases": []
   },
   {
+    "name": "coverage",
+    "image": "img-buildkite-64/coverage.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "fsociety",
+    "image": "img-buildkite-64/fsociety.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "rubysec",
+    "image": "img-buildkite-64/rubysec.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "ember",
+    "image": "img-buildkite-64/ember.png",
+    "category": "Buildkite",
+    "aliases": [
+      "tomster"
+    ]
+  },
+  {
     "name": "angular",
     "image": "img-buildkite-64/angular.png",
     "category": "Buildkite",

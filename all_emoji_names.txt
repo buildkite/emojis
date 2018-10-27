@@ -67,11 +67,14 @@ angel
 anger
 angry
 anguished
+angular
+anka
 ansible
 ant
 apache
 apex
 appengine
+appium
 apple
 aquarius
 aries
@@ -505,6 +508,7 @@ elixir
 elm
 elmlang
 email
+ember
 emr
 end
 enterprise_linux
@@ -1135,6 +1139,8 @@ lower_left_fountain_pen
 lower_left_paintbrush
 lying_face
 m
+m3
+m3db
 mac
 mag
 mag_right
@@ -1503,6 +1509,7 @@ red_button
 red_car
 red_circle
 redhat
+redis
 registered
 relaxed
 relay
@@ -1771,6 +1778,7 @@ tm
 toilet
 tokyo_tower
 tomato
+tomster
 tongue
 top
 tophat
