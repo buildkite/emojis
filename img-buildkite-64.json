@@ -1,5 +1,11 @@
 [
   {
+    "name": "lighthouse",
+    "image": "img-buildkite-64/lighthouse.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "coverage",
     "image": "img-buildkite-64/coverage.png",
     "category": "Buildkite",
