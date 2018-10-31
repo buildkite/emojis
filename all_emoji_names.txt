@@ -401,6 +401,7 @@ couch_and_lamp
 couple
 couple_with_heart
 couplekiss
+coverage
 cow
 cow2
 crab
@@ -895,6 +896,7 @@ fried_shrimp
 fries
 frog
 frowning
+fsociety
 fu
 fuelpump
 full_moon
@@ -1113,6 +1115,7 @@ leopard
 level_slider
 libra
 light_rail
+lighthouse
 lightning
 lightning_cloud
 link
@@ -1550,6 +1553,7 @@ ru
 rubocop
 ruby
 rubygems
+rubysec
 rugby_football
 runner
 running
