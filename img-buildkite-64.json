@@ -1,5 +1,13 @@
 [ 
   {
+    "name": "salesforce",
+    "image": "img-buildkite-64/salesforce.png",
+    "category": "Buildkite",
+    "aliases": [
+      "sfdx"
+    ]
+  },
+  {
     "name": "testobject",
     "image": "img-buildkite-64/testobject.png",
     "category": "Buildkite",
