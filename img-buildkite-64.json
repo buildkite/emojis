@@ -1,5 +1,11 @@
 [ 
   {
+    "name": "linter",
+    "image": "img-buildkite-64/linter.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "testobject",
     "image": "img-buildkite-64/testobject.png",
     "category": "Buildkite",
