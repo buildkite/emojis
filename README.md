@@ -27,6 +27,8 @@ If we're missing a Unicode emoji, please check if it's been added to our upstrea
 Emoji | Aliases
 ----- | -------
 <img src="img-buildkite-64/linter.png" width="20" height="20" alt="linter"/> | `:linter:`
+<img src="img-buildkite-64/salesforce.png" width="20" height="20" alt="salesforce"/> | `:salesforce:`, `:sfdx:`
+<img src="img-buildkite-64/esdoc.png" width="20" height="20" alt="esdoc"/> | `:esdoc:`
 <img src="img-buildkite-64/testobject.png" width="20" height="20" alt="testobject"/> | `:testobject:`
 <img src="img-buildkite-64/coverage.png" width="20" height="20" alt="coverage"/> | `:coverage:`
 <img src="img-buildkite-64/fsociety.png" width="20" height="20" alt="fsociety"/> | `:fsociety:`

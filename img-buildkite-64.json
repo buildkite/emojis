@@ -6,6 +6,20 @@
     "aliases": []
   },
   {
+    "name": "salesforce",
+    "image": "img-buildkite-64/salesforce.png",
+    "category": "Buildkite",
+    "aliases": [
+      "sfdx"
+    ]
+  },
+  {
+    "name": "esdoc",
+    "image": "img-buildkite-64/esdoc.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "testobject",
     "image": "img-buildkite-64/testobject.png",
     "category": "Buildkite",

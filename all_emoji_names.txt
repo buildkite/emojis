@@ -517,6 +517,7 @@ envelope
 envelope_with_arrow
 erlang
 es
+esdoc
 eslint
 euro
 european_castle
@@ -1567,6 +1568,7 @@ safari
 sagittarius
 sailboat
 sake
+salesforce
 sandal
 sandwich
 santa
@@ -1603,6 +1605,7 @@ sentry
 serious_face_with_symbols_covering_mouth
 serverless
 seven
+sfdx
 shallow_pan_of_food
 shamrock
 shark
@@ -1763,6 +1766,7 @@ tent
 terminal
 terraform
 testflight
+testobject
 the_horns
 thermometer
 thinking_face
