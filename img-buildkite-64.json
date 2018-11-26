@@ -1,5 +1,11 @@
 [ 
   {
+    "name": "linter",
+    "image": "img-buildkite-64/linter.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "salesforce",
     "image": "img-buildkite-64/salesforce.png",
     "category": "Buildkite",
