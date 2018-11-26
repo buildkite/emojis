@@ -1,9 +1,11 @@
 [ 
   {
-    "name": "linter",
-    "image": "img-buildkite-64/linter.png",
+    "name": "lint-roller",
+    "image": "img-buildkite-64/lint-roller.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": [
+      "lint-remover"
+    ]
   },
   {
     "name": "salesforce",
