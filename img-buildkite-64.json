@@ -793,7 +793,7 @@
     "name": "javascript",
     "image": "img-buildkite-64/javascript.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": ["js"]
   },
   {
     "name": "typescript",
