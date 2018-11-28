@@ -26,6 +26,7 @@ If we're missing a Unicode emoji, please check if it's been added to our upstrea
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/glitch-logo.png" width="20" height="20" alt="glitch"/> | `:glitch:`
 <img src="img-buildkite-64/lint-roller.png" width="20" height="20" alt="lint-roller"/> | `:lint-roller:`, `:lint-remover:`
 <img src="img-buildkite-64/salesforce.png" width="20" height="20" alt="salesforce"/> | `:salesforce:`, `:sfdx:`
 <img src="img-buildkite-64/esdoc.png" width="20" height="20" alt="esdoc"/> | `:esdoc:`
