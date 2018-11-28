@@ -1,5 +1,11 @@
 [ 
   {
+    "name": "glitch",
+    "image": "img-buildkite-64/glitch-logo.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "lint-roller",
     "image": "img-buildkite-64/lint-roller.png",
     "category": "Buildkite",
