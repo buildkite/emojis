@@ -1,7 +1,7 @@
 [ 
   {
     "name": "fly",
-    "image": "img-buildkite-64/fly-cdn-logo.png",
+    "image": "img-buildkite-64/fly.png",
     "category": "Buildkite",
     "aliases": [
       "superfly"
