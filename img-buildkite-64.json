@@ -6,7 +6,7 @@
     "aliases": [
       "superfly"
     ]
-  }, 
+  },
   {
     "name": "lint-roller",
     "image": "img-buildkite-64/lint-roller.png",
