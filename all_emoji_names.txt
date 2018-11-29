@@ -875,6 +875,7 @@ flowdock
 flower_playing_cards
 flowtype
 flushed
+fly
 flying_saucer
 flynn
 fog
@@ -920,6 +921,7 @@ girl
 git
 github
 glass_of_milk
+glitch
 globe_with_meridians
 gloves
 gnu
@@ -1062,6 +1064,7 @@ joy
 joy_cat
 joystick
 jp
+js
 jshint
 json
 juggling
@@ -1121,6 +1124,8 @@ lightning
 lightning_cloud
 link
 linked_paperclips
+lint-remover
+lint-roller
 linux
 lion_face
 lips
@@ -1734,6 +1739,7 @@ sunglasses
 sunny
 sunrise
 sunrise_over_mountains
+superfly
 surfer
 sushi
 suspect
