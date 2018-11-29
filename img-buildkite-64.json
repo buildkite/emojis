@@ -1,5 +1,13 @@
 [ 
   {
+    "name": "fly",
+    "image": "img-buildkite-64/fly.png",
+    "category": "Buildkite",
+    "aliases": [
+      "superfly"
+    ]
+  },
+  {
     "name": "lint-roller",
     "image": "img-buildkite-64/lint-roller.png",
     "category": "Buildkite",
