@@ -1,7 +1,7 @@
 [ 
     {
     "name": "glitch",
-    "image": "img-buildkite-64/glitch-logo.png",
+    "image": "img-buildkite-64/glitch.png",
     "category": "Buildkite",
     "aliases": []
   },
