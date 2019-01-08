@@ -1,4 +1,10 @@
-[ 
+[
+  {
+    "name": "zookeeper",
+    "image": "img-buildkite-64/zookeeper.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
   {
     "name": "glitch",
     "image": "img-buildkite-64/glitch.png",
