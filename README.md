@@ -26,7 +26,7 @@ If we're missing a Unicode emoji, please check if it's been added to our upstrea
 
 Emoji | Aliases
 ----- | -------
-<img src="img-buildkite-64/nix.png" width="20" height="20" alt="glitch"/> | `:nix:`, `:nixos:`
+<img src="img-buildkite-64/nix.png" width="20" height="20" alt="nix"/> | `:nix:`, `:nixos:`
 <img src="img-buildkite-64/glitch.png" width="20" height="20" alt="glitch"/> | `:glitch:`
 <img src="img-buildkite-64/fly.png" width="20" height="20" alt="fly"/> | `:fly:`, `:superfly:`
 <img src="img-buildkite-64/lint-roller.png" width="20" height="20" alt="lint-roller"/> | `:lint-roller:`, `:lint-remover:`
