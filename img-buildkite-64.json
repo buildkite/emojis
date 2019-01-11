@@ -1,4 +1,12 @@
-[ 
+[
+  {
+    "name": "nix",
+    "image": "img-buildkite-64/nix.png",
+    "category": "Buildkite",
+    "aliases": [
+      "nixos"
+    ]
+  },
   {
     "name": "glitch",
     "image": "img-buildkite-64/glitch.png",
