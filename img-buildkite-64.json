@@ -1,5 +1,11 @@
 [
   {
+    "name": "expeditor",
+    "image": "img-buildkite-64/expeditor.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "nix",
     "image": "img-buildkite-64/nix.png",
     "category": "Buildkite",
