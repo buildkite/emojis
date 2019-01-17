@@ -1,5 +1,11 @@
 [
   {
+    "name": "expeditor",
+    "image": "img-buildkite-64/expeditor.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "airflow",
     "image": "img-buildkite-64/airflow.png",
     "category": "Buildkite",
