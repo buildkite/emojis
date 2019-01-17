@@ -6,6 +6,12 @@
     "aliases": []
   },
   {
+    "name": "airflow",
+    "image": "img-buildkite-64/airflow.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "nix",
     "image": "img-buildkite-64/nix.png",
     "category": "Buildkite",
