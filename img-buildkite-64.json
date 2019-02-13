@@ -6,6 +6,12 @@
     "aliases": []
   },
   {
+    "name": "pulumi",
+    "image": "img-buildkite-64/pulumi.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "expeditor",
     "image": "img-buildkite-64/expeditor.png",
     "category": "Buildkite",
