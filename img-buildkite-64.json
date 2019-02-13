@@ -1,5 +1,11 @@
 [
   {
+    "name": "pinterest",
+    "image": "img-buildkite-64/pinterest.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "jinja",
     "image": "img-buildkite-64/jinja.png",
     "category": "Buildkite",

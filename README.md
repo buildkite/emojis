@@ -26,6 +26,7 @@ If we're missing a Unicode emoji, please check if it's been added to our upstrea
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/pinterest.png" width="20" height="20" alt="pinterest"/> | `:pinterest:`
 <img src="img-buildkite-64/jinja.png" width="20" height="20" alt="jinja"/> | `:jinja:`
 <img src="img-buildkite-64/phabricator.png" width="20" height="20" alt="phabricator"/> | `:phabricator:`
 <img src="img-buildkite-64/pulumi.png" width="20" height="20" alt="pulumi"/> | `:pulumi:`
