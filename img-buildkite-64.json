@@ -1,5 +1,17 @@
 [
   {
+    "name": "jinja",
+    "image": "img-buildkite-64/jinja.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "phabricator",
+    "image": "img-buildkite-64/phabricator.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "pulumi",
     "image": "img-buildkite-64/pulumi.png",
     "category": "Buildkite",
