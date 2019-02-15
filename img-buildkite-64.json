@@ -1,5 +1,29 @@
 [
   {
+    "name": "gradle",
+    "image": "img-buildkite-64/gradle.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "wayfair",
+    "image": "img-buildkite-64/wayfair.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "xcode",
+    "image": "img-buildkite-64/xcode.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "xcode_simulator",
+    "image": "img-buildkite-64/xcode_simulator.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "pinterest",
     "image": "img-buildkite-64/pinterest.png",
     "category": "Buildkite",
