@@ -26,6 +26,7 @@ If we're missing a Unicode emoji, please check if it's been added to our upstrea
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/hadolint.png" width="20" height="20" alt="hadolint"/> | `:hadolint:`
 <img src="img-buildkite-64/purescript.png" width="20" height="20" alt="purescript"/> | `:purescript:`
 <img src="img-buildkite-64/haskell.png" width="20" height="20" alt="haskell"/> | `:haskell:`, `:hs:`
 <img src="img-buildkite-64/gradle.png" width="20" height="20" alt="gradle"/> | `:gradle:`

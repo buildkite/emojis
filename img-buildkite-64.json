@@ -1,5 +1,11 @@
 [
   {
+    "name": "hadolint",
+    "image": "img-buildkite-64/hadolint.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "purescript",
     "image": "img-buildkite-64/purescript.png",
     "category": "Buildkite",
