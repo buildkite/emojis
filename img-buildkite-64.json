@@ -1,5 +1,17 @@
 [
   {
+    "name": "purescript",
+    "image": "img-buildkite-64/purescript.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "haskell",
+    "image": "img-buildkite-64/haskell.png",
+    "category": "Buildkite",
+    "aliases": ["hs"]
+  },
+  {
     "name": "gradle",
     "image": "img-buildkite-64/gradle.png",
     "category": "Buildkite",
