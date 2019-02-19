@@ -28,6 +28,10 @@ Emoji | Aliases
 ----- | -------
 <img src="img-buildkite-64/purescript.png" width="20" height="20" alt="purescript"/> | `:purescript:`
 <img src="img-buildkite-64/haskell.png" width="20" height="20" alt="haskell"/> | `:haskell:`, `:hs:`
+<img src="img-buildkite-64/gradle.png" width="20" height="20" alt="gradle"/> | `:gradle:`
+<img src="img-buildkite-64/wayfair.png" width="20" height="20" alt="wayfair"/> | `:wayfair:`
+<img src="img-buildkite-64/xcode.png" width="20" height="20" alt="xcode"/> | `:xcode:`
+<img src="img-buildkite-64/xcode_simulator.png" width="20" height="20" alt="xcode_simulator"/> | `:xcode_simulator:`
 <img src="img-buildkite-64/pinterest.png" width="20" height="20" alt="pinterest"/> | `:pinterest:`
 <img src="img-buildkite-64/jinja.png" width="20" height="20" alt="jinja"/> | `:jinja:`
 <img src="img-buildkite-64/phabricator.png" width="20" height="20" alt="phabricator"/> | `:phabricator:`
