@@ -1,5 +1,11 @@
 [
   {
+    "name": "fluentd",
+    "image": "img-buildkite-64/fluentd.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "sidekiq",
     "image": "img-buildkite-64/sidekiq.png",
     "category": "Buildkite",
