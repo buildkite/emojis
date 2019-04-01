@@ -1,5 +1,11 @@
 [
   {
+    "name": "python-black",
+    "image": "img-buildkite-64/python-black.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "test-kitchen",
     "image": "img-buildkite-64/testkitchen.png",
     "category": "Buildkite",
