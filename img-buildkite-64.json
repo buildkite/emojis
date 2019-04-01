@@ -1,5 +1,11 @@
 [
   {
+    "name": "gatsby",
+    "image": "img-buildkite-64/gatsby.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "fluentd",
     "image": "img-buildkite-64/fluentd.png",
     "category": "Buildkite",
