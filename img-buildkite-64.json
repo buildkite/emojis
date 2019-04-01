@@ -1,5 +1,11 @@
 [
   {
+    "name": "cloudsmith",
+    "image": "img-buildkite-64/cloudsmith.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "sidekiq",
     "image": "img-buildkite-64/sidekiq.png",
     "category": "Buildkite",
