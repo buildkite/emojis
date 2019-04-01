@@ -6,6 +6,24 @@
     "aliases": []
   },
   {
+    "name": "fluentd",
+    "image": "img-buildkite-64/fluentd.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "cloudsmith",
+    "image": "img-buildkite-64/cloudsmith.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "sidekiq",
+    "image": "img-buildkite-64/sidekiq.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "hadolint",
     "image": "img-buildkite-64/hadolint.png",
     "category": "Buildkite",
@@ -260,14 +278,16 @@
     "image": "img-buildkite-64/chef-logo.png",
     "category": "Buildkite",
     "aliases": [
-      "opscode"
+      "opscode", "chef-logo"
     ]
   },
   {
     "name": "inspec",
     "image": "img-buildkite-64/chef-inspec.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": [
+      "chef-inspec"
+    ]
   },
   {
     "name": "hyper",
@@ -2006,6 +2026,12 @@
   {
     "name": "splunk",
     "image": "img-buildkite-64/splunk.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "batman",
+    "image": "img-buildkite-64/batman.png",
     "category": "Buildkite",
     "aliases": []
   }
