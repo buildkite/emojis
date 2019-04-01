@@ -1,10 +1,9 @@
 [
   {
-    "name": "testkitchen",
+    "name": "test-kitchen",
     "image": "img-buildkite-64/testkitchen.png",
     "category": "Buildkite",
     "aliases": [
-      "test-kitchen",
       "kitchen-ci"
     ]
   },
