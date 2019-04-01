@@ -6,6 +6,14 @@
     "aliases": []
   },
   {
+    "name": "test-kitchen",
+    "image": "img-buildkite-64/testkitchen.png",
+    "category": "Buildkite",
+    "aliases": [
+      "kitchen-ci"
+    ]
+  },
+  {
     "name": "gatsby",
     "image": "img-buildkite-64/gatsby.png",
     "category": "Buildkite",
