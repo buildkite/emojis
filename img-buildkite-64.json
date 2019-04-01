@@ -6,6 +6,24 @@
     "aliases": []
   },
   {
+    "name": "gatsby",
+    "image": "img-buildkite-64/gatsby.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "fluentd",
+    "image": "img-buildkite-64/fluentd.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "cloudsmith",
+    "image": "img-buildkite-64/cloudsmith.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "sidekiq",
     "image": "img-buildkite-64/sidekiq.png",
     "category": "Buildkite",
