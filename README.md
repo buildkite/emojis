@@ -27,6 +27,21 @@ If we're missing a Unicode emoji, please check if it's been added to our upstrea
 Emoji | Aliases
 ----- | -------
 <img src="img-buildkite-64/testkitchen.png" width="20" height="20" alt="test-kitchen"/> | `:test-kitchen:`, `:kitchen-ci:`
+<img src="img-buildkite-64/gatsby.png" width="20" height="20" alt="gatsby"/> | `:gatsby:`
+<img src="img-buildkite-64/fluentd.png" width="20" height="20" alt="fluentd"/> | `:fluentd:`
+<img src="img-buildkite-64/cloudsmith.png" width="20" height="20" alt="cloudsmith"/> | `:cloudsmith:`
+<img src="img-buildkite-64/sidekiq.png" width="20" height="20" alt="sidekiq"/> | `:sidekiq:`
+<img src="img-buildkite-64/hadolint.png" width="20" height="20" alt="hadolint"/> | `:hadolint:`
+<img src="img-buildkite-64/purescript.png" width="20" height="20" alt="purescript"/> | `:purescript:`
+<img src="img-buildkite-64/haskell.png" width="20" height="20" alt="haskell"/> | `:haskell:`, `:hs:`
+<img src="img-buildkite-64/gradle.png" width="20" height="20" alt="gradle"/> | `:gradle:`
+<img src="img-buildkite-64/wayfair.png" width="20" height="20" alt="wayfair"/> | `:wayfair:`
+<img src="img-buildkite-64/xcode.png" width="20" height="20" alt="xcode"/> | `:xcode:`
+<img src="img-buildkite-64/xcode_simulator.png" width="20" height="20" alt="xcode_simulator"/> | `:xcode_simulator:`
+<img src="img-buildkite-64/pinterest.png" width="20" height="20" alt="pinterest"/> | `:pinterest:`
+<img src="img-buildkite-64/jinja.png" width="20" height="20" alt="jinja"/> | `:jinja:`
+<img src="img-buildkite-64/phabricator.png" width="20" height="20" alt="phabricator"/> | `:phabricator:`
+<img src="img-buildkite-64/pulumi.png" width="20" height="20" alt="pulumi"/> | `:pulumi:`
 <img src="img-buildkite-64/expeditor.png" width="20" height="20" alt="expeditor"/> | `:expeditor:`
 <img src="img-buildkite-64/airflow.png" width="20" height="20" alt="airflow"/> | `:airflow:`
 <img src="img-buildkite-64/nix.png" width="20" height="20" alt="nix"/> | `:nix:`, `:nixos:`
