@@ -6,6 +6,24 @@
     "aliases": []
   },
   {
+    "name": "clippy",
+    "image": "img-buildkite-64/clippy.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "grafana",
+    "image": "img-buildkite-64/grafana.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "asciidoctor",
+    "image": "img-buildkite-64/asciidoctor.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "python-black",
     "image": "img-buildkite-64/python-black.png",
     "category": "Buildkite",
