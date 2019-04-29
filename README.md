@@ -27,6 +27,10 @@ If we're missing a Unicode emoji, please check if it's been added to our upstrea
 Emoji | Aliases
 ----- | -------
 <img src="img-buildkite-64/hbase.png" width="20" height="20" alt="hbase"/> | `:hbase:`
+<img src="img-buildkite-64/elasticsearch.png" width="20" height="20" alt="elasticsearch"/> | `:elasticsearch:`
+<img src="img-buildkite-64/clippy.png" width="20" height="20" alt="clippy"/> | `:clippy:`
+<img src="img-buildkite-64/grafana.png" width="20" height="20" alt="grafana"/> | `:grafana:`
+<img src="img-buildkite-64/asciidoctor.png" width="20" height="20" alt="asciidoctor"/> | `:asciidoctor:`
 <img src="img-buildkite-64/python-black.png" width="20" height="20" alt="python-black"/> | `:python-black:`
 <img src="img-buildkite-64/testkitchen.png" width="20" height="20" alt="test-kitchen"/> | `:test-kitchen:`, `:kitchen-ci:`
 <img src="img-buildkite-64/gatsby.png" width="20" height="20" alt="gatsby"/> | `:gatsby:`
