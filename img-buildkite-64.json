@@ -1,5 +1,11 @@
 [
   {
+    "name": "elasticsearch",
+    "image": "img-buildkite-64/elasticsearch.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "clippy",
     "image": "img-buildkite-64/clippy.png",
     "category": "Buildkite",
