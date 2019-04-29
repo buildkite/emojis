@@ -1,5 +1,11 @@
 [
   {
+    "name": "hbase",
+    "image": "img-buildkite-64/hbase.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "elasticsearch",
     "image": "img-buildkite-64/elasticsearch.png",
     "category": "Buildkite",
