@@ -1,5 +1,11 @@
 [
   {
+    "name": "grafana",
+    "image": "img-buildkite-64/grafana.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "asciidoctor",
     "image": "img-buildkite-64/asciidoctor.png",
     "category": "Buildkite",
