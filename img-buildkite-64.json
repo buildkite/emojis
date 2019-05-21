@@ -1,5 +1,13 @@
 [
   {
+    "name": "wasm",
+    "image": "img-buildkite-64/wasm.png",
+    "category": "Buildkite",
+    "aliases": [
+      "webassembly"
+    ]
+  },
+  {
     "name": "hbase",
     "image": "img-buildkite-64/hbase.png",
     "category": "Buildkite",
@@ -83,7 +91,9 @@
     "name": "haskell",
     "image": "img-buildkite-64/haskell.png",
     "category": "Buildkite",
-    "aliases": ["hs"]
+    "aliases": [
+      "hs"
+    ]
   },
   {
     "name": "gradle",
@@ -322,7 +332,8 @@
     "image": "img-buildkite-64/chef-logo.png",
     "category": "Buildkite",
     "aliases": [
-      "opscode", "chef-logo"
+      "opscode",
+      "chef-logo"
     ]
   },
   {
@@ -963,7 +974,9 @@
     "name": "javascript",
     "image": "img-buildkite-64/javascript.png",
     "category": "Buildkite",
-    "aliases": ["js"]
+    "aliases": [
+      "js"
+    ]
   },
   {
     "name": "typescript",
