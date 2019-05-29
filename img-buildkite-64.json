@@ -1,5 +1,11 @@
 [
   {
+    "name": "jsonnet",
+    "image": "img-buildkite-64/jsonnet.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "wasm",
     "image": "img-buildkite-64/wasm.png",
     "category": "Buildkite",
