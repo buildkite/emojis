@@ -26,6 +26,7 @@ If we're missing a Unicode emoji, please check if it's been added to our upstrea
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/sonarqube.png" width="20" height="20" alt="sonarqube"/> | `:sonarqube:`
 <img src="img-buildkite-64/wasm.png" width="20" height="20" alt="wasm"/> | `:wasm:`, `:webassembly:`
 <img src="img-buildkite-64/hbase.png" width="20" height="20" alt="hbase"/> | `:hbase:`
 <img src="img-buildkite-64/elasticsearch.png" width="20" height="20" alt="elasticsearch"/> | `:elasticsearch:`
