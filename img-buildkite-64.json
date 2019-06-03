@@ -1,5 +1,13 @@
 [
   {
+    "name": "sorbet",
+    "image": "img-buildkite-64/sorbet.png",
+    "category": "Buildkite",
+    "aliases": [
+      "srb"
+    ]
+  },
+  {
     "name": "wasm",
     "image": "img-buildkite-64/wasm.png",
     "category": "Buildkite",
