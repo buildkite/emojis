@@ -1,5 +1,13 @@
 [
   {
+    "name": "sorbet",
+    "image": "img-buildkite-64/sorbet.png",
+    "category": "Buildkite",
+    "aliases": [
+      "srb"
+    ]
+  },
+  {
     "name": "sonarqube",
     "image": "img-buildkite-64/sonarqube.png",
     "category": "Buildkite",
