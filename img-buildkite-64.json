@@ -1,5 +1,11 @@
 [
   {
+    "name": "sonarqube",
+    "image": "img-buildkite-64/sonarqube.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "wasm",
     "image": "img-buildkite-64/wasm.png",
     "category": "Buildkite",
