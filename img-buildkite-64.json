@@ -244,6 +244,15 @@
     "aliases": []
   },
   {
+    "name": "raspberry",
+    "image": "img-buildkite-64/pi.png",
+    "category": "Buildkite",
+    "aliases": [
+      "pi",
+      "raspberry-pi"
+    ]
+  },
+  {
     "name": "rubysec",
     "image": "img-buildkite-64/rubysec.png",
     "category": "Buildkite",
