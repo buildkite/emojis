@@ -1,5 +1,11 @@
 [
   {
+    "name": "sqlite",
+    "image": "img-buildkite-64/sqlite.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "sorbet",
     "image": "img-buildkite-64/sorbet.png",
     "category": "Buildkite",
