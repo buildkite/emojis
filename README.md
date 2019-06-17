@@ -26,6 +26,7 @@ If we're missing a Unicode emoji, please check if it's been added to our upstrea
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/jsonnet.png" width="20" height="20" alt="jsonnet"/> | `:jsonnet:`
 <img src="img-buildkite-64/raspberry-pi.png" width="20" height="20" alt="raspberry-pi"/> | `:raspberry-pi:`
 <img src="img-buildkite-64/sqlite.png" width="20" height="20" alt="sqlite"/> | `:sqlite:`
 <img src="img-buildkite-64/sorbet.png" width="20" height="20" alt="sorbet"/> | `:sorbet:`, `:srb:`
