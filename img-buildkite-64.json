@@ -1,5 +1,11 @@
 [
   {
+    "name": "raspberry-pi",
+    "image": "img-buildkite-64/raspberry-pi.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "sqlite",
     "image": "img-buildkite-64/sqlite.png",
     "category": "Buildkite",
@@ -242,15 +248,6 @@
     "image": "img-buildkite-64/fsociety.png",
     "category": "Buildkite",
     "aliases": []
-  },
-  {
-    "name": "raspberry",
-    "image": "img-buildkite-64/pi.png",
-    "category": "Buildkite",
-    "aliases": [
-      "pi",
-      "raspberry-pi"
-    ]
   },
   {
     "name": "rubysec",
