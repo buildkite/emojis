@@ -1,5 +1,11 @@
 [
   {
+    "name": "plaidml",
+    "image": "img-buildkite-64/plaidml.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "tslint",
     "image": "img-buildkite-64/tslint.png",
     "category": "Buildkite",
