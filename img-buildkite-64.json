@@ -1,5 +1,11 @@
 [
   {
+    "name": "ios",
+    "image": "img-buildkite-64/ios.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "plaidml",
     "image": "img-buildkite-64/plaidml.png",
     "category": "Buildkite",
