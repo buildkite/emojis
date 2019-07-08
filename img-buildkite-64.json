@@ -1,5 +1,11 @@
 [
   {
+    "name": "aerospike",
+    "image": "img-buildkite-64/aerospike.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "plaidml",
     "image": "img-buildkite-64/plaidml.png",
     "category": "Buildkite",
