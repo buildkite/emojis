@@ -26,6 +26,7 @@ If we're missing a Unicode emoji, please check if it's been added to our upstrea
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/vi.png" width="20" height="20" alt="ios"/> | `:vi:`
 <img src="img-buildkite-64/ios.png" width="20" height="20" alt="ios"/> | `:ios:`
 <img src="img-buildkite-64/aerospike.png" width="20" height="20" alt="aerospike"/> | `:aerospike:`
 <img src="img-buildkite-64/plaidml.png" width="20" height="20" alt="plaidml"/> | `:plaidml:`
