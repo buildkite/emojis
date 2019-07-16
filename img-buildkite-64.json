@@ -1,5 +1,14 @@
 [
   {
+    "name": "argo",
+    "image": "img-buildkite-64/argo.png",
+    "category": "Buildkite",
+    "aliases": [
+      "argocd",
+      "argo-cd"
+    ]
+  },
+  {
     "name": "ios",
     "image": "img-buildkite-64/ios.png",
     "category": "Buildkite",
