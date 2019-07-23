@@ -1,5 +1,11 @@
 [
   {
+    "name": "rollup",
+    "image": "img-buildkite-64/rollup.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "ios",
     "image": "img-buildkite-64/ios.png",
     "category": "Buildkite",
