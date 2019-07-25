@@ -17,7 +17,7 @@ If we're missing Unicode emoji, follow the instructions in [docs/updating-unicod
 
 ## Image guidelines
 
-Buildkite emojis will be shown on both light or dark backgrounds, and at a small size. Try to follow the guidelines below to make sure your emoji looks the best it can ✨
+Buildkite emoji will be shown on both light or dark backgrounds, and at a small size. Try to follow the guidelines below to make sure your emoji looks the best it can ✨
 
 ![Buildkite Emoji Guidelines](docs/buildkite-emoji-guidelines.png)
 
