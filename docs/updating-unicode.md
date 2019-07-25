@@ -1,4 +1,4 @@
-## Updating the Unicode emojis new tool emojis
+## Updating the Unicode emoji
 
 If we're missing a Unicode emoji, please check if it's been added to our upstream data source, [iamcal/emoji-data](https://github.com/iamcal/emoji-data), and if so, either poke us to update it, or follow these instructions to construct a PR:
 
