@@ -1,24 +1,25 @@
 # :heart::purple_heart::blue_heart::green_heart::yellow_heart: Buildkite Emojis :yellow_heart::green_heart::blue_heart::purple_heart::heart:
 
-Custom emojis supported by [Buildkite](https://buildkite.com/) which you can use in your build pipelines and terminal output.
+Custom emoji supported by [Buildkite](https://buildkite.com/) which you can use in your build pipelines and terminal output.
 
-## Contributing
+## Contributing new emoji
 
-To contribute a new custom emoji simply:
+If you're using a tool that's not featured here, you can contribute it by following these steps:
 
+1. Prepare a `64x64` PNG image following the [image guidelines](#image-guidelines) below
 1. Fork this repo
-1. Add the image (as a `64x64` PNG) to the `img-buildkite-64` directory
+1. Add the image to the `img-buildkite-64` directory
 1. Add it to the top of the `img-buildkite-64.json` file
 1. Add it to the top of the table in this markdown file
 1. Send a pull request
 
-If we're missing a Unicode emoji, please check if it's been added to our upstream data source, [iamcal/emoji-data](https://github.com/iamcal/emoji-data), and if so, either poke us to update it, or follow these instructions to construct a PR:
+If we're missing Unicode emoji, follow the instructions in [docs/updating-unicode.md](docs/updating-unicode.md)
 
-1. Clone this repo
-1. Make sure you have Ruby, Bundler, Node and Yarn installed
-1. Run `bundle install && yarn && yarn upgrade --latest emoji-datasource-apple && rake sync && rake verify`
-1. If that all works without errors, copy the output of running `rake default` and paste it, replacing the contents of the "Emoji Reference" section, into this Readme
-1. Commit, push, and open a PR!
+## Image guidelines
+
+Buildkite emoji will be shown on both light or dark backgrounds, and at a small size. Try to follow the guidelines below to make sure your emoji looks the best it can ✨
+
+![Buildkite Emoji Guidelines](docs/buildkite-emoji-guidelines.png)
 
 ## Emoji Reference
 
