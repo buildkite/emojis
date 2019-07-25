@@ -67,7 +67,6 @@ Emoji | Aliases
 <img src="img-buildkite-64/expeditor.png" width="20" height="20" alt="expeditor"/> | `:expeditor:`
 <img src="img-buildkite-64/airflow.png" width="20" height="20" alt="airflow"/> | `:airflow:`
 <img src="img-buildkite-64/nix.png" width="20" height="20" alt="nix"/> | `:nix:`, `:nixos:`
->>>>>>> master
 <img src="img-buildkite-64/glitch.png" width="20" height="20" alt="glitch"/> | `:glitch:`
 <img src="img-buildkite-64/fly.png" width="20" height="20" alt="fly"/> | `:fly:`, `:superfly:`
 <img src="img-buildkite-64/lint-roller.png" width="20" height="20" alt="lint-roller"/> | `:lint-roller:`, `:lint-remover:`
