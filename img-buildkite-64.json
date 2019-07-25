@@ -6,6 +6,33 @@
     "aliases": []
   },
   {
+    "name": "argo",
+    "image": "img-buildkite-64/argo.png",
+    "category": "Buildkite",
+    "aliases": [
+      "argocd",
+      "argo-cd"
+    ]
+  },
+  {
+    "name": "bandit",
+    "image": "img-buildkite-64/bandit.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "mypy",
+    "image": "img-buildkite-64/mypy.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "messagemedia",
+    "image": "img-buildkite-64/messagemedia.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "ios",
     "image": "img-buildkite-64/ios.png",
     "category": "Buildkite",
