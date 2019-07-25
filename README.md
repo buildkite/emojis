@@ -2,7 +2,7 @@
 
 Custom emojis supported by [Buildkite](https://buildkite.com/) which you can use in your build pipelines and terminal output.
 
-## Contributing new emojis
+## Contributing new emoji
 
 If you're using a tool that's not featured here, you can contribute it by following these steps:
 
