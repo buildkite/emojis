@@ -13,7 +13,7 @@ If you're using a tool that's not featured here, you can contribute it by follow
 1. Add it to the top of the table in this markdown file
 1. Send a pull request
 
-Ifwe're missing Unicode emojis, follow the instructions in [docs/updating-unicode.md](docs/updating-unicode.md)
+If we're missing Unicode emoji, follow the instructions in [docs/updating-unicode.md](docs/updating-unicode.md)
 
 ## Image guidelines
 
