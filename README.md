@@ -27,6 +27,47 @@ If we're missing a Unicode emoji, please check if it's been added to our upstrea
 Emoji | Aliases
 ----- | -------
 <img src="img-buildkite-64/zookeeper.png" width="20" height="20" alt="zookeeper"/> | `:zookeeper:`
+<img src="img-buildkite-64/rollup.png" width="20" height="20" alt="rollup"/> | `:rollup:`
+<img src="img-buildkite-64/argo.png" width="20" height="20" alt="argo"/> | `:argo:`
+<img src="img-buildkite-64/bandit.png" width="20" height="20" alt="bandit"/> | `:bandit:`
+<img src="img-buildkite-64/mypy.png" width="20" height="20" alt="mypy"/> | `:mypy:`
+<img src="img-buildkite-64/messagemedia.png" width="20" height="20" alt="messagemedia"/> | `:messagemedia:`
+<img src="img-buildkite-64/ios.png" width="20" height="20" alt="ios"/> | `:ios:`
+<img src="img-buildkite-64/aerospike.png" width="20" height="20" alt="aerospike"/> | `:aerospike:`
+<img src="img-buildkite-64/plaidml.png" width="20" height="20" alt="plaidml"/> | `:plaidml:`
+<img src="img-buildkite-64/tslint.png" width="20" height="20" alt="tslint"/> | `:tslint:`
+<img src="img-buildkite-64/jsonnet.png" width="20" height="20" alt="jsonnet"/> | `:jsonnet:`
+<img src="img-buildkite-64/raspberry-pi.png" width="20" height="20" alt="raspberry-pi"/> | `:raspberry-pi:`
+<img src="img-buildkite-64/sqlite.png" width="20" height="20" alt="sqlite"/> | `:sqlite:`
+<img src="img-buildkite-64/sorbet.png" width="20" height="20" alt="sorbet"/> | `:sorbet:`, `:srb:`
+<img src="img-buildkite-64/sonarqube.png" width="20" height="20" alt="sonarqube"/> | `:sonarqube:`
+<img src="img-buildkite-64/wasm.png" width="20" height="20" alt="wasm"/> | `:wasm:`, `:webassembly:`
+<img src="img-buildkite-64/hbase.png" width="20" height="20" alt="hbase"/> | `:hbase:`
+<img src="img-buildkite-64/elasticsearch.png" width="20" height="20" alt="elasticsearch"/> | `:elasticsearch:`
+<img src="img-buildkite-64/clippy.png" width="20" height="20" alt="clippy"/> | `:clippy:`
+<img src="img-buildkite-64/grafana.png" width="20" height="20" alt="grafana"/> | `:grafana:`
+<img src="img-buildkite-64/asciidoctor.png" width="20" height="20" alt="asciidoctor"/> | `:asciidoctor:`
+<img src="img-buildkite-64/python-black.png" width="20" height="20" alt="python-black"/> | `:python-black:`
+<img src="img-buildkite-64/testkitchen.png" width="20" height="20" alt="test-kitchen"/> | `:test-kitchen:`, `:kitchen-ci:`
+<img src="img-buildkite-64/gatsby.png" width="20" height="20" alt="gatsby"/> | `:gatsby:`
+<img src="img-buildkite-64/fluentd.png" width="20" height="20" alt="fluentd"/> | `:fluentd:`
+<img src="img-buildkite-64/cloudsmith.png" width="20" height="20" alt="cloudsmith"/> | `:cloudsmith:`
+<img src="img-buildkite-64/sidekiq.png" width="20" height="20" alt="sidekiq"/> | `:sidekiq:`
+<img src="img-buildkite-64/hadolint.png" width="20" height="20" alt="hadolint"/> | `:hadolint:`
+<img src="img-buildkite-64/purescript.png" width="20" height="20" alt="purescript"/> | `:purescript:`
+<img src="img-buildkite-64/haskell.png" width="20" height="20" alt="haskell"/> | `:haskell:`, `:hs:`
+<img src="img-buildkite-64/gradle.png" width="20" height="20" alt="gradle"/> | `:gradle:`
+<img src="img-buildkite-64/wayfair.png" width="20" height="20" alt="wayfair"/> | `:wayfair:`
+<img src="img-buildkite-64/xcode.png" width="20" height="20" alt="xcode"/> | `:xcode:`
+<img src="img-buildkite-64/xcode_simulator.png" width="20" height="20" alt="xcode_simulator"/> | `:xcode_simulator:`
+<img src="img-buildkite-64/pinterest.png" width="20" height="20" alt="pinterest"/> | `:pinterest:`
+<img src="img-buildkite-64/jinja.png" width="20" height="20" alt="jinja"/> | `:jinja:`
+<img src="img-buildkite-64/phabricator.png" width="20" height="20" alt="phabricator"/> | `:phabricator:`
+<img src="img-buildkite-64/pulumi.png" width="20" height="20" alt="pulumi"/> | `:pulumi:`
+<img src="img-buildkite-64/expeditor.png" width="20" height="20" alt="expeditor"/> | `:expeditor:`
+<img src="img-buildkite-64/airflow.png" width="20" height="20" alt="airflow"/> | `:airflow:`
+<img src="img-buildkite-64/nix.png" width="20" height="20" alt="nix"/> | `:nix:`, `:nixos:`
+>>>>>>> master
 <img src="img-buildkite-64/glitch.png" width="20" height="20" alt="glitch"/> | `:glitch:`
 <img src="img-buildkite-64/fly.png" width="20" height="20" alt="fly"/> | `:fly:`, `:superfly:`
 <img src="img-buildkite-64/lint-roller.png" width="20" height="20" alt="lint-roller"/> | `:lint-roller:`, `:lint-remover:`
