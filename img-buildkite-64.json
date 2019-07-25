@@ -1,5 +1,11 @@
 [
   {
+    "name": "zookeeper",
+    "image": "img-buildkite-64/zookeeper.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "rollup",
     "image": "img-buildkite-64/rollup.png",
     "category": "Buildkite",
@@ -252,6 +258,7 @@
       "nixos"
     ]
   },
+>>>>>>> master
   {
     "name": "glitch",
     "image": "img-buildkite-64/glitch.png",

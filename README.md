@@ -26,6 +26,7 @@ If we're missing a Unicode emoji, please check if it's been added to our upstrea
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/zookeeper.png" width="20" height="20" alt="zookeeper"/> | `:zookeeper:`
 <img src="img-buildkite-64/rollup.png" width="20" height="20" alt="rollup"/> | `:rollup:`
 <img src="img-buildkite-64/argo.png" width="20" height="20" alt="argo"/> | `:argo:`
 <img src="img-buildkite-64/bandit.png" width="20" height="20" alt="bandit"/> | `:bandit:`
@@ -66,6 +67,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/expeditor.png" width="20" height="20" alt="expeditor"/> | `:expeditor:`
 <img src="img-buildkite-64/airflow.png" width="20" height="20" alt="airflow"/> | `:airflow:`
 <img src="img-buildkite-64/nix.png" width="20" height="20" alt="nix"/> | `:nix:`, `:nixos:`
+>>>>>>> master
 <img src="img-buildkite-64/glitch.png" width="20" height="20" alt="glitch"/> | `:glitch:`
 <img src="img-buildkite-64/fly.png" width="20" height="20" alt="fly"/> | `:fly:`, `:superfly:`
 <img src="img-buildkite-64/lint-roller.png" width="20" height="20" alt="lint-roller"/> | `:lint-roller:`, `:lint-remover:`
