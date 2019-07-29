@@ -1,5 +1,11 @@
 [
   {
+    "name": "jenkins",
+    "image": "img-buildkite-64/jenkins.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "zookeeper",
     "image": "img-buildkite-64/zookeeper.png",
     "category": "Buildkite",
