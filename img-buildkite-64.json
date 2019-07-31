@@ -6,6 +6,12 @@
     "aliases": []
   },
   {
+    "name": "tensorflow",
+    "image": "img-buildkite-64/tensorflow.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "zookeeper",
     "image": "img-buildkite-64/zookeeper.png",
     "category": "Buildkite",
