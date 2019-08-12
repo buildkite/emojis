@@ -27,6 +27,10 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/jfrog-conan.png" width="20" height="20" alt="jfrog-conan"/> | `:jfrog-conan:`, `:conan:`, `:conanio:`
+<img src="img-buildkite-64/jfrog.png" width="20" height="20" alt="jfrog"/> | `:jfrog:`
+<img src="img-buildkite-64/jfrog-artifactory.png" width="20" height="20" alt="jfrog-artifactory"/> | `:jfrog-artifactory:`, `:artifactory:`
+<img src="img-buildkite-64/jfrog-xray.png" width="20" height="20" alt="jfrog-xray"/> | `:jfrog-xray:`
 <img src="img-buildkite-64/cpp.png" width="20" height="20" alt="cpp"/> | `:cpp:`, `:cplusplus:`, `:c++:`
 <img src="img-buildkite-64/jenkins.png" width="20" height="20" alt="jenkins"/> | `:jenkins:`
 <img src="img-buildkite-64/tensorflow.png" width="20" height="20" alt="tensorflow"/> | `:tensorflow:`

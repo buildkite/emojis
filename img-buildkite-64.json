@@ -1,5 +1,34 @@
 [
   {
+    "name": "jfrog-conan",
+    "image": "img-buildkite-64/jfrog-conan.png",
+    "category": "Buildkite",
+    "aliases": [
+      "conan",
+      "conanio"
+    ]
+  },
+  {
+    "name": "jfrog",
+    "image": "img-buildkite-64/jfrog.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "jfrog-artifactory",
+    "image": "img-buildkite-64/jfrog-artifactory.png",
+    "category": "Buildkite",
+    "aliases": [
+      "artifactory"
+    ]
+  },
+  {
+    "name": "jfrog-xray",
+    "image": "img-buildkite-64/jfrog-xray.png",
+    "category": "Buildkite",
+    "aliases": []
+  }, 
+  {
     "name": "cpp",
     "image": "img-buildkite-64/cpp.png",
     "category": "Buildkite",
