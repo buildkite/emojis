@@ -1,5 +1,11 @@
 [
   {
+    "name": "jenkins",
+    "image": "img-buildkite-64/jenkins.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "tensorflow",
     "image": "img-buildkite-64/tensorflow.png",
     "category": "Buildkite",
