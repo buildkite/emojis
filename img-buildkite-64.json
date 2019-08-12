@@ -1,5 +1,14 @@
 [
   {
+    "name": "cpp",
+    "image": "img-buildkite-64/cpp.png",
+    "category": "Buildkite",
+    "aliases": [
+      "cplusplus",
+      "c++"
+    ]
+  },
+  {
     "name": "jenkins",
     "image": "img-buildkite-64/jenkins.png",
     "category": "Buildkite",
