@@ -28,6 +28,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 Emoji | Aliases
 ----- | -------
 <img src="img-buildkite-64/cpp.png" width="20" height="20" alt="cpp"/> | `:cpp:`, `:cplusplus:`, `:c++:`
+<img src="img-buildkite-64/jenkins.png" width="20" height="20" alt="jenkins"/> | `:jenkins:`
 <img src="img-buildkite-64/tensorflow.png" width="20" height="20" alt="tensorflow"/> | `:tensorflow:`
 <img src="img-buildkite-64/zookeeper.png" width="20" height="20" alt="zookeeper"/> | `:zookeeper:`
 <img src="img-buildkite-64/rollup.png" width="20" height="20" alt="rollup"/> | `:rollup:`
