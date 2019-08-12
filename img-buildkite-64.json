@@ -4,8 +4,8 @@
     "image": "img-buildkite-64/jfrog-conan.png",
     "category": "Buildkite",
     "aliases": [
-    "conan",
-    "conanio"
+      "conan",
+      "conanio"
     ]
   },
   {
