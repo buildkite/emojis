@@ -1,7 +1,7 @@
 [
   {
     "name": "dartlang",
-    "image": "img-buildkite-64/dart.png",
+    "image": "img-buildkite-64/dartlang.png",
     "category": "Buildkite",
     "aliases": []
   },
