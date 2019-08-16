@@ -27,6 +27,8 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/flutter.png" width="20" height="20" alt="flutter"/> | `:flutter:`
+<img src="img-buildkite-64/dartlang.png" width="20" height="20" alt="dartlang"/> | `:dartlang:`
 <img src="img-buildkite-64/jfrog-conan.png" width="20" height="20" alt="jfrog-conan"/> | `:jfrog-conan:`, `:conan:`, `:conanio:`
 <img src="img-buildkite-64/jfrog.png" width="20" height="20" alt="jfrog"/> | `:jfrog:`
 <img src="img-buildkite-64/jfrog-artifactory.png" width="20" height="20" alt="jfrog-artifactory"/> | `:jfrog-artifactory:`, `:artifactory:`

@@ -1,5 +1,17 @@
 [
   {
+    "name": "dartlang",
+    "image": "img-buildkite-64/dartlang.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "flutter",
+    "image": "img-buildkite-64/flutter.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "jfrog-conan",
     "image": "img-buildkite-64/jfrog-conan.png",
     "category": "Buildkite",
