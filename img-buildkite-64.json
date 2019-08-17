@@ -1,5 +1,29 @@
 [
   {
+    "name": "bk-status-passed",
+    "image": "img-buildkite-64/bk-status-passed.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "bk-status-failed",
+    "image": "img-buildkite-64/bk-status-failed.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "bk-status-pending",
+    "image": "img-buildkite-64/bk-status-pending.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "bk-status-running",
+    "image": "img-buildkite-64/bk-status-running.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "dartlang",
     "image": "img-buildkite-64/dartlang.png",
     "category": "Buildkite",
@@ -39,7 +63,7 @@
     "image": "img-buildkite-64/jfrog-xray.png",
     "category": "Buildkite",
     "aliases": []
-  }, 
+  },
   {
     "name": "cpp",
     "image": "img-buildkite-64/cpp.png",
