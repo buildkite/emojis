@@ -27,6 +27,10 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/bk-status-passed.png" width="20" height="20" alt="bk-status-passed"/> | `:bk-status-passed:`
+<img src="img-buildkite-64/bk-status-failed.png" width="20" height="20" alt="bk-status-failed"/> | `:bk-status-failed:`
+<img src="img-buildkite-64/bk-status-pending.png" width="20" height="20" alt="bk-status-pending"/> | `:bk-status-pending:`
+<img src="img-buildkite-64/bk-status-running.png" width="20" height="20" alt="bk-status-running"/> | `:bk-status-running:`
 <img src="img-buildkite-64/flutter.png" width="20" height="20" alt="flutter"/> | `:flutter:`
 <img src="img-buildkite-64/dartlang.png" width="20" height="20" alt="dartlang"/> | `:dartlang:`
 <img src="img-buildkite-64/jfrog-conan.png" width="20" height="20" alt="jfrog-conan"/> | `:jfrog-conan:`, `:conan:`, `:conanio:`
