@@ -1,5 +1,11 @@
 [
   {
+    "name": "consul",
+    "image": "img-buildkite-64/consul.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "bk-status-passed",
     "image": "img-buildkite-64/bk-status-passed.png",
     "category": "Buildkite",
