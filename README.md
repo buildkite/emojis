@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/chromatic.png" width="20" height="20" alt="chromatic"/> | `:chromatic:`
 <img src="img-buildkite-64/bk-status-passed.png" width="20" height="20" alt="bk-status-passed"/> | `:bk-status-passed:`
 <img src="img-buildkite-64/bk-status-failed.png" width="20" height="20" alt="bk-status-failed"/> | `:bk-status-failed:`
 <img src="img-buildkite-64/bk-status-pending.png" width="20" height="20" alt="bk-status-pending"/> | `:bk-status-pending:`
