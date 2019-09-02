@@ -1,5 +1,11 @@
 [
   {
+    "name": "phpunit",
+    "image": "img-buildkite-64/phpunit.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "consul",
     "image": "img-buildkite-64/consul.png",
     "category": "Buildkite",
