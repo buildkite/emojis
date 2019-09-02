@@ -6,6 +6,12 @@
     "aliases": []
   },
   {
+    "name": "behat",
+    "image": "img-buildkite-64/behat.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "consul",
     "image": "img-buildkite-64/consul.png",
     "category": "Buildkite",

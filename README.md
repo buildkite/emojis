@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/behat.png" width="20" height="20" alt="behat"/> | `:behat:`
 <img src="img-buildkite-64/phpunit.png" width="20" height="20" alt="phpunit"/> | `:phpunit:`
 <img src="img-buildkite-64/consul.png" width="20" height="20" alt="consul"/> | `:consul:`
 <img src="img-buildkite-64/chromatic.png" width="20" height="20" alt="chromatic"/> | `:chromatic:`
