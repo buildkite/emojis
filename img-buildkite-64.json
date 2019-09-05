@@ -1,5 +1,11 @@
 [
   {
+    "name": "gatling",
+    "image": "img-buildkite-64/gatling.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "phpunit",
     "image": "img-buildkite-64/phpunit.png",
     "category": "Buildkite",
