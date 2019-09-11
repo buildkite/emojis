@@ -27,6 +27,10 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/atlassian-confluence.png" width="20" height="20" alt="atlassian-confluence"/> | `:atlassian-confluence:`, `:confluence:`
+<img src="img-buildkite-64/atlassian-bitbucket.png" width="20" height="20" alt="atlassian-bitbucket"/> | `:atlassian-bitbucket:`, `:bitbucket:`
+<img src="img-buildkite-64/atlassian-jira.png" width="20" height="20" alt="atlassian-jira"/> | `:atlassian-jira:`, `:jira:`
+<img src="img-buildkite-64/atlassian.png" width="20" height="20" alt="atlassian"/> | `:atlassian:`
 <img src="img-buildkite-64/gatling.png" width="20" height="20" alt="gatling"/> | `:gatling:`
 <img src="img-buildkite-64/behat.png" width="20" height="20" alt="behat"/> | `:behat:`
 <img src="img-buildkite-64/phpunit.png" width="20" height="20" alt="phpunit"/> | `:phpunit:`
