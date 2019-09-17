@@ -1,5 +1,13 @@
 [
   {
+    "name": "algolia",
+    "image": "img-buildkite-64/algolia.png",
+    "category": "Buildkite",
+    "aliases": [
+      "algolia"
+    ]
+  },
+  {
     "name": "atlassian-confluence",
     "image": "img-buildkite-64/atlassian-confluence.png",
     "category": "Buildkite",
