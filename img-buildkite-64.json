@@ -8,6 +8,12 @@
     ]
   },
   {
+    "name": "batfish",
+    "image": "img-buildkite-64/batfish.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "atlassian-confluence",
     "image": "img-buildkite-64/atlassian-confluence.png",
     "category": "Buildkite",
