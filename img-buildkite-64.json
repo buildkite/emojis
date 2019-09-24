@@ -1,5 +1,13 @@
 [
   {
+    "name": "subversion",
+    "image": "img-buildkite-64/subversion.png",
+    "category": "Buildkite",
+    "aliases": [
+      "svn"
+    ]
+  },
+  {
     "name": "batfish",
     "image": "img-buildkite-64/batfish.png",
     "category": "Buildkite",
