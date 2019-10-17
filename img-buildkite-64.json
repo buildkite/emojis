@@ -1,5 +1,45 @@
 [
   {
+    "name": "csharp",
+    "image": "img-buildkite-64/csharp.png",
+    "category": "Buildkite",
+    "aliases": [
+      "csharp"
+    ]
+  },
+  {
+    "name": "dotnet",
+    "image": "img-buildkite-64/dotnet.png",
+    "category": "Buildkite",
+    "aliases": [
+      "dotnet"
+    ]
+  },
+  {
+    "name": "fsharp",
+    "image": "img-buildkite-64/fsharp.png",
+    "category": "Buildkite",
+    "aliases": [
+      "fsharp"
+    ]
+  },
+  {
+    "name": "nomad",
+    "image": "img-buildkite-64/nomad.png",
+    "category": "Buildkite",
+    "aliases": [
+      "nomad"
+    ]
+  },
+  {
+    "name": "vagrant",
+    "image": "img-buildkite-64/vagrant.png",
+    "category": "Buildkite",
+    "aliases": [
+      "vagrant"
+    ]
+  },
+  {
     "name": "algolia",
     "image": "img-buildkite-64/algolia.png",
     "category": "Buildkite",
