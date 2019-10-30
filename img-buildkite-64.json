@@ -6,6 +6,12 @@
     "aliases": []
   },
   {
+    "name": "jupyter",
+    "image": "img-buildkite-64/jupyter.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "algolia",
     "image": "img-buildkite-64/algolia.png",
     "category": "Buildkite",
