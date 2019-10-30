@@ -1,5 +1,11 @@
 [
   {
+    "name": "vue",
+    "image": "img-buildkite-64/vue.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "jupyter",
     "image": "img-buildkite-64/jupyter.png",
     "category": "Buildkite",
