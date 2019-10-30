@@ -32,6 +32,8 @@ Emoji | Aliases
 <img src="img-buildkite-64/fsharp.png" width="20" height="20" alt="fsharp"/> | `:fsharp:`
 <img src="img-buildkite-64/nomad.png" width="20" height="20" alt="nomad"/> | `:nomad:`
 <img src="img-buildkite-64/vagrant.png" width="20" height="20" alt="vagrant"/> | `:vagrant:`
+<img src="img-buildkite-64/vue.png" width="20" height="20" alt="vue"/> | `:vue:`
+<img src="img-buildkite-64/jupyter.png" width="20" height="20" alt="jupyter"/> | `:jupyter:`
 <img src="img-buildkite-64/algolia.png" width="20" height="20" alt="algolia"/> | `:algolia:`
 <img src="img-buildkite-64/subversion.png" width="20" height="20" alt="subversion"/> | `:subversion:`, `:svn:`
 <img src="img-buildkite-64/batfish.png" width="20" height="20" alt="batfish"/> | `:batfish:`
