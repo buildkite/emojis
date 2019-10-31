@@ -1612,7 +1612,8 @@
     "image": "img-buildkite-64/mac.png",
     "category": "Buildkite",
     "aliases": [
-      "darwin"
+      "darwin",
+      "macos"
     ]
   },
   {
