@@ -8,6 +8,26 @@
     ]
   },
   {
+    "name": "codeception",
+    "image": "img-buildkite-64/codeception.png",
+    "category": "Buildkite",
+    "aliases": [
+      "codecept"
+    ]
+  },
+  {
+    "name": "phpstan",
+    "image": "img-buildkite-64/phpstan.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "django",
+    "image": "img-buildkite-64/django.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "vue",
     "image": "img-buildkite-64/vue.png",
     "category": "Buildkite",
