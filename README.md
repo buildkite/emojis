@@ -32,7 +32,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/fsharp.png" width="20" height="20" alt="fsharp"/> | `:fsharp:`
 <img src="img-buildkite-64/nomad.png" width="20" height="20" alt="nomad"/> | `:nomad:`
 <img src="img-buildkite-64/vagrant.png" width="20" height="20" alt="vagrant"/> | `:vagrant:`
-<img src="img-buildkite-64/karate.png" width="20", height="20" alt="karate"/> | `:karate:`
+<img src="img-buildkite-64/karate.png" width="20" height="20" alt="karate"/> | `:karate:`
 <img src="img-buildkite-64/codeception.png" width="20" height="20" alt="codeception"/> | `:codeception:`, `:codecept:`
 <img src="img-buildkite-64/phpstan.png" width="20" height="20" alt="phpstan"/> | `:phpstan:`
 <img src="img-buildkite-64/django.png" width="20" height="20" alt="django"/> | `:django:`
