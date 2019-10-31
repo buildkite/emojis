@@ -1,5 +1,13 @@
 [
   {
+    "name": "karate",
+    "image": "img-buildkite-64/karate.png",
+    "category": "Buildkite",
+    "aliases": [
+      "karate-api"
+    ]
+  },
+  {
     "name": "codeception",
     "image": "img-buildkite-64/codeception.png",
     "category": "Buildkite",
