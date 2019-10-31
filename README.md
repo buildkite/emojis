@@ -28,6 +28,10 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 Emoji | Aliases
 ----- | -------
 <img src="img-buildkite-64/codeception.png" width="20" height="20" alt="codeception"/> | `:codeception:`, `:codecept:`
+<img src="img-buildkite-64/phpstan.png" width="20" height="20" alt="phpstan"/> | `:phpstan:`
+<img src="img-buildkite-64/django.png" width="20" height="20" alt="django"/> | `:django:`
+<img src="img-buildkite-64/vue.png" width="20" height="20" alt="vue"/> | `:vue:`
+<img src="img-buildkite-64/jupyter.png" width="20" height="20" alt="jupyter"/> | `:jupyter:`
 <img src="img-buildkite-64/algolia.png" width="20" height="20" alt="algolia"/> | `:algolia:`
 <img src="img-buildkite-64/subversion.png" width="20" height="20" alt="subversion"/> | `:subversion:`, `:svn:`
 <img src="img-buildkite-64/batfish.png" width="20" height="20" alt="batfish"/> | `:batfish:`
