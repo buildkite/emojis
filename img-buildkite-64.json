@@ -1,5 +1,13 @@
 [
   {
+    "name": "codeception",
+    "image": "img-buildkite-64/codeception.png",
+    "category": "Buildkite",
+    "aliases": [
+      "codecept"
+    ]
+  },
+  {
     "name": "phpstan",
     "image": "img-buildkite-64/phpstan.png",
     "category": "Buildkite",
