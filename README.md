@@ -275,7 +275,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/knapsack.png" width="20" height="20" alt="knapsack"/> | `:knapsack:`
 <img src="img-buildkite-64/linux.png" width="20" height="20" alt="linux"/> | `:linux:`
 <img src="img-buildkite-64/llama.png" width="20" height="20" alt="llama"/> | `:llama:`
-<img src="img-buildkite-64/mac.png" width="20" height="20" alt="mac"/> | `:mac:`, `:darwin:`
+<img src="img-buildkite-64/mac.png" width="20" height="20" alt="mac"/> | `:mac:`, `:macos`, `:darwin:`
 <img src="img-buildkite-64/metal.png" width="20" height="20" alt="metal"/> | `:metal:`
 <img src="img-buildkite-64/mysql.png" width="20" height="20" alt="mysql"/> | `:mysql:`
 <img src="img-buildkite-64/neckbeard.png" width="20" height="20" alt="neckbeard"/> | `:neckbeard:`
