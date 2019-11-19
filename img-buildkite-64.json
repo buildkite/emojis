@@ -1,5 +1,11 @@
 [
   {
+    "name": "shrek",
+    "image": "img-buildkite-64/shrek.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "plaidml",
     "image": "img-buildkite-64/plaidml.png",
     "category": "Buildkite",
