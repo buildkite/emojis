@@ -6,6 +6,305 @@
     "aliases": []
   },
   {
+    "name": "csharp",
+    "image": "img-buildkite-64/csharp.png",
+    "category": "Buildkite",
+    "aliases": [
+      "csharp"
+    ]
+  },
+  {
+    "name": "dotnet",
+    "image": "img-buildkite-64/dotnet.png",
+    "category": "Buildkite",
+    "aliases": [
+      "dotnet"
+    ]
+  },
+  {
+    "name": "fsharp",
+    "image": "img-buildkite-64/fsharp.png",
+    "category": "Buildkite",
+    "aliases": [
+      "fsharp"
+    ]
+  },
+  {
+    "name": "nomad",
+    "image": "img-buildkite-64/nomad.png",
+    "category": "Buildkite",
+    "aliases": [
+      "nomad"
+    ]
+  },
+  {
+    "name": "vagrant",
+    "image": "img-buildkite-64/vagrant.png",
+    "category": "Buildkite",
+    "aliases": [
+      "vagrant"
+    ]
+  },
+  {
+    "name": "karate",
+    "image": "img-buildkite-64/karate.png",
+    "category": "Buildkite",
+    "aliases": [
+      "karate-api"
+    ]
+  },
+  {
+    "name": "codeception",
+    "image": "img-buildkite-64/codeception.png",
+    "category": "Buildkite",
+    "aliases": [
+      "codecept"
+    ]
+  },
+  {
+    "name": "phpstan",
+    "image": "img-buildkite-64/phpstan.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "django",
+    "image": "img-buildkite-64/django.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "vue",
+    "image": "img-buildkite-64/vue.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "jupyter",
+    "image": "img-buildkite-64/jupyter.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "algolia",
+    "image": "img-buildkite-64/algolia.png",
+    "category": "Buildkite",
+    "aliases": [
+      "algolia"
+    ]
+  },
+  {
+    "name": "subversion",
+    "image": "img-buildkite-64/subversion.png",
+    "category": "Buildkite",
+    "aliases": [
+      "svn"
+    ]
+  },
+  {
+    "name": "batfish",
+    "image": "img-buildkite-64/batfish.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "atlassian-confluence",
+    "image": "img-buildkite-64/atlassian-confluence.png",
+    "category": "Buildkite",
+    "aliases": [
+      "confluence"
+    ]
+  },
+  {
+    "name": "atlassian-bitbucket",
+    "image": "img-buildkite-64/atlassian-bitbucket.png",
+    "category": "Buildkite",
+    "aliases": [
+      "bitbucket"
+    ]
+  },
+  {
+    "name": "atlassian-jira",
+    "image": "img-buildkite-64/atlassian-jira.png",
+    "category": "Buildkite",
+    "aliases": [
+      "jira"
+    ]
+  },
+  {
+    "name": "atlassian",
+    "image": "img-buildkite-64/atlassian.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "gatling",
+    "image": "img-buildkite-64/gatling.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "phpunit",
+    "image": "img-buildkite-64/phpunit.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "behat",
+    "image": "img-buildkite-64/behat.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "consul",
+    "image": "img-buildkite-64/consul.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "chromatic",
+    "image": "img-buildkite-64/chromatic.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "bk-status-passed",
+    "image": "img-buildkite-64/bk-status-passed.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "bk-status-failed",
+    "image": "img-buildkite-64/bk-status-failed.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "bk-status-pending",
+    "image": "img-buildkite-64/bk-status-pending.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "bk-status-running",
+    "image": "img-buildkite-64/bk-status-running.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "dartlang",
+    "image": "img-buildkite-64/dartlang.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "flutter",
+    "image": "img-buildkite-64/flutter.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "jfrog-conan",
+    "image": "img-buildkite-64/jfrog-conan.png",
+    "category": "Buildkite",
+    "aliases": [
+      "conan",
+      "conanio"
+    ]
+  },
+  {
+    "name": "jfrog",
+    "image": "img-buildkite-64/jfrog.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "jfrog-artifactory",
+    "image": "img-buildkite-64/jfrog-artifactory.png",
+    "category": "Buildkite",
+    "aliases": [
+      "artifactory"
+    ]
+  },
+  {
+    "name": "jfrog-xray",
+    "image": "img-buildkite-64/jfrog-xray.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "cpp",
+    "image": "img-buildkite-64/cpp.png",
+    "category": "Buildkite",
+    "aliases": [
+      "cplusplus",
+      "c++"
+    ]
+  },
+  {
+    "name": "jenkins",
+    "image": "img-buildkite-64/jenkins.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "tensorflow",
+    "image": "img-buildkite-64/tensorflow.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "zookeeper",
+    "image": "img-buildkite-64/zookeeper.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "rollup",
+    "image": "img-buildkite-64/rollup.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "argo",
+    "image": "img-buildkite-64/argo.png",
+    "category": "Buildkite",
+    "aliases": [
+      "argocd",
+      "argo-cd"
+    ]
+  },
+  {
+    "name": "bandit",
+    "image": "img-buildkite-64/bandit.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "mypy",
+    "image": "img-buildkite-64/mypy.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "messagemedia",
+    "image": "img-buildkite-64/messagemedia.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "ios",
+    "image": "img-buildkite-64/ios.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aerospike",
+    "image": "img-buildkite-64/aerospike.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "plaidml",
     "image": "img-buildkite-64/plaidml.png",
     "category": "Buildkite",
@@ -1319,7 +1618,8 @@
     "image": "img-buildkite-64/mac.png",
     "category": "Buildkite",
     "aliases": [
-      "darwin"
+      "darwin",
+      "macos"
     ]
   },
   {

@@ -1768,6 +1768,7 @@ telephone
 telephone_receiver
 telescope
 tennis
+tensorflow
 tent
 terminal
 terraform

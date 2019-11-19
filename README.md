@@ -1,24 +1,25 @@
 # :heart::purple_heart::blue_heart::green_heart::yellow_heart: Buildkite Emojis :yellow_heart::green_heart::blue_heart::purple_heart::heart:
 
-Custom emojis supported by [Buildkite](https://buildkite.com/) which you can use in your build pipelines and terminal output.
+Custom emoji supported by [Buildkite](https://buildkite.com/) which you can use in your build pipelines and terminal output.
 
-## Contributing
+## Contributing new emoji
 
-To contribute a new custom emoji simply:
+If you're using a tool that's not featured here, you can contribute it by following these steps:
 
+1. Prepare a `64x64` PNG image following the [image guidelines](#image-guidelines) below
 1. Fork this repo
-1. Add the image (as a `64x64` PNG) to the `img-buildkite-64` directory
+1. Add the image to the `img-buildkite-64` directory
 1. Add it to the top of the `img-buildkite-64.json` file
 1. Add it to the top of the table in this markdown file
 1. Send a pull request
 
-If we're missing a Unicode emoji, please check if it's been added to our upstream data source, [iamcal/emoji-data](https://github.com/iamcal/emoji-data), and if so, either poke us to update it, or follow these instructions to construct a PR:
+If we're missing Unicode emoji, follow the instructions in [docs/updating-unicode.md](docs/updating-unicode.md)
 
-1. Clone this repo
-1. Make sure you have Ruby, Bundler, Node and Yarn installed
-1. Run `bundle install && yarn && yarn upgrade --latest emoji-datasource-apple && rake sync && rake verify`
-1. If that all works without errors, copy the output of running `rake default` and paste it, replacing the contents of the "Emoji Reference" section, into this Readme
-1. Commit, push, and open a PR!
+## Image guidelines
+
+Buildkite emoji will be shown on both light or dark backgrounds, and at a small size. Try to follow the guidelines below to make sure your emoji looks the best it can ✨
+
+![Buildkite Emoji Guidelines](docs/buildkite-emoji-guidelines.png)
 
 ## Emoji Reference
 
@@ -27,6 +28,50 @@ If we're missing a Unicode emoji, please check if it's been added to our upstrea
 Emoji | Aliases
 ----- | -------
 <img src="img-buildkite-64/shrek.png" width="20" height="20" alt="shrek"/> | `:shrek:`
+<img src="img-buildkite-64/csharp.png" width="20" height="20" alt="csharp"/> | `:csharp:`
+<img src="img-buildkite-64/dotnet.png" width="20" height="20" alt="dotnet"/> | `:dotnet:`
+<img src="img-buildkite-64/fsharp.png" width="20" height="20" alt="fsharp"/> | `:fsharp:`
+<img src="img-buildkite-64/nomad.png" width="20" height="20" alt="nomad"/> | `:nomad:`
+<img src="img-buildkite-64/vagrant.png" width="20" height="20" alt="vagrant"/> | `:vagrant:`
+<img src="img-buildkite-64/karate.png" width="20" height="20" alt="karate"/> | `:karate:`
+<img src="img-buildkite-64/codeception.png" width="20" height="20" alt="codeception"/> | `:codeception:`, `:codecept:`
+<img src="img-buildkite-64/phpstan.png" width="20" height="20" alt="phpstan"/> | `:phpstan:`
+<img src="img-buildkite-64/django.png" width="20" height="20" alt="django"/> | `:django:`
+<img src="img-buildkite-64/vue.png" width="20" height="20" alt="vue"/> | `:vue:`
+<img src="img-buildkite-64/jupyter.png" width="20" height="20" alt="jupyter"/> | `:jupyter:`
+<img src="img-buildkite-64/algolia.png" width="20" height="20" alt="algolia"/> | `:algolia:`
+<img src="img-buildkite-64/subversion.png" width="20" height="20" alt="subversion"/> | `:subversion:`, `:svn:`
+<img src="img-buildkite-64/batfish.png" width="20" height="20" alt="batfish"/> | `:batfish:`
+<img src="img-buildkite-64/atlassian-confluence.png" width="20" height="20" alt="atlassian-confluence"/> | `:atlassian-confluence:`, `:confluence:`
+<img src="img-buildkite-64/atlassian-bitbucket.png" width="20" height="20" alt="atlassian-bitbucket"/> | `:atlassian-bitbucket:`, `:bitbucket:`
+<img src="img-buildkite-64/atlassian-jira.png" width="20" height="20" alt="atlassian-jira"/> | `:atlassian-jira:`, `:jira:`
+<img src="img-buildkite-64/atlassian.png" width="20" height="20" alt="atlassian"/> | `:atlassian:`
+<img src="img-buildkite-64/gatling.png" width="20" height="20" alt="gatling"/> | `:gatling:`
+<img src="img-buildkite-64/behat.png" width="20" height="20" alt="behat"/> | `:behat:`
+<img src="img-buildkite-64/phpunit.png" width="20" height="20" alt="phpunit"/> | `:phpunit:`
+<img src="img-buildkite-64/consul.png" width="20" height="20" alt="consul"/> | `:consul:`
+<img src="img-buildkite-64/chromatic.png" width="20" height="20" alt="chromatic"/> | `:chromatic:`
+<img src="img-buildkite-64/bk-status-passed.png" width="20" height="20" alt="bk-status-passed"/> | `:bk-status-passed:`
+<img src="img-buildkite-64/bk-status-failed.png" width="20" height="20" alt="bk-status-failed"/> | `:bk-status-failed:`
+<img src="img-buildkite-64/bk-status-pending.png" width="20" height="20" alt="bk-status-pending"/> | `:bk-status-pending:`
+<img src="img-buildkite-64/bk-status-running.png" width="20" height="20" alt="bk-status-running"/> | `:bk-status-running:`
+<img src="img-buildkite-64/flutter.png" width="20" height="20" alt="flutter"/> | `:flutter:`
+<img src="img-buildkite-64/dartlang.png" width="20" height="20" alt="dartlang"/> | `:dartlang:`
+<img src="img-buildkite-64/jfrog-conan.png" width="20" height="20" alt="jfrog-conan"/> | `:jfrog-conan:`, `:conan:`, `:conanio:`
+<img src="img-buildkite-64/jfrog.png" width="20" height="20" alt="jfrog"/> | `:jfrog:`
+<img src="img-buildkite-64/jfrog-artifactory.png" width="20" height="20" alt="jfrog-artifactory"/> | `:jfrog-artifactory:`, `:artifactory:`
+<img src="img-buildkite-64/jfrog-xray.png" width="20" height="20" alt="jfrog-xray"/> | `:jfrog-xray:`
+<img src="img-buildkite-64/cpp.png" width="20" height="20" alt="cpp"/> | `:cpp:`, `:cplusplus:`, `:c++:`
+<img src="img-buildkite-64/jenkins.png" width="20" height="20" alt="jenkins"/> | `:jenkins:`
+<img src="img-buildkite-64/tensorflow.png" width="20" height="20" alt="tensorflow"/> | `:tensorflow:`
+<img src="img-buildkite-64/zookeeper.png" width="20" height="20" alt="zookeeper"/> | `:zookeeper:`
+<img src="img-buildkite-64/rollup.png" width="20" height="20" alt="rollup"/> | `:rollup:`
+<img src="img-buildkite-64/argo.png" width="20" height="20" alt="argo"/> | `:argo:`
+<img src="img-buildkite-64/bandit.png" width="20" height="20" alt="bandit"/> | `:bandit:`
+<img src="img-buildkite-64/mypy.png" width="20" height="20" alt="mypy"/> | `:mypy:`
+<img src="img-buildkite-64/messagemedia.png" width="20" height="20" alt="messagemedia"/> | `:messagemedia:`
+<img src="img-buildkite-64/ios.png" width="20" height="20" alt="ios"/> | `:ios:`
+<img src="img-buildkite-64/aerospike.png" width="20" height="20" alt="aerospike"/> | `:aerospike:`
 <img src="img-buildkite-64/plaidml.png" width="20" height="20" alt="plaidml"/> | `:plaidml:`
 <img src="img-buildkite-64/tslint.png" width="20" height="20" alt="tslint"/> | `:tslint:`
 <img src="img-buildkite-64/jsonnet.png" width="20" height="20" alt="jsonnet"/> | `:jsonnet:`
@@ -231,7 +276,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/knapsack.png" width="20" height="20" alt="knapsack"/> | `:knapsack:`
 <img src="img-buildkite-64/linux.png" width="20" height="20" alt="linux"/> | `:linux:`
 <img src="img-buildkite-64/llama.png" width="20" height="20" alt="llama"/> | `:llama:`
-<img src="img-buildkite-64/mac.png" width="20" height="20" alt="mac"/> | `:mac:`, `:darwin:`
+<img src="img-buildkite-64/mac.png" width="20" height="20" alt="mac"/> | `:mac:`, `:macos`, `:darwin:`
 <img src="img-buildkite-64/metal.png" width="20" height="20" alt="metal"/> | `:metal:`
 <img src="img-buildkite-64/mysql.png" width="20" height="20" alt="mysql"/> | `:mysql:`
 <img src="img-buildkite-64/neckbeard.png" width="20" height="20" alt="neckbeard"/> | `:neckbeard:`
