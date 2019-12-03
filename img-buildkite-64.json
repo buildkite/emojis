@@ -1,5 +1,13 @@
 [
   {
+    "name": "snowflake",
+    "image": "img-buildkite-64/snowflake.png",
+    "category": "Buildkite",
+    "aliases": [
+      "snowflake"
+    ]
+  },
+  {
     "name": "csharp",
     "image": "img-buildkite-64/csharp.png",
     "category": "Buildkite",
