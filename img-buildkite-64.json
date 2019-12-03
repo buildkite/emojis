@@ -1,10 +1,10 @@
 [
   {
-    "name": "snowflake",
-    "image": "img-buildkite-64/snowflake.png",
+    "name": "snowflake-db",
+    "image": "img-buildkite-64/snowflake-db.png",
     "category": "Buildkite",
     "aliases": [
-      "snowflake"
+      "snowflake-db", "snowsql"
     ]
   },
   {
