@@ -1,5 +1,13 @@
 [
   {
+    "name": "dbt",
+    "image": "img-buildkite-64/dbt.png",
+    "category": "Buildkite",
+    "aliases": [
+      "dbt"
+    ]
+  },
+  {
     "name": "csharp",
     "image": "img-buildkite-64/csharp.png",
     "category": "Buildkite",
