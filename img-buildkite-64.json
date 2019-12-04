@@ -1,5 +1,11 @@
 [
   {
+    "name": "openpolicyagent",
+    "image": "img-buildkite-64/openpolicyagent.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "csharp",
     "image": "img-buildkite-64/csharp.png",
     "category": "Buildkite",
