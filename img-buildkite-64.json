@@ -6,6 +6,14 @@
     "aliases": []
   },
   {
+    "name": "circleci",
+    "image": "img-buildkite-64/circleci.png",
+    "category": "Buildkite",
+    "aliases": [
+      "circleci"
+    ]
+  },
+  {
     "name": "csharp",
     "image": "img-buildkite-64/csharp.png",
     "category": "Buildkite",
