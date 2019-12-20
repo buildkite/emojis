@@ -1,5 +1,13 @@
 [
   {
+    "name": "walrusai",
+    "image": "img-buildkite-64/walrusai.png",
+    "category": "Buildkite",
+    "aliases": [
+      "walrusai"
+    ]
+  },
+  {
     "name": "circleci",
     "image": "img-buildkite-64/circleci.png",
     "category": "Buildkite",
