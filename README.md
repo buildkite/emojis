@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/walrusai.png" width="20" height="20" alt="walrusai"/> | `:walrusai:`
 <img src="img-buildkite-64/circleci.png" width="20" height="20" alt="circleci"/> | `:circleci:`
 <img src="img-buildkite-64/csharp.png" width="20" height="20" alt="csharp"/> | `:csharp:`
 <img src="img-buildkite-64/dotnet.png" width="20" height="20" alt="dotnet"/> | `:dotnet:`
