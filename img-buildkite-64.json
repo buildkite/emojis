@@ -1,10 +1,30 @@
 [
   {
-    "name": "snowflake-db",
-    "image": "img-buildkite-64/snowflake-db.png",
+   "name": "snowflake-db",
+   "image": "img-buildkite-64/snowflake-db.png",
+   "category": "Buildkite",
+   "aliases": [
+     "snowsql"
+   ]
+ },
+  {
+    "name": "dbt",
+    "image": "img-buildkite-64/dbt.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "shrek",
+    "image": "img-buildkite-64/shrek.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "airbnb_stork",
+    "image": "img-buildkite-64/airbnb_stork.png",
     "category": "Buildkite",
     "aliases": [
-      "snowflake-db", "snowsql"
+      "airbnb_stork"
     ]
   },
   {
