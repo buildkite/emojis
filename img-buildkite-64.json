@@ -35,57 +35,43 @@
     "name": "airbnb_stork",
     "image": "img-buildkite-64/airbnb_stork.png",
     "category": "Buildkite",
-    "aliases": [
-      "airbnb_stork"
-    ]
+    "aliases": []
   },
   {
     "name": "circleci",
     "image": "img-buildkite-64/circleci.png",
     "category": "Buildkite",
-    "aliases": [
-      "circleci"
-    ]
+    "aliases": []
   },
   {
     "name": "csharp",
     "image": "img-buildkite-64/csharp.png",
     "category": "Buildkite",
-    "aliases": [
-      "csharp"
-    ]
+    "aliases": []
   },
   {
     "name": "dotnet",
     "image": "img-buildkite-64/dotnet.png",
     "category": "Buildkite",
-    "aliases": [
-      "dotnet"
-    ]
+    "aliases": []
   },
   {
     "name": "fsharp",
     "image": "img-buildkite-64/fsharp.png",
     "category": "Buildkite",
-    "aliases": [
-      "fsharp"
-    ]
+    "aliases": []
   },
   {
     "name": "nomad",
     "image": "img-buildkite-64/nomad.png",
     "category": "Buildkite",
-    "aliases": [
-      "nomad"
-    ]
+    "aliases": []
   },
   {
     "name": "vagrant",
     "image": "img-buildkite-64/vagrant.png",
     "category": "Buildkite",
-    "aliases": [
-      "vagrant"
-    ]
+    "aliases": []
   },
   {
     "name": "karate",
@@ -131,9 +117,7 @@
     "name": "algolia",
     "image": "img-buildkite-64/algolia.png",
     "category": "Buildkite",
-    "aliases": [
-      "algolia"
-    ]
+    "aliases": []
   },
   {
     "name": "subversion",
