@@ -6,6 +6,22 @@
     "aliases": []
   },
   {
+    "name": "airbnb_stork",
+    "image": "img-buildkite-64/airbnb_stork.png",
+    "category": "Buildkite",
+    "aliases": [
+      "airbnb_stork"
+    ]
+  },
+  {
+    "name": "circleci",
+    "image": "img-buildkite-64/circleci.png",
+    "category": "Buildkite",
+    "aliases": [
+      "circleci"
+    ]
+  },
+  {
     "name": "csharp",
     "image": "img-buildkite-64/csharp.png",
     "category": "Buildkite",
