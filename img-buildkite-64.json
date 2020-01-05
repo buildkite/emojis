@@ -1,12 +1,18 @@
 [
   {
+    "name": "openpolicyagent",
+    "image": "img-buildkite-64/openpolicyagent.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
    "name": "snowflake-db",
    "image": "img-buildkite-64/snowflake-db.png",
    "category": "Buildkite",
    "aliases": [
      "snowsql"
    ]
- },
+  },
   {
     "name": "dbt",
     "image": "img-buildkite-64/dbt.png",
