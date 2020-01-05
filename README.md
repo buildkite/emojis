@@ -28,6 +28,10 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 Emoji | Aliases
 ----- | -------
 <img src="img-buildkite-64/openpolicyagent.png" width="20" height="20" alt="openpolicyagent"/> | `:openpolicyagent:`
+<img src="img-buildkite-64/snowflake-db.png" width="20" height="20" alt="snowflake-db"/> | `:snowflake-db:`, `:snowsql:`
+<img src="img-buildkite-64/dbt.png" width="20" height="20" alt="dbt"/> | `:dbt:`
+<img src="img-buildkite-64/shrek.png" width="20" height="20" alt="shrek"/> | `:shrek:`
+<img src="img-buildkite-64/airbnb_stork.png" width="20" height="20" alt="airbnb_stork"/> | `:airbnb_stork:`
 <img src="img-buildkite-64/circleci.png" width="20" height="20" alt="circleci"/> | `:circleci:`
 <img src="img-buildkite-64/csharp.png" width="20" height="20" alt="csharp"/> | `:csharp:`
 <img src="img-buildkite-64/dotnet.png" width="20" height="20" alt="dotnet"/> | `:dotnet:`
