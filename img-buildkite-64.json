@@ -1,5 +1,11 @@
 [
   {
+    "name": "shrek",
+    "image": "img-buildkite-64/shrek.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "airbnb_stork",
     "image": "img-buildkite-64/airbnb_stork.png",
     "category": "Buildkite",

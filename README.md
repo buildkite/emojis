@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/shrek.png" width="20" height="20" alt="shrek"/> | `:shrek:`
 <img src="img-buildkite-64/airbnb_stork.png" width="20" height="20" alt="airbnb_stork"/> | `:airbnb_stork:`
 <img src="img-buildkite-64/circleci.png" width="20" height="20" alt="circleci"/> | `:circleci:`
 <img src="img-buildkite-64/csharp.png" width="20" height="20" alt="csharp"/> | `:csharp:`
