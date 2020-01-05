@@ -1,5 +1,11 @@
 [
   {
+    "name": "dbt",
+    "image": "img-buildkite-64/dbt.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "shrek",
     "image": "img-buildkite-64/shrek.png",
     "category": "Buildkite",
