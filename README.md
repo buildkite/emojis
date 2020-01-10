@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/puppeteer.png" width="20" height="20" alt="puppeteer"/> | `:puppeteer:`
 <img src="img-buildkite-64/walrusai.png" width="20" height="20" alt="walrusai"/> | `:walrusai:`
 <img src="img-buildkite-64/openpolicyagent.png" width="20" height="20" alt="openpolicyagent"/> | `:openpolicyagent:`
 <img src="img-buildkite-64/snowflake-db.png" width="20" height="20" alt="snowflake-db"/> | `:snowflake-db:`, `:snowsql:`
