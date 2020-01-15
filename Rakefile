@@ -89,7 +89,9 @@ task :verify do
   ignored_duplicates = [
     'cucumber',
     'family',
-    'man-woman-boy'
+    'llama',
+    'man-woman-boy',
+    'yarn'
   ]
 
   emoji_names = []

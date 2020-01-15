@@ -1587,7 +1587,6 @@ parcel
 parcel-bundler
 parking
 parrot
-parrot
 part_alternation_mark
 partly_sunny
 partly_sunny_rain
