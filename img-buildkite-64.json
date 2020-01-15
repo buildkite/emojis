@@ -420,7 +420,7 @@
   },
   {
     "name": "test-kitchen",
-    "image": "img-buildkite-64/testkitchen.png",
+    "image": "img-buildkite-64/test-kitchen.png",
     "category": "Buildkite",
     "aliases": [
       "kitchen-ci"
@@ -1095,7 +1095,9 @@
     "name": "yarn",
     "image": "img-buildkite-64/yarn.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": [
+      "yarnpkg"
+    ]
   },
   {
     "name": "looker",
@@ -1203,9 +1205,7 @@
     "name": "partyparrot",
     "image": "img-buildkite-64/partyparrot.gif",
     "category": "Buildkite",
-    "aliases": [
-      "parrot"
-    ]
+    "aliases": []
   },
   {
     "name": "apex",
@@ -1489,7 +1489,11 @@
     "name": "cucumber",
     "image": "img-buildkite-64/cucumber.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": [
+      "cucumber-io",
+      "cucumber-open",
+      "cucumber-studio"
+    ]
   },
   {
     "name": "datadog",
@@ -1637,7 +1641,9 @@
     "name": "llama",
     "image": "img-buildkite-64/llama.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": [
+      "lox-llama"
+    ]
   },
   {
     "name": "mac",
