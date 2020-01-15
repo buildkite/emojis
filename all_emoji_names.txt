@@ -11,12 +11,16 @@ accept
 admission_tickets
 adult
 aerial_tramway
+aerospike
+airbnb_stork
+airflow
 airplane
 airplane_arriving
 airplane_departure
 akamai
 alarm_clock
 alembic
+algolia
 alien
 allthethings
 amazon-apigateway
@@ -77,6 +81,9 @@ appengine
 appium
 apple
 aquarius
+argo
+argo-cd
+argocd
 aries
 arrow_backward
 arrow_double_down
@@ -100,8 +107,14 @@ arrows_clockwise
 arrows_counterclockwise
 art
 articulated_lorry
+artifactory
+asciidoctor
 astonished
 athletic_shoe
+atlassian
+atlassian-bitbucket
+atlassian-confluence
+atlassian-jira
 atm
 atom_symbol
 avocado
@@ -159,6 +172,7 @@ ballot_box_with_ballot
 ballot_box_with_check
 bamboo
 banana
+bandit
 bangbang
 bank
 bar_chart
@@ -170,8 +184,10 @@ basecampy
 bash
 basketball
 bat
+batfish
 bath
 bathtub
+batman
 battery
 bazel
 beach_with_umbrella
@@ -183,6 +199,7 @@ beer
 beers
 beetle
 beginner
+behat
 bell
 bellhop_bell
 bento
@@ -193,6 +210,11 @@ billed_cap
 biohazard_sign
 bird
 birthday
+bitbucket
+bk-status-failed
+bk-status-passed
+bk-status-pending
+bk-status-running
 black_circle
 black_circle_for_record
 black_heart
@@ -258,6 +280,7 @@ busstop
 bust_in_silhouette
 busts_in_silhouette
 butterfly
+c++
 cactus
 cake
 calendar
@@ -297,6 +320,8 @@ chart_with_upwards_trend
 checkered_flag
 cheese_wedge
 chef
+chef-inspec
+chef-logo
 cherries
 cherry_blossom
 chestnut
@@ -307,10 +332,12 @@ chipmunk
 chocolate_bar
 chopsticks
 christmas_tree
+chromatic
 chrome
 chromium
 church
 cinema
+circleci
 circus_tent
 city_sunrise
 city_sunset
@@ -323,6 +350,7 @@ clapper
 classical_building
 clinking_glasses
 clipboard
+clippy
 clj
 cljs
 clock1
@@ -359,6 +387,7 @@ cloud
 cloudformation
 cloudfoundry
 cloudfront
+cloudsmith
 cloudwatch
 clown_face
 clubs
@@ -367,6 +396,8 @@ coat
 cocktail
 cocoapods
 coconut
+codecept
+codeception
 codeclimate
 codecov
 codedeploy
@@ -381,13 +412,17 @@ composer
 compression
 compute
 computer
+conan
+conanio
 confetti_ball
+confluence
 confounded
 confused
 congratulations
 console
 construction
 construction_worker
+consul
 control_knobs
 convenience_store
 convox
@@ -404,6 +439,8 @@ couplekiss
 coverage
 cow
 cow2
+cplusplus
+cpp
 crab
 crates
 credit_card
@@ -420,6 +457,7 @@ crown
 cry
 crying_cat_face
 crystal_ball
+csharp
 cucumber
 cucumber
 cup_with_straw
@@ -440,10 +478,12 @@ dancers
 dango
 dark_sunglasses
 dart
+dartlang
 darwin
 dash
 datadog
 date
+dbt
 de
 debian
 deciduous_tree
@@ -459,6 +499,7 @@ disappointed
 disappointed_relieved
 dizzy
 dizzy_face
+django
 do_not_litter
 docker
 dog
@@ -467,6 +508,7 @@ dollar
 dolls
 dolphin
 door
+dotnet
 double_vertical_bar
 doughnut
 dove_of_peace
@@ -501,6 +543,7 @@ eight_spoked_asterisk
 eject
 elasticbeanstalk
 elasticloadbalancing
+elasticsearch
 electric_plug
 electron
 elephant
@@ -524,6 +567,7 @@ european_castle
 european_post_office
 evergreen_tree
 exclamation
+expeditor
 exploding_death_star
 exploding_head
 expressionless
@@ -874,7 +918,9 @@ floppy_disk
 flowdock
 flower_playing_cards
 flowtype
+fluentd
 flushed
+flutter
 fly
 flying_saucer
 flynn
@@ -898,6 +944,7 @@ fried_shrimp
 fries
 frog
 frowning
+fsharp
 fsociety
 fu
 fuelpump
@@ -906,6 +953,8 @@ full_moon_with_face
 funeral_urn
 game_die
 gappengine
+gatling
+gatsby
 gb
 gcloud
 gcompute
@@ -937,6 +986,8 @@ golfer
 google-closure-compiler
 googlecloud
 gorilla
+gradle
+grafana
 grapes
 graphql
 green_apple
@@ -957,6 +1008,7 @@ guitar
 gulp
 gun
 habicat
+hadolint
 hadoop
 haircut
 hamburger
@@ -974,8 +1026,10 @@ handshake
 hankey
 happo
 hash
+haskell
 hatched_chick
 hatching_chick
+hbase
 headphones
 hear_no_evil
 heart
@@ -1022,6 +1076,7 @@ hourglass_flowing_sand
 house
 house_buildings
 house_with_garden
+hs
 html
 html-proofer
 hugging_face
@@ -1046,6 +1101,7 @@ innocent
 inspec
 internet_explorer
 interrobang
+ios
 iphone
 it
 izakaya_lantern
@@ -1059,7 +1115,14 @@ java
 javascript
 jeans
 jekyll
+jenkins
 jest
+jfrog
+jfrog-artifactory
+jfrog-conan
+jfrog-xray
+jinja
+jira
 joy
 joy_cat
 joystick
@@ -1067,11 +1130,15 @@ jp
 js
 jshint
 json
+jsonnet
 juggling
 junit
+jupyter
 k8s
 kaaba
 kafka
+karate
+karate-api
 karma
 key
 keyboard
@@ -1085,6 +1152,7 @@ kissing_cat
 kissing_closed_eyes
 kissing_heart
 kissing_smiling_eyes
+kitchen-ci
 kiwifruit
 knapsack
 knife
@@ -1151,6 +1219,7 @@ m
 m3
 m3db
 mac
+macos
 mag
 mag_right
 mage
@@ -1261,6 +1330,7 @@ mens
 mermaid
 merman
 merperson
+messagemedia
 metal
 metro
 microphone
@@ -1304,6 +1374,7 @@ musical_note
 musical_score
 mute
 mvn
+mypy
 mysql
 nail_care
 name_badge
@@ -1325,6 +1396,8 @@ nginx
 night_with_stars
 nightmare
 nine
+nix
+nixos
 no_bell
 no_bicycles
 no_entry
@@ -1338,6 +1411,7 @@ node
 node_js
 nodejs
 nodesecurity
+nomad
 non-potable_water
 nose
 notebook
@@ -1374,6 +1448,7 @@ open_file_folder
 open_hands
 open_mouth
 openbsd
+openpolicyagent
 ophiuchus
 opscode
 oracle_linux
@@ -1427,9 +1502,12 @@ person_with_ball
 person_with_blond_hair
 person_with_headscarf
 person_with_pouting_face
+phabricator
 phoenix
 phone
 php
+phpstan
+phpunit
 pick
 pie
 piedpiper
@@ -1438,11 +1516,13 @@ pig2
 pig_nose
 pill
 pineapple
+pinterest
 pipeline
 pipeline_upload
 pisces
 pizza
 place_of_worship
+plaidml
 point_down
 point_left
 point_right
@@ -1471,13 +1551,16 @@ prince
 princess
 printer
 protractor
+pulumi
 punch
+purescript
 purple_heart
 purse
 pushpin
 put_litter_in_its_place
 pytest
 python
+python-black
 quay
 quay.io
 question
@@ -1509,6 +1592,7 @@ raising_hand
 ram
 ramen
 rancher
+raspberry-pi
 rat
 rea
 react
@@ -1547,6 +1631,7 @@ rollbar
 rolled_up_newspaper
 roller_coaster
 rolling_on_the_floor_laughing
+rollup
 rooster
 rose
 rosette
@@ -1628,9 +1713,11 @@ shoe
 shopping_bags
 shopping_trolley
 shower
+shrek
 shrimp
 shrug
 shushing_face
+sidekiq
 sign_of_the_horns
 signal_strength
 singularity
@@ -1675,12 +1762,16 @@ snow_capped_mountain
 snow_cloud
 snowboarder
 snowflake
+snowflake-db
 snowman
 snowman_without_snow
+snowsql
 sob
 soccer
 socks
+sonarqube
 soon
+sorbet
 sos
 sound
 space_invader
@@ -1704,7 +1795,9 @@ splunk
 spock-hand
 spoon
 sports_medal
+sqlite
 squid
+srb
 stadium
 star
 star-struck
@@ -1728,6 +1821,7 @@ stuck_out_tongue_winking_eye
 studio_microphone
 stuffed_flatbread
 stylelint
+subversion
 suitest
 sumologic
 sun_behind_cloud
@@ -1744,6 +1838,7 @@ surfer
 sushi
 suspect
 suspension_railway
+svn
 swagger
 sweat
 sweat_drops
@@ -1772,6 +1867,7 @@ tensorflow
 tent
 terminal
 terraform
+test-kitchen
 testflight
 testobject
 the_horns
@@ -1818,6 +1914,7 @@ tropical_fish
 truck
 trumpet
 tshirt
+tslint
 tulip
 tumbler_glass
 turkey
@@ -1853,6 +1950,7 @@ up
 upside_down_face
 us
 v
+vagrant
 vampire
 vertical_traffic_light
 vhs
@@ -1865,10 +1963,13 @@ virtru
 volcano
 volleyball
 vs
+vue
 walking
+walrusai
 waning_crescent_moon
 waning_gibbous_moon
 warning
+wasm
 wastebasket
 watch
 watchman
@@ -1881,8 +1982,10 @@ waving_white_flag
 wavy_dash
 waxing_crescent_moon
 waxing_gibbous_moon
+wayfair
 wc
 weary
+webassembly
 webhook
 webpack
 wedding
@@ -1963,6 +2066,8 @@ wrench
 wrestlers
 writing_hand
 x
+xcode
+xcode_simulator
 yaml
 yarn
 yellow_heart
@@ -1975,4 +2080,5 @@ zebra_face
 zero
 zipper_mouth_face
 zombie
+zookeeper
 zzz
