@@ -420,7 +420,7 @@
   },
   {
     "name": "test-kitchen",
-    "image": "img-buildkite-64/testkitchen.png",
+    "image": "img-buildkite-64/test-kitchen.png",
     "category": "Buildkite",
     "aliases": [
       "kitchen-ci"
