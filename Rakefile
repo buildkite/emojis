@@ -53,7 +53,8 @@ task :default do
   end
 
   order = ["Buildkite",
-           "Smileys & People",
+           "Smileys & Emotion",
+           "People & Body",
            "Animals & Nature",
            "Food & Drink",
            "Activities",
