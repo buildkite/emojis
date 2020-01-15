@@ -92,7 +92,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/grafana.png" width="20" height="20" alt="grafana"/> | `:grafana:`
 <img src="img-buildkite-64/asciidoctor.png" width="20" height="20" alt="asciidoctor"/> | `:asciidoctor:`
 <img src="img-buildkite-64/python-black.png" width="20" height="20" alt="python-black"/> | `:python-black:`
-<img src="img-buildkite-64/testkitchen.png" width="20" height="20" alt="test-kitchen"/> | `:test-kitchen:`, `:kitchen-ci:`
+<img src="img-buildkite-64/test-kitchen.png" width="20" height="20" alt="test-kitchen"/> | `:test-kitchen:`, `:kitchen-ci:`
 <img src="img-buildkite-64/gatsby.png" width="20" height="20" alt="gatsby"/> | `:gatsby:`
 <img src="img-buildkite-64/fluentd.png" width="20" height="20" alt="fluentd"/> | `:fluentd:`
 <img src="img-buildkite-64/cloudsmith.png" width="20" height="20" alt="cloudsmith"/> | `:cloudsmith:`
@@ -195,7 +195,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/haml.png" width="20" height="20" alt="haml"/> | `:haml:`, `:haml-lang:`
 <img src="img-buildkite-64/akamai.png" width="20" height="20" alt="akamai"/> | `:akamai:`
 <img src="img-buildkite-64/pagerduty.png" width="20" height="20" alt="pagerduty"/> | `:pagerduty:`
-<img src="img-buildkite-64/yarn.png" width="20" height="20" alt="yarn"/> | `:yarn:`
+<img src="img-buildkite-64/yarn.png" width="20" height="20" alt="yarn"/> | `:yarn:`, `:yarnpkg:`
 <img src="img-buildkite-64/looker.png" width="20" height="20" alt="looker"/> | `:looker:`
 <img src="img-buildkite-64/jest.png" width="20" height="20" alt="jest"/> | `:jest:`
 <img src="img-buildkite-64/fork.png" width="20" height="20" alt="fork"/> | `:fork:`
@@ -259,7 +259,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/centos.png" width="20" height="20" alt="centos"/> | `:centos:`
 <img src="img-buildkite-64/codecov.png" width="20" height="20" alt="codecov"/> | `:codecov:`
 <img src="img-buildkite-64/compute.png" width="20" height="20" alt="compute"/> | `:compute:`, `:gcompute:`
-<img src="img-buildkite-64/cucumber.png" width="20" height="20" alt="cucumber"/> | `:cucumber:`
+<img src="img-buildkite-64/cucumber.png" width="20" height="20" alt="cucumber"/> | `:cucumber:`, `:cucumber-io:`, `:cucumber-open:`, `:cucumber-studio:`
 <img src="img-buildkite-64/datadog.png" width="20" height="20" alt="datadog"/> | `:datadog:`
 <img src="img-buildkite-64/debian.png" width="20" height="20" alt="debian"/> | `:debian:`
 <img src="img-buildkite-64/docker.png" width="20" height="20" alt="docker"/> | `:docker:`
@@ -283,7 +283,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/karma.png" width="20" height="20" alt="karma"/> | `:karma:`
 <img src="img-buildkite-64/knapsack.png" width="20" height="20" alt="knapsack"/> | `:knapsack:`
 <img src="img-buildkite-64/linux.png" width="20" height="20" alt="linux"/> | `:linux:`
-<img src="img-buildkite-64/llama.png" width="20" height="20" alt="llama"/> | `:llama:`
+<img src="img-buildkite-64/llama.png" width="20" height="20" alt="llama"/> | `:llama:`, `:lox-llama:`
 <img src="img-buildkite-64/mac.png" width="20" height="20" alt="mac"/> | `:mac:`, `:darwin:`, `:macos:`
 <img src="img-buildkite-64/metal.png" width="20" height="20" alt="metal"/> | `:metal:`
 <img src="img-buildkite-64/mysql.png" width="20" height="20" alt="mysql"/> | `:mysql:`

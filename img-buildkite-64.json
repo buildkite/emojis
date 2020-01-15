@@ -1095,7 +1095,9 @@
     "name": "yarn",
     "image": "img-buildkite-64/yarn.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": [
+      "yarnpkg"
+    ]
   },
   {
     "name": "looker",
@@ -1487,7 +1489,11 @@
     "name": "cucumber",
     "image": "img-buildkite-64/cucumber.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": [
+      "cucumber-io",
+      "cucumber-open",
+      "cucumber-studio"
+    ]
   },
   {
     "name": "datadog",
@@ -1635,7 +1641,9 @@
     "name": "llama",
     "image": "img-buildkite-64/llama.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": [
+      "lox-llama"
+    ]
   },
   {
     "name": "mac",

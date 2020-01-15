@@ -486,6 +486,9 @@ crystal_ball
 csharp
 cucumber
 cucumber
+cucumber-io
+cucumber-open
+cucumber-studio
 cup_with_straw
 cupcake
 cupid
@@ -1298,6 +1301,7 @@ lower_left_ballpoint_pen
 lower_left_crayon
 lower_left_fountain_pen
 lower_left_paintbrush
+lox-llama
 luggage
 lying_face
 m
@@ -2246,6 +2250,7 @@ xcode_simulator
 yaml
 yarn
 yarn
+yarnpkg
 yawning_face
 yellow_heart
 yen
