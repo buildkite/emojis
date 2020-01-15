@@ -211,7 +211,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/scsslint.png" width="20" height="20" alt="scsslint"/> | `:scsslint:`
 <img src="img-buildkite-64/sasslang.png" width="20" height="20" alt="sasslang"/> | `:sasslang:`
 <img src="img-buildkite-64/sadpanda.png" width="20" height="20" alt="sadpanda"/> | `:sadpanda:`
-<img src="img-buildkite-64/partyparrot.gif" width="20" height="20" alt="partyparrot"/> | `:partyparrot:`, `:parrot:`
+<img src="img-buildkite-64/partyparrot.gif" width="20" height="20" alt="partyparrot"/> | `:partyparrot:`
 <img src="img-buildkite-64/apex.png" width="20" height="20" alt="apex"/> | `:apex:`
 <img src="img-buildkite-64/serverless.png" width="20" height="20" alt="serverless"/> | `:serverless:`
 <img src="img-buildkite-64/hockeyapp.png" width="20" height="20" alt="hockeyapp"/> | `:hockeyapp:`
