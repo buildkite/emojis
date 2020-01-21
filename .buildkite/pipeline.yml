@@ -3,4 +3,4 @@ steps:
     command: ".buildkite/deploy.sh"
     branches: "master"
     agents:
-      queue: "deploy"
+      queue: "deploy-production"
