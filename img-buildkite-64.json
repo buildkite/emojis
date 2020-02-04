@@ -1,5 +1,11 @@
 [
   {
+    "name": "auth0",
+    "image": "img-buildkite-64/auth0.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "lua",
     "image": "img-buildkite-64/lua.png",
     "category": "Buildkite",
