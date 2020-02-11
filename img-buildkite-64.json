@@ -1,5 +1,11 @@
 [
   {
+    "name": "puppeteer",
+    "image": "img-buildkite-64/puppeteer.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "auth0",
     "image": "img-buildkite-64/auth0.png",
     "category": "Buildkite",
