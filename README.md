@@ -232,7 +232,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/swift.png" width="20" height="20" alt="swift"/> | `:swift:`
 <img src="img-buildkite-64/graphql.png" width="20" height="20" alt="graphql"/> | `:graphql:`
 <img src="img-buildkite-64/cogops.png" width="20" height="20" alt="cogops"/> | `:cogops:`
-<img src="img-buildkite-64/aws.png" width="20" height="20" alt="aws"/> | `:aws:, :amazon-aws:`
+<img src="img-buildkite-64/aws.png" width="20" height="20" alt="aws"/> | `:aws:`, `:amazon-aws:`
 <img src="img-buildkite-64/mocha.png" width="20" height="20" alt="mocha"/> | `:mocha:`
 <img src="img-buildkite-64/rails.png" width="20" height="20" alt="rails"/> | `:rails:`
 <img src="img-buildkite-64/phoenix.png" width="20" height="20" alt="phoenix"/> | `:phoenix:`
