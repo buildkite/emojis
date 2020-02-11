@@ -1,5 +1,11 @@
 [
   {
+    "name": "podman",
+    "image": "img-buildkite-64/podman.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "puppeteer",
     "image": "img-buildkite-64/puppeteer.png",
     "category": "Buildkite",
