@@ -27,6 +27,7 @@ alien
 allthethings
 amazon-apigateway
 amazon-athena
+amazon-aws
 amazon-chime
 amazon-clouddirectory
 amazon-cloudsearch

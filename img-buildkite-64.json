@@ -1319,7 +1319,9 @@
     "name": "aws",
     "image": "img-buildkite-64/aws.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": [
+      "amazon-aws"
+    ]
   },
   {
     "name": "mocha",
