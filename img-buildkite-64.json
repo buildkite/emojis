@@ -1,5 +1,11 @@
 [
   {
+    "name": "serverspec",
+    "image": "img-buildkite-64/serverspec.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "travisci",
     "image": "img-buildkite-64/travisci.png",
     "category": "Buildkite",
