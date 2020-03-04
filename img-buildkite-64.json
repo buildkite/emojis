@@ -1,5 +1,11 @@
 [
   {
+    "name": "thisisfine",
+    "image": "img-buildkite-64/thisisfine.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "perfection",
     "image": "img-buildkite-64/perfection.png",
     "category": "Buildkite",
