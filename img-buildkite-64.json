@@ -1,5 +1,11 @@
 [
   {
+    "name": "one-does-not-simply",
+    "image": "img-buildkite-64/one-does-not-simply.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "thisisfine",
     "image": "img-buildkite-64/thisisfine.png",
     "category": "Buildkite",
