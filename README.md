@@ -27,6 +27,9 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/travisci.png" width="20" height="20" alt="travisci"/> | `:travisci:`
+<img src="img-buildkite-64/podman.png" width="20" height="20" alt="podman"/> | `:podman:`
+<img src="img-buildkite-64/puppeteer.png" width="20" height="20" alt="puppeteer"/> | `:puppeteer:`
 <img src="img-buildkite-64/auth0.png" width="20" height="20" alt="auth0"/> | `:auth0:`
 <img src="img-buildkite-64/lua.png" width="20" height="20" alt="lua"/> | `:lua:`
 <img src="img-buildkite-64/walrusai.png" width="20" height="20" alt="walrusai"/> | `:walrusai:`
@@ -230,7 +233,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/swift.png" width="20" height="20" alt="swift"/> | `:swift:`
 <img src="img-buildkite-64/graphql.png" width="20" height="20" alt="graphql"/> | `:graphql:`
 <img src="img-buildkite-64/cogops.png" width="20" height="20" alt="cogops"/> | `:cogops:`
-<img src="img-buildkite-64/aws.png" width="20" height="20" alt="aws"/> | `:aws:`
+<img src="img-buildkite-64/aws.png" width="20" height="20" alt="aws"/> | `:aws:`, `:amazon-aws:`
 <img src="img-buildkite-64/mocha.png" width="20" height="20" alt="mocha"/> | `:mocha:`
 <img src="img-buildkite-64/rails.png" width="20" height="20" alt="rails"/> | `:rails:`
 <img src="img-buildkite-64/phoenix.png" width="20" height="20" alt="phoenix"/> | `:phoenix:`

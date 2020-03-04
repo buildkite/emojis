@@ -1,5 +1,23 @@
 [
   {
+    "name": "travisci",
+    "image": "img-buildkite-64/travisci.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "podman",
+    "image": "img-buildkite-64/podman.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "puppeteer",
+    "image": "img-buildkite-64/puppeteer.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "auth0",
     "image": "img-buildkite-64/auth0.png",
     "category": "Buildkite",
@@ -1307,7 +1325,9 @@
     "name": "aws",
     "image": "img-buildkite-64/aws.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": [
+      "amazon-aws"
+    ]
   },
   {
     "name": "mocha",
