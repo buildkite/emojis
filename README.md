@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/firebase.png" width="20" height="20" alt="firebase"/> | `:firebase:`
 <img src="img-buildkite-64/travisci.png" width="20" height="20" alt="travisci"/> | `:travisci:`
 <img src="img-buildkite-64/podman.png" width="20" height="20" alt="podman"/> | `:podman:`
 <img src="img-buildkite-64/puppeteer.png" width="20" height="20" alt="puppeteer"/> | `:puppeteer:`
