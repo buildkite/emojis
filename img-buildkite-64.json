@@ -1546,6 +1546,18 @@
     "aliases": []
   },
   {
+    "name": "container",
+    "image": "img-buildkite-64/container.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "containers",
+    "image": "img-buildkite-64/containers.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "eslint",
     "image": "img-buildkite-64/eslint.png",
     "category": "Buildkite",
