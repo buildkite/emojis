@@ -6,6 +6,36 @@
     "aliases": []
   },
   {
+    "name": "one-does-not-simply",
+    "image": "img-buildkite-64/one-does-not-simply.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "thisisfine",
+    "image": "img-buildkite-64/thisisfine.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "perfection",
+    "image": "img-buildkite-64/perfection.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "sweating",
+    "image": "img-buildkite-64/sweating.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "serverspec",
+    "image": "img-buildkite-64/serverspec.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "travisci",
     "image": "img-buildkite-64/travisci.png",
     "category": "Buildkite",
