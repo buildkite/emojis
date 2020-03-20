@@ -1,5 +1,11 @@
 [
   {
+    "name": "firebase",
+    "image": "img-buildkite-64/firebase.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "one-does-not-simply",
     "image": "img-buildkite-64/one-does-not-simply.png",
     "category": "Buildkite",
