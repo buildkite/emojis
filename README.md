@@ -319,6 +319,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/rubygems.png" width="20" height="20" alt="rubygems"/> | `:rubygems:`
 <img src="img-buildkite-64/scientific_linux.png" width="20" height="20" alt="scientific_linux"/> | `:scientific_linux:`
 <img src="img-buildkite-64/shipit.png" width="20" height="20" alt="shipit"/> | `:shipit:`
+<img src="img-buildkite-64/prometheus.png" width="20" height="20" alt="prometheus"/ > | `:prometheus:`
 <img src="img-buildkite-64/suspect.png" width="20" height="20" alt="suspect"/> | `:suspect:`
 <img src="img-buildkite-64/terminal.png" width="20" height="20" alt="terminal"/> | `:terminal:`, `:console:`
 <img src="img-buildkite-64/trollface.png" width="20" height="20" alt="trollface"/> | `:trollface:`, `:troll:`
