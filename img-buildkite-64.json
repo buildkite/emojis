@@ -2507,7 +2507,7 @@
     "aliases": []
   },
   {
-    "name": "promethe",
+    "name": "prometheus",
     "image": "img-buildkite-64/prometheus.png",
     "category": "Buildkite",
     "aliases": []
