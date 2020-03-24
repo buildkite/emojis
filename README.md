@@ -384,6 +384,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/aws-batch.png" width="20" height="20" alt="aws-batch"/> | `:aws-batch:`
 <img src="img-buildkite-64/aws-certificatemanager.png" width="20" height="20" alt="aws-certificatemanager"/> | `:aws-certificatemanager:`
 <img src="img-buildkite-64/aws-cli.png" width="20" height="20" alt="aws-cli"/> | `:aws-cli:`
+<img src="img-buildkite-64/prometheus.png" width="20" height="20" alt="aws-cli"/> | `:prometheus:`
 <img src="img-buildkite-64/aws-cloudformation.png" width="20" height="20" alt="aws-cloudformation"/> | `:aws-cloudformation:`, `:cloudformation:`
 <img src="img-buildkite-64/aws-cloudhsm.png" width="20" height="20" alt="aws-cloudhsm"/> | `:aws-cloudhsm:`
 <img src="img-buildkite-64/aws-cloudtrail.png" width="20" height="20" alt="aws-cloudtrail"/> | `:aws-cloudtrail:`
