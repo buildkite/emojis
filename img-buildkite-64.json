@@ -1,5 +1,11 @@
 [
   {
+    "name": "google-apps-script",
+    "image": "img-buildkite-64/google-apps-script.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "firebase",
     "image": "img-buildkite-64/firebase.png",
     "category": "Buildkite",
