@@ -2541,5 +2541,11 @@
     "image": "img-buildkite-64/batman.png",
     "category": "Buildkite",
     "aliases": []
+  },
+  {
+    "name": "prometheus",
+    "image": "img-buildkite-64/prometheus.png",
+    "category": "Buildkite",
+    "aliases": []
   }
 ]
