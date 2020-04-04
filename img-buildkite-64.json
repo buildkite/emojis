@@ -1,5 +1,11 @@
 [
   {
+    "name": "rstats",
+    "image": "img-buildkite-64/rstats.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "google-apps-script",
     "image": "img-buildkite-64/google-apps-script.png",
     "category": "Buildkite",
