@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/rstats.png" width="20" height="20" alt="rstats"/> | `:rstats:`
 <img src="img-buildkite-64/google-apps-script.png" width="20" height="20" alt="google-apps-script"/> | `:google-apps-script:`
 <img src="img-buildkite-64/firebase.png" width="20" height="20" alt="firebase"/> | `:firebase:`
 <img src="img-buildkite-64/one-does-not-simply.png" width="20" height="20" alt="one-does-not-simply"/> | `:one-does-not-simply:`
