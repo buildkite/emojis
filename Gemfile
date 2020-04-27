@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 
-gem 'emoji_regex', '~> 2.0.0'
+gem 'emoji_regex', '~> 3.0.0'
