@@ -1,5 +1,11 @@
 [
   {
+    "name": "neo4j",
+    "image": "img-buildkite-64/neo4j.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "rstats",
     "image": "img-buildkite-64/rstats.png",
     "category": "Buildkite",
