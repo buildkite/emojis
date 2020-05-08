@@ -1,5 +1,11 @@
 [
   {
+    "name": "pact",
+    "image": "img-buildkite-64/pact.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "rstats",
     "image": "img-buildkite-64/rstats.png",
     "category": "Buildkite",
