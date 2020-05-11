@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/neo4j.png" width="20" height="20" alt="neo4j"/> | `:neo4j:`
 <img src="img-buildkite-64/pact.png" width="20" height="20" alt="pact"/> | `:pact:`
 <img src="img-buildkite-64/rstats.png" width="20" height="20" alt="rstats"/> | `:rstats:`
 <img src="img-buildkite-64/google-apps-script.png" width="20" height="20" alt="google-apps-script"/> | `:google-apps-script:`
