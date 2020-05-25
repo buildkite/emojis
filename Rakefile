@@ -53,7 +53,8 @@ task :default do
   end
 
   order = ["Buildkite",
-           "Smileys & People",
+           "Smileys & Emotion",
+           "People & Body",
            "Animals & Nature",
            "Food & Drink",
            "Activities",
@@ -89,7 +90,9 @@ task :verify do
   ignored_duplicates = [
     'cucumber',
     'family',
-    'man-woman-boy'
+    'llama',
+    'man-woman-boy',
+    'yarn'
   ]
 
   emoji_names = []
