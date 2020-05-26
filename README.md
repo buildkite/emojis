@@ -27,6 +27,11 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/wordpress.png" width="20" height="20" alt="wordpress"/> | `:wordpress:`
+<img src="img-buildkite-64/pfsense.png" width="20" height="20" alt="pfsense"/> | `:pfsense:`
+<img src="img-buildkite-64/traefik.png" width="20" height="20" alt="traefik"/> | `:traefik:`
+<img src="img-buildkite-64/meteor.png" width="20" height="20" alt="meteor"/> | `:meteor:`
+<img src="img-buildkite-64/moodle.png" width="20" height="20" alt="moodle"/> | `:moodle:`
 <img src="img-buildkite-64/neo4j.png" width="20" height="20" alt="neo4j"/> | `:neo4j:`
 <img src="img-buildkite-64/pact.png" width="20" height="20" alt="pact"/> | `:pact:`
 <img src="img-buildkite-64/rstats.png" width="20" height="20" alt="rstats"/> | `:rstats:`

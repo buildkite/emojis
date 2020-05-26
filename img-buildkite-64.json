@@ -1,5 +1,35 @@
 [
   {
+    "name": "wordpress",
+    "image": "img-buildkite-64/wordpress.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "pfsense",
+    "image": "img-buildkite-64/pfsense.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "traefik",
+    "image": "img-buildkite-64/traefik.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "meteor",
+    "image": "img-buildkite-64/meteor.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "moodle",
+    "image": "img-buildkite-64/moodle.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "neo4j",
     "image": "img-buildkite-64/neo4j.png",
     "category": "Buildkite",
