@@ -1,5 +1,11 @@
 [
   {
+    "name": "boomi",
+    "image": "img-buildkite-64/boomi.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "wordpress",
     "image": "img-buildkite-64/wordpress.png",
     "category": "Buildkite",
