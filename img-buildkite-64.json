@@ -1,5 +1,13 @@
 [
   {
+    "name": "gary",
+    "image": "img-buildkite-64/gary.png",
+    "category": "Buildkite",
+    "aliases": [
+      "gary"
+    ]
+  },
+  {
     "name": "algolia",
     "image": "img-buildkite-64/algolia.png",
     "category": "Buildkite",

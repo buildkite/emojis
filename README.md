@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/gary.png" width="20" height="20" alt="algolia"/> | `:gary:`
 <img src="img-buildkite-64/algolia.png" width="20" height="20" alt="algolia"/> | `:algolia:`
 <img src="img-buildkite-64/subversion.png" width="20" height="20" alt="subversion"/> | `:subversion:`, `:svn:`
 <img src="img-buildkite-64/batfish.png" width="20" height="20" alt="batfish"/> | `:batfish:`
