@@ -1,13 +1,13 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    emoji_regex (0.1.0)
+    emoji_regex (3.0.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  emoji_regex (~> 0.1.0)
+  emoji_regex (~> 3.0.0)
 
 BUNDLED WITH
-   1.15.1
+   1.17.2

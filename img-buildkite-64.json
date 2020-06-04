@@ -8,12 +8,244 @@
     ]
   },
   {
+    "name": "wordpress",
+    "image": "img-buildkite-64/wordpress.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "pfsense",
+    "image": "img-buildkite-64/pfsense.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "traefik",
+    "image": "img-buildkite-64/traefik.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "meteor",
+    "image": "img-buildkite-64/meteor.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "moodle",
+    "image": "img-buildkite-64/moodle.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "neo4j",
+    "image": "img-buildkite-64/neo4j.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "pact",
+    "image": "img-buildkite-64/pact.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "rstats",
+    "image": "img-buildkite-64/rstats.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "google-apps-script",
+    "image": "img-buildkite-64/google-apps-script.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "firebase",
+    "image": "img-buildkite-64/firebase.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "one-does-not-simply",
+    "image": "img-buildkite-64/one-does-not-simply.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "thisisfine",
+    "image": "img-buildkite-64/thisisfine.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "perfection",
+    "image": "img-buildkite-64/perfection.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "sweating",
+    "image": "img-buildkite-64/sweating.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "serverspec",
+    "image": "img-buildkite-64/serverspec.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "travisci",
+    "image": "img-buildkite-64/travisci.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "podman",
+    "image": "img-buildkite-64/podman.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "puppeteer",
+    "image": "img-buildkite-64/puppeteer.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "auth0",
+    "image": "img-buildkite-64/auth0.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "lua",
+    "image": "img-buildkite-64/lua.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "walrusai",
+    "image": "img-buildkite-64/walrusai.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "openpolicyagent",
+    "image": "img-buildkite-64/openpolicyagent.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+   "name": "snowflake-db",
+   "image": "img-buildkite-64/snowflake-db.png",
+   "category": "Buildkite",
+   "aliases": [
+     "snowsql"
+   ]
+  },
+  {
+    "name": "dbt",
+    "image": "img-buildkite-64/dbt.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "shrek",
+    "image": "img-buildkite-64/shrek.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "airbnb_stork",
+    "image": "img-buildkite-64/airbnb_stork.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "circleci",
+    "image": "img-buildkite-64/circleci.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "csharp",
+    "image": "img-buildkite-64/csharp.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "dotnet",
+    "image": "img-buildkite-64/dotnet.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "fsharp",
+    "image": "img-buildkite-64/fsharp.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "nomad",
+    "image": "img-buildkite-64/nomad.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "vagrant",
+    "image": "img-buildkite-64/vagrant.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "karate",
+    "image": "img-buildkite-64/karate.png",
+    "category": "Buildkite",
+    "aliases": [
+      "karate-api"
+    ]
+  },
+  {
+    "name": "codeception",
+    "image": "img-buildkite-64/codeception.png",
+    "category": "Buildkite",
+    "aliases": [
+      "codecept"
+    ]
+  },
+  {
+    "name": "phpstan",
+    "image": "img-buildkite-64/phpstan.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "django",
+    "image": "img-buildkite-64/django.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "vue",
+    "image": "img-buildkite-64/vue.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "jupyter",
+    "image": "img-buildkite-64/jupyter.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "algolia",
     "image": "img-buildkite-64/algolia.png",
     "category": "Buildkite",
-    "aliases": [
-      "algolia"
-    ]
+    "aliases": []
   },
   {
     "name": "subversion",
@@ -316,7 +548,7 @@
   },
   {
     "name": "test-kitchen",
-    "image": "img-buildkite-64/testkitchen.png",
+    "image": "img-buildkite-64/test-kitchen.png",
     "category": "Buildkite",
     "aliases": [
       "kitchen-ci"
@@ -991,7 +1223,9 @@
     "name": "yarn",
     "image": "img-buildkite-64/yarn.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": [
+      "yarnpkg"
+    ]
   },
   {
     "name": "looker",
@@ -1099,9 +1333,7 @@
     "name": "partyparrot",
     "image": "img-buildkite-64/partyparrot.gif",
     "category": "Buildkite",
-    "aliases": [
-      "parrot"
-    ]
+    "aliases": []
   },
   {
     "name": "apex",
@@ -1191,7 +1423,9 @@
     "name": "aws",
     "image": "img-buildkite-64/aws.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": [
+      "amazon-aws"
+    ]
   },
   {
     "name": "mocha",
@@ -1385,7 +1619,11 @@
     "name": "cucumber",
     "image": "img-buildkite-64/cucumber.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": [
+      "cucumber-io",
+      "cucumber-open",
+      "cucumber-studio"
+    ]
   },
   {
     "name": "datadog",
@@ -1533,14 +1771,17 @@
     "name": "llama",
     "image": "img-buildkite-64/llama.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": [
+      "lox-llama"
+    ]
   },
   {
     "name": "mac",
     "image": "img-buildkite-64/mac.png",
     "category": "Buildkite",
     "aliases": [
-      "darwin"
+      "darwin",
+      "macos"
     ]
   },
   {
@@ -2360,6 +2601,12 @@
   {
     "name": "batman",
     "image": "img-buildkite-64/batman.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "prometheus",
+    "image": "img-buildkite-64/prometheus.png",
     "category": "Buildkite",
     "aliases": []
   }
