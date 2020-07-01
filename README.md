@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/alpine.png" width="20" height="20" alt="alpine"/> | `:alpine:`
 <img src="img-buildkite-64/wordpress.png" width="20" height="20" alt="wordpress"/> | `:wordpress:`
 <img src="img-buildkite-64/pfsense.png" width="20" height="20" alt="pfsense"/> | `:pfsense:`
 <img src="img-buildkite-64/traefik.png" width="20" height="20" alt="traefik"/> | `:traefik:`

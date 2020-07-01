@@ -1,5 +1,11 @@
 [
   {
+    "name": "alpine",
+    "image": "img-buildkite-64/alpine.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "wordpress",
     "image": "img-buildkite-64/wordpress.png",
     "category": "Buildkite",
