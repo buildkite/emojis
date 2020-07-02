@@ -6,6 +6,24 @@
     "aliases": []
   },
   {
+    "name": "gitsby",
+    "image": "img-buildkite-64/gitsby.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "postmark",
+    "image": "img-buildkite-64/postmark.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "twilio",
+    "image": "img-buildkite-64/twilio.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "wordpress",
     "image": "img-buildkite-64/wordpress.png",
     "category": "Buildkite",
