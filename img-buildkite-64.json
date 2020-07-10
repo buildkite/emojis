@@ -1,5 +1,11 @@
 [
   {
+    "name": "assurance",
+    "image": "img-buildkite-64/assurance64.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "alpine",
     "image": "img-buildkite-64/alpine.png",
     "category": "Buildkite",
