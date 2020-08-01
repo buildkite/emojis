@@ -1,5 +1,14 @@
 [
   {
+    "name": "bitpaket",
+    "image": "img-buildkite-64/bitpaket.png",
+    "category": "Buildkite",
+    "aliases": [
+	  "bws",
+	  "paket"
+	]
+  },
+  {
     "name": "alpine",
     "image": "img-buildkite-64/alpine.png",
     "category": "Buildkite",
