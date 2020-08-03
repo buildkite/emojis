@@ -3,10 +3,13 @@
     "name": "bitpaket",
     "image": "img-buildkite-64/bitpaket.png",
     "category": "Buildkite",
-    "aliases": [
-	  "bws",
-	  "paket"
-	]
+    "aliases": []
+  },
+  {
+    "name": "julia",
+    "image": "img-buildkite-64/julia.png",
+    "category": "Buildkite",
+    "aliases": []
   },
   {
     "name": "alpine",
