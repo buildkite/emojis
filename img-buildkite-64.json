@@ -2643,5 +2643,11 @@
     "image": "img-buildkite-64/prometheus.png",
     "category": "Buildkite",
     "aliases": []
+  },
+  {
+    "name": "hubspot",
+    "image": "img-buildkite-64/hubspot.png",
+    "category": "Buildkite",
+    "aliases": []
   }
 ]
