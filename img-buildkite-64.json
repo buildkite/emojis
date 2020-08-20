@@ -1,5 +1,11 @@
 [
   {
+    "name": "sonarcloud",
+    "image": "img-buildkite-64/sonarcloud.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "zapier",
     "image": "img-buildkite-64/zapier.png",
     "category": "Buildkite",
