@@ -1,4 +1,10 @@
 [
+ {
+    "name": "assurance",
+    "image": "img-buildkite-64/assurance64.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
   {
     "name": "zapier",
     "image": "img-buildkite-64/zapier.png",
