@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/crystal.png" width="20" height="20" alt="crystal"/> | `:crystal:`
 <img src="img-buildkite-64/sonarcloud.png" width="20" height="20" alt="sonarcloud"/> | `:sonarcloud:`
 <img src="img-buildkite-64/assurance64.png" width="20" height="20" alt="assurance"/> | `:assurance:`
 <img src="img-buildkite-64/hubspot.png" width="20" height="20" alt="hubspot"/> | `:hubspot:`
