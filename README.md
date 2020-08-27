@@ -28,6 +28,18 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 Emoji | Aliases
 ----- | -------
 <img src="img-buildkite-64/boomi.png" width="20" height="20" alt="boomi"/> | `:boomi:`
+<img src="img-buildkite-64/vault.png" width="20" height="20" alt="vault"/> | `:vault:`
+<img src="img-buildkite-64/crystal.png" width="20" height="20" alt="crystal"/> | `:crystal:`
+<img src="img-buildkite-64/sonarcloud.png" width="20" height="20" alt="sonarcloud"/> | `:sonarcloud:`
+<img src="img-buildkite-64/assurance64.png" width="20" height="20" alt="assurance"/> | `:assurance:`
+<img src="img-buildkite-64/hubspot.png" width="20" height="20" alt="hubspot"/> | `:hubspot:`
+<img src="img-buildkite-64/zapier.png" width="20" height="20" alt="zapier"/> | `:zapier:`
+<img src="img-buildkite-64/julia.png" width="20" height="20" alt="julia"/> | `:julia:`
+<img src="img-buildkite-64/alpine.png" width="20" height="20" alt="alpine"/> | `:alpine:`
+<img src="img-buildkite-64/azure.png" width="20" height="20" alt="azure"/> | `:azure:`
+<img src="img-buildkite-64/gitsby.png" width="20" height="20" alt="gitsby"/> | `:gitsby:`
+<img src="img-buildkite-64/postmark.png" width="20" height="20" alt="postmark"/> | `:postmark:`
+<img src="img-buildkite-64/twilio.png" width="20" height="20" alt="twilio"/> | `:twilio:`
 <img src="img-buildkite-64/wordpress.png" width="20" height="20" alt="wordpress"/> | `:wordpress:`
 <img src="img-buildkite-64/pfsense.png" width="20" height="20" alt="pfsense"/> | `:pfsense:`
 <img src="img-buildkite-64/traefik.png" width="20" height="20" alt="traefik"/> | `:traefik:`
