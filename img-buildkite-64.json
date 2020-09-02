@@ -1,4 +1,34 @@
 [
+ {
+    "name": "vault",
+    "image": "img-buildkite-64/vault.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+ {
+    "name": "assurance",
+    "image": "img-buildkite-64/assurance64.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "sonarcloud",
+    "image": "img-buildkite-64/sonarcloud.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "crystal",
+    "image": "img-buildkite-64/crystal.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "zapier",
+    "image": "img-buildkite-64/zapier.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
   {
     "name": "bitpaket",
     "image": "img-buildkite-64/bitpaket.png",
@@ -38,6 +68,12 @@
   {
     "name": "twilio",
     "image": "img-buildkite-64/twilio.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "boomi",
+    "image": "img-buildkite-64/boomi.png",
     "category": "Buildkite",
     "aliases": []
   },
@@ -2641,6 +2677,12 @@
   {
     "name": "prometheus",
     "image": "img-buildkite-64/prometheus.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "hubspot",
+    "image": "img-buildkite-64/hubspot.png",
     "category": "Buildkite",
     "aliases": []
   }
