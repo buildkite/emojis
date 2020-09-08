@@ -1,4 +1,10 @@
 [
+  {
+    "name": "nancy",
+    "image": "img-buildkite-64/nancy.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
  {
     "name": "vault",
     "image": "img-buildkite-64/vault.png",
