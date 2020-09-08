@@ -1,11 +1,17 @@
 [
- {
+  {
+    "name": "golangci-lint",
+    "image": "img-buildkite-64/golangci-lint.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "vault",
     "image": "img-buildkite-64/vault.png",
     "category": "Buildkite",
     "aliases": []
   },
- {
+  {
     "name": "assurance",
     "image": "img-buildkite-64/assurance64.png",
     "category": "Buildkite",
