@@ -1,5 +1,13 @@
 [
   {
+    "name": "home-assistant",
+    "image": "img-buildkite-64/home-assistant.png",
+    "category": "Buildkite",
+    "aliases": [
+      "hass"
+    ]
+  },
+  {
     "name": "nexus-iq",
     "image": "img-buildkite-64/nexus-iq.png",
     "category": "Buildkite",
