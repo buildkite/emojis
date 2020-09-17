@@ -1,5 +1,11 @@
 [
- {
+  {
+    "name": "auditjs",
+    "image": "img-buildkite-64/auditjs.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "vault",
     "image": "img-buildkite-64/vault.png",
     "category": "Buildkite",
