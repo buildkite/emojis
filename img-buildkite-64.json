@@ -6,6 +6,12 @@
     "aliases": []
   },
  {
+    "name": "nexus-iq",
+    "image": "img-buildkite-64/nexus-iq.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "vault",
     "image": "img-buildkite-64/vault.png",
     "category": "Buildkite",
