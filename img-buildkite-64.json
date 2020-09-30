@@ -1,5 +1,11 @@
 [
   {
+    "name": "semgrep",
+    "image": "img-buildkite-64/semgrep.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "nexus-iq",
     "image": "img-buildkite-64/nexus-iq.png",
     "category": "Buildkite",
