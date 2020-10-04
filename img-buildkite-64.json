@@ -1708,6 +1708,14 @@
     "aliases": []
   },
   {
+    "name": "datocms",
+    "image": "img-buildkite-64/datocms.png",
+    "category": "Buildkite",
+    "aliases": [
+      "dato"
+    ]
+  },
+  {
     "name": "debian",
     "image": "img-buildkite-64/debian.png",
     "category": "Buildkite",
