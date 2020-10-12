@@ -1,10 +1,16 @@
 [
-  {
+ {
+    "name": "auditjs",
+    "image": "img-buildkite-64/auditjs.png",
+    "category": "Buildkite",
+    "aliases": []
+ },
+ { 
     "name": "nancy",
     "image": "img-buildkite-64/nancy.png",
     "category": "Buildkite",
     "aliases": []
-  },
+ },
  {
     "name": "golangci-lint",
     "image": "img-buildkite-64/golangci-lint.png",
