@@ -1,4 +1,22 @@
 [
+ {
+    "name": "auditjs",
+    "image": "img-buildkite-64/auditjs.png",
+    "category": "Buildkite",
+    "aliases": []
+ },
+ { 
+    "name": "nancy",
+    "image": "img-buildkite-64/nancy.png",
+    "category": "Buildkite",
+    "aliases": []
+ },
+ {
+    "name": "golangci-lint",
+    "image": "img-buildkite-64/golangci-lint.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
   {
     "name": "semgrep",
     "image": "img-buildkite-64/semgrep.png",
@@ -17,7 +35,7 @@
     "category": "Buildkite",
     "aliases": []
   },
- {
+  {
     "name": "assurance",
     "image": "img-buildkite-64/assurance64.png",
     "category": "Buildkite",
@@ -1712,6 +1730,14 @@
     "image": "img-buildkite-64/datadog.png",
     "category": "Buildkite",
     "aliases": []
+  },
+  {
+    "name": "datocms",
+    "image": "img-buildkite-64/datocms.png",
+    "category": "Buildkite",
+    "aliases": [
+      "dato"
+    ]
   },
   {
     "name": "debian",
