@@ -1,5 +1,11 @@
 [
   {
+    "name": "nancy",
+    "image": "img-buildkite-64/nancy.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+ {
     "name": "golangci-lint",
     "image": "img-buildkite-64/golangci-lint.png",
     "category": "Buildkite",
