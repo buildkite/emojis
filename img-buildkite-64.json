@@ -6,6 +6,12 @@
     "aliases": []
   },
  {
+    "name": "golangci-lint",
+    "image": "img-buildkite-64/golangci-lint.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "nexus-iq",
     "image": "img-buildkite-64/nexus-iq.png",
     "category": "Buildkite",
@@ -17,7 +23,7 @@
     "category": "Buildkite",
     "aliases": []
   },
- {
+  {
     "name": "assurance",
     "image": "img-buildkite-64/assurance64.png",
     "category": "Buildkite",
@@ -1712,6 +1718,14 @@
     "image": "img-buildkite-64/datadog.png",
     "category": "Buildkite",
     "aliases": []
+  },
+  {
+    "name": "datocms",
+    "image": "img-buildkite-64/datocms.png",
+    "category": "Buildkite",
+    "aliases": [
+      "dato"
+    ]
   },
   {
     "name": "debian",

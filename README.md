@@ -28,6 +28,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 Emoji | Aliases
 ----- | -------
 <img src="img-buildkite-64/nancy.png" width="20" height="20" alt="nancy"/> | `:nancy:`
+<img src="img-buildkite-64/golangci-lint.png" width="20" height="20" alt="golangci-lint"/> | `:golangci-lint:`
 <img src="img-buildkite-64/nexus-iq.png" width="20" height="20" alt="nexus-iq"/> | `:nexus-iq:`
 <img src="img-buildkite-64/isort.png" width="20" height="20" alt="isort"/> | `:isort:`
 <img src="img-buildkite-64/boomi.png" width="20" height="20" alt="boomi"/> | `:boomi:`
@@ -297,6 +298,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/compute.png" width="20" height="20" alt="compute"/> | `:compute:`, `:gcompute:`
 <img src="img-buildkite-64/cucumber.png" width="20" height="20" alt="cucumber"/> | `:cucumber:`, `:cucumber-io:`, `:cucumber-open:`, `:cucumber-studio:`
 <img src="img-buildkite-64/datadog.png" width="20" height="20" alt="datadog"/> | `:datadog:`
+<img src="img-buildkite-64/datocms.png" width="20" height="20" alt="datocms"/> | `:datocms:`, `:dato:`
 <img src="img-buildkite-64/debian.png" width="20" height="20" alt="debian"/> | `:debian:`
 <img src="img-buildkite-64/docker.png" width="20" height="20" alt="docker"/> | `:docker:`
 <img src="img-buildkite-64/eslint.png" width="20" height="20" alt="eslint"/> | `:eslint:`
