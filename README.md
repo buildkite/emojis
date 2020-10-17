@@ -295,6 +295,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/compute.png" width="20" height="20" alt="compute"/> | `:compute:`, `:gcompute:`
 <img src="img-buildkite-64/cucumber.png" width="20" height="20" alt="cucumber"/> | `:cucumber:`, `:cucumber-io:`, `:cucumber-open:`, `:cucumber-studio:`
 <img src="img-buildkite-64/datadog.png" width="20" height="20" alt="datadog"/> | `:datadog:`
+<img src="img-buildkite-64/datocms.png" width="20" height="20" alt="datocms"/> | `:datocms:`, `:dato:`
 <img src="img-buildkite-64/debian.png" width="20" height="20" alt="debian"/> | `:debian:`
 <img src="img-buildkite-64/docker.png" width="20" height="20" alt="docker"/> | `:docker:`
 <img src="img-buildkite-64/eslint.png" width="20" height="20" alt="eslint"/> | `:eslint:`

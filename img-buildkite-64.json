@@ -1,11 +1,55 @@
 [
  {
+    "name": "clearbit",
+    "image": "img-buildkite-64/clearbit.png",
+    "category": "Buildkite",
+    "aliases": []
+ },
+ {
+    "name": "auditjs",
+    "image": "img-buildkite-64/auditjs.png",
+    "category": "Buildkite",
+    "aliases": []
+ },
+ {
+    "name": "nancy",
+    "image": "img-buildkite-64/nancy.png",
+    "category": "Buildkite",
+    "aliases": []
+ },
+ {
+    "name": "golangci-lint",
+    "image": "img-buildkite-64/golangci-lint.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "semgrep",
+    "image": "img-buildkite-64/semgrep.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "home-assistant",
+    "image": "img-buildkite-64/home-assistant.png",
+    "category": "Buildkite",
+    "aliases": [
+      "hass"
+    ]
+  },
+  {
+    "name": "nexus-iq",
+    "image": "img-buildkite-64/nexus-iq.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "vault",
     "image": "img-buildkite-64/vault.png",
     "category": "Buildkite",
     "aliases": []
   },
- {
+  {
     "name": "assurance",
     "image": "img-buildkite-64/assurance64.png",
     "category": "Buildkite",
@@ -38,6 +82,12 @@
   {
     "name": "julia",
     "image": "img-buildkite-64/julia.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "isort",
+    "image": "img-buildkite-64/isort.png",
     "category": "Buildkite",
     "aliases": []
   },
@@ -1700,6 +1750,14 @@
     "image": "img-buildkite-64/datadog.png",
     "category": "Buildkite",
     "aliases": []
+  },
+  {
+    "name": "datocms",
+    "image": "img-buildkite-64/datocms.png",
+    "category": "Buildkite",
+    "aliases": [
+      "dato"
+    ]
   },
   {
     "name": "debian",
