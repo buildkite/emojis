@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/github.png" width="20" height="20" alt="github"/> | `:clearbit:`
 <img src="img-buildkite-64/clearbit.png" width="20" height="20" alt="clearbit"/> | `:clearbit:`
 <img src="img-buildkite-64/home-assistant.png" width="20" height="20" alt="home-assistant"/> | `:home-assistant:`, `:hass:`
 <img src="img-buildkite-64/semgrep.png" width="20" height="20" alt="semgrep"/> | `:semgrep:`
@@ -334,7 +335,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/nginx.png" width="20" height="20" alt="nginx"/> | `:nginx:`
 <img src="img-buildkite-64/node.png" width="20" height="20" alt="node"/> | `:node:`, `:node_js:`, `:nodejs:`
 <img src="img-buildkite-64/npm.png" width="20" height="20" alt="npm"/> | `:npm:`
-<img src="img-buildkite-64/octocat.png" width="20" height="20" alt="octocat"/> | `:octocat:`, `:github:`
+<img src="img-buildkite-64/octocat.png" width="20" height="20" alt="octocat"/> | `:octocat:`
 <img src="img-buildkite-64/oracle_linux.png" width="20" height="20" alt="oracle_linux"/> | `:oracle_linux:`
 <img src="img-buildkite-64/packagecloud.png" width="20" height="20" alt="packagecloud"/> | `:packagecloud:`, `:package_cloud:`
 <img src="img-buildkite-64/php.png" width="20" height="20" alt="php"/> | `:php:`
