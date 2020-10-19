@@ -27,7 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
-<img src="img-buildkite-64/github.png" width="20" height="20" alt="github"/> | `:clearbit:`
+<img src="img-buildkite-64/github.png" width="20" height="20" alt="github"/> | `:github:`
 <img src="img-buildkite-64/clearbit.png" width="20" height="20" alt="clearbit"/> | `:clearbit:`
 <img src="img-buildkite-64/home-assistant.png" width="20" height="20" alt="home-assistant"/> | `:home-assistant:`, `:hass:`
 <img src="img-buildkite-64/semgrep.png" width="20" height="20" alt="semgrep"/> | `:semgrep:`
