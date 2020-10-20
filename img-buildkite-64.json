@@ -1,5 +1,11 @@
 [
  {
+   "name": "github",
+   "image": "img-buildkite-64/github.png",
+   "category": "Buildkite",
+   "aliases": []
+ },
+ {
     "name": "clearbit",
     "image": "img-buildkite-64/clearbit.png",
     "category": "Buildkite",
@@ -1955,9 +1961,7 @@
     "name": "octocat",
     "image": "img-buildkite-64/octocat.png",
     "category": "Buildkite",
-    "aliases": [
-      "github"
-    ]
+    "aliases": []
   },
   {
     "name": "oracle_linux",
