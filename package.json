@@ -5,6 +5,6 @@
   "repository": "https://github.com/buildkite/emojis",
   "author": "Buildkite <hello@buildkite.com>",
   "dependencies": {
-    "emoji-datasource-apple": "5.0.1"
+    "emoji-datasource-apple": "6.0.0"
   }
 }

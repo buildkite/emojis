@@ -88,10 +88,12 @@ task :verify do
   # These duplicates existed prior to the addition of this check,
   # so just print them as a warning
   ignored_duplicates = [
+    'beetle',
     'cucumber',
     'family',
     'llama',
     'man-woman-boy',
+    'man_in_tuxedo',
     'yarn'
   ]
 

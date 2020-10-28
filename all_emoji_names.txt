@@ -9,6 +9,7 @@ abacus
 abc
 abcd
 accept
+accordion
 adhesive_bandage
 admission_tickets
 adult
@@ -69,6 +70,7 @@ amazon-swf
 amazon-vpc
 ambulance
 amphora
+anatomical_heart
 anchor
 android
 angel
@@ -213,14 +215,17 @@ bazel
 beach_with_umbrella
 bear
 bearded_person
+beaver
 bed
 bee
 beer
 beers
 beetle
+beetle
 beginner
 behat
 bell
+bell_pepper
 bellhop_bell
 bento
 beverage_box
@@ -231,11 +236,13 @@ billed_cap
 biohazard_sign
 bird
 birthday
+bison
 bitbucket
 bk-status-failed
 bk-status-passed
 bk-status-pending
 bk-status-running
+black_cat
 black_circle
 black_circle_for_record
 black_heart
@@ -257,6 +264,7 @@ blowfish
 blue_book
 blue_car
 blue_heart
+blueberries
 blush
 boar
 boat
@@ -267,6 +275,7 @@ bookmark
 bookmark_tabs
 books
 boom
+boomerang
 boomi
 boot
 bouquet
@@ -292,7 +301,9 @@ broken_heart
 broom
 brown_heart
 brunch
+bubble_tea
 buck
+bucket
 bug
 bugsnag
 building_construction
@@ -334,6 +345,7 @@ card_index
 card_index_dividers
 cargo
 carousel_horse
+carpentry_saw
 carrot
 carthage
 cat
@@ -424,6 +436,7 @@ clown_face
 clubs
 cn
 coat
+cockroach
 cocktail
 cocoapods
 coconut
@@ -436,6 +449,7 @@ codepipeline
 coffee
 coffin
 cogops
+coin
 cold_face
 cold_sweat
 collision
@@ -544,6 +558,7 @@ diamond_shape_with_a_dot_inside
 diamonds
 disappointed
 disappointed_relieved
+disguised_face
 diving_mask
 diya_lamp
 dizzy
@@ -552,6 +567,7 @@ django
 dna
 do_not_litter
 docker
+dodo
 dog
 dog2
 dollar
@@ -599,6 +615,7 @@ elasticsearch
 electric_plug
 electron
 elephant
+elevator
 elf
 elixir
 elm
@@ -654,6 +671,7 @@ fast_forward
 fastlane
 fax
 fearful
+feather
 fedora
 feelsgood
 feet
@@ -975,6 +993,7 @@ flag-zw
 flags
 flamingo
 flashlight
+flatbread
 fleur_de_lis
 flipper
 floppy_disk
@@ -985,11 +1004,13 @@ fluentd
 flushed
 flutter
 fly
+fly-io
 flying_disc
 flying_saucer
 flynn
 fog
 foggy
+fondue
 foot
 football
 footprints
@@ -1103,6 +1124,7 @@ hatched_chick
 hatching_chick
 hbase
 headphones
+headstone
 health_worker
 hear_no_evil
 heart
@@ -1141,6 +1163,7 @@ hole
 home-assistant
 honey_pot
 honeybee
+hook
 horse
 horse_racing
 hospital
@@ -1162,6 +1185,7 @@ hugging_face
 hugo
 hurtrealbad
 hushed
+hut
 hyper
 i_love_you_hand_sign
 ice_cream
@@ -1245,6 +1269,7 @@ knapsack
 kneeling_person
 knife
 knife_fork_plate
+knot
 koala
 koko
 kotlin
@@ -1253,6 +1278,7 @@ kubernetes
 lab_coat
 label
 lacrosse
+ladder
 lambda
 lantern
 large_blue_circle
@@ -1309,6 +1335,7 @@ lobster
 lock
 lock_with_ink_pen
 lollipop
+long_drum
 looker
 loop
 lotion_bottle
@@ -1324,6 +1351,7 @@ lower_left_paintbrush
 lox-llama
 lua
 luggage
+lungs
 lying_face
 m
 m3
@@ -1333,6 +1361,7 @@ macos
 mag
 mag_right
 mage
+magic_wand
 magnet
 mahjong
 mailbox
@@ -1367,6 +1396,7 @@ male_superhero
 male_supervillain
 male_vampire
 male_zombie
+mammoth
 man
 man-biking
 man-bouncing-ball
@@ -1417,17 +1447,20 @@ man-wrestling
 man_and_woman_holding_hands
 man_climbing
 man_dancing
+man_feeding_baby
 man_in_business_suit_levitating
 man_in_lotus_position
 man_in_manual_wheelchair
 man_in_motorized_wheelchair
 man_in_steamy_room
 man_in_tuxedo
+man_in_tuxedo
 man_kneeling
 man_standing
 man_with_gua_pi_mao
 man_with_probing_cane
 man_with_turban
+man_with_veil
 mango
 mans_shoe
 mantelpiece_clock
@@ -1464,10 +1497,12 @@ microphone
 microscope
 microsoftedge
 middle_finger
+military_helmet
 milky_way
 mina
 minibus
 minidisc
+mirror
 mobile_phone_off
 mocha
 money_mouth_face
@@ -1495,6 +1530,7 @@ mountain_cableway
 mountain_railway
 mouse
 mouse2
+mouse_trap
 movie_camera
 moyai
 mrs_claus
@@ -1505,6 +1541,7 @@ musical_note
 musical_score
 mute
 mvn
+mx_claus
 mypy
 mysql
 nail_care
@@ -1518,6 +1555,7 @@ necktie
 negative_squared_cross_mark
 neo4j
 nerd_face
+nesting_dolls
 netbsd
 neutral_face
 new
@@ -1531,6 +1569,7 @@ nginx
 night_with_stars
 nightmare
 nine
+ninja
 nix
 nixos
 no_bell
@@ -1572,6 +1611,7 @@ old_key
 older_adult
 older_man
 older_woman
+olive
 om_symbol
 on
 oncoming_automobile
@@ -1637,12 +1677,14 @@ pencil2
 penguin
 pensive
 people_holding_hands
+people_hugging
 percy
 perfection
 performing_arts
 persevere
 person_climbing
 person_doing_cartwheel
+person_feeding_baby
 person_frowning
 person_in_lotus_position
 person_in_manual_wheelchair
@@ -1662,6 +1704,7 @@ php
 phpstan
 phpunit
 pick
+pickup_truck
 pie
 piedpiper
 pig
@@ -1669,6 +1712,8 @@ pig2
 pig_nose
 pill
 pilot
+pinata
+pinched_fingers
 pinching_hand
 pineapple
 pinterest
@@ -1677,15 +1722,18 @@ pipeline_upload
 pirate_flag
 pisces
 pizza
+placard
 place_of_worship
 plaidml
 pleading_face
+plunger
 podman
 point_down
 point_left
 point_right
 point_up
 point_up_2
+polar_bear
 police_car
 poodle
 poop
@@ -1697,6 +1745,7 @@ postgres
 postmark
 potable_water
 potato
+potted_plant
 pouch
 poultry_leg
 pound
@@ -1796,11 +1845,13 @@ right_anger_bubble
 ring
 ringed_planet
 robot_face
+rock
 rocket
 roll_of_paper
 rollbar
 rolled_up_newspaper
 roller_coaster
+roller_skate
 rolling_on_the_floor_laughing
 rollup
 rooster
@@ -1859,8 +1910,10 @@ scorpion
 scorpius
 scream
 scream_cat
+screwdriver
 scroll
 scsslint
+seal
 seat
 second_place_medal
 secret
@@ -1875,6 +1928,7 @@ serverless
 serverspec
 service_dog
 seven
+sewing_needle
 sfdx
 shallow_pan_of_food
 shamrock
@@ -1937,6 +1991,7 @@ smiley
 smiley_cat
 smiling_face_with_3_hearts
 smiling_face_with_smiling_eyes_and_hand_covering_mouth
+smiling_face_with_tear
 smiling_imp
 smirk
 smirk_cat
@@ -2051,12 +2106,14 @@ table_tennis_paddle_and_ball
 taco
 tada
 takeout_box
+tamale
 tanabata_tree
 tangerine
 taurus
 taxi
 tea
 teacher
+teapot
 technologist
 teddy_bear
 telephone
@@ -2076,6 +2133,7 @@ thermometer
 thinking_face
 third_place_medal
 thisisfine
+thong_sandal
 thought_balloon
 thread
 three
@@ -2096,6 +2154,7 @@ tomster
 tongue
 toolbox
 tooth
+toothbrush
 top
 tophat
 tornado
@@ -2107,6 +2166,8 @@ traffic_light
 train
 train2
 tram
+transgender_flag
+transgender_symbol
 travisci
 triangular_flag_on_post
 triangular_ruler
@@ -2220,6 +2281,7 @@ white_square_button
 wilted_flower
 wind_blowing_face
 wind_chime
+window
 windows
 wine_glass
 wink
@@ -2269,21 +2331,26 @@ woman-woman-girl-girl
 woman-wrestling
 woman_and_man_holding_hands
 woman_climbing
+woman_feeding_baby
 woman_in_lotus_position
 woman_in_manual_wheelchair
 woman_in_motorized_wheelchair
 woman_in_steamy_room
+woman_in_tuxedo
 woman_kneeling
 woman_standing
 woman_with_probing_cane
+woman_with_veil
 womans_clothes
 womans_flat_shoe
 womans_hat
 women_holding_hands
 womens
+wood
 woozy_face
 wordpress
 world_map
+worm
 worried
 wraith
 wrench
