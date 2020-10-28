@@ -793,8 +793,8 @@
     "aliases": []
   },
   {
-    "name": "fly",
-    "image": "img-buildkite-64/fly.png",
+    "name": "fly-io",
+    "image": "img-buildkite-64/fly-io.png",
     "category": "Buildkite",
     "aliases": [
       "superfly"
