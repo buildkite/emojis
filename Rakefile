@@ -153,7 +153,7 @@ def preprocess_emoji_json(parsed)
     unicode = unicode_points.split('-').map(&:hex).pack('U*')
 
     # Append VS16 to code points which require it for display
-    if !EmojiRegex::Regex.match?(unicode) && EmojiRegex::Regex.match?("#{unicode}\uFE0F")
+    if !EmojiRegex::RGIEmoji.match?(unicode) && EmojiRegex::RGIEmoji.match?("#{unicode}\uFE0F")
       unicode_points = "#{unicode_points}-FE0F"
     end
 

@@ -25,6 +25,7 @@ alembic
 algolia
 alien
 allthethings
+alpine
 amazon-apigateway
 amazon-athena
 amazon-aws
@@ -113,6 +114,7 @@ articulated_lorry
 artifactory
 artist
 asciidoctor
+assurance
 astonished
 astronaut
 athletic_shoe
@@ -122,6 +124,8 @@ atlassian-confluence
 atlassian-jira
 atm
 atom_symbol
+auditjs
+auth0
 auto_rickshaw
 avocado
 aws
@@ -163,6 +167,7 @@ aws-trustedadvisor
 aws-waf
 aws-x-ray
 axe
+azure
 b
 babel
 baby
@@ -262,6 +267,7 @@ bookmark
 bookmark_tabs
 books
 boom
+boomi
 boot
 bouquet
 bow
@@ -372,6 +378,7 @@ cl
 clap
 clapper
 classical_building
+clearbit
 clinking_glasses
 clipboard
 clippy
@@ -483,6 +490,7 @@ crossed_swords
 crown
 cry
 crying_cat_face
+crystal
 crystal_ball
 csharp
 cucumber
@@ -517,6 +525,8 @@ darwin
 dash
 datadog
 date
+dato
+datocms
 dbt
 de
 deaf_man
@@ -688,6 +698,7 @@ finnadie
 fire
 fire_engine
 fire_extinguisher
+firebase
 firecracker
 firefighter
 firefox
@@ -1024,6 +1035,7 @@ giraffe_face
 girl
 git
 github
+gitsby
 glass_of_milk
 glitch
 globe_with_meridians
@@ -1037,8 +1049,10 @@ godmode
 goggles
 gohugo
 golang
+golangci-lint
 golf
 golfer
+google-apps-script
 google-closure-compiler
 googlecloud
 gorilla
@@ -1084,6 +1098,7 @@ hankey
 happo
 hash
 haskell
+hass
 hatched_chick
 hatching_chick
 hbase
@@ -1123,6 +1138,7 @@ hiptest
 hocho
 hockeyapp
 hole
+home-assistant
 honey_pot
 honeybee
 horse
@@ -1141,6 +1157,7 @@ house_with_garden
 hs
 html
 html-proofer
+hubspot
 hugging_face
 hugo
 hurtrealbad
@@ -1167,6 +1184,7 @@ internet_explorer
 interrobang
 ios
 iphone
+isort
 it
 izakaya_lantern
 jack_o_lantern
@@ -1198,6 +1216,7 @@ json
 jsonnet
 judge
 juggling
+julia
 junit
 jupyter
 k8s
@@ -1303,6 +1322,7 @@ lower_left_crayon
 lower_left_fountain_pen
 lower_left_paintbrush
 lox-llama
+lua
 luggage
 lying_face
 m
@@ -1437,6 +1457,7 @@ merman
 merperson
 messagemedia
 metal
+meteor
 metro
 microbe
 microphone
@@ -1455,6 +1476,7 @@ moneybag
 monkey
 monkey_face
 monorail
+moodle
 moon
 moon_cake
 mortar_board
@@ -1487,12 +1509,14 @@ mypy
 mysql
 nail_care
 name_badge
+nancy
 national_park
 nauseated_face
 nazar_amulet
 neckbeard
 necktie
 negative_squared_cross_mark
+neo4j
 nerd_face
 netbsd
 neutral_face
@@ -1501,6 +1525,7 @@ new_moon
 new_moon_with_face
 newrelic
 newspaper
+nexus-iq
 ng
 nginx
 night_with_stars
@@ -1554,6 +1579,7 @@ oncoming_bus
 oncoming_police_car
 oncoming_taxi
 one
+one-does-not-simply
 one-piece_swimsuit
 onion
 open_book
@@ -1578,6 +1604,7 @@ package
 package_cloud
 packagecloud
 packer
+pact
 page_facing_up
 page_with_curl
 pager
@@ -1611,6 +1638,7 @@ penguin
 pensive
 people_holding_hands
 percy
+perfection
 performing_arts
 persevere
 person_climbing
@@ -1626,6 +1654,7 @@ person_with_headscarf
 person_with_pouting_face
 person_with_probing_cane
 petri_dish
+pfsense
 phabricator
 phoenix
 phone
@@ -1651,6 +1680,7 @@ pizza
 place_of_worship
 plaidml
 pleading_face
+podman
 point_down
 point_left
 point_right
@@ -1664,6 +1694,7 @@ post_office
 postal_horn
 postbox
 postgres
+postmark
 potable_water
 potato
 pouch
@@ -1679,9 +1710,11 @@ prince
 princess
 printer
 probing_cane
+prometheus
 protractor
 pulumi
 punch
+puppeteer
 purescript
 purple_heart
 purse
@@ -1778,6 +1811,7 @@ round_pushpin
 route53
 rowboat
 rspec
+rstats
 ru
 rubocop
 ruby
@@ -1834,9 +1868,11 @@ see_no_evil
 seedling
 selenium
 selfie
+semgrep
 sentry
 serious_face_with_symbols_covering_mouth
 serverless
+serverspec
 service_dog
 seven
 sfdx
@@ -1921,6 +1957,7 @@ sob
 soccer
 socks
 softball
+sonarcloud
 sonarqube
 soon
 sorbet
@@ -2002,6 +2039,7 @@ swan
 sweat
 sweat_drops
 sweat_smile
+sweating
 sweet_potato
 swift
 swimmer
@@ -2037,6 +2075,7 @@ the_horns
 thermometer
 thinking_face
 third_place_medal
+thisisfine
 thought_balloon
 thread
 three
@@ -2063,10 +2102,12 @@ tornado
 tornado_cloud
 trackball
 tractor
+traefik
 traffic_light
 train
 train2
 tram
+travisci
 triangular_flag_on_post
 triangular_ruler
 trident
@@ -2086,6 +2127,7 @@ tumbler_glass
 turkey
 turtle
 tv
+twilio
 twisted_rightwards_arrows
 two
 two_hearts
@@ -2118,6 +2160,7 @@ us
 v
 vagrant
 vampire
+vault
 vertical_traffic_light
 vhs
 vibration_mode
@@ -2239,6 +2282,7 @@ womans_hat
 women_holding_hands
 womens
 woozy_face
+wordpress
 world_map
 worried
 wraith
@@ -2260,6 +2304,7 @@ yo-yo
 yum
 zany_face
 zap
+zapier
 zebra_face
 zero
 zipper_mouth_face
