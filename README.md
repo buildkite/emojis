@@ -458,6 +458,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/batman.png" width="20" height="20" alt="batman"/> | `:batman:`
 <img src="img-buildkite-64/prometheus.png" width="20" height="20" alt="prometheus"/> | `:prometheus:`
 <img src="img-buildkite-64/hubspot.png" width="20" height="20" alt="hubspot"/> | `:hubspot:`
+<img src="img-buildkite-64/tauri.png" width="20" height="20" alt="tauri"/> | `:tauri:`
 
 ### Smileys & Emotion
 
