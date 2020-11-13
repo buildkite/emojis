@@ -1,4 +1,10 @@
 [
+  {
+    "name": "shopify",
+    "image": "img-buildkite-64/shopify.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
  {
    "name": "github",
    "image": "img-buildkite-64/github.png",
