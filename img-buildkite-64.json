@@ -1,5 +1,11 @@
 [
   {
+    "name": "lambda",
+    "image": "img-buildkite-64/shopify.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "shopify",
     "image": "img-buildkite-64/shopify.png",
     "category": "Buildkite",

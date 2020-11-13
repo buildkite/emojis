@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/lambda_symbol.png" width="20" height="20" alt="lambda"/> | `:lambda-symbol:`
 <img src="img-buildkite-64/shopify.png" width="20" height="20" alt="shopify"/> | `:shopify:`
 <img src="img-buildkite-64/github.png" width="20" height="20" alt="github"/> | `:github:`
 <img src="img-buildkite-64/clearbit.png" width="20" height="20" alt="clearbit"/> | `:clearbit:`
