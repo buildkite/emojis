@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/pinterest-teletraan.png" width="20" height="20" alt="pinterest-teletraan"/> | `:pinterest-teletraan:`, `:teletraan:`
 <img src="img-buildkite-64/github.png" width="20" height="20" alt="github"/> | `:github:`
 <img src="img-buildkite-64/clearbit.png" width="20" height="20" alt="clearbit"/> | `:clearbit:`
 <img src="img-buildkite-64/auditjs.png" width="20" height="20" alt="auditjs"/> | `:auditjs:`

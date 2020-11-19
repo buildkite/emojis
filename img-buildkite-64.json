@@ -1,29 +1,37 @@
 [
- {
-   "name": "github",
-   "image": "img-buildkite-64/github.png",
-   "category": "Buildkite",
-   "aliases": []
- },
- {
+  {
+    "name": "pinterest-teletraan",
+    "image": "img-buildkite-64/pinterest-teletraan.png",
+    "category": "Buildkite",
+    "aliases": [
+      "teletraan"
+    ]
+  },
+  {
+    "name": "github",
+    "image": "img-buildkite-64/github.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "clearbit",
     "image": "img-buildkite-64/clearbit.png",
     "category": "Buildkite",
     "aliases": []
- },
- {
+  },
+  {
     "name": "auditjs",
     "image": "img-buildkite-64/auditjs.png",
     "category": "Buildkite",
     "aliases": []
- },
- {
+  },
+  {
     "name": "nancy",
     "image": "img-buildkite-64/nancy.png",
     "category": "Buildkite",
     "aliases": []
- },
- {
+  },
+  {
     "name": "golangci-lint",
     "image": "img-buildkite-64/golangci-lint.png",
     "category": "Buildkite",
@@ -260,12 +268,12 @@
     "aliases": []
   },
   {
-   "name": "snowflake-db",
-   "image": "img-buildkite-64/snowflake-db.png",
-   "category": "Buildkite",
-   "aliases": [
-     "snowsql"
-   ]
+    "name": "snowflake-db",
+    "image": "img-buildkite-64/snowflake-db.png",
+    "category": "Buildkite",
+    "aliases": [
+      "snowsql"
+    ]
   },
   {
     "name": "dbt",
