@@ -1,5 +1,11 @@
 [
   {
+    "name": "repolinter",
+    "image": "img-buildkite-64/repolinter.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "pinterest-teletraan",
     "image": "img-buildkite-64/pinterest-teletraan.png",
     "category": "Buildkite",
