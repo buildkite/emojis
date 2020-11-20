@@ -1,5 +1,11 @@
 [
   {
+    "name": "repolinter",
+    "image": "img-buildkite-64/repolinter.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "liquibase",
     "image": "img-buildkite-64/liquibase.png",
     "category": "Buildkite",
