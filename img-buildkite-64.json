@@ -1,5 +1,13 @@
 [
   {
+    "name": "mongodb",
+    "image": "img-buildkite-64/mongodb.png",
+    "category": "Buildkite",
+    "aliases": [
+      "mongodb"
+    ]
+  },
+  {
     "name": "repolinter",
     "image": "img-buildkite-64/repolinter.png",
     "category": "Buildkite",
