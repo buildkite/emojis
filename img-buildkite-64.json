@@ -1,5 +1,13 @@
 [
   {
+    "name": "mongodb",
+    "image": "img-buildkite-64/mongodb.png",
+    "category": "Buildkite",
+    "aliases": [
+      "mongodb"
+    ]
+  },
+  {
     "name": "pinterest-teletraan",
     "image": "img-buildkite-64/pinterest-teletraan.png",
     "category": "Buildkite",
