@@ -1,5 +1,11 @@
 [
   {
+    "name": "liquibase",
+    "image": "img-buildkite-64/liquibase.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "pinterest-teletraan",
     "image": "img-buildkite-64/pinterest-teletraan.png",
     "category": "Buildkite",
