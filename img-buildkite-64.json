@@ -2761,5 +2761,11 @@
     "image": "img-buildkite-64/hubspot.png",
     "category": "Buildkite",
     "aliases": []
+  },
+  {
+    "name": "tauri",
+    "image": "img-buildkite-64/tauri.png",
+    "category": "Buildkite",
+    "aliases": []
   }
 ]
