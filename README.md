@@ -398,6 +398,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/amazon-elastictranscoder.png" width="20" height="20" alt="amazon-elastictranscoder"/> | `:amazon-elastictranscoder:`
 <img src="img-buildkite-64/amazon-emr.png" width="20" height="20" alt="amazon-emr"/> | `:amazon-emr:`, `:emr:`
 <img src="img-buildkite-64/amazon-es.png" width="20" height="20" alt="amazon-es"/> | `:amazon-es:`
+<img src="img-buildkite-64/amazon-eventbridge.png" width="20" height="20" alt="amazon-eventbridge"/> | `:amazon-eventbridge:`, `:eventbridge:`
 <img src="img-buildkite-64/amazon-gamelift.png" width="20" height="20" alt="amazon-gamelift"/> | `:amazon-gamelift:`
 <img src="img-buildkite-64/amazon-glacier.png" width="20" height="20" alt="amazon-glacier"/> | `:amazon-glacier:`
 <img src="img-buildkite-64/amazon-inspector.png" width="20" height="20" alt="amazon-inspector"/> | `:amazon-inspector:`

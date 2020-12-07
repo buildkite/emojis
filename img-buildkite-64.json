@@ -2373,6 +2373,12 @@
     "aliases": []
   },
   {
+    "name": "amazon-eventbridge",
+    "image": "img-buildkite-64/amazon-eventbridge.png",
+    "category": "Buildkite",
+    "aliases": ["eventbridge"]
+  },
+  {
     "name": "amazon-gamelift",
     "image": "img-buildkite-64/amazon-gamelift.png",
     "category": "Buildkite",
