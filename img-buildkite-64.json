@@ -1,5 +1,11 @@
 [
   {
+    "name": "cloudflare",
+    "image": "img-buildkite-64/cloudflare.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "copybara",
     "image": "img-buildkite-64/copybara.png",
     "category": "Buildkite",
