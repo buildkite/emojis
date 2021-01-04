@@ -1,5 +1,11 @@
 [
   {
+    "name": "copybara",
+    "image": "img-buildkite-64/copybara.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "spinnaker",
     "image": "img-buildkite-64/spinnaker.png",
     "category": "Buildkite",
