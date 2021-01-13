@@ -1,5 +1,11 @@
 [
   {
+    "name": "dagster",
+    "image": "img-buildkite-64/dagster.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "cloudflare",
     "image": "img-buildkite-64/cloudflare.png",
     "category": "Buildkite",
