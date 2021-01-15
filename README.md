@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/dagster.png" width="20" height="20" alt="dagster" /> | `:dagster:`
 <img src="img-buildkite-64/cloudflare.png" width="20" height="20" alt="cloudflare" /> | `:cloudflare:`
 <img src="img-buildkite-64/copybara.png" width="20" height="20" alt="copybara"/> | `:copybara:`
 <img src="img-buildkite-64/spinnaker.png" width="20" height="20" alt="spinnaker"/> | `:spinnaker:`
