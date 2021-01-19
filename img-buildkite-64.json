@@ -1,5 +1,11 @@
 [
   {
+    "name": "database",
+    "image": "img-buildkite-64/database.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "dagster",
     "image": "img-buildkite-64/dagster.png",
     "category": "Buildkite",
