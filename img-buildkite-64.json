@@ -1,5 +1,17 @@
 [
   {
+    "name": "xbox",
+    "image": "img-buildkite-64/xbox.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "playstation",
+    "image": "img-buildkite-64/playstation.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "shopify",
     "image": "img-buildkite-64/shopify.png",
     "category": "Buildkite",
