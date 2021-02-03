@@ -27,6 +27,9 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/ps4.png" width="20" height="20" alt="ps4" /> | `:ps4:`
+<img src="img-buildkite-64/ps5.png" width="20" height="20" alt="ps5" /> | `:ps4:`
+<img src="img-buildkite-64/xbox.png" width="20" height="20" alt="xbox" /> | `:xbox:`
 <img src="img-buildkite-64/database.png" width="20" height="20" alt="database" /> | `:database:`
 <img src="img-buildkite-64/dagster.png" width="20" height="20" alt="dagster" /> | `:dagster:`
 <img src="img-buildkite-64/cloudflare.png" width="20" height="20" alt="cloudflare" /> | `:cloudflare:`

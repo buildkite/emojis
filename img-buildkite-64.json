@@ -1,5 +1,23 @@
 [
   {
+    "name": "xbox",
+    "image": "img-buildkite-64/xbox.png",
+    "category": "Buildkite",
+    "aliases": ["xboxone","xsx"]
+  },
+  {
+    "name": "ps4",
+    "image": "img-buildkite-64/ps4.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "ps5",
+    "image": "img-buildkite-64/ps5.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "database",
     "image": "img-buildkite-64/database.png",
     "category": "Buildkite",
