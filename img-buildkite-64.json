@@ -6,16 +6,10 @@
     "aliases": ["xboxone","xsx"]
   },
   {
-    "name": "ps4",
-    "image": "img-buildkite-64/ps4.png",
+    "name": "playstation",
+    "image": "img-buildkite-64/playstation.png",
     "category": "Buildkite",
-    "aliases": []
-  },
-  {
-    "name": "ps5",
-    "image": "img-buildkite-64/ps5.png",
-    "category": "Buildkite",
-    "aliases": []
+    "aliases": ["ps4", "ps5"]
   },
   {
     "name": "database",
