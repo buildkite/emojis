@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/shopify.png" width="20" height="20" alt="shopify" /> | `:shopify:`
 <img src="img-buildkite-64/database.png" width="20" height="20" alt="database" /> | `:database:`
 <img src="img-buildkite-64/dagster.png" width="20" height="20" alt="dagster" /> | `:dagster:`
 <img src="img-buildkite-64/cloudflare.png" width="20" height="20" alt="cloudflare" /> | `:cloudflare:`
