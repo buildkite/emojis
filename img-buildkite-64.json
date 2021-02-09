@@ -1,5 +1,11 @@
 [
   {
+    "name": "shopify",
+    "image": "img-buildkite-64/shopify.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "database",
     "image": "img-buildkite-64/database.png",
     "category": "Buildkite",
