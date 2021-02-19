@@ -27,6 +27,8 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/elastic.png" width="20" height="20" alt="elastic" /> | `:elastic:`
+<img src="img-buildkite-64/elastic-kibana.png" width="20" height="20" alt="kibana" /> | `:kibana:`
 <img src="img-buildkite-64/playstation.png" width="20" height="20" alt="playstation" /> | `:playstation:`
 <img src="img-buildkite-64/xbox.png" width="20" height="20" alt="xbox" /> | `:xbox:`
 <img src="img-buildkite-64/shopify.png" width="20" height="20" alt="shopify" /> | `:shopify:`
@@ -140,7 +142,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/sonarqube.png" width="20" height="20" alt="sonarqube"/> | `:sonarqube:`
 <img src="img-buildkite-64/wasm.png" width="20" height="20" alt="wasm"/> | `:wasm:`, `:webassembly:`
 <img src="img-buildkite-64/hbase.png" width="20" height="20" alt="hbase"/> | `:hbase:`
-<img src="img-buildkite-64/elasticsearch.png" width="20" height="20" alt="elasticsearch"/> | `:elasticsearch:`
+<img src="img-buildkite-64/elastic-elasticsearch.png" width="20" height="20" alt="elasticsearch"/> | `:elasticsearch:`
 <img src="img-buildkite-64/clippy.png" width="20" height="20" alt="clippy"/> | `:clippy:`
 <img src="img-buildkite-64/grafana.png" width="20" height="20" alt="grafana"/> | `:grafana:`
 <img src="img-buildkite-64/asciidoctor.png" width="20" height="20" alt="asciidoctor"/> | `:asciidoctor:`
