@@ -1,5 +1,11 @@
 [
   {
+    "name": "tilt-dev",
+    "image": "img-buildkite-64/tilt-dev.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "elastic",
     "image": "img-buildkite-64/elastic.png",
     "category": "Buildkite",
