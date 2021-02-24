@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/tilt-dev.png" width="20" height="20" alt="tilt-dev" /> | `:tilt-dev:`
 <img src="img-buildkite-64/playstation.png" width="20" height="20" alt="playstation" /> | `:playstation:`
 <img src="img-buildkite-64/xbox.png" width="20" height="20" alt="xbox" /> | `:xbox:`
 <img src="img-buildkite-64/shopify.png" width="20" height="20" alt="shopify" /> | `:shopify:`
