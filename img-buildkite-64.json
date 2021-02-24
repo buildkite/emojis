@@ -1,5 +1,17 @@
 [
   {
+    "name": "elastic",
+    "image": "img-buildkite-64/elastic.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "kibana",
+    "image": "img-buildkite-64/elastic-kibana.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "xbox",
     "image": "img-buildkite-64/xbox.png",
     "category": "Buildkite",
@@ -714,7 +726,7 @@
   },
   {
     "name": "elasticsearch",
-    "image": "img-buildkite-64/elasticsearch.png",
+    "image": "img-buildkite-64/elastic-elasticsearch.png",
     "category": "Buildkite",
     "aliases": []
   },
