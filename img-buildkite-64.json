@@ -1,5 +1,10 @@
 [
   {
+    "name": "komodor",
+    "image": "img-buildkite-64/komodor.png",
+    "category": "Buildkite",
+    "aliases": []
+  },{
     "name": "tilt-dev",
     "image": "img-buildkite-64/tilt-dev.png",
     "category": "Buildkite",
