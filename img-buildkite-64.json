@@ -1,5 +1,10 @@
 [
   {
+    "name": "trivy",
+    "image": "img-buildkite-64/trivy.png",
+    "category": "Buildkite",
+    "aliases": []
+  },{
     "name": "komodor",
     "image": "img-buildkite-64/komodor.png",
     "category": "Buildkite",

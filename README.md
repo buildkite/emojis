@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/trivy.png" width="20" height="20" alt="trivy" /> | `:trivy:`
 <img src="img-buildkite-64/komodor.png" width="20" height="20" alt="komodor" /> | `:komodor:`
 <img src="img-buildkite-64/tilt-dev.png" width="20" height="20" alt="tilt-dev" /> | `:tilt-dev:`
 <img src="img-buildkite-64/elastic.png" width="20" height="20" alt="elastic" /> | `:elastic:`
