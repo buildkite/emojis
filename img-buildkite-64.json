@@ -1,5 +1,10 @@
 [
   {
+    "name": "switch",
+    "image": "img-buildkite-64/switch.png",
+    "category": "Buildkite",
+    "aliases": []
+  },{
     "name": "trivy",
     "image": "img-buildkite-64/trivy.png",
     "category": "Buildkite",
