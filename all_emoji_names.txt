@@ -46,6 +46,7 @@ amazon-elasticcache
 amazon-elastictranscoder
 amazon-emr
 amazon-es
+amazon-eventbridge
 amazon-gamelift
 amazon-glacier
 amazon-inspector
@@ -427,6 +428,7 @@ closed_lock_with_key
 closed_umbrella
 closure-compiler
 cloud
+cloudflare
 cloudformation
 cloudfoundry
 cloudfront
@@ -478,6 +480,7 @@ cookie
 cooking
 cool
 cop
+copybara
 copyright
 corn
 couch_and_lamp
@@ -529,6 +532,7 @@ cyclone
 cypress
 cypressio
 dagger_knife
+dagster
 dancer
 dancers
 dango
@@ -537,6 +541,7 @@ dart
 dartlang
 darwin
 dash
+database
 datadog
 date
 dato
@@ -609,6 +614,7 @@ eight
 eight_pointed_black_star
 eight_spoked_asterisk
 eject
+elastic
 elasticbeanstalk
 elasticloadbalancing
 elasticsearch
@@ -634,6 +640,7 @@ eslint
 euro
 european_castle
 european_post_office
+eventbridge
 evergreen_tree
 exclamation
 expeditor
@@ -1254,6 +1261,7 @@ key
 keyboard
 keycap_star
 keycap_ten
+kibana
 kimono
 kinesis
 kiss
@@ -1272,6 +1280,7 @@ knife_fork_plate
 knot
 koala
 koko
+komodor
 kotlin
 kr
 kubernetes
@@ -1328,6 +1337,7 @@ linux
 lion_face
 lips
 lipstick
+liquibase
 lizard
 llama
 llama
@@ -1508,6 +1518,7 @@ mocha
 money_mouth_face
 money_with_wings
 moneybag
+mongodb
 monkey
 monkey_face
 monorail
@@ -1717,6 +1728,7 @@ pinched_fingers
 pinching_hand
 pineapple
 pinterest
+pinterest-teletraan
 pipeline
 pipeline_upload
 pirate_flag
@@ -1725,6 +1737,7 @@ pizza
 placard
 place_of_worship
 plaidml
+playstation
 pleading_face
 plunger
 podman
@@ -1828,6 +1841,7 @@ relieved
 reminder_ribbon
 repeat
 repeat_one
+repolinter
 restroom
 retirejs
 reversed_hand_with_middle_finger_extended
@@ -1944,6 +1958,7 @@ shirt
 shit
 shocked_face_with_exploding_head
 shoe
+shopify
 shopping_bags
 shopping_trolley
 shorts
@@ -2033,6 +2048,7 @@ speech_balloon
 speedboat
 spider
 spider_web
+spinnaker
 spiral_calendar_pad
 spiral_note_pad
 splunk
@@ -2098,6 +2114,7 @@ sweating
 sweet_potato
 swift
 swimmer
+switch
 symbols
 synagogue
 syringe
@@ -2109,6 +2126,7 @@ takeout_box
 tamale
 tanabata_tree
 tangerine
+tauri
 taurus
 taxi
 tea
@@ -2119,6 +2137,7 @@ teddy_bear
 telephone
 telephone_receiver
 telescope
+teletraan
 tennis
 tensorflow
 tent
@@ -2144,6 +2163,7 @@ thunder_cloud_and_rain
 ticket
 tiger
 tiger2
+tilt-dev
 timer_clock
 tired_face
 tm
@@ -2173,6 +2193,7 @@ triangular_flag_on_post
 triangular_ruler
 trident
 triumph
+trivy
 troll
 trolleybus
 trollface
@@ -2357,6 +2378,7 @@ wrench
 wrestlers
 writing_hand
 x
+xbox
 xcode
 xcode_simulator
 yaml
