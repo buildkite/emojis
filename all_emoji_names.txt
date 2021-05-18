@@ -221,7 +221,6 @@ bee
 beer
 beers
 beetle
-beetle
 beginner
 behat
 bell
@@ -664,7 +663,6 @@ factory_worker
 fairy
 falafel
 fallen_leaf
-family
 family
 farmer
 fast_forward
@@ -1279,6 +1277,8 @@ lab_coat
 label
 lacrosse
 ladder
+lady_beetle
+ladybug
 lambda
 lantern
 large_blue_circle
@@ -1438,7 +1438,6 @@ man-walking
 man-wearing-turban
 man-with-bunny-ears-partying
 man-woman-boy
-man-woman-boy
 man-woman-boy-boy
 man-woman-girl
 man-woman-girl-boy
@@ -1453,7 +1452,6 @@ man_in_lotus_position
 man_in_manual_wheelchair
 man_in_motorized_wheelchair
 man_in_steamy_room
-man_in_tuxedo
 man_in_tuxedo
 man_kneeling
 man_standing
@@ -1690,6 +1688,7 @@ person_in_lotus_position
 person_in_manual_wheelchair
 person_in_motorized_wheelchair
 person_in_steamy_room
+person_in_tuxedo
 person_with_ball
 person_with_blond_hair
 person_with_headscarf

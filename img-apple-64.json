@@ -7609,12 +7609,12 @@
     ]
   },
   {
-    "name": "beetle",
+    "name": "ladybug",
     "category": "Animals & Nature",
     "image": "img-apple-64/1f41e.png",
     "unicode": "1F41E",
     "aliases": [
-
+      "lady_beetle"
     ],
     "modifiers": [
 
@@ -9294,7 +9294,7 @@
     "image": "img-apple-64/1f468-200d-1f469-200d-1f466.png",
     "unicode": "1F468-200D-1F469-200D-1F466",
     "aliases": [
-      "family"
+
     ],
     "modifiers": [
 
@@ -11058,20 +11058,20 @@
     "image": "img-apple-64/1f46a.png",
     "unicode": "1F46A",
     "aliases": [
-      "man-woman-boy"
+
     ],
     "modifiers": [
 
     ]
   },
   {
-    "name": "couple",
+    "name": "man_and_woman_holding_hands",
     "category": "People & Body",
     "image": "img-apple-64/1f46b.png",
     "unicode": "1F46B",
     "aliases": [
-      "man_and_woman_holding_hands",
-      "woman_and_man_holding_hands"
+      "woman_and_man_holding_hands",
+      "couple"
     ],
     "modifiers": [
       {
@@ -20535,7 +20535,7 @@
     ]
   },
   {
-    "name": "man_in_tuxedo",
+    "name": "person_in_tuxedo",
     "category": "People & Body",
     "image": "img-apple-64/1f935.png",
     "unicode": "1F935",
