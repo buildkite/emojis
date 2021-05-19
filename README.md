@@ -1267,12 +1267,12 @@ Emoji | Aliases
 <img src="img-apple-64/1f936-1f3fd.png" width="20" height="20" alt="mrs_claus"/> | `:mrs_claus::skin-tone-4:`
 <img src="img-apple-64/1f936-1f3fe.png" width="20" height="20" alt="mrs_claus"/> | `:mrs_claus::skin-tone-5:`
 <img src="img-apple-64/1f936-1f3ff.png" width="20" height="20" alt="mrs_claus"/> | `:mrs_claus::skin-tone-6:`
-<img src="img-apple-64/1f935.png" width="20" height="20" alt="man_in_tuxedo"/> | `:man_in_tuxedo:`
-<img src="img-apple-64/1f935-1f3fb.png" width="20" height="20" alt="man_in_tuxedo"/> | `:man_in_tuxedo::skin-tone-2:`
-<img src="img-apple-64/1f935-1f3fc.png" width="20" height="20" alt="man_in_tuxedo"/> | `:man_in_tuxedo::skin-tone-3:`
-<img src="img-apple-64/1f935-1f3fd.png" width="20" height="20" alt="man_in_tuxedo"/> | `:man_in_tuxedo::skin-tone-4:`
-<img src="img-apple-64/1f935-1f3fe.png" width="20" height="20" alt="man_in_tuxedo"/> | `:man_in_tuxedo::skin-tone-5:`
-<img src="img-apple-64/1f935-1f3ff.png" width="20" height="20" alt="man_in_tuxedo"/> | `:man_in_tuxedo::skin-tone-6:`
+<img src="img-apple-64/1f935.png" width="20" height="20" alt="person_in_tuxedo"/> | `:person_in_tuxedo:`
+<img src="img-apple-64/1f935-1f3fb.png" width="20" height="20" alt="person_in_tuxedo"/> | `:person_in_tuxedo::skin-tone-2:`
+<img src="img-apple-64/1f935-1f3fc.png" width="20" height="20" alt="person_in_tuxedo"/> | `:person_in_tuxedo::skin-tone-3:`
+<img src="img-apple-64/1f935-1f3fd.png" width="20" height="20" alt="person_in_tuxedo"/> | `:person_in_tuxedo::skin-tone-4:`
+<img src="img-apple-64/1f935-1f3fe.png" width="20" height="20" alt="person_in_tuxedo"/> | `:person_in_tuxedo::skin-tone-5:`
+<img src="img-apple-64/1f935-1f3ff.png" width="20" height="20" alt="person_in_tuxedo"/> | `:person_in_tuxedo::skin-tone-6:`
 <img src="img-apple-64/1f935-200d-2642-fe0f.png" width="20" height="20" alt="man_in_tuxedo"/> | `:man_in_tuxedo:`
 <img src="img-apple-64/1f935-1f3fb-200d-2642-fe0f.png" width="20" height="20" alt="man_in_tuxedo"/> | `:man_in_tuxedo::skin-tone-2:`
 <img src="img-apple-64/1f935-1f3fc-200d-2642-fe0f.png" width="20" height="20" alt="man_in_tuxedo"/> | `:man_in_tuxedo::skin-tone-3:`
@@ -1914,33 +1914,33 @@ Emoji | Aliases
 <img src="img-apple-64/1f468-1f3ff-200d-1f91d-200d-1f468-1f3fc.png" width="20" height="20" alt="two_men_holding_hands"/> | `:two_men_holding_hands::skin-tone-24:`
 <img src="img-apple-64/1f468-1f3ff-200d-1f91d-200d-1f468-1f3fd.png" width="20" height="20" alt="two_men_holding_hands"/> | `:two_men_holding_hands::skin-tone-25:`
 <img src="img-apple-64/1f468-1f3ff-200d-1f91d-200d-1f468-1f3fe.png" width="20" height="20" alt="two_men_holding_hands"/> | `:two_men_holding_hands::skin-tone-26:`
-<img src="img-apple-64/1f46b.png" width="20" height="20" alt="couple"/> | `:couple:`, `:man_and_woman_holding_hands:`, `:woman_and_man_holding_hands:`
-<img src="img-apple-64/1f46b-1f3fb.png" width="20" height="20" alt="couple"/> | `:couple::skin-tone-2:`
-<img src="img-apple-64/1f46b-1f3fc.png" width="20" height="20" alt="couple"/> | `:couple::skin-tone-3:`
-<img src="img-apple-64/1f46b-1f3fd.png" width="20" height="20" alt="couple"/> | `:couple::skin-tone-4:`
-<img src="img-apple-64/1f46b-1f3fe.png" width="20" height="20" alt="couple"/> | `:couple::skin-tone-5:`
-<img src="img-apple-64/1f46b-1f3ff.png" width="20" height="20" alt="couple"/> | `:couple::skin-tone-6:`
-<img src="img-apple-64/1f469-1f3fb-200d-1f91d-200d-1f468-1f3fc.png" width="20" height="20" alt="couple"/> | `:couple::skin-tone-7:`
-<img src="img-apple-64/1f469-1f3fb-200d-1f91d-200d-1f468-1f3fd.png" width="20" height="20" alt="couple"/> | `:couple::skin-tone-8:`
-<img src="img-apple-64/1f469-1f3fb-200d-1f91d-200d-1f468-1f3fe.png" width="20" height="20" alt="couple"/> | `:couple::skin-tone-9:`
-<img src="img-apple-64/1f469-1f3fb-200d-1f91d-200d-1f468-1f3ff.png" width="20" height="20" alt="couple"/> | `:couple::skin-tone-10:`
-<img src="img-apple-64/1f469-1f3fc-200d-1f91d-200d-1f468-1f3fb.png" width="20" height="20" alt="couple"/> | `:couple::skin-tone-11:`
-<img src="img-apple-64/1f469-1f3fc-200d-1f91d-200d-1f468-1f3fd.png" width="20" height="20" alt="couple"/> | `:couple::skin-tone-12:`
-<img src="img-apple-64/1f469-1f3fc-200d-1f91d-200d-1f468-1f3fe.png" width="20" height="20" alt="couple"/> | `:couple::skin-tone-13:`
-<img src="img-apple-64/1f469-1f3fc-200d-1f91d-200d-1f468-1f3ff.png" width="20" height="20" alt="couple"/> | `:couple::skin-tone-14:`
-<img src="img-apple-64/1f469-1f3fd-200d-1f91d-200d-1f468-1f3fb.png" width="20" height="20" alt="couple"/> | `:couple::skin-tone-15:`
-<img src="img-apple-64/1f469-1f3fd-200d-1f91d-200d-1f468-1f3fc.png" width="20" height="20" alt="couple"/> | `:couple::skin-tone-16:`
-<img src="img-apple-64/1f469-1f3fd-200d-1f91d-200d-1f468-1f3fe.png" width="20" height="20" alt="couple"/> | `:couple::skin-tone-17:`
-<img src="img-apple-64/1f469-1f3fd-200d-1f91d-200d-1f468-1f3ff.png" width="20" height="20" alt="couple"/> | `:couple::skin-tone-18:`
-<img src="img-apple-64/1f469-1f3fe-200d-1f91d-200d-1f468-1f3fb.png" width="20" height="20" alt="couple"/> | `:couple::skin-tone-19:`
-<img src="img-apple-64/1f469-1f3fe-200d-1f91d-200d-1f468-1f3fc.png" width="20" height="20" alt="couple"/> | `:couple::skin-tone-20:`
-<img src="img-apple-64/1f469-1f3fe-200d-1f91d-200d-1f468-1f3fd.png" width="20" height="20" alt="couple"/> | `:couple::skin-tone-21:`
-<img src="img-apple-64/1f469-1f3fe-200d-1f91d-200d-1f468-1f3ff.png" width="20" height="20" alt="couple"/> | `:couple::skin-tone-22:`
-<img src="img-apple-64/1f469-1f3ff-200d-1f91d-200d-1f468-1f3fb.png" width="20" height="20" alt="couple"/> | `:couple::skin-tone-23:`
-<img src="img-apple-64/1f469-1f3ff-200d-1f91d-200d-1f468-1f3fc.png" width="20" height="20" alt="couple"/> | `:couple::skin-tone-24:`
-<img src="img-apple-64/1f469-1f3ff-200d-1f91d-200d-1f468-1f3fd.png" width="20" height="20" alt="couple"/> | `:couple::skin-tone-25:`
-<img src="img-apple-64/1f469-1f3ff-200d-1f91d-200d-1f468-1f3fe.png" width="20" height="20" alt="couple"/> | `:couple::skin-tone-26:`
-<img src="img-apple-64/1f46a.png" width="20" height="20" alt="family"/> | `:family:`, `:man-woman-boy:`
+<img src="img-apple-64/1f46b.png" width="20" height="20" alt="man_and_woman_holding_hands"/> | `:man_and_woman_holding_hands:`, `:woman_and_man_holding_hands:`, `:couple:`
+<img src="img-apple-64/1f46b-1f3fb.png" width="20" height="20" alt="man_and_woman_holding_hands"/> | `:man_and_woman_holding_hands::skin-tone-2:`
+<img src="img-apple-64/1f46b-1f3fc.png" width="20" height="20" alt="man_and_woman_holding_hands"/> | `:man_and_woman_holding_hands::skin-tone-3:`
+<img src="img-apple-64/1f46b-1f3fd.png" width="20" height="20" alt="man_and_woman_holding_hands"/> | `:man_and_woman_holding_hands::skin-tone-4:`
+<img src="img-apple-64/1f46b-1f3fe.png" width="20" height="20" alt="man_and_woman_holding_hands"/> | `:man_and_woman_holding_hands::skin-tone-5:`
+<img src="img-apple-64/1f46b-1f3ff.png" width="20" height="20" alt="man_and_woman_holding_hands"/> | `:man_and_woman_holding_hands::skin-tone-6:`
+<img src="img-apple-64/1f469-1f3fb-200d-1f91d-200d-1f468-1f3fc.png" width="20" height="20" alt="man_and_woman_holding_hands"/> | `:man_and_woman_holding_hands::skin-tone-7:`
+<img src="img-apple-64/1f469-1f3fb-200d-1f91d-200d-1f468-1f3fd.png" width="20" height="20" alt="man_and_woman_holding_hands"/> | `:man_and_woman_holding_hands::skin-tone-8:`
+<img src="img-apple-64/1f469-1f3fb-200d-1f91d-200d-1f468-1f3fe.png" width="20" height="20" alt="man_and_woman_holding_hands"/> | `:man_and_woman_holding_hands::skin-tone-9:`
+<img src="img-apple-64/1f469-1f3fb-200d-1f91d-200d-1f468-1f3ff.png" width="20" height="20" alt="man_and_woman_holding_hands"/> | `:man_and_woman_holding_hands::skin-tone-10:`
+<img src="img-apple-64/1f469-1f3fc-200d-1f91d-200d-1f468-1f3fb.png" width="20" height="20" alt="man_and_woman_holding_hands"/> | `:man_and_woman_holding_hands::skin-tone-11:`
+<img src="img-apple-64/1f469-1f3fc-200d-1f91d-200d-1f468-1f3fd.png" width="20" height="20" alt="man_and_woman_holding_hands"/> | `:man_and_woman_holding_hands::skin-tone-12:`
+<img src="img-apple-64/1f469-1f3fc-200d-1f91d-200d-1f468-1f3fe.png" width="20" height="20" alt="man_and_woman_holding_hands"/> | `:man_and_woman_holding_hands::skin-tone-13:`
+<img src="img-apple-64/1f469-1f3fc-200d-1f91d-200d-1f468-1f3ff.png" width="20" height="20" alt="man_and_woman_holding_hands"/> | `:man_and_woman_holding_hands::skin-tone-14:`
+<img src="img-apple-64/1f469-1f3fd-200d-1f91d-200d-1f468-1f3fb.png" width="20" height="20" alt="man_and_woman_holding_hands"/> | `:man_and_woman_holding_hands::skin-tone-15:`
+<img src="img-apple-64/1f469-1f3fd-200d-1f91d-200d-1f468-1f3fc.png" width="20" height="20" alt="man_and_woman_holding_hands"/> | `:man_and_woman_holding_hands::skin-tone-16:`
+<img src="img-apple-64/1f469-1f3fd-200d-1f91d-200d-1f468-1f3fe.png" width="20" height="20" alt="man_and_woman_holding_hands"/> | `:man_and_woman_holding_hands::skin-tone-17:`
+<img src="img-apple-64/1f469-1f3fd-200d-1f91d-200d-1f468-1f3ff.png" width="20" height="20" alt="man_and_woman_holding_hands"/> | `:man_and_woman_holding_hands::skin-tone-18:`
+<img src="img-apple-64/1f469-1f3fe-200d-1f91d-200d-1f468-1f3fb.png" width="20" height="20" alt="man_and_woman_holding_hands"/> | `:man_and_woman_holding_hands::skin-tone-19:`
+<img src="img-apple-64/1f469-1f3fe-200d-1f91d-200d-1f468-1f3fc.png" width="20" height="20" alt="man_and_woman_holding_hands"/> | `:man_and_woman_holding_hands::skin-tone-20:`
+<img src="img-apple-64/1f469-1f3fe-200d-1f91d-200d-1f468-1f3fd.png" width="20" height="20" alt="man_and_woman_holding_hands"/> | `:man_and_woman_holding_hands::skin-tone-21:`
+<img src="img-apple-64/1f469-1f3fe-200d-1f91d-200d-1f468-1f3ff.png" width="20" height="20" alt="man_and_woman_holding_hands"/> | `:man_and_woman_holding_hands::skin-tone-22:`
+<img src="img-apple-64/1f469-1f3ff-200d-1f91d-200d-1f468-1f3fb.png" width="20" height="20" alt="man_and_woman_holding_hands"/> | `:man_and_woman_holding_hands::skin-tone-23:`
+<img src="img-apple-64/1f469-1f3ff-200d-1f91d-200d-1f468-1f3fc.png" width="20" height="20" alt="man_and_woman_holding_hands"/> | `:man_and_woman_holding_hands::skin-tone-24:`
+<img src="img-apple-64/1f469-1f3ff-200d-1f91d-200d-1f468-1f3fd.png" width="20" height="20" alt="man_and_woman_holding_hands"/> | `:man_and_woman_holding_hands::skin-tone-25:`
+<img src="img-apple-64/1f469-1f3ff-200d-1f91d-200d-1f468-1f3fe.png" width="20" height="20" alt="man_and_woman_holding_hands"/> | `:man_and_woman_holding_hands::skin-tone-26:`
+<img src="img-apple-64/1f46a.png" width="20" height="20" alt="family"/> | `:family:`
 <img src="img-apple-64/1f469.png" width="20" height="20" alt="woman"/> | `:woman:`
 <img src="img-apple-64/1f469-1f3fb.png" width="20" height="20" alt="woman"/> | `:woman::skin-tone-2:`
 <img src="img-apple-64/1f469-1f3fc.png" width="20" height="20" alt="woman"/> | `:woman::skin-tone-3:`
@@ -2213,7 +2213,7 @@ Emoji | Aliases
 <img src="img-apple-64/1f468-200d-1f469-200d-1f467-200d-1f466.png" width="20" height="20" alt="man-woman-girl-boy"/> | `:man-woman-girl-boy:`
 <img src="img-apple-64/1f468-200d-1f469-200d-1f467.png" width="20" height="20" alt="man-woman-girl"/> | `:man-woman-girl:`
 <img src="img-apple-64/1f468-200d-1f469-200d-1f466-200d-1f466.png" width="20" height="20" alt="man-woman-boy-boy"/> | `:man-woman-boy-boy:`
-<img src="img-apple-64/1f468-200d-1f469-200d-1f466.png" width="20" height="20" alt="man-woman-boy"/> | `:man-woman-boy:`, `:family:`
+<img src="img-apple-64/1f468-200d-1f469-200d-1f466.png" width="20" height="20" alt="man-woman-boy"/> | `:man-woman-boy:`
 <img src="img-apple-64/1f468-200d-1f468-200d-1f467-200d-1f467.png" width="20" height="20" alt="man-man-girl-girl"/> | `:man-man-girl-girl:`
 <img src="img-apple-64/1f468-200d-1f468-200d-1f467-200d-1f466.png" width="20" height="20" alt="man-man-girl-boy"/> | `:man-man-girl-boy:`
 <img src="img-apple-64/1f468-200d-1f468-200d-1f467.png" width="20" height="20" alt="man-man-girl"/> | `:man-man-girl:`
@@ -2571,7 +2571,7 @@ Emoji | Aliases
 <img src="img-apple-64/1f421.png" width="20" height="20" alt="blowfish"/> | `:blowfish:`
 <img src="img-apple-64/1f420.png" width="20" height="20" alt="tropical_fish"/> | `:tropical_fish:`
 <img src="img-apple-64/1f41f.png" width="20" height="20" alt="fish"/> | `:fish:`
-<img src="img-apple-64/1f41e.png" width="20" height="20" alt="beetle"/> | `:beetle:`
+<img src="img-apple-64/1f41e.png" width="20" height="20" alt="ladybug"/> | `:ladybug:`, `:lady_beetle:`
 <img src="img-apple-64/1f41d.png" width="20" height="20" alt="bee"/> | `:bee:`, `:honeybee:`
 <img src="img-apple-64/1f41c.png" width="20" height="20" alt="ant"/> | `:ant:`
 <img src="img-apple-64/1f41b.png" width="20" height="20" alt="bug"/> | `:bug:`
@@ -3816,6 +3816,7 @@ Emoji | Aliases
 <img src="img-apple-64/1f1e6-1f1ea.png" width="20" height="20" alt="flag-ae"/> | `:flag-ae:`
 <img src="img-apple-64/1f1e6-1f1e9.png" width="20" height="20" alt="flag-ad"/> | `:flag-ad:`
 <img src="img-apple-64/1f1e6-1f1e8.png" width="20" height="20" alt="flag-ac"/> | `:flag-ac:`
+
 
 ## License
 

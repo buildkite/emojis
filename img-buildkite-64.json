@@ -5,7 +5,7 @@
     "category": "Buildkite",
     "aliases": [
       "scw"
-	]
+    ]
   },
   {
     "name": "switch",
@@ -95,9 +95,7 @@
     "name": "mongodb",
     "image": "img-buildkite-64/mongodb.png",
     "category": "Buildkite",
-    "aliases": [
-      "mongodb"
-    ]
+    "aliases": []
   },
   {
     "name": "repolinter",
