@@ -3,24 +3,43 @@
     "name": "postman",
     "image": "img-buildkite-64/postman.png",
     "category": "Buildkite",
-    "aliases": ["newman"]
+    "aliases": [
+      "newman"
+    ]
+  },
+  {
+    "name": "scaleway",
+    "image": "img-buildkite-64/scaleway.png",
+    "category": "Buildkite",
+    "aliases": [
+      "scw"
+    ]
+  },
+  {
+    "name": "mssql",
+    "image": "img-buildkite-64/mssql.png",
+    "category": "Buildkite",
+    "aliases": []
   },
   {
     "name": "switch",
     "image": "img-buildkite-64/switch.png",
     "category": "Buildkite",
     "aliases": []
-  },{
+  },
+  {
     "name": "trivy",
     "image": "img-buildkite-64/trivy.png",
     "category": "Buildkite",
     "aliases": []
-  },{
+  },
+  {
     "name": "komodor",
     "image": "img-buildkite-64/komodor.png",
     "category": "Buildkite",
     "aliases": []
-  },{
+  },
+  {
     "name": "tilt-dev",
     "image": "img-buildkite-64/tilt-dev.png",
     "category": "Buildkite",
@@ -90,9 +109,7 @@
     "name": "mongodb",
     "image": "img-buildkite-64/mongodb.png",
     "category": "Buildkite",
-    "aliases": [
-      "mongodb"
-    ]
+    "aliases": []
   },
   {
     "name": "repolinter",
