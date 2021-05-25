@@ -1,5 +1,13 @@
 [
   {
+    "name": "postman",
+    "image": "img-buildkite-64/postman.png",
+    "category": "Buildkite",
+    "aliases": [
+      "newman"
+    ]
+  },
+  {
     "name": "scaleway",
     "image": "img-buildkite-64/scaleway.png",
     "category": "Buildkite",
