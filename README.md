@@ -28,18 +28,19 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 Emoji | Aliases
 ----- | -------
 <img src="img-buildkite-64/scaleway.png" width="20" height="20" alt="scaleway" /> | `:scaleway:`, `:scw:`
-<img src="img-buildkite-64/switch.png" width="20" height="20" alt="switch" /> | `:switch:`
-<img src="img-buildkite-64/trivy.png" width="20" height="20" alt="trivy" /> | `:trivy:`
-<img src="img-buildkite-64/komodor.png" width="20" height="20" alt="komodor" /> | `:komodor:`
-<img src="img-buildkite-64/tilt-dev.png" width="20" height="20" alt="tilt-dev" /> | `:tilt-dev:`
-<img src="img-buildkite-64/elastic.png" width="20" height="20" alt="elastic" /> | `:elastic:`
-<img src="img-buildkite-64/elastic-kibana.png" width="20" height="20" alt="kibana" /> | `:kibana:`
-<img src="img-buildkite-64/playstation.png" width="20" height="20" alt="playstation" /> | `:playstation:`
-<img src="img-buildkite-64/xbox.png" width="20" height="20" alt="xbox" /> | `:xbox:`
-<img src="img-buildkite-64/shopify.png" width="20" height="20" alt="shopify" /> | `:shopify:`
-<img src="img-buildkite-64/database.png" width="20" height="20" alt="database" /> | `:database:`
-<img src="img-buildkite-64/dagster.png" width="20" height="20" alt="dagster" /> | `:dagster:`
-<img src="img-buildkite-64/cloudflare.png" width="20" height="20" alt="cloudflare" /> | `:cloudflare:`
+<img src="img-buildkite-64/mssql.png" width="20" height="20" alt="mssql"/> | `:mssql:`
+<img src="img-buildkite-64/switch.png" width="20" height="20" alt="switch"/> | `:switch:`
+<img src="img-buildkite-64/trivy.png" width="20" height="20" alt="trivy"/> | `:trivy:`
+<img src="img-buildkite-64/komodor.png" width="20" height="20" alt="komodor"/> | `:komodor:`
+<img src="img-buildkite-64/tilt-dev.png" width="20" height="20" alt="tilt-dev"/> | `:tilt-dev:`
+<img src="img-buildkite-64/elastic.png" width="20" height="20" alt="elastic"/> | `:elastic:`
+<img src="img-buildkite-64/elastic-kibana.png" width="20" height="20" alt="kibana"/> | `:kibana:`
+<img src="img-buildkite-64/xbox.png" width="20" height="20" alt="xbox"/> | `:xbox:`
+<img src="img-buildkite-64/playstation.png" width="20" height="20" alt="playstation"/> | `:playstation:`
+<img src="img-buildkite-64/shopify.png" width="20" height="20" alt="shopify"/> | `:shopify:`
+<img src="img-buildkite-64/database.png" width="20" height="20" alt="database"/> | `:database:`
+<img src="img-buildkite-64/dagster.png" width="20" height="20" alt="dagster"/> | `:dagster:`
+<img src="img-buildkite-64/cloudflare.png" width="20" height="20" alt="cloudflare"/> | `:cloudflare:`
 <img src="img-buildkite-64/copybara.png" width="20" height="20" alt="copybara"/> | `:copybara:`
 <img src="img-buildkite-64/spinnaker.png" width="20" height="20" alt="spinnaker"/> | `:spinnaker:`
 <img src="img-buildkite-64/mongodb.png" width="20" height="20" alt="mongodb"/> | `:mongodb:`
