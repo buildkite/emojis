@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/postman.png" width="20" height="20" alt="postman"/> | `:postman:`, `:newman:`
 <img src="img-buildkite-64/scaleway.png" width="20" height="20" alt="scaleway" /> | `:scaleway:`, `:scw:`
 <img src="img-buildkite-64/mssql.png" width="20" height="20" alt="mssql"/> | `:mssql:`
 <img src="img-buildkite-64/switch.png" width="20" height="20" alt="switch"/> | `:switch:`
