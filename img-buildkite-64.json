@@ -1,5 +1,11 @@
 [
   {
+    "name": "tableau",
+    "image": "img-buildkite-64/tableau.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "postman",
     "image": "img-buildkite-64/postman.png",
     "category": "Buildkite",
