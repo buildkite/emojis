@@ -1,5 +1,11 @@
 [
   {
+    "name": "browserstack",
+    "image": "img-buildkite-64/browserstack.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "postman",
     "image": "img-buildkite-64/postman.png",
     "category": "Buildkite",
