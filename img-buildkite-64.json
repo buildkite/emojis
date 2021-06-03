@@ -1,4 +1,10 @@
 [
+ {
+    "name": "tradespot",
+    "image": "img-buildkite-64/Tradespot.png",
+    "category": "Buildkite",
+    "aliases": []
+  }, 
   {
     "name": "postman",
     "image": "img-buildkite-64/postman.png",
