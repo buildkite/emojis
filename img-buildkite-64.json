@@ -1,5 +1,11 @@
 [
   {
+    "name": "selenium-gauge",
+    "image": "img-buildkite-64/selenium-gauge.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "postman",
     "image": "img-buildkite-64/postman.png",
     "category": "Buildkite",
