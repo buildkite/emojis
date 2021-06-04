@@ -1,5 +1,11 @@
 [
   {
+    "name": "faros",
+    "image": "img-buildkite-64/faros.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "k6",
     "image": "img-buildkite-64/k6.png",
     "category": "Buildkite",

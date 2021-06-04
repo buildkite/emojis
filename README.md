@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/faros.png" width="20" height="20" alt="faros"/> | `:faros:`
 <img src="img-buildkite-64/k6.png" width="20" height="20" alt="k6"/> | `:k6:`
 <img src="img-buildkite-64/browserstack.png" width="20" height="20" alt="browserstack"/> | `:browserstack:`
 <img src="img-buildkite-64/tableau.png" width="20" height="20" alt="tableau"/> | `:tableau:`
