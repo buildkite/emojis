@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/browserstack.png" width="20" height="20" alt="browserstack"/> | `:browserstack:`
 <img src="img-buildkite-64/tableau.png" width="20" height="20" alt="tableau"/> | `:tableau:`
 <img src="img-buildkite-64/selenium-gauge.png" width="20" height="20" alt="selenium-gauge"/> | `:selenium-gauge:`
 <img src="img-buildkite-64/visual-regression-tracker.png" width="20" height="20" alt="visual-regression-tracker"/> | `:visual-regression-tracker:`
