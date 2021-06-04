@@ -1,5 +1,11 @@
 [
   {
+    "name": "tableau",
+    "image": "img-buildkite-64/tableau.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "visual-regression-tracker",
     "image": "img-buildkite-64/visual-regression-tracker.png",
     "category": "Buildkite",
