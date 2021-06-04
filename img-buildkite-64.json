@@ -1,5 +1,11 @@
 [
   {
+    "name": "k6",
+    "image": "img-buildkite-64/k6.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "browserstack",
     "image": "img-buildkite-64/browserstack.png",
     "category": "Buildkite",
