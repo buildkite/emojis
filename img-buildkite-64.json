@@ -1,5 +1,11 @@
 [
   {
+    "name": "google-chat",
+    "image": "img-buildkite-64/google-chat.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "faros",
     "image": "img-buildkite-64/faros.png",
     "category": "Buildkite",
