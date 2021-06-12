@@ -300,6 +300,7 @@ broccoli
 broken_heart
 broom
 brown_heart
+browserstack
 brunch
 bubble_tea
 buck
@@ -651,6 +652,8 @@ eye-in-speech-bubble
 eyeglasses
 eyes
 fabric
+face_exhaling
+face_in_clouds
 face_palm
 face_vomiting
 face_with_cowboy_hat
@@ -662,6 +665,7 @@ face_with_one_eyebrow_raised
 face_with_open_mouth_vomiting
 face_with_raised_eyebrow
 face_with_rolling_eyes
+face_with_spiral_eyes
 face_with_symbols_on_mouth
 face_with_thermometer
 facepunch
@@ -672,6 +676,7 @@ falafel
 fallen_leaf
 family
 farmer
+faros
 fast_forward
 fastlane
 fax
@@ -1079,6 +1084,7 @@ golangci-lint
 golf
 golfer
 google-apps-script
+google-chat
 google-closure-compiler
 googlecloud
 gorilla
@@ -1136,6 +1142,7 @@ heart
 heart_decoration
 heart_eyes
 heart_eyes_cat
+heart_on_fire
 heartbeat
 heartpulse
 hearts
@@ -1248,6 +1255,7 @@ juggling
 julia
 junit
 jupyter
+k6
 k8s
 kaaba
 kafka
@@ -1465,6 +1473,7 @@ man_in_steamy_room
 man_in_tuxedo
 man_kneeling
 man_standing
+man_with_beard
 man_with_gua_pi_mao
 man_with_probing_cane
 man_with_turban
@@ -1490,7 +1499,9 @@ medical_symbol
 mega
 melon
 memo
+men-with-bunny-ears-partying
 men_holding_hands
+mending_heart
 menorah_with_nine_branches
 mens
 mermaid
@@ -1543,6 +1554,7 @@ mouse_trap
 movie_camera
 moyai
 mrs_claus
+mssql
 muscle
 mushroom
 musical_keyboard
@@ -1570,6 +1582,7 @@ neutral_face
 new
 new_moon
 new_moon_with_face
+newman
 newrelic
 newspaper
 nexus-iq
@@ -1754,6 +1767,7 @@ post_office
 postal_horn
 postbox
 postgres
+postman
 postmark
 potable_water
 potato
@@ -1912,6 +1926,7 @@ saxophone
 sbt
 scala
 scales
+scaleway
 scarf
 school
 school_satchel
@@ -1926,6 +1941,7 @@ scream_cat
 screwdriver
 scroll
 scsslint
+scw
 seal
 seat
 second_place_medal
@@ -1933,6 +1949,7 @@ secret
 see_no_evil
 seedling
 selenium
+selenium-gauge
 selfie
 semgrep
 sentry
@@ -2119,6 +2136,7 @@ synagogue
 syringe
 t-rex
 table_tennis_paddle_and_ball
+tableau
 taco
 tada
 takeout_box
@@ -2250,6 +2268,7 @@ video_game
 violin
 virgo
 virtru
+visual-regression-tracker
 volcano
 volleyball
 vs
@@ -2359,11 +2378,13 @@ woman_in_steamy_room
 woman_in_tuxedo
 woman_kneeling
 woman_standing
+woman_with_beard
 woman_with_probing_cane
 woman_with_veil
 womans_clothes
 womans_flat_shoe
 womans_hat
+women-with-bunny-ears-partying
 women_holding_hands
 womens
 wood
