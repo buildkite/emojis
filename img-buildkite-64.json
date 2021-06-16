@@ -1,5 +1,11 @@
 [
   {
+    "name": "fastly",
+    "image": "img-buildkite-64/fastly.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "google-chat",
     "image": "img-buildkite-64/google-chat.png",
     "category": "Buildkite",
