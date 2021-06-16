@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-emoji-datasource-apple@7.0.1:
-  version "7.0.1"
-  resolved "https://registry.yarnpkg.com/emoji-datasource-apple/-/emoji-datasource-apple-7.0.1.tgz#49e871632241064831c239493c2f44ca474e3e01"
-  integrity sha512-k4eW7h28fy4gCFMeg/kkCjzvF3EjG0UqjU/wWNCXN65EQOSX8iPSF9MpATvcod5CpuRa2vVk0v58d9IMMhy4EQ==
+emoji-datasource-apple@7.0.2:
+  version "7.0.2"
+  resolved "https://registry.yarnpkg.com/emoji-datasource-apple/-/emoji-datasource-apple-7.0.2.tgz#20ba1788fbfa335147e1fd27bd54e11419964aa6"
+  integrity sha512-m127Ybt10utN5WF+0mehR2siDTh4CcS6N1Xq+0VE387XIZB+DYczrvc7amgAgEtema0lX1GpVzO2wEXKEChfqQ==
