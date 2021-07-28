@@ -1,5 +1,11 @@
 [
   {
+    "name": "playwright",
+    "image": "img-buildkite-64/playwright.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "fastly",
     "image": "img-buildkite-64/fastly.png",
     "category": "Buildkite",
