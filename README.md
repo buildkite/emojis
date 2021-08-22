@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/gitpod.png" width="20" height="20" alt="gitpod"/> | `:gitpod:`
 <img src="img-buildkite-64/playwright.png" width="20" height="20" alt="playwright"/> | `:playwright:`
 <img src="img-buildkite-64/fastly.png" width="20" height="20" alt="fastly"/> | `:fastly:`
 <img src="img-buildkite-64/google-chat.png" width="20" height="20" alt="google-chat"/> | `:google-chat:`

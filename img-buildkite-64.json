@@ -1,5 +1,11 @@
 [
   {
+    "name": "gitpod",
+    "image": "img-buildkite-64/gitpod.png",
+    "category": "Gitpod",
+    "aliases": []
+  },
+  {
     "name": "playwright",
     "image": "img-buildkite-64/playwright.png",
     "category": "Buildkite",
