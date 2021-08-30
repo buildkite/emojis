@@ -79,7 +79,7 @@ task :default do
   end
 
   if groups.keys.length > 0
-    raise "Now all groups were shown: `#{group.keys.inspect}`"
+    raise "Now all groups were shown: `#{groups.keys.inspect}`"
   end
 end
 
