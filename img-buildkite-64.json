@@ -8,7 +8,7 @@
   {
     "name": "gitpod",
     "image": "img-buildkite-64/gitpod.png",
-    "category": "Gitpod",
+    "category": "Buildkite",
     "aliases": []
   },
   {
