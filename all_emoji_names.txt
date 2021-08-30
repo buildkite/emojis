@@ -630,6 +630,7 @@ email
 ember
 emr
 end
+engflow
 enterprise_linux
 envelope
 envelope_with_arrow
@@ -679,6 +680,7 @@ farmer
 faros
 fast_forward
 fastlane
+fastly
 fax
 fearful
 feather
@@ -1066,6 +1068,7 @@ giraffe_face
 girl
 git
 github
+gitpod
 gitsby
 glass_of_milk
 glitch
@@ -1750,6 +1753,7 @@ placard
 place_of_worship
 plaidml
 playstation
+playwright
 pleading_face
 plunger
 podman
