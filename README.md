@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/aws-secretsmanager.png" width="20" height="20" alt="aws-secretsmanager"/> | `:aws-secretsmanager:`
 <img src="img-buildkite-64/engflow.png" width="20" height="20" alt="engflow"/> | `:engflow:`
 <img src="img-buildkite-64/gitpod.png" width="20" height="20" alt="gitpod"/> | `:gitpod:`
 <img src="img-buildkite-64/playwright.png" width="20" height="20" alt="playwright"/> | `:playwright:`

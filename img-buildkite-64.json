@@ -1,5 +1,11 @@
 [
   {
+    "name": "aws-secretsmanager",
+    "image": "img-buildkite-64/aws-secretsmanager.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "engflow",
     "image": "img-buildkite-64/engflow.png",
     "category": "Buildkite",
