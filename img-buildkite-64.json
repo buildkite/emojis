@@ -1,5 +1,19 @@
 [
   {
+    "name": "firewall",
+    "image": "img-buildkite-64/firewall.png",
+    "category": "Buildkite",
+    "aliases": [
+      "brick-wall"
+    ]
+  },
+  {
+    "name": "network",
+    "image": "img-buildkite-64/network.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "cmake",
     "image": "img-buildkite-64/cmake.png",
     "category": "Buildkite",
