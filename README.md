@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/arch.png" width="20" height="20" alt="arch"/> | `:arch:`
 <img src="img-buildkite-64/cmake.png" width="20" height="20" alt="cmake"/> | `:cmake:`
 <img src="img-buildkite-64/engflow.png" width="20" height="20" alt="engflow"/> | `:engflow:`
 <img src="img-buildkite-64/gitpod.png" width="20" height="20" alt="gitpod"/> | `:gitpod:`
