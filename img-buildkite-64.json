@@ -1,5 +1,11 @@
 [
   {
+    "name": "arch",
+    "image": "img-buildkite-64/arch.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "cmake",
     "image": "img-buildkite-64/cmake.png",
     "category": "Buildkite",
