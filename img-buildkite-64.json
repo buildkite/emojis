@@ -1,5 +1,11 @@
 [
   {
+    "name": "chronosphere",
+    "image": "img-buildkite-64/chronosphere.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "arch",
     "image": "img-buildkite-64/arch.png",
     "category": "Buildkite",
