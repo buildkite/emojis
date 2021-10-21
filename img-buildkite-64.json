@@ -1,5 +1,11 @@
 [
   {
+    "name": "vscode",
+    "image": "img-buildkite-64/vscode.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "chronosphere",
     "image": "img-buildkite-64/chronosphere.png",
     "category": "Buildkite",
