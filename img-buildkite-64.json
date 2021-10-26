@@ -1,5 +1,11 @@
 [
   {
+    "name": "gitguardian",
+    "image": "img-buildkite-64/gitguardian.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "vscode",
     "image": "img-buildkite-64/vscode.png",
     "category": "Buildkite",
