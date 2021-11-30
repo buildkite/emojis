@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/pre-commit.png" width="20" height="20" alt="pre-commit"/> | `:pre-commit:`
 <img src="img-buildkite-64/gitguardian.png" width="20" height="20" alt="gitguardian"/> | `:gitguardian:`
 <img src="img-buildkite-64/vscode.png" width="20" height="20" alt="vscode"/> | `:vscode:`
 <img src="img-buildkite-64/chronosphere.png" width="20" height="20" alt="chronosphere"/> | `:chronosphere:`
