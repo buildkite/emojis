@@ -1,5 +1,11 @@
 [
   {
+    "name": "pre-commit",
+    "image": "img-buildkite-64/pre-commit.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "gitguardian",
     "image": "img-buildkite-64/gitguardian.png",
     "category": "Buildkite",
