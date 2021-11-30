@@ -1,5 +1,11 @@
 [
   {
+    "name": "buf",
+    "image": "img-buildkite-64/buf.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "pre-commit",
     "image": "img-buildkite-64/pre-commit.png",
     "category": "Buildkite",
