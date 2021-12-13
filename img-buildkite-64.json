@@ -1,5 +1,11 @@
 [
   {
+    "name": "solhint",
+    "image": "img-buildkite-64/solhint.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "buf",
     "image": "img-buildkite-64/buf.png",
     "category": "Buildkite",
