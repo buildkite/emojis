@@ -1,5 +1,17 @@
 [
   {
+    "name": "nextjs",
+    "image": "img-buildkite-64/nextjs.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "pnpm",
+    "image": "img-buildkite-64/pnpm.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "solhint",
     "image": "img-buildkite-64/solhint.png",
     "category": "Buildkite",

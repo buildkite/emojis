@@ -27,6 +27,8 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/nextjs.png" width="20" height="20" alt="nextjs"> | `:nextjs:`
+<img src="img-buildkite-64/pnpm.png" width="20" height="20" alt="pnpm"> | `:pnpm:`
 <img src="img-buildkite-64/solhint.png" width="20" height="20" alt="solhint"/> | `:solhint:`
 <img src="img-buildkite-64/pre-commit.png" width="20" height="20" alt="pre-commit"/> | `:pre-commit:`
 <img src="img-buildkite-64/gitguardian.png" width="20" height="20" alt="gitguardian"/> | `:gitguardian:`
