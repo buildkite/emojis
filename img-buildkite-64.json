@@ -1,5 +1,11 @@
 [
   {
+    "name": "snyk",
+    "image": "img-buildkite-64/snyk.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "nextjs",
     "image": "img-buildkite-64/nextjs.png",
     "category": "Buildkite",
