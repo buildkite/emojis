@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/mpi.png" width="20" height="20" alt="mpi"> | `:mpi:`
 <img src="img-buildkite-64/snyk.png" width="20" height="20" alt="snyk"> | `:snyk:`
 <img src="img-buildkite-64/nextjs.png" width="20" height="20" alt="nextjs"> | `:nextjs:`
 <img src="img-buildkite-64/pnpm.png" width="20" height="20" alt="pnpm"> | `:pnpm:`

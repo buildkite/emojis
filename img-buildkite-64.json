@@ -1,5 +1,11 @@
 [
   {
+    "name": "mpi",
+    "image": "img-buildkite-64/mpi.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "snyk",
     "image": "img-buildkite-64/snyk.png",
     "category": "Buildkite",
