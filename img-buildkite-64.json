@@ -2624,7 +2624,7 @@
     "name": "amazon-eventbridge",
     "image": "img-buildkite-64/amazon-eventbridge.png",
     "category": "Buildkite",
-    "aliases": [ "eventbridge" ]
+    "aliases": ["eventbridge"]
   },
   {
     "name": "amazon-gamelift",
