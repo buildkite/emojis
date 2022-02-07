@@ -1,5 +1,11 @@
 [
   {
+    "name": "octopus-deploy",
+    "image": "img-buildkite-64/octopus-deploy.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "mpi",
     "image": "img-buildkite-64/mpi.png",
     "category": "Buildkite",
@@ -2618,7 +2624,7 @@
     "name": "amazon-eventbridge",
     "image": "img-buildkite-64/amazon-eventbridge.png",
     "category": "Buildkite",
-    "aliases": ["eventbridge"]
+    "aliases": [ "eventbridge" ]
   },
   {
     "name": "amazon-gamelift",
