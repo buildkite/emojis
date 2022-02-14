@@ -1,5 +1,11 @@
 [
   {
+    "name": "proto",
+    "image": "img-buildkite-64/proto.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "octopus-deploy",
     "image": "img-buildkite-64/octopus-deploy.png",
     "category": "Buildkite",
