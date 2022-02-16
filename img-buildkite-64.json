@@ -1,5 +1,13 @@
 [
   {
+    "name": "hermit",
+    "image": "img-buildkite-64/hermit.png",
+    "category": "Buildkite",
+    "aliases": [
+      "hermitise"
+    ]
+  },
+  {
     "name": "proto",
     "image": "img-buildkite-64/proto.png",
     "category": "Buildkite",

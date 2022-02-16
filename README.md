@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/hermit.png" width="20" height="20" alt="proto"> | `:hermit:`, `:hermitise:`
 <img src="img-buildkite-64/proto.png" width="20" height="20" alt="proto"> | `:proto:`
 <img src="img-buildkite-64/octopus-deploy.png" width="20" height="20" alt="octopus-deploy"> | `:octopus-deploy:`
 <img src="img-buildkite-64/mpi.png" width="20" height="20" alt="mpi"> | `:mpi:`
