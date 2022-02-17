@@ -1,5 +1,13 @@
 [
   {
+    "name": "hydrogen",
+    "image": "img-buildkite-64/hydrogen.png",
+    "category": "Buildkite",
+    "aliases": [
+      "h2"
+    ]
+  },
+  {
     "name": "hermit",
     "image": "img-buildkite-64/hermit.png",
     "category": "Buildkite",
