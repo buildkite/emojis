@@ -3051,5 +3051,11 @@
     "image": "img-buildkite-64/tauri.png",
     "category": "Buildkite",
     "aliases": []
+  },
+  {
+    "name": "kong",
+    "image": "img-buildkite-64/kong.png",
+    "category": "Buildkite",
+    "aliases": []
   }
 ]

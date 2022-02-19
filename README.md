@@ -507,6 +507,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/prometheus.png" width="20" height="20" alt="prometheus"/> | `:prometheus:`
 <img src="img-buildkite-64/hubspot.png" width="20" height="20" alt="hubspot"/> | `:hubspot:`
 <img src="img-buildkite-64/tauri.png" width="20" height="20" alt="tauri"/> | `:tauri:`
+<img src="img-buildkite-64/kong.png" width="20" height="20" alt="kong"/> | `:kong:`
 
 ### Smileys & Emotion
 
