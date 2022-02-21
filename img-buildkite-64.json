@@ -3057,5 +3057,11 @@
     "image": "img-buildkite-64/kong.png",
     "category": "Buildkite",
     "aliases": []
+  },
+  {
+    "name": "openapi",
+    "image": "img-buildkite-64/openapi.png",
+    "category": "Buildkite",
+    "aliases": []
   }
 ]
