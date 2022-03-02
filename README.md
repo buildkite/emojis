@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/terragrunt.png" width="20" height="20" alt="terragrunt"> | `:terragrunt:`
 <img src="img-buildkite-64/hydrogen.png" width="20" height="20" alt="hydrogen"> | `:hydrogen:`, `:h2:`
 <img src="img-buildkite-64/hermit.png" width="20" height="20" alt="hermit"> | `:hermit:`, `:hermitise:`
 <img src="img-buildkite-64/proto.png" width="20" height="20" alt="proto"> | `:proto:`
