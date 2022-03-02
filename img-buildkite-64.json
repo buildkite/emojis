@@ -1,5 +1,11 @@
 [
   {
+    "name": "terragrunt",
+    "image": "img-buildkite-64/terragrunt.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "hydrogen",
     "image": "img-buildkite-64/hydrogen.png",
     "category": "Buildkite",
