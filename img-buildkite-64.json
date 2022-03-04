@@ -142,6 +142,12 @@
     "aliases": []
   },
   {
+    "name": "flowerwork",
+    "image": "img-buildkite-64/flowerwork.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "k6",
     "image": "img-buildkite-64/k6.png",
     "category": "Buildkite",
