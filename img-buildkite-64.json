@@ -2070,6 +2070,12 @@
     "aliases": []
   },
   {
+    "name": "detox",
+    "image": "img-buildkite-64/detox.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "docker",
     "image": "img-buildkite-64/docker.png",
     "category": "Buildkite",
