@@ -88,6 +88,7 @@ appengine
 appium
 apple
 aquarius
+arch
 argo
 argo-cd
 argocd
@@ -214,6 +215,7 @@ batman
 battery
 bazel
 beach_with_umbrella
+beans
 bear
 bearded_person
 beaver
@@ -238,6 +240,7 @@ bird
 birthday
 bison
 bitbucket
+biting_lip
 bk-status-failed
 bk-status-passed
 bk-status-pending
@@ -303,8 +306,10 @@ brown_heart
 browserstack
 brunch
 bubble_tea
+bubbles
 buck
 bucket
+buf
 bug
 bugsnag
 building_construction
@@ -378,6 +383,7 @@ christmas_tree
 chromatic
 chrome
 chromium
+chronosphere
 church
 cinema
 circleci
@@ -436,6 +442,7 @@ cloudsmith
 cloudwatch
 clown_face
 clubs
+cmake
 cn
 coat
 cockroach
@@ -482,6 +489,7 @@ cool
 cop
 copybara
 copyright
+coral
 corn
 couch_and_lamp
 couple
@@ -505,6 +513,7 @@ crossed_fingers
 crossed_flags
 crossed_swords
 crown
+crutch
 cry
 crying_cat_face
 crystal
@@ -559,6 +568,7 @@ derelict_house_building
 desert
 desert_island
 desktop_computer
+detox
 diamond_shape_with_a_dot_inside
 diamonds
 disappointed
@@ -580,6 +590,7 @@ dolls
 dolphin
 door
 dotnet
+dotted_line_face
 double_vertical_bar
 doughnut
 dove_of_peace
@@ -628,6 +639,7 @@ elm
 elmlang
 email
 ember
+empty_nest
 emr
 end
 engflow
@@ -654,16 +666,20 @@ eyeglasses
 eyes
 fabric
 face_exhaling
+face_holding_back_tears
 face_in_clouds
 face_palm
 face_vomiting
 face_with_cowboy_hat
+face_with_diagonal_mouth
 face_with_finger_covering_closed_lips
 face_with_hand_over_mouth
 face_with_head_bandage
 face_with_monocle
 face_with_one_eyebrow_raised
+face_with_open_eyes_and_hand_over_mouth
 face_with_open_mouth_vomiting
+face_with_peeking_eye
 face_with_raised_eyebrow
 face_with_rolling_eyes
 face_with_spiral_eyes
@@ -1011,6 +1027,7 @@ flipper
 floppy_disk
 flowdock
 flower_playing_cards
+flowerwork
 flowtype
 fluentd
 flushed
@@ -1067,6 +1084,7 @@ gift_heart
 giraffe_face
 girl
 git
+gitguardian
 github
 gitpod
 gitsby
@@ -1113,6 +1131,7 @@ guide_dog
 guitar
 gulp
 gun
+h2
 habicat
 hadolint
 hadoop
@@ -1123,9 +1142,11 @@ haml-lang
 hammer
 hammer_and_pick
 hammer_and_wrench
+hamsa
 hamster
 hand
 hand_with_index_and_middle_fingers_crossed
+hand_with_index_finger_and_thumb_crossed
 handbag
 handball
 handshake
@@ -1145,6 +1166,7 @@ heart
 heart_decoration
 heart_eyes
 heart_eyes_cat
+heart_hands
 heart_on_fire
 heartbeat
 heartpulse
@@ -1152,6 +1174,7 @@ hearts
 heavy_check_mark
 heavy_division_sign
 heavy_dollar_sign
+heavy_equals_sign
 heavy_exclamation_mark
 heavy_heart_exclamation_mark_ornament
 heavy_minus_sign
@@ -1162,6 +1185,8 @@ helicopter
 helm
 helmet_with_white_cross
 herb
+hermit
+hermitise
 heroku
 hex
 hibiscus
@@ -1201,6 +1226,7 @@ hugo
 hurtrealbad
 hushed
 hut
+hydrogen
 hyper
 i_love_you_hand_sign
 ice_cream
@@ -1209,11 +1235,13 @@ ice_hockey_stick_and_puck
 ice_skate
 icecream
 id
+identification_card
 ideograph_advantage
 ie
 imp
 inbox_tray
 incoming_envelope
+index_pointing_at_the_viewer
 infinity
 information_desk_person
 information_source
@@ -1231,6 +1259,7 @@ japan
 japanese_castle
 japanese_goblin
 japanese_ogre
+jar
 jasmine
 java
 javascript
@@ -1290,6 +1319,7 @@ knot
 koala
 koko
 komodor
+kong
 kotlin
 kr
 kubernetes
@@ -1328,6 +1358,7 @@ left_luggage
 left_right_arrow
 left_speech_bubble
 leftwards_arrow_with_hook
+leftwards_hand
 leg
 lemon
 lendinghome
@@ -1360,10 +1391,12 @@ long_drum
 looker
 loop
 lotion_bottle
+lotus
 loud_sound
 loudspeaker
 love_hotel
 love_letter
+low_battery
 low_brightness
 lower_left_ballpoint_pen
 lower_left_crayon
@@ -1501,6 +1534,7 @@ medal
 medical_symbol
 mega
 melon
+melting_face
 memo
 men-with-bunny-ears-partying
 men_holding_hands
@@ -1525,6 +1559,7 @@ mina
 minibus
 minidisc
 mirror
+mirror_ball
 mobile_phone_off
 mocha
 money_mouth_face
@@ -1556,6 +1591,7 @@ mouse2
 mouse_trap
 movie_camera
 moyai
+mpi
 mrs_claus
 mssql
 muscle
@@ -1579,6 +1615,7 @@ necktie
 negative_squared_cross_mark
 neo4j
 nerd_face
+nest_with_eggs
 nesting_dolls
 netbsd
 neutral_face
@@ -1588,6 +1625,7 @@ new_moon_with_face
 newman
 newrelic
 newspaper
+nextjs
 nexus-iq
 ng
 nginx
@@ -1625,6 +1663,7 @@ ocean
 octagonal_sign
 octocat
 octopus
+octopus-deploy
 oden
 office
 office_worker
@@ -1651,6 +1690,7 @@ open_book
 open_file_folder
 open_hands
 open_mouth
+openapi
 openbsd
 openpolicyagent
 ophiuchus
@@ -1674,7 +1714,9 @@ page_facing_up
 page_with_curl
 pager
 pagerduty
+palm_down_hand
 palm_tree
+palm_up_hand
 palms_up_together
 pancakes
 panda_face
@@ -1718,6 +1760,7 @@ person_in_steamy_room
 person_in_tuxedo
 person_with_ball
 person_with_blond_hair
+person_with_crown
 person_with_headscarf
 person_with_pouting_face
 person_with_probing_cane
@@ -1752,10 +1795,12 @@ pizza
 placard
 place_of_worship
 plaidml
+playground_slide
 playstation
 playwright
 pleading_face
 plunger
+pnpm
 podman
 point_down
 point_left
@@ -1779,9 +1824,13 @@ potted_plant
 pouch
 poultry_leg
 pound
+pouring_liquid
 pouting_cat
 pray
 prayer_beads
+pre-commit
+pregnant_man
+pregnant_person
 pregnant_woman
 prettier
 pretzel
@@ -1790,6 +1839,7 @@ princess
 printer
 probing_cane
 prometheus
+proto
 protractor
 pulumi
 punch
@@ -1873,7 +1923,9 @@ rice_cracker
 rice_scene
 right-facing_fist
 right_anger_bubble
+rightwards_hand
 ring
+ring_buoy
 ringed_planet
 robot_face
 rock
@@ -1916,6 +1968,7 @@ sailboat
 sake
 salesforce
 salt
+saluting_face
 sandal
 sandwich
 santa
@@ -2042,11 +2095,13 @@ snowflake-db
 snowman
 snowman_without_snow
 snowsql
+snyk
 soap
 sob
 soccer
 socks
 softball
+solhint
 sonarcloud
 sonarqube
 soon
@@ -2164,6 +2219,7 @@ tensorflow
 tent
 terminal
 terraform
+terragrunt
 test-kitchen
 test_tube
 testflight
@@ -2215,6 +2271,7 @@ triangular_ruler
 trident
 triumph
 trivy
+troll
 troll
 trolleybus
 trollface
@@ -2276,6 +2333,7 @@ visual-regression-tracker
 volcano
 volleyball
 vs
+vscode
 vue
 waffle
 walking
@@ -2306,6 +2364,7 @@ wedding
 weight_lifter
 whale
 whale2
+wheel
 wheel_of_dharma
 wheelchair
 white_check_mark
@@ -2402,6 +2461,7 @@ wrench
 wrestlers
 writing_hand
 x
+x-ray
 xbox
 xcode
 xcode_simulator
