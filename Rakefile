@@ -94,7 +94,8 @@ task :verify do
     'llama',
     'man-woman-boy',
     'man_in_tuxedo',
-    'yarn'
+    'yarn',
+    'troll',
   ]
 
   emoji_names = []
