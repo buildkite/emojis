@@ -42,6 +42,7 @@ amazon-ec2
 amazon-ec2systemsmanager
 amazon-ecs
 amazon-efs
+amazon-eks
 amazon-elasticcache
 amazon-elastictranscoder
 amazon-emr
@@ -83,7 +84,10 @@ anka
 ansible
 ant
 apache
+apache_flink
 apex
+api-extractor
+appcenter
 appengine
 appium
 apple
@@ -118,6 +122,7 @@ articulated_lorry
 artifactory
 artist
 asciidoctor
+aspect
 assurance
 astonished
 astronaut
@@ -126,6 +131,7 @@ atlassian
 atlassian-bitbucket
 atlassian-confluence
 atlassian-jira
+atlassian-opsgenie
 atm
 atom_symbol
 auditjs
@@ -179,6 +185,7 @@ baby_bottle
 baby_chick
 baby_symbol
 back
+backstage
 bacon
 badger
 badminton_racquet_and_shuttlecock
@@ -242,6 +249,7 @@ bison
 bitbucket
 biting_lip
 bk-status-failed
+bk-status-failing
 bk-status-passed
 bk-status-pending
 bk-status-running
@@ -312,8 +320,11 @@ bucket
 buf
 bug
 bugsnag
+buildah
+buildbuddy
 building_construction
 buildkite
+buildpacks
 bulb
 bullettrain_front
 bullettrain_side
@@ -625,7 +636,12 @@ eight
 eight_pointed_black_star
 eight_spoked_asterisk
 eject
+eks
 elastic
+elastic-cloud
+elastic-cloud-enterprise
+elastic-cloud-kubernetes
+elastic-stack
 elasticbeanstalk
 elasticloadbalancing
 elasticsearch
@@ -1023,6 +1039,7 @@ flamingo
 flashlight
 flatbread
 fleur_de_lis
+flink
 flipper
 floppy_disk
 flowdock
@@ -1267,6 +1284,7 @@ jeans
 jekyll
 jenkins
 jest
+jetpack
 jfrog
 jfrog-artifactory
 jfrog-conan
@@ -1327,6 +1345,7 @@ lab_coat
 label
 lacrosse
 ladder
+ladle
 lady_beetle
 ladybug
 lambda
@@ -1657,6 +1676,7 @@ notes
 npm
 nsp
 nut_and_bolt
+nx
 o
 o2
 ocean
@@ -1695,10 +1715,13 @@ openbsd
 openpolicyagent
 ophiuchus
 opscode
+opsgenie
+or
 oracle_linux
 orange_book
 orange_heart
 orangutan
+organicresponse
 orthodox_cross
 otter
 outbox_tray
@@ -1720,6 +1743,8 @@ palm_up_hand
 palms_up_together
 pancakes
 panda_face
+pants
+pantsbuild
 paperclip
 parachute
 parcel
@@ -1795,6 +1820,7 @@ pizza
 placard
 place_of_worship
 plaidml
+planetscale
 playground_slide
 playstation
 playwright
@@ -1852,6 +1878,7 @@ put_litter_in_its_place
 pytest
 python
 python-black
+qemu
 quay
 quay.io
 question
@@ -1968,6 +1995,7 @@ sailboat
 sake
 salesforce
 salt
+salus
 saluting_face
 sandal
 sandwich
@@ -2134,6 +2162,7 @@ sports_medal
 sqlite
 squid
 srb
+sst
 stadium
 standing_person
 star
@@ -2220,6 +2249,7 @@ tent
 terminal
 terraform
 terragrunt
+test-analytics
 test-kitchen
 test_tube
 testflight
@@ -2269,6 +2299,7 @@ travisci
 triangular_flag_on_post
 triangular_ruler
 trident
+triple-green-shell
 triumph
 trivy
 troll
@@ -2330,6 +2361,8 @@ violin
 virgo
 virtru
 visual-regression-tracker
+vite
+vitest
 volcano
 volleyball
 vs
