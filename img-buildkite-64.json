@@ -2638,7 +2638,9 @@
     "name": "amazon-eks",
     "image": "img-buildkite-64/amazon-eks.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": [
+      "eks"
+    ]
   },
   {
     "name": "amazon-elasticcache",
