@@ -2635,6 +2635,12 @@
     "aliases": []
   },
   {
+    "name": "amazon-eks",
+    "image": "img-buildkite-64/amazon-eks.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "amazon-elasticcache",
     "image": "img-buildkite-64/amazon-elasticcache.png",
     "category": "Buildkite",
