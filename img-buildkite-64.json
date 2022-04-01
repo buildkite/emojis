@@ -1,5 +1,11 @@
 [
   {
+    "name": "backstage",
+    "image": "img-buildkite-64/backstage.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "terragrunt",
     "image": "img-buildkite-64/terragrunt.png",
     "category": "Buildkite",
@@ -9,17 +15,13 @@
     "name": "hydrogen",
     "image": "img-buildkite-64/hydrogen.png",
     "category": "Buildkite",
-    "aliases": [
-      "h2"
-    ]
+    "aliases": ["h2"]
   },
   {
     "name": "hermit",
     "image": "img-buildkite-64/hermit.png",
     "category": "Buildkite",
-    "aliases": [
-      "hermitise"
-    ]
+    "aliases": ["hermitise"]
   },
   {
     "name": "proto",
@@ -181,17 +183,13 @@
     "name": "postman",
     "image": "img-buildkite-64/postman.png",
     "category": "Buildkite",
-    "aliases": [
-      "newman"
-    ]
+    "aliases": ["newman"]
   },
   {
     "name": "scaleway",
     "image": "img-buildkite-64/scaleway.png",
     "category": "Buildkite",
-    "aliases": [
-      "scw"
-    ]
+    "aliases": ["scw"]
   },
   {
     "name": "mssql",
@@ -305,9 +303,7 @@
     "name": "pinterest-teletraan",
     "image": "img-buildkite-64/pinterest-teletraan.png",
     "category": "Buildkite",
-    "aliases": [
-      "teletraan"
-    ]
+    "aliases": ["teletraan"]
   },
   {
     "name": "github",
@@ -349,9 +345,7 @@
     "name": "home-assistant",
     "image": "img-buildkite-64/home-assistant.png",
     "category": "Buildkite",
-    "aliases": [
-      "hass"
-    ]
+    "aliases": ["hass"]
   },
   {
     "name": "nexus-iq",
@@ -573,9 +567,7 @@
     "name": "snowflake-db",
     "image": "img-buildkite-64/snowflake-db.png",
     "category": "Buildkite",
-    "aliases": [
-      "snowsql"
-    ]
+    "aliases": ["snowsql"]
   },
   {
     "name": "dbt",
@@ -635,17 +627,13 @@
     "name": "karate",
     "image": "img-buildkite-64/karate.png",
     "category": "Buildkite",
-    "aliases": [
-      "karate-api"
-    ]
+    "aliases": ["karate-api"]
   },
   {
     "name": "codeception",
     "image": "img-buildkite-64/codeception.png",
     "category": "Buildkite",
-    "aliases": [
-      "codecept"
-    ]
+    "aliases": ["codecept"]
   },
   {
     "name": "phpstan",
@@ -681,9 +669,7 @@
     "name": "subversion",
     "image": "img-buildkite-64/subversion.png",
     "category": "Buildkite",
-    "aliases": [
-      "svn"
-    ]
+    "aliases": ["svn"]
   },
   {
     "name": "batfish",
@@ -695,25 +681,19 @@
     "name": "atlassian-confluence",
     "image": "img-buildkite-64/atlassian-confluence.png",
     "category": "Buildkite",
-    "aliases": [
-      "confluence"
-    ]
+    "aliases": ["confluence"]
   },
   {
     "name": "atlassian-bitbucket",
     "image": "img-buildkite-64/atlassian-bitbucket.png",
     "category": "Buildkite",
-    "aliases": [
-      "bitbucket"
-    ]
+    "aliases": ["bitbucket"]
   },
   {
     "name": "atlassian-jira",
     "image": "img-buildkite-64/atlassian-jira.png",
     "category": "Buildkite",
-    "aliases": [
-      "jira"
-    ]
+    "aliases": ["jira"]
   },
   {
     "name": "atlassian",
@@ -791,10 +771,7 @@
     "name": "jfrog-conan",
     "image": "img-buildkite-64/jfrog-conan.png",
     "category": "Buildkite",
-    "aliases": [
-      "conan",
-      "conanio"
-    ]
+    "aliases": ["conan", "conanio"]
   },
   {
     "name": "jfrog",
@@ -806,9 +783,7 @@
     "name": "jfrog-artifactory",
     "image": "img-buildkite-64/jfrog-artifactory.png",
     "category": "Buildkite",
-    "aliases": [
-      "artifactory"
-    ]
+    "aliases": ["artifactory"]
   },
   {
     "name": "jfrog-xray",
@@ -820,10 +795,7 @@
     "name": "cpp",
     "image": "img-buildkite-64/cpp.png",
     "category": "Buildkite",
-    "aliases": [
-      "cplusplus",
-      "c++"
-    ]
+    "aliases": ["cplusplus", "c++"]
   },
   {
     "name": "jenkins",
@@ -853,10 +825,7 @@
     "name": "argo",
     "image": "img-buildkite-64/argo.png",
     "category": "Buildkite",
-    "aliases": [
-      "argocd",
-      "argo-cd"
-    ]
+    "aliases": ["argocd", "argo-cd"]
   },
   {
     "name": "bandit",
@@ -922,9 +891,7 @@
     "name": "sorbet",
     "image": "img-buildkite-64/sorbet.png",
     "category": "Buildkite",
-    "aliases": [
-      "srb"
-    ]
+    "aliases": ["srb"]
   },
   {
     "name": "sonarqube",
@@ -936,9 +903,7 @@
     "name": "wasm",
     "image": "img-buildkite-64/wasm.png",
     "category": "Buildkite",
-    "aliases": [
-      "webassembly"
-    ]
+    "aliases": ["webassembly"]
   },
   {
     "name": "hbase",
@@ -980,9 +945,7 @@
     "name": "test-kitchen",
     "image": "img-buildkite-64/test-kitchen.png",
     "category": "Buildkite",
-    "aliases": [
-      "kitchen-ci"
-    ]
+    "aliases": ["kitchen-ci"]
   },
   {
     "name": "gatsby",
@@ -1024,9 +987,7 @@
     "name": "haskell",
     "image": "img-buildkite-64/haskell.png",
     "category": "Buildkite",
-    "aliases": [
-      "hs"
-    ]
+    "aliases": ["hs"]
   },
   {
     "name": "gradle",
@@ -1092,9 +1053,7 @@
     "name": "nix",
     "image": "img-buildkite-64/nix.png",
     "category": "Buildkite",
-    "aliases": [
-      "nixos"
-    ]
+    "aliases": ["nixos"]
   },
   {
     "name": "glitch",
@@ -1106,25 +1065,19 @@
     "name": "fly-io",
     "image": "img-buildkite-64/fly-io.png",
     "category": "Buildkite",
-    "aliases": [
-      "superfly"
-    ]
+    "aliases": ["superfly"]
   },
   {
     "name": "lint-roller",
     "image": "img-buildkite-64/lint-roller.png",
     "category": "Buildkite",
-    "aliases": [
-      "lint-remover"
-    ]
+    "aliases": ["lint-remover"]
   },
   {
     "name": "salesforce",
     "image": "img-buildkite-64/salesforce.png",
     "category": "Buildkite",
-    "aliases": [
-      "sfdx"
-    ]
+    "aliases": ["sfdx"]
   },
   {
     "name": "esdoc",
@@ -1166,9 +1119,7 @@
     "name": "ember",
     "image": "img-buildkite-64/ember.png",
     "category": "Buildkite",
-    "aliases": [
-      "tomster"
-    ]
+    "aliases": ["tomster"]
   },
   {
     "name": "angular",
@@ -1198,9 +1149,7 @@
     "name": "m3db",
     "image": "img-buildkite-64/m3db.png",
     "category": "Buildkite",
-    "aliases": [
-      "m3"
-    ]
+    "aliases": ["m3"]
   },
   {
     "name": "yaml",
@@ -1230,17 +1179,13 @@
     "name": "hugo",
     "image": "img-buildkite-64/hugo.png",
     "category": "Buildkite",
-    "aliases": [
-      "gohugo"
-    ]
+    "aliases": ["gohugo"]
   },
   {
     "name": "ie",
     "image": "img-buildkite-64/ie.png",
     "category": "Buildkite",
-    "aliases": [
-      "internet_explorer"
-    ]
+    "aliases": ["internet_explorer"]
   },
   {
     "name": "medical_symbol",
@@ -1264,18 +1209,13 @@
     "name": "chef",
     "image": "img-buildkite-64/chef-logo.png",
     "category": "Buildkite",
-    "aliases": [
-      "opscode",
-      "chef-logo"
-    ]
+    "aliases": ["opscode", "chef-logo"]
   },
   {
     "name": "inspec",
     "image": "img-buildkite-64/chef-inspec.png",
     "category": "Buildkite",
-    "aliases": [
-      "chef-inspec"
-    ]
+    "aliases": ["chef-inspec"]
   },
   {
     "name": "hyper",
@@ -1305,9 +1245,7 @@
     "name": "nodesecurity",
     "image": "img-buildkite-64/nsp.png",
     "category": "Buildkite",
-    "aliases": [
-      "nsp"
-    ]
+    "aliases": ["nsp"]
   },
   {
     "name": "quick",
@@ -1337,25 +1275,19 @@
     "name": "edge",
     "image": "img-buildkite-64/edge.png",
     "category": "Buildkite",
-    "aliases": [
-      "microsoftedge"
-    ]
+    "aliases": ["microsoftedge"]
   },
   {
     "name": "clojure",
     "image": "img-buildkite-64/clojure.png",
     "category": "Buildkite",
-    "aliases": [
-      "clj"
-    ]
+    "aliases": ["clj"]
   },
   {
     "name": "clojurescript",
     "image": "img-buildkite-64/clojurescript.png",
     "category": "Buildkite",
-    "aliases": [
-      "cljs"
-    ]
+    "aliases": ["cljs"]
   },
   {
     "name": "suitest",
@@ -1385,9 +1317,7 @@
     "name": "markdown",
     "image": "img-buildkite-64/markdown.png",
     "category": "Buildkite",
-    "aliases": [
-      "md"
-    ]
+    "aliases": ["md"]
   },
   {
     "name": "relay",
@@ -1477,9 +1407,7 @@
     "name": "stryker",
     "image": "img-buildkite-64/stryker.png",
     "category": "Buildkite",
-    "aliases": [
-      "stryker-js"
-    ]
+    "aliases": ["stryker-js"]
   },
   {
     "name": "bash",
@@ -1509,25 +1437,19 @@
     "name": "maven",
     "image": "img-buildkite-64/maven.png",
     "category": "Buildkite",
-    "aliases": [
-      "mvn"
-    ]
+    "aliases": ["mvn"]
   },
   {
     "name": "closure-compiler",
     "image": "img-buildkite-64/closure-compiler.png",
     "category": "Buildkite",
-    "aliases": [
-      "google-closure-compiler"
-    ]
+    "aliases": ["google-closure-compiler"]
   },
   {
     "name": "storybook",
     "image": "img-buildkite-64/storybook.png",
     "category": "Buildkite",
-    "aliases": [
-      "react-storybook"
-    ]
+    "aliases": ["react-storybook"]
   },
   {
     "name": "chromium",
@@ -1551,25 +1473,19 @@
     "name": "cargo",
     "image": "img-buildkite-64/cargo.png",
     "category": "Buildkite",
-    "aliases": [
-      "crates"
-    ]
+    "aliases": ["crates"]
   },
   {
     "name": "rust",
     "image": "img-buildkite-64/rust.png",
     "category": "Buildkite",
-    "aliases": [
-      "rustlang"
-    ]
+    "aliases": ["rustlang"]
   },
   {
     "name": "kubernetes",
     "image": "img-buildkite-64/kubernetes.png",
     "category": "Buildkite",
-    "aliases": [
-      "k8s"
-    ]
+    "aliases": ["k8s"]
   },
   {
     "name": "spark",
@@ -1617,25 +1533,19 @@
     "name": "civicrm",
     "image": "img-buildkite-64/civicrm.png",
     "category": "Buildkite",
-    "aliases": [
-      "civi"
-    ]
+    "aliases": ["civi"]
   },
   {
     "name": "html-proofer",
     "image": "img-buildkite-64/html.png",
     "category": "Buildkite",
-    "aliases": [
-      "html"
-    ]
+    "aliases": ["html"]
   },
   {
     "name": "haml",
     "image": "img-buildkite-64/haml.png",
     "category": "Buildkite",
-    "aliases": [
-      "haml-lang"
-    ]
+    "aliases": ["haml-lang"]
   },
   {
     "name": "akamai",
@@ -1653,9 +1563,7 @@
     "name": "yarn",
     "image": "img-buildkite-64/yarn.png",
     "category": "Buildkite",
-    "aliases": [
-      "yarnpkg"
-    ]
+    "aliases": ["yarnpkg"]
   },
   {
     "name": "looker",
@@ -1853,9 +1761,7 @@
     "name": "aws",
     "image": "img-buildkite-64/aws.png",
     "category": "Buildkite",
-    "aliases": [
-      "amazon-aws"
-    ]
+    "aliases": ["amazon-aws"]
   },
   {
     "name": "mocha",
@@ -1909,9 +1815,7 @@
     "name": "javascript",
     "image": "img-buildkite-64/javascript.png",
     "category": "Buildkite",
-    "aliases": [
-      "js"
-    ]
+    "aliases": ["js"]
   },
   {
     "name": "typescript",
@@ -1941,9 +1845,7 @@
     "name": "pipeline",
     "image": "img-buildkite-64/pipeline.png",
     "category": "Buildkite",
-    "aliases": [
-      "pipeline_upload"
-    ]
+    "aliases": ["pipeline_upload"]
   },
   {
     "name": "allthethings",
@@ -1961,9 +1863,7 @@
     "name": "appengine",
     "image": "img-buildkite-64/appengine.png",
     "category": "Buildkite",
-    "aliases": [
-      "gappengine"
-    ]
+    "aliases": ["gappengine"]
   },
   {
     "name": "basecamp",
@@ -2041,19 +1941,13 @@
     "name": "compute",
     "image": "img-buildkite-64/compute.png",
     "category": "Buildkite",
-    "aliases": [
-      "gcompute"
-    ]
+    "aliases": ["gcompute"]
   },
   {
     "name": "cucumber",
     "image": "img-buildkite-64/cucumber.png",
     "category": "Buildkite",
-    "aliases": [
-      "cucumber-io",
-      "cucumber-open",
-      "cucumber-studio"
-    ]
+    "aliases": ["cucumber-io", "cucumber-open", "cucumber-studio"]
   },
   {
     "name": "datadog",
@@ -2065,9 +1959,7 @@
     "name": "datocms",
     "image": "img-buildkite-64/datocms.png",
     "category": "Buildkite",
-    "aliases": [
-      "dato"
-    ]
+    "aliases": ["dato"]
   },
   {
     "name": "debian",
@@ -2157,17 +2049,13 @@
     "name": "golang",
     "image": "img-buildkite-64/golang.png",
     "category": "Buildkite",
-    "aliases": [
-      "go"
-    ]
+    "aliases": ["go"]
   },
   {
     "name": "googlecloud",
     "image": "img-buildkite-64/googlecloud.png",
     "category": "Buildkite",
-    "aliases": [
-      "gcloud"
-    ]
+    "aliases": ["gcloud"]
   },
   {
     "name": "green_button",
@@ -2215,18 +2103,13 @@
     "name": "llama",
     "image": "img-buildkite-64/llama.png",
     "category": "Buildkite",
-    "aliases": [
-      "lox-llama"
-    ]
+    "aliases": ["lox-llama"]
   },
   {
     "name": "mac",
     "image": "img-buildkite-64/mac.png",
     "category": "Buildkite",
-    "aliases": [
-      "darwin",
-      "macos"
-    ]
+    "aliases": ["darwin", "macos"]
   },
   {
     "name": "metal",
@@ -2262,10 +2145,7 @@
     "name": "node",
     "image": "img-buildkite-64/node.png",
     "category": "Buildkite",
-    "aliases": [
-      "node_js",
-      "nodejs"
-    ]
+    "aliases": ["node_js", "nodejs"]
   },
   {
     "name": "npm",
@@ -2289,9 +2169,7 @@
     "name": "packagecloud",
     "image": "img-buildkite-64/packagecloud.png",
     "category": "Buildkite",
-    "aliases": [
-      "package_cloud"
-    ]
+    "aliases": ["package_cloud"]
   },
   {
     "name": "php",
@@ -2339,10 +2217,7 @@
     "name": "redhat",
     "image": "img-buildkite-64/redhat.png",
     "category": "Buildkite",
-    "aliases": [
-      "rhel",
-      "enterprise_linux"
-    ]
+    "aliases": ["rhel", "enterprise_linux"]
   },
   {
     "name": "route53",
@@ -2420,17 +2295,13 @@
     "name": "terminal",
     "image": "img-buildkite-64/terminal.png",
     "category": "Buildkite",
-    "aliases": [
-      "console"
-    ]
+    "aliases": ["console"]
   },
   {
     "name": "trollface",
     "image": "img-buildkite-64/trollface.png",
     "category": "Buildkite",
-    "aliases": [
-      "troll"
-    ]
+    "aliases": ["troll"]
   },
   {
     "name": "ubuntu",
@@ -2442,9 +2313,7 @@
     "name": "parcel",
     "image": "img-buildkite-64/parcel.png",
     "category": "Buildkite",
-    "aliases": [
-      "parcel-bundler"
-    ]
+    "aliases": ["parcel-bundler"]
   },
   {
     "name": "webpack",
@@ -2462,9 +2331,7 @@
     "name": "quay",
     "image": "img-buildkite-64/quay.png",
     "category": "Buildkite",
-    "aliases": [
-      "quay.io"
-    ]
+    "aliases": ["quay.io"]
   },
   {
     "name": "wraith",
@@ -2476,9 +2343,7 @@
     "name": "elm",
     "image": "img-buildkite-64/elm.png",
     "category": "Buildkite",
-    "aliases": [
-      "elmlang"
-    ]
+    "aliases": ["elmlang"]
   },
   {
     "name": "exploding_death_star",
@@ -2514,9 +2379,7 @@
     "name": "cypress",
     "image": "img-buildkite-64/cypress.png",
     "category": "Buildkite",
-    "aliases": [
-      "cypressio"
-    ]
+    "aliases": ["cypressio"]
   },
   {
     "name": "virtru",
@@ -2576,9 +2439,7 @@
     "name": "amazon-cloudwatch",
     "image": "img-buildkite-64/amazon-cloudwatch.png",
     "category": "Buildkite",
-    "aliases": [
-      "cloudwatch"
-    ]
+    "aliases": ["cloudwatch"]
   },
   {
     "name": "amazon-cognito",
@@ -2596,9 +2457,7 @@
     "name": "amazon-dynamodb",
     "image": "img-buildkite-64/amazon-dynamodb.png",
     "category": "Buildkite",
-    "aliases": [
-      "dynamodb"
-    ]
+    "aliases": ["dynamodb"]
   },
   {
     "name": "amazon-dynamodbaccelerator",
@@ -2610,9 +2469,7 @@
     "name": "amazon-ec2",
     "image": "img-buildkite-64/amazon-ec2.png",
     "category": "Buildkite",
-    "aliases": [
-      "ec2"
-    ]
+    "aliases": ["ec2"]
   },
   {
     "name": "amazon-ec2systemsmanager",
@@ -2624,9 +2481,7 @@
     "name": "amazon-ecs",
     "image": "img-buildkite-64/amazon-ecs.png",
     "category": "Buildkite",
-    "aliases": [
-      "ecs"
-    ]
+    "aliases": ["ecs"]
   },
   {
     "name": "amazon-efs",
@@ -2650,9 +2505,7 @@
     "name": "amazon-emr",
     "image": "img-buildkite-64/amazon-emr.png",
     "category": "Buildkite",
-    "aliases": [
-      "emr"
-    ]
+    "aliases": ["emr"]
   },
   {
     "name": "amazon-es",
@@ -2688,9 +2541,7 @@
     "name": "amazon-kinesis",
     "image": "img-buildkite-64/amazon-kinesis.png",
     "category": "Buildkite",
-    "aliases": [
-      "kinesis"
-    ]
+    "aliases": ["kinesis"]
   },
   {
     "name": "amazon-lex",
@@ -2768,9 +2619,7 @@
     "name": "amazon-s3",
     "image": "img-buildkite-64/amazon-s3.png",
     "category": "Buildkite",
-    "aliases": [
-      "s3"
-    ]
+    "aliases": ["s3"]
   },
   {
     "name": "amazon-ses",
@@ -2836,9 +2685,7 @@
     "name": "aws-cloudformation",
     "image": "img-buildkite-64/aws-cloudformation.png",
     "category": "Buildkite",
-    "aliases": [
-      "cloudformation"
-    ]
+    "aliases": ["cloudformation"]
   },
   {
     "name": "aws-cloudhsm",
@@ -2868,17 +2715,13 @@
     "name": "aws-codedeploy",
     "image": "img-buildkite-64/aws-codedeploy.png",
     "category": "Buildkite",
-    "aliases": [
-      "codedeploy"
-    ]
+    "aliases": ["codedeploy"]
   },
   {
     "name": "aws-codepipeline",
     "image": "img-buildkite-64/aws-codepipeline.png",
     "category": "Buildkite",
-    "aliases": [
-      "codepipeline"
-    ]
+    "aliases": ["codepipeline"]
   },
   {
     "name": "aws-codestar",
@@ -2920,9 +2763,7 @@
     "name": "aws-elasticbeanstalk",
     "image": "img-buildkite-64/aws-elasticbeanstalk.png",
     "category": "Buildkite",
-    "aliases": [
-      "elasticbeanstalk"
-    ]
+    "aliases": ["elasticbeanstalk"]
   },
   {
     "name": "aws-glue",
@@ -2952,9 +2793,7 @@
     "name": "aws-lambda",
     "image": "img-buildkite-64/aws-lambda.png",
     "category": "Buildkite",
-    "aliases": [
-      "lambda"
-    ]
+    "aliases": ["lambda"]
   },
   {
     "name": "aws-logo",
