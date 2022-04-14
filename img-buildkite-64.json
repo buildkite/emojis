@@ -1,5 +1,19 @@
 [
   {
+    "name": "pants",
+    "image": "img-buildkite-64/pants.png",
+    "category": "Buildkite",
+    "aliases": [
+      "pantsbuild"
+    ]
+  },
+  {
+    "name": "backstage",
+    "image": "img-buildkite-64/backstage.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "terragrunt",
     "image": "img-buildkite-64/terragrunt.png",
     "category": "Buildkite",
