@@ -443,6 +443,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/amazon-ec2systemsmanager.png" width="20" height="20" alt="amazon-ec2systemsmanager"/> | `:amazon-ec2systemsmanager:`
 <img src="img-buildkite-64/amazon-ecs.png" width="20" height="20" alt="amazon-ecs"/> | `:amazon-ecs:`, `:ecs:`
 <img src="img-buildkite-64/amazon-efs.png" width="20" height="20" alt="amazon-efs"/> | `:amazon-efs:`
+<img src="img-buildkite-64/amazon-eks.png" width="20" height="20" alt="amazon-eks"/> | `:amazon-eks:`, `:eks:`
 <img src="img-buildkite-64/amazon-elasticcache.png" width="20" height="20" alt="amazon-elasticcache"/> | `:amazon-elasticcache:`
 <img src="img-buildkite-64/amazon-elastictranscoder.png" width="20" height="20" alt="amazon-elastictranscoder"/> | `:amazon-elastictranscoder:`
 <img src="img-buildkite-64/amazon-emr.png" width="20" height="20" alt="amazon-emr"/> | `:amazon-emr:`, `:emr:`
