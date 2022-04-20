@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/atlassian-opsgenie.png" width="20" height="20" alt="opsgenie"/> | `:atlassian-opsgenie:`, `:opsgenie:`
 <img src="img-buildkite-64/pants.png" width="20" height="20" alt="pants"/> | `:pants:`, `:pantsbuild:`
 <img src="img-buildkite-64/backstage.png" width="20" height="20" alt="backstage"/> | `:backstage:`
 <img src="img-buildkite-64/terragrunt.png" width="20" height="20" alt="terragrunt"/> | `:terragrunt:`

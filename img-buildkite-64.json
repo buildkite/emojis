@@ -1,5 +1,13 @@
 [
   {
+    "name": "atlassian-opsgenie",
+    "image": "img-buildkite-64/atlassian-opsgenie.png",
+    "category": "Buildkite",
+    "aliases": [
+      "opsgenie"
+    ]
+  },
+  {
     "name": "pants",
     "image": "img-buildkite-64/pants.png",
     "category": "Buildkite",
