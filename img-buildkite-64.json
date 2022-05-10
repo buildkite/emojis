@@ -1,5 +1,11 @@
 [
   {
+    "name": "api-extractor",
+    "image": "img-buildkite-64/api-extractor.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "atlassian-opsgenie",
     "image": "img-buildkite-64/atlassian-opsgenie.png",
     "category": "Buildkite",
