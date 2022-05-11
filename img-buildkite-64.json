@@ -792,6 +792,12 @@
     "aliases": []
   },
   {
+    "name": "bk-status-failing",
+    "image": "img-buildkite-64/bk-status-failing.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "bk-status-pending",
     "image": "img-buildkite-64/bk-status-pending.png",
     "category": "Buildkite",
