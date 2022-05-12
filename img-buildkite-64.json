@@ -1,5 +1,11 @@
 [
   {
+    "name": "buildbuddy",
+    "image": "img-buildkite-64/buildbuddy.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "api-extractor",
     "image": "img-buildkite-64/api-extractor.png",
     "category": "Buildkite",
