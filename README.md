@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/nx.png" width="20" height="20" alt="nx"/> | `:nx:`
 <img src="img-buildkite-64/buildbuddy.png" width="20" height="20" alt="buildbuddy"/> | `:buildbuddy:`
 <img src="img-buildkite-64/api-extractor.png" width="20" height="20" alt="api-extractor"/> | `:api-extractor:`
 <img src="img-buildkite-64/atlassian-opsgenie.png" width="20" height="20" alt="opsgenie"/> | `:atlassian-opsgenie:`, `:opsgenie:`
