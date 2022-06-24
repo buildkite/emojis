@@ -1,5 +1,11 @@
 [
   {
+    "name": "planetscale",
+    "image": "img-buildkite-64/planetscale.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "buildah",
     "image": "img-buildkite-64/buildah.png",
     "category": "Buildkite",
