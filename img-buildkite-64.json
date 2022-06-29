@@ -288,6 +288,30 @@
     "aliases": []
   },
   {
+    "name": "elastic-stack",
+    "image": "img-buildkite-64/elastic-stack.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "elastic-cloud",
+    "image": "img-buildkite-64/elastic-cloud.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "elastic-cloud-enterprise",
+    "image": "img-buildkite-64/elastic-cloud-enterprise.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "elastic-cloud-kubernetes",
+    "image": "img-buildkite-64/elastic-cloud-kubernetes.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "xbox",
     "image": "img-buildkite-64/xbox.png",
     "category": "Buildkite",
