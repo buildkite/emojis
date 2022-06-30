@@ -1,5 +1,11 @@
 [
   {
+    "name": "qemu",
+    "image": "img-buildkite-64/qemu.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "planetscale",
     "image": "img-buildkite-64/planetscale.png",
     "category": "Buildkite",
