@@ -1,5 +1,11 @@
 [
   {
+    "name": "test-analytics",
+    "image": "img-buildkite-64/test-analytics.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "qemu",
     "image": "img-buildkite-64/qemu.png",
     "category": "Buildkite",
