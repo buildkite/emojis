@@ -1,5 +1,11 @@
 [
   {
+    "name": "jetpack",
+    "image": "img-buildkite-64/jetpack.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "test-analytics",
     "image": "img-buildkite-64/test-analytics.png",
     "category": "Buildkite",
