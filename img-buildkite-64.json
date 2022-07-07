@@ -1,5 +1,11 @@
 [
   {
+    "name": "ladle",
+    "image": "img-buildkite-64/ladle.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "jetpack",
     "image": "img-buildkite-64/jetpack.png",
     "category": "Buildkite",
