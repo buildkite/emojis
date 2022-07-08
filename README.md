@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/ladle.png" width="20" height="20" alt="ladle"/> | `:ladle:`
 <img src="img-buildkite-64/jetpack.png" width="20" height="20" alt="jetpack"/> | `:jetpack:`
 <img src="img-buildkite-64/test-analytics.png" width="20" height="20" alt="test-analytics"/> | `:test-analytics:`
 <img src="img-buildkite-64/qemu.png" width="20" height="20" alt="qemu"/> | `:qemu:`
