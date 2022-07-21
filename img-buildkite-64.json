@@ -1,5 +1,11 @@
 [
   {
+    "name": "aspect",
+    "image": "img-buildkite-64/aspect.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "appcenter",
     "image": "img-buildkite-64/appcenter.png",
     "category": "Buildkite",
