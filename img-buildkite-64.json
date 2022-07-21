@@ -1,5 +1,11 @@
 [
-    {
+  {
+    "name": "triple-green-shell",
+    "image": "img-buildkite-64/triple-green-shell.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "organicresponse",
     "image": "img-buildkite-64/organicresponse.png",
     "category": "Buildkite",
