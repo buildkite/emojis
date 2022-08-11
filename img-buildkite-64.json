@@ -1,5 +1,11 @@
 [
   {
+    "name": "salus",
+    "image": "img-buildkite-64/salus.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "aspect",
     "image": "img-buildkite-64/aspect.png",
     "category": "Buildkite",
