@@ -1,5 +1,13 @@
 [
   {
+    "name": "apache_flink",
+    "image": "img-buildkite-64/apache_flink.png",
+    "category": "Buildkite",
+    "aliases": [
+      "flink"
+    ]
+  },
+  {
     "name": "salus",
     "image": "img-buildkite-64/salus.png",
     "category": "Buildkite",
