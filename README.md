@@ -244,6 +244,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/yaml.png" width="20" height="20" alt="yaml"/> | `:yaml:`
 <img src="img-buildkite-64/java.png" width="20" height="20" alt="java"/> | `:java:`
 <img src="img-buildkite-64/apache.png" width="20" height="20" alt="apache"/> | `:apache:`
+<img src="img-buildkite-64/apache_flink.png" width="20" height="20" alt="apache_flink"/> | `:apache_flink:`, `:flink:`
 <img src="img-buildkite-64/pytest.png" width="20" height="20" alt="pytest"/> | `:pytest:`
 <img src="img-buildkite-64/hugo.png" width="20" height="20" alt="hugo"/> | `:hugo:`, `:gohugo:`
 <img src="img-buildkite-64/ie.png" width="20" height="20" alt="ie"/> | `:ie:`, `:internet_explorer:`
