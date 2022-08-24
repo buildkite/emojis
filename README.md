@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/spotless.png" width="20" height="20" alt="spotless"/> | `:spotless:`
 <img src="img-buildkite-64/salus.png" width="20" height="20" alt="salus"/> | `:salus:`
 <img src="img-buildkite-64/aspect.png" width="20" height="20" alt="aspect"/> | `:aspect:`
 <img src="img-buildkite-64/appcenter.png" width="20" height="20" alt="appcenter"/> | `:appcenter:`
