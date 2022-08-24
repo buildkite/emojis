@@ -1,5 +1,13 @@
 [
   {
+    "name": "spotless",
+    "image": "img-buildkite-64/spotless.png",
+    "category": "Buildkite",
+    "aliases": [
+      "spotless"
+    ]
+  },
+  {
     "name": "apache_flink",
     "image": "img-buildkite-64/apache_flink.png",
     "category": "Buildkite",
