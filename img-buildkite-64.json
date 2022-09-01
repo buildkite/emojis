@@ -1,5 +1,17 @@
 [
   {
+    "name": "vitest",
+    "image": "img-buildkite-64/vitest.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "vite",
+    "image": "img-buildkite-64/vite.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "apache_flink",
     "image": "img-buildkite-64/apache_flink.png",
     "category": "Buildkite",
