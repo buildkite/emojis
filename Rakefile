@@ -1,6 +1,5 @@
 require 'json'
 require 'fileutils'
-require 'emoji_regex'
 
 # To run via Docker:
 #
@@ -79,7 +78,7 @@ task :default do
   end
 
   if groups.keys.length > 0
-    raise "Now all groups were shown: `#{groups.keys.inspect}`"
+    raise "Not all groups were shown: `#{groups.keys.inspect}`"
   end
 end
 
@@ -150,15 +149,6 @@ def preprocess_emoji_json(parsed)
     short_name = emoji["short_name"]
     unicode_points = emoji["unified"]
     category = emoji["category"]
-
-    category = "Flags" if short_name =~ /flag-/ && category.nil?
-
-    unicode = unicode_points.split('-').map(&:hex).pack('U*')
-
-    # Append VS16 to code points which require it for display
-    if !EmojiRegex::RGIEmoji.match?(unicode) && EmojiRegex::RGIEmoji.match?("#{unicode}\uFE0F")
-      unicode_points = "#{unicode_points}-FE0F"
-    end
 
     modifiers = []
 

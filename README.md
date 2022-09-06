@@ -540,7 +540,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/tauri.png" width="20" height="20" alt="tauri"/> | `:tauri:`
 <img src="img-buildkite-64/kong.png" width="20" height="20" alt="kong"/> | `:kong:`
 <img src="img-buildkite-64/openapi.png" width="20" height="20" alt="openapi"/> | `:openapi:`
-<img src="img-buildkite-64/buildpacks.png" width="20" height="20" alt="buildpacks" /> | `:buildpacks:`
+<img src="img-buildkite-64/buildpacks.png" width="20" height="20" alt="buildpacks"/> | `:buildpacks:`
 
 ### Smileys & Emotion
 
