@@ -1,5 +1,11 @@
 [
   {
+    "name": "ngrok",
+    "image": "img-buildkite-64/ngrok.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "vitest",
     "image": "img-buildkite-64/vitest.png",
     "category": "Buildkite",
