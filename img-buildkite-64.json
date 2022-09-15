@@ -1,4 +1,10 @@
 [
+   {
+    "name": "grype",
+    "image": "img-buildkite-64/grype.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
   {
     "name": "ngrok",
     "image": "img-buildkite-64/ngrok.png",
