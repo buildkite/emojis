@@ -27,6 +27,10 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/elastic-enterprise-search.png" width="20" height="20" alt="elastic-enterprise-search"/> | `:elastic-enterprise-search:`
+<img src="img-buildkite-64/elastic-apm.png" width="20" height="20" alt="elastic-apm"/> | `:elastic-apm:`
+<img src="img-buildkite-64/elastic-logstash.png" width="20" height="20" alt="logstash"/> | `:logstash:`
+<img src="img-buildkite-64/elastic-beats.png" width="20" height="20" alt="beats"/> | `:beats:`
 <img src="img-buildkite-64/grype.png" width="20" height="20" alt="grype"/> | `:grype:`
 <img src="img-buildkite-64/ngrok.png" width="20" height="20" alt="ngrok"/> | `:ngrok:`
 <img src="img-buildkite-64/vite.png" width="20" height="20" alt="vite"/> | `:vite:`

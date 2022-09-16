@@ -1,4 +1,28 @@
 [
+  {
+    "name": "elastic-enterprise-search",
+    "image": "img-buildkite-64/elastic-enterprise-search.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "elastic-apm",
+    "image": "img-buildkite-64/elastic-apm.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "logstash",
+    "image": "img-buildkite-64/elastic-logstash.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "beats",
+    "image": "img-buildkite-64/elastic-beats.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
    {
     "name": "grype",
     "image": "img-buildkite-64/grype.png",
