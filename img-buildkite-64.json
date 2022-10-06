@@ -1,5 +1,11 @@
 [
   {
+    "name": "gerrit",
+    "image": "img-buildkite-64/gerrit.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "elastic-enterprise-search",
     "image": "img-buildkite-64/elastic-enterprise-search.png",
     "category": "Buildkite",
