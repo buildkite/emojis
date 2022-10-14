@@ -1,5 +1,11 @@
 [
   {
+    "name": "changesets",
+    "image": "img-buildkite-64/changesets.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "gerrit",
     "image": "img-buildkite-64/gerrit.png",
     "category": "Buildkite",
