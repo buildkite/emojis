@@ -1,5 +1,11 @@
 [
   {
+    "name": "horovod",
+    "image": "img-buildkite-64/horovod.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "changesets",
     "image": "img-buildkite-64/changesets.png",
     "category": "Buildkite",
