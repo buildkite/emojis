@@ -1,5 +1,11 @@
 [
   {
+    "name": "swc",
+    "image": "img-buildkite-64/swc.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "horovod",
     "image": "img-buildkite-64/horovod.png",
     "category": "Buildkite",
