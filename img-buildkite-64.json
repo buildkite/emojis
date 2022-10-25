@@ -1,5 +1,11 @@
 [
   {
+    "name": "alma",
+    "image": "img-buildkite-64/alma.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "rocky",
     "image": "img-buildkite-64/rocky.png",
     "category": "Buildkite",

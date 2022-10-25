@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/alma.png" width="20" height="20" alt="alma"/> | `:alma:`
 <img src="img-buildkite-64/rocky.png" width="20" height="20" alt="rocky"/> | `:rocky:`
 <img src="img-buildkite-64/horovod.png" width="20" height="20" alt="horovod"/> | `:horovod:`
 <img src="img-buildkite-64/gerrit.png" width="20" height="20" alt="gerrit"/> | `:gerrit:`
