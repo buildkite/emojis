@@ -418,6 +418,12 @@
     "aliases": []
   },
   {
+    "name": "ms-teams",
+    "image": "img-buildkite-64/ms-teams.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "switch",
     "image": "img-buildkite-64/switch.png",
     "category": "Buildkite",
