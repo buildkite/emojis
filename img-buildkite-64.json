@@ -1,5 +1,17 @@
 [
   {
+    "name": "spacelift",
+    "image": "img-buildkite-64/spacelift.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "spacelift-dark",
+    "image": "img-buildkite-64/spacelift-dark.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "preact",
     "image": "img-buildkite-64/preact.png",
     "category": "Buildkite",

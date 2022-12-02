@@ -27,6 +27,9 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/spacelift.png" width="20" height="20" alt="spacelift"/> | `:spacelift:`
+<img src="img-buildkite-64/spacelift-dark.png" width="20" height="20" alt="spacelift-dark"/> | `:spacelift-dark:`
+<img src="img-buildkite-64/preact.png" width="20" height="20" alt="preact"/> | `:preact:`
 <img src="img-buildkite-64/ms-teams.png" width="20" height="20" alt="ms-teams"/> | `:ms-teams:`
 <img src="img-buildkite-64/tapioca.png" width="20" height="20" alt="tapioca"/> | `:tapioca:`
 <img src="img-buildkite-64/alma.png" width="20" height="20" alt="alma"/> | `:alma:`
