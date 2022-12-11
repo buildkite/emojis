@@ -1,5 +1,11 @@
 [
   {
+    "name": "databricks",
+    "image": "img-buildkite-64/databricks.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "spacelift",
     "image": "img-buildkite-64/spacelift.png",
     "category": "Buildkite",
