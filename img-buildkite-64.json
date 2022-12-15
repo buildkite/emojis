@@ -1,5 +1,11 @@
 [
   {
+    "name": "pyright",
+    "image": "img-buildkite-64/pyright.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "databricks",
     "image": "img-buildkite-64/databricks.png",
     "category": "Buildkite",
