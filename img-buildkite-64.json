@@ -1,5 +1,11 @@
 [
   {
+    "name": "plausible",
+    "image": "img-buildkite-64/plausible.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "pyright",
     "image": "img-buildkite-64/pyright.png",
     "category": "Buildkite",
