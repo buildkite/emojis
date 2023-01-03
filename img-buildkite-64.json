@@ -1,5 +1,11 @@
 [
   {
+    "name": "docusaurus",
+    "image": "img-buildkite-64/docusaurus.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "plausible",
     "image": "img-buildkite-64/plausible.png",
     "category": "Buildkite",
