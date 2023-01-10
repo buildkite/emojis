@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/plausible.png" width="20" height="20" alt="plausible"/> | `:plausible:`
 <img src="img-buildkite-64/applitools.png" width="20" height="20" alt="applitools"/> | `:applitools:`
 <img src="img-buildkite-64/pyright.png" width="20" height="20" alt="pyright"/> | `:pyright:`
 <img src="img-buildkite-64/databricks.png" width="20" height="20" alt="databricks"/> | `:databricks:`

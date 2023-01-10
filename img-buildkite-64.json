@@ -1,5 +1,11 @@
 [
   {
+    "name": "plausible",
+    "image": "img-buildkite-64/plausible.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "applitools",
     "image": "img-buildkite-64/applitools.png",
     "category": "Buildkite",
