@@ -1,5 +1,13 @@
 [
   {
+    "name": "applitools",
+    "image": "img-buildkite-64/applitools.png",
+    "category": "Buildkite",
+    "aliases": [
+      "eyes"
+    ]
+  },
+  {
     "name": "pyright",
     "image": "img-buildkite-64/pyright.png",
     "category": "Buildkite",
