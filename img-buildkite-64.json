@@ -1,5 +1,11 @@
 [
   {
+    "name": "strongdm",
+    "image": "img-buildkite-64/strongdm.png",
+    "category": "Buildkite",
+    "aliases": ["sdm"]
+  },
+  {
     "name": "docusaurus",
     "image": "img-buildkite-64/docusaurus.png",
     "category": "Buildkite",
