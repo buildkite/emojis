@@ -1,5 +1,11 @@
 [
   {
+    "name": "uefi",
+    "image": "img-buildkite-64/uefi.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "docusaurus",
     "image": "img-buildkite-64/docusaurus.png",
     "category": "Buildkite",
