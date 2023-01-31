@@ -1,5 +1,11 @@
 [
   {
+    "name": "opentelemetry",
+    "image": "img-buildkite-64/opentelemetry.png",
+    "category": "Buildkite",
+    "aliases": ["otel"]
+  },
+  {
     "name": "strongdm",
     "image": "img-buildkite-64/strongdm.png",
     "category": "Buildkite",

@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/opentelemetry.png" width="20" height="20" alt="opentelemetry"/> | `:opentelemetry:`, `:otel:`
 <img src="img-buildkite-64/strongdm.png" width="20" height="20" alt="strongdm"/> | `:strongdm:`, `:sdm:`
 <img src="img-buildkite-64/uefi.png" width="20" height="20" alt="uefi"/> | `:uefi:`
 <img src="img-buildkite-64/docusaurus.png" width="20" height="20" alt="docusaurus"/> | `:docusaurus:`
