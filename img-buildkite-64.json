@@ -4,6 +4,7 @@
     "image": "img-buildkite-64/linear.png",
     "category": "Buildkite",
     "aliases": []
+  },
   {
     "name": "opentelemetry",
     "image": "img-buildkite-64/opentelemetry.png",
