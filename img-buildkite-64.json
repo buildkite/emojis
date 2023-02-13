@@ -1,5 +1,11 @@
 [
   {
+    "name": "opensearch",
+    "image": "img-buildkite-64/opensearch.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "linear",
     "image": "img-buildkite-64/linear.png",
     "category": "Buildkite",

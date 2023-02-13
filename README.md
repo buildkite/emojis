@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/opensearch.png" width="20" height="20" alt="opensearch"/> | `:opensearch:`
 <img src="img-buildkite-64/linear.png" width="20" height="20" alt="linear"/> | `:linear:`
 <img src="img-buildkite-64/opentelemetry.png" width="20" height="20" alt="opentelemetry"/> | `:opentelemetry:`, `:otel:`
 <img src="img-buildkite-64/strongdm.png" width="20" height="20" alt="strongdm"/> | `:strongdm:`, `:sdm:`
