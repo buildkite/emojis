@@ -1,5 +1,11 @@
 [
   {
+    "name": "deno",
+    "image": "img-buildkite-64/deno.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "opensearch",
     "image": "img-buildkite-64/opensearch.png",
     "category": "Buildkite",
