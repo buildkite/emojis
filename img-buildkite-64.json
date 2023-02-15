@@ -1,5 +1,11 @@
 [
   {
+    "name": "squisito",
+    "image": "img-buildkite-64/squisito.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "deno",
     "image": "img-buildkite-64/deno.png",
     "category": "Buildkite",
