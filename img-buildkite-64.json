@@ -1,5 +1,14 @@
 [
   {
+    "name": "stack_overflow",
+    "image": "img-buildkite-64/stack_overflow.png",
+    "category": "Buildkite",
+    "aliases": [
+      "stackoverflow",
+      "stack-overflow"
+    ]
+  },
+  {
     "name": "imperva",
     "image": "img-buildkite-64/imperva.png",
     "category": "Buildkite",
