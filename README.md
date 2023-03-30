@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/gitlab.png" width="20" height="20" alt="gitlab"/> | `:gitlab:`
 <img src="img-buildkite-64/stack_overflow.png" width="20" height="20" alt="stack_overflow"/> | `:stack_overflow:`, `:stackoverflow:`, `:stack-overflow:`
 <img src="img-buildkite-64/imperva.png" width="20" height="20" alt="imperva"/> | `:imperva:`
 <img src="img-buildkite-64/deno.png" width="20" height="20" alt="deno"/> | `:deno:`
