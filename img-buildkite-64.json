@@ -1,5 +1,11 @@
 [
   {
+    "name": "locust",
+    "image": "img-buildkite-64/locust.png",
+    "category": "Buildkite",
+    "aliases": ["locust"]
+  },
+  {
     "name": "gitlab",
     "image": "img-buildkite-64/gitlab.png",
     "category": "Buildkite",
