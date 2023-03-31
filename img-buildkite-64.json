@@ -1,5 +1,142 @@
 [
   {
+    "name": "smartbear-alertsite",
+    "image": "img-buildkite-64/smartbear-alertsite.png",
+    "category": "Buildkite",
+    "aliases": ["alertsite"]
+  },
+  {
+    "name": "smartbear-aqtimepro",
+    "image": "img-buildkite-64/smartbear-aqtimepro.png",
+    "category": "Buildkite",
+    "aliases": ["aqtimepro"]
+  },
+  {
+    "name": "smartbear-bitbar",
+    "image": "img-buildkite-64/smartbear-bitbar.png",
+    "category": "Buildkite",
+    "aliases": ["bitbar"]
+  },
+  {
+    "name": "smartbear-bugsnag",
+    "image": "img-buildkite-64/smartbear-bugsnag.png",
+    "category": "Buildkite",
+    "aliases": ["bugsnag"]
+  },
+  {
+    "name": "smartbear-capture",
+    "image": "img-buildkite-64/smartbear-capture.png",
+    "category": "Buildkite",
+    "aliases": ["capture"]
+  },
+  {
+    "name": "smartbear-collaborator",
+    "image": "img-buildkite-64/smartbear-collaborator.png",
+    "category": "Buildkite",
+    "aliases": ["collaborator"]
+  },
+  {
+    "name": "smartbear-cucumber",
+    "image": "img-buildkite-64/smartbear-cucumber.png",
+    "category": "Buildkite",
+    "aliases": [
+      "cucumber",
+      "cucumber-io",
+      "cucumber-open",
+      "cucumber-studio"
+    ]
+  },
+  {
+    "name": "smartbear-cucumberopen",
+    "image": "img-buildkite-64/smartbear-cucumberopen.png",
+    "category": "Buildkite",
+    "aliases": ["cucumberopen"]
+  },
+  {
+    "name": "smartbear-loadninja",
+    "image": "img-buildkite-64/smartbear-loadninja.png",
+    "category": "Buildkite",
+    "aliases": ["loadninja"]
+  },
+  {
+    "name": "smartbear-pact",
+    "image": "img-buildkite-64/smartbear-pact.png",
+    "category": "Buildkite",
+    "aliases": ["pact"]
+  },
+  {
+    "name": "smartbear-pactflow",
+    "image": "img-buildkite-64/smartbear-pactflow.png",
+    "category": "Buildkite",
+    "aliases": ["pactflow"]
+  },
+  {
+    "name": "smartbear-soapui",
+    "image": "img-buildkite-64/smartbear-soapui.png",
+    "category": "Buildkite",
+    "aliases": ["soapui"]
+  },
+  {
+    "name": "smartbear-swagger",
+    "image": "img-buildkite-64/smartbear-swagger.png",
+    "category": "Buildkite",
+    "aliases": ["swagger"]
+  },
+  {
+    "name": "smartbear-swaggerhub",
+    "image": "img-buildkite-64/smartbear-swaggerhub.png",
+    "category": "Buildkite",
+    "aliases": ["swaggerhub"]
+  },
+  {
+    "name": "smartbear-testcomplete",
+    "image": "img-buildkite-64/smartbear-testcomplete.png",
+    "category": "Buildkite",
+    "aliases": ["testcomplete"]
+  },
+  {
+    "name": "smartbear-testengine",
+    "image": "img-buildkite-64/smartbear-testengine.png",
+    "category": "Buildkite",
+    "aliases": ["testengine"]
+  },
+  {
+    "name": "smartbear-testexecute",
+    "image": "img-buildkite-64/smartbear-testexecute.png",
+    "category": "Buildkite",
+    "aliases": ["testexecute"]
+  },
+  {
+    "name": "smartbear-testleft",
+    "image": "img-buildkite-64/smartbear-testleft.png",
+    "category": "Buildkite",
+    "aliases": ["testleft"]
+  },
+  {
+    "name": "smartbear-visualtest",
+    "image": "img-buildkite-64/smartbear-visualtest.png",
+    "category": "Buildkite",
+    "aliases": ["visualtest"]
+  },
+  {
+    "name": "smartbear-zephyr",
+    "image": "img-buildkite-64/.png",
+    "category": "Buildkite",
+    "aliases": ["zephyr"]
+  },
+  {
+    "name": "smartbear-zephyrscale",
+    "image": "img-buildkite-64/smartbear-zephyrscale.png",
+    "category": "Buildkite",
+    "aliases": ["zephyrscale"]
+  },
+  {
+    "name": "smartbear-zephyrsquad",
+    "image": "img-buildkite-64/smartbear-zephyrsquad.png",
+    "category": "Buildkite",
+    "aliases": ["zephyrsquad"]
+  },
+  {
     "name": "locust",
     "image": "img-buildkite-64/locust.png",
     "category": "Buildkite",
@@ -823,12 +960,6 @@
   {
     "name": "neo4j",
     "image": "img-buildkite-64/neo4j.png",
-    "category": "Buildkite",
-    "aliases": []
-  },
-  {
-    "name": "pact",
-    "image": "img-buildkite-64/pact.png",
     "category": "Buildkite",
     "aliases": []
   },
@@ -1761,12 +1892,6 @@
     "aliases": []
   },
   {
-    "name": "swagger",
-    "image": "img-buildkite-64/swagger.png",
-    "category": "Buildkite",
-    "aliases": []
-  },
-  {
     "name": "piedpiper",
     "image": "img-buildkite-64/piedpiper.png",
     "category": "Buildkite",
@@ -2355,12 +2480,6 @@
     "aliases": []
   },
   {
-    "name": "bugsnag",
-    "image": "img-buildkite-64/bugsnag.png",
-    "category": "Buildkite",
-    "aliases": []
-  },
-  {
     "name": "buildkite",
     "image": "img-buildkite-64/buildkite.png",
     "category": "Buildkite",
@@ -2402,16 +2521,6 @@
     "category": "Buildkite",
     "aliases": [
       "gcompute"
-    ]
-  },
-  {
-    "name": "cucumber",
-    "image": "img-buildkite-64/cucumber.png",
-    "category": "Buildkite",
-    "aliases": [
-      "cucumber-io",
-      "cucumber-open",
-      "cucumber-studio"
     ]
   },
   {
