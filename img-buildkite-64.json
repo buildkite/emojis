@@ -1,5 +1,11 @@
 [
   {
+    "name": "kart",
+    "image": "img-buildkite-64/kart.png",
+    "category": "Buildkite",
+    "aliases": ["kart"]
+  },
+  {
     "name": "locust",
     "image": "img-buildkite-64/locust.png",
     "category": "Buildkite",
