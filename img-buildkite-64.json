@@ -2776,6 +2776,12 @@
     "aliases": []
   },
   {
+    "name": "shippit",
+    "image": "img-buildkite-64/shippit.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "suspect",
     "image": "img-buildkite-64/suspect.png",
     "category": "Buildkite",
