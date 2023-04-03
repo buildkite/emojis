@@ -137,6 +137,12 @@
     "aliases": ["zephyrsquad"]
   },
   {
+    "name": "kart",
+    "image": "img-buildkite-64/kart.png",
+    "category": "Buildkite",
+    "aliases": ["kart"]
+  },
+  {
     "name": "locust",
     "image": "img-buildkite-64/locust.png",
     "category": "Buildkite",
@@ -2875,6 +2881,12 @@
   {
     "name": "shipit",
     "image": "img-buildkite-64/shipit.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "shippit",
+    "image": "img-buildkite-64/shippit.png",
     "category": "Buildkite",
     "aliases": []
   },

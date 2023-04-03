@@ -49,6 +49,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/smartbear-zephyr.png" width="20" height="20" alt="smartbear-zephyr"/> | `:smartbear-zephyr:`
 <img src="img-buildkite-64/smartbear-zephyrscale.png" width="20" height="20" alt="smartbear-zephyrscale"/> | `:smartbear-zephyrscale:`
 <img src="img-buildkite-64/smartbear-zephyrsquad.png" width="20" height="20" alt="smartbear-zephyrsquad"/> | `:smartbear-zephyrsquad:`
+<img src="img-buildkite-64/kart.png" width="20" height="20" alt="kart"/> | `:kart:`
 <img src="img-buildkite-64/locust.png" width="20" height="20" alt="locust"/> | `:locust:`
 <img src="img-buildkite-64/gitlab.png" width="20" height="20" alt="gitlab"/> | `:gitlab:`
 <img src="img-buildkite-64/stack_overflow.png" width="20" height="20" alt="stack_overflow"/> | `:stack_overflow:`, `:stackoverflow:`, `:stack-overflow:`
@@ -485,6 +486,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/rubygems.png" width="20" height="20" alt="rubygems"/> | `:rubygems:`
 <img src="img-buildkite-64/scientific_linux.png" width="20" height="20" alt="scientific_linux"/> | `:scientific_linux:`
 <img src="img-buildkite-64/shipit.png" width="20" height="20" alt="shipit"/> | `:shipit:`
+<img src="img-buildkite-64/shippit.png" width="20" height="20" alt="shippit"/> | `:shippit:`
 <img src="img-buildkite-64/suspect.png" width="20" height="20" alt="suspect"/> | `:suspect:`
 <img src="img-buildkite-64/terminal.png" width="20" height="20" alt="terminal"/> | `:terminal:`, `:console:`
 <img src="img-buildkite-64/trollface.png" width="20" height="20" alt="trollface"/> | `:trollface:`, `:troll:`

@@ -2055,6 +2055,7 @@ shield
 shinto_shrine
 ship
 shipit
+shippit
 shirt
 shit
 shocked_face_with_exploding_head
