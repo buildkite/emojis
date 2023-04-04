@@ -1,5 +1,11 @@
 [
   {
+    "name": "applied_intuition",
+    "image": "img-buildkite-64/applied_intuition.png",
+    "category": "Buildkite",
+    "aliases": ["appliedintuition", "applied-intuition"]
+  },
+  {
     "name": "esbuild",
     "image": "img-buildkite-64/esbuild.png",
     "category": "Buildkite",
