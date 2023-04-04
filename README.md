@@ -49,6 +49,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/smartbear-zephyr.png" width="20" height="20" alt="smartbear-zephyr"/> | `:smartbear-zephyr:`
 <img src="img-buildkite-64/smartbear-zephyrscale.png" width="20" height="20" alt="smartbear-zephyrscale"/> | `:smartbear-zephyrscale:`
 <img src="img-buildkite-64/smartbear-zephyrsquad.png" width="20" height="20" alt="smartbear-zephyrsquad"/> | `:smartbear-zephyrsquad:`
+<img src="img-buildkite-64/esbuild.png" width="20" height="20" alt="esbuild"/> | `:esbuild:`
 <img src="img-buildkite-64/kart.png" width="20" height="20" alt="kart"/> | `:kart:`
 <img src="img-buildkite-64/locust.png" width="20" height="20" alt="locust"/> | `:locust:`
 <img src="img-buildkite-64/gitlab.png" width="20" height="20" alt="gitlab"/> | `:gitlab:`

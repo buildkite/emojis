@@ -137,6 +137,12 @@
     "aliases": ["smartbear-zephyrsquad"]
   },
   {
+    "name": "esbuild",
+    "image": "img-buildkite-64/esbuild.png",
+    "category": "Buildkite",
+    "aliases": ["esbuild"]
+  },
+  {
     "name": "kart",
     "image": "img-buildkite-64/kart.png",
     "category": "Buildkite",
