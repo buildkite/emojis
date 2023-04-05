@@ -28,6 +28,28 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 Emoji | Aliases
 ----- | -------
 <img src="img-buildkite-64/applied_intuition.png" width="20" height="20" alt="applied_intuition"/> | `:applied_intuition:`, `:appliedintuition:`, `:applied-intuition:`
+<img src="img-buildkite-64/smartbear-alertsite.png" width="20" height="20" alt="smartbear-alertsite"/> | `:smartbear-alertsite:`
+<img src="img-buildkite-64/smartbear-aqtimepro.png" width="20" height="20" alt="smartbear-aqtimepro"/> | `:smartbear-aqtimepro:`
+<img src="img-buildkite-64/smartbear-bitbar.png" width="20" height="20" alt="smartbear-bitbar"/> | `:smartbear-bitbar:`
+<img src="img-buildkite-64/smartbear-bugsnag.png" width="20" height="20" alt="smartbear-bugsnag"/> | `:smartbear-bugsnag:`
+<img src="img-buildkite-64/smartbear-capture.png" width="20" height="20" alt="smartbear-capture"/> | `:smartbear-capture:`
+<img src="img-buildkite-64/smartbear-collaborator.png" width="20" height="20" alt="smartbear-collaborator"/> | `:smartbear-collaborator:`
+<img src="img-buildkite-64/smartbear-cucumber.png" width="20" height="20" alt="smartbear-cucumber"/> | `:smartbear-cucumber:`
+<img src="img-buildkite-64/smartbear-cucumberopen.png" width="20" height="20" alt="smartbear-cucumberopen"/> | `:smartbear-cucumberopen:`
+<img src="img-buildkite-64/smartbear-loadninja.png" width="20" height="20" alt="smartbear-loadninja"/> | `:smartbear-loadninja:`
+<img src="img-buildkite-64/smartbear-pact.png" width="20" height="20" alt="smartbear-pact"/> | `:smartbear-pact:`
+<img src="img-buildkite-64/smartbear-pactflow.png" width="20" height="20" alt="smartbear-pactflow"/> | `:smartbear-pactflow:`
+<img src="img-buildkite-64/smartbear-soapui.png" width="20" height="20" alt="smartbear-soapui"/> | `:smartbear-soapui:`
+<img src="img-buildkite-64/smartbear-swagger.png" width="20" height="20" alt="smartbear-swagger"/> | `:smartbear-swagger:`
+<img src="img-buildkite-64/smartbear-swaggerhub.png" width="20" height="20" alt="smartbear-swaggerhub"/> | `:smartbear-swaggerhub:`
+<img src="img-buildkite-64/smartbear-testcomplete.png" width="20" height="20" alt="smartbear-testcomplete"/> | `:smartbear-testcomplete:`
+<img src="img-buildkite-64/smartbear-testengine.png" width="20" height="20" alt="smartbear-testengine"/> | `:smartbear-testengine:`
+<img src="img-buildkite-64/smartbear-testexecute.png" width="20" height="20" alt="smartbear-testexecute"/> | `:smartbear-testexecute:`
+<img src="img-buildkite-64/smartbear-testleft.png" width="20" height="20" alt="smartbear-testleft"/> | `:smartbear-testleft:`
+<img src="img-buildkite-64/smartbear-visualtest.png" width="20" height="20" alt="smartbear-visualtest"/> | `:smartbear-visualtest:`
+<img src="img-buildkite-64/smartbear-zephyr.png" width="20" height="20" alt="smartbear-zephyr"/> | `:smartbear-zephyr:`
+<img src="img-buildkite-64/smartbear-zephyrscale.png" width="20" height="20" alt="smartbear-zephyrscale"/> | `:smartbear-zephyrscale:`
+<img src="img-buildkite-64/smartbear-zephyrsquad.png" width="20" height="20" alt="smartbear-zephyrsquad"/> | `:smartbear-zephyrsquad:`
 <img src="img-buildkite-64/esbuild.png" width="20" height="20" alt="esbuild"/> | `:esbuild:`
 <img src="img-buildkite-64/kart.png" width="20" height="20" alt="kart"/> | `:kart:`
 <img src="img-buildkite-64/locust.png" width="20" height="20" alt="locust"/> | `:locust:`
