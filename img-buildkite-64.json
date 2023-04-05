@@ -1,5 +1,11 @@
 [
   {
+    "name": "applied_intuition",
+    "image": "img-buildkite-64/applied_intuition.png",
+    "category": "Buildkite",
+    "aliases": ["appliedintuition", "applied-intuition"]
+  },
+  {
     "name": "alertsite",
     "image": "img-buildkite-64/smartbear-alertsite.png",
     "category": "Buildkite",
