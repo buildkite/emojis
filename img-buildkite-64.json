@@ -1,5 +1,142 @@
 [
   {
+    "name": "alertsite",
+    "image": "img-buildkite-64/smartbear-alertsite.png",
+    "category": "Buildkite",
+    "aliases": ["smartbear-alertsite"]
+  },
+  {
+    "name": "aqtimepro",
+    "image": "img-buildkite-64/smartbear-aqtimepro.png",
+    "category": "Buildkite",
+    "aliases": ["smartbear-aqtimepro"]
+  },
+  {
+    "name": "bitbar",
+    "image": "img-buildkite-64/smartbear-bitbar.png",
+    "category": "Buildkite",
+    "aliases": ["smartbear-bitbar"]
+  },
+  {
+    "name": "bugsnag",
+    "image": "img-buildkite-64/smartbear-bugsnag.png",
+    "category": "Buildkite",
+    "aliases": ["smartbear-bugsnag"]
+  },
+  {
+    "name": "capture",
+    "image": "img-buildkite-64/smartbear-capture.png",
+    "category": "Buildkite",
+    "aliases": ["smartbear-capture"]
+  },
+  {
+    "name": "collaborator",
+    "image": "img-buildkite-64/smartbear-collaborator.png",
+    "category": "Buildkite",
+    "aliases": ["smartbear-collaborator"]
+  },
+  {
+    "name": "cucumber",
+    "image": "img-buildkite-64/smartbear-cucumber.png",
+    "category": "Buildkite",
+    "aliases": [
+      "smartbear-cucumber",
+      "cucumber-io",
+      "cucumber-open",
+      "cucumber-studio"
+    ]
+  },
+  {
+    "name": "cucumberopen",
+    "image": "img-buildkite-64/smartbear-cucumberopen.png",
+    "category": "Buildkite",
+    "aliases": ["smartbear-cucumberopen"]
+  },
+  {
+    "name": "loadninja",
+    "image": "img-buildkite-64/smartbear-loadninja.png",
+    "category": "Buildkite",
+    "aliases": ["smartbear-loadninja"]
+  },
+  {
+    "name": "pact",
+    "image": "img-buildkite-64/smartbear-pact.png",
+    "category": "Buildkite",
+    "aliases": ["smartbear-pact"]
+  },
+  {
+    "name": "pactflow",
+    "image": "img-buildkite-64/smartbear-pactflow.png",
+    "category": "Buildkite",
+    "aliases": ["smartbear-pactflow"]
+  },
+  {
+    "name": "soapui",
+    "image": "img-buildkite-64/smartbear-soapui.png",
+    "category": "Buildkite",
+    "aliases": ["smartbear-soapui"]
+  },
+  {
+    "name": "swagger",
+    "image": "img-buildkite-64/smartbear-swagger.png",
+    "category": "Buildkite",
+    "aliases": ["smartbear-swagger"]
+  },
+  {
+    "name": "swaggerhub",
+    "image": "img-buildkite-64/smartbear-swaggerhub.png",
+    "category": "Buildkite",
+    "aliases": ["smartbear-swaggerhub"]
+  },
+  {
+    "name": "testcomplete",
+    "image": "img-buildkite-64/smartbear-testcomplete.png",
+    "category": "Buildkite",
+    "aliases": ["smartbear-testcomplete"]
+  },
+  {
+    "name": "testengine",
+    "image": "img-buildkite-64/smartbear-testengine.png",
+    "category": "Buildkite",
+    "aliases": ["smartbear-testengine"]
+  },
+  {
+    "name": "testexecute",
+    "image": "img-buildkite-64/smartbear-testexecute.png",
+    "category": "Buildkite",
+    "aliases": ["smartbear-testexecute"]
+  },
+  {
+    "name": "testleft",
+    "image": "img-buildkite-64/smartbear-testleft.png",
+    "category": "Buildkite",
+    "aliases": ["smartbear-testleft"]
+  },
+  {
+    "name": "visualtest",
+    "image": "img-buildkite-64/smartbear-visualtest.png",
+    "category": "Buildkite",
+    "aliases": ["smartbear-visualtest"]
+  },
+  {
+    "name": "zephyr",
+    "image": "img-buildkite-64/.png",
+    "category": "Buildkite",
+    "aliases": ["smartbear-zephyr"]
+  },
+  {
+    "name": "zephyrscale",
+    "image": "img-buildkite-64/smartbear-zephyrscale.png",
+    "category": "Buildkite",
+    "aliases": ["smartbear-zephyrscale"]
+  },
+  {
+    "name": "zephyrsquad",
+    "image": "img-buildkite-64/smartbear-zephyrsquad.png",
+    "category": "Buildkite",
+    "aliases": ["smartbear-zephyrsquad"]
+  },
+  {
     "name": "esbuild",
     "image": "img-buildkite-64/esbuild.png",
     "category": "Buildkite",
@@ -835,12 +972,6 @@
   {
     "name": "neo4j",
     "image": "img-buildkite-64/neo4j.png",
-    "category": "Buildkite",
-    "aliases": []
-  },
-  {
-    "name": "pact",
-    "image": "img-buildkite-64/pact.png",
     "category": "Buildkite",
     "aliases": []
   },
@@ -1773,12 +1904,6 @@
     "aliases": []
   },
   {
-    "name": "swagger",
-    "image": "img-buildkite-64/swagger.png",
-    "category": "Buildkite",
-    "aliases": []
-  },
-  {
     "name": "piedpiper",
     "image": "img-buildkite-64/piedpiper.png",
     "category": "Buildkite",
@@ -2367,12 +2492,6 @@
     "aliases": []
   },
   {
-    "name": "bugsnag",
-    "image": "img-buildkite-64/bugsnag.png",
-    "category": "Buildkite",
-    "aliases": []
-  },
-  {
     "name": "buildkite",
     "image": "img-buildkite-64/buildkite.png",
     "category": "Buildkite",
@@ -2414,16 +2533,6 @@
     "category": "Buildkite",
     "aliases": [
       "gcompute"
-    ]
-  },
-  {
-    "name": "cucumber",
-    "image": "img-buildkite-64/cucumber.png",
-    "category": "Buildkite",
-    "aliases": [
-      "cucumber-io",
-      "cucumber-open",
-      "cucumber-studio"
     ]
   },
   {
