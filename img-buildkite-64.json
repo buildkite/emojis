@@ -1,5 +1,11 @@
 [
   {
+    "name": "loanshark",
+    "image": "img-buildkite-64/loanshark.png",
+    "category": "Buildkite",
+    "aliases": ["loanshark"]
+  },
+  {
     "name": "usertesting",
     "image": "img-buildkite-64/usertesting.png",
     "category": "Buildkite",
