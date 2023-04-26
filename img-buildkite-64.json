@@ -1,5 +1,11 @@
 [
   {
+    "name": "garden-io",
+    "image": "img-buildkite-64/garden-io.png",
+    "category": "Buildkite",
+    "aliases": ["garden-io"]
+  },
+  {
     "name": "usertesting",
     "image": "img-buildkite-64/usertesting.png",
     "category": "Buildkite",
