@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/garden-io.png" width="20" height="20" alt="garden-io"/> | `:garden-io:`
 <img src="img-buildkite-64/usertesting.png" width="20" height="20" alt="usertesting"/> | `:usertesting:`
 <img src="img-buildkite-64/express.png" width="20" height="20" alt="express"/> | `:express:`, `:expressjs:`
 <img src="img-buildkite-64/applied_intuition.png" width="20" height="20" alt="applied_intuition"/> | `:applied_intuition:`, `:appliedintuition:`, `:applied-intuition:`
