@@ -1,5 +1,11 @@
 [
   {
+    "name": "shop",
+    "image": "img-buildkite-64/shop.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "fresh",
     "image": "img-buildkite-64/fresh.png",
     "category": "Buildkite",
