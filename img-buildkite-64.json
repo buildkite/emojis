@@ -66,21 +66,24 @@
     "aliases": ["smartbear-collaborator"]
   },
   {
-    "name": "cucumber",
+    "name": "cucumber-studio",
     "image": "img-buildkite-64/smartbear-cucumber.png",
     "category": "Buildkite",
     "aliases": [
-      "smartbear-cucumber",
-      "cucumber-io",
-      "cucumber-open",
-      "cucumber-studio"
+      "smartbear-cucumber"
     ]
   },
   {
-    "name": "cucumberopen",
+    "name": "cucumber-open",
     "image": "img-buildkite-64/smartbear-cucumberopen.png",
     "category": "Buildkite",
-    "aliases": ["smartbear-cucumberopen"]
+    "aliases": [
+      "cucumber",
+      "cucumber-io",
+      "cucumber-open",
+      "cucumberopen",
+      "smartbear-cucumberopen"
+    ]
   },
   {
     "name": "loadninja",
