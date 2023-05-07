@@ -171,7 +171,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/semgrep.png" width="20" height="20" alt="semgrep"/> | `:semgrep:`
 <img src="img-buildkite-64/home-assistant.png" width="20" height="20" alt="home-assistant"/> | `:home-assistant:`, `:hass:`
 <img src="img-buildkite-64/nexus-iq.png" width="20" height="20" alt="nexus-iq"/> | `:nexus-iq:`
-<img src="img-buildkite-64/vault.png" width="20" height="20" alt="vault"/> | `:vault:`
+<img src="img-buildkite-64/vault.png" width="20" height="20" alt="vault"/> | `:vault:`, `:hashicorp-vault:`
 <img src="img-buildkite-64/assurance64.png" width="20" height="20" alt="assurance"/> | `:assurance:`
 <img src="img-buildkite-64/sonarcloud.png" width="20" height="20" alt="sonarcloud"/> | `:sonarcloud:`
 <img src="img-buildkite-64/crystal.png" width="20" height="20" alt="crystal"/> | `:crystal:`
