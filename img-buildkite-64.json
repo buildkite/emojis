@@ -1176,7 +1176,7 @@
     "name": "vagrant",
     "image": "img-buildkite-64/vagrant.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": ["hashicorp-vagrant"]
   },
   {
     "name": "karate",
