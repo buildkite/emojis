@@ -214,7 +214,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/csharp.png" width="20" height="20" alt="csharp"/> | `:csharp:`
 <img src="img-buildkite-64/dotnet.png" width="20" height="20" alt="dotnet"/> | `:dotnet:`
 <img src="img-buildkite-64/fsharp.png" width="20" height="20" alt="fsharp"/> | `:fsharp:`
-<img src="img-buildkite-64/nomad.png" width="20" height="20" alt="nomad"/> | `:nomad:`
+<img src="img-buildkite-64/nomad.png" width="20" height="20" alt="nomad"/> | `:nomad:`, `:hashicorp-nomad:`
 <img src="img-buildkite-64/vagrant.png" width="20" height="20" alt="vagrant"/> | `:vagrant:`
 <img src="img-buildkite-64/karate.png" width="20" height="20" alt="karate"/> | `:karate:`, `:karate-api:`
 <img src="img-buildkite-64/codeception.png" width="20" height="20" alt="codeception"/> | `:codeception:`, `:codecept:`

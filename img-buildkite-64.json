@@ -1170,7 +1170,7 @@
     "name": "nomad",
     "image": "img-buildkite-64/nomad.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": ["hashicorp-nomad"]
   },
   {
     "name": "vagrant",
