@@ -1,5 +1,11 @@
 [
   {
+    "name": "boundary",
+    "image": "img-buildkite-64/boundary.png",
+    "category": "Buildkite",
+    "aliases": ["hashicorp-boundary"]
+  },
+  {
     "name": "waypoint",
     "image": "img-buildkite-64/waypoint.png",
     "category": "Buildkite",
