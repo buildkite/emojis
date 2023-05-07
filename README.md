@@ -415,7 +415,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/android.png" width="20" height="20" alt="android"/> | `:android:`
 <img src="img-buildkite-64/jasmine.png" width="20" height="20" alt="jasmine"/> | `:jasmine:`
 <img src="img-buildkite-64/react.png" width="20" height="20" alt="react"/> | `:react:`
-<img src="img-buildkite-64/terraform.png" width="20" height="20" alt="terraform"/> | `:terraform:`
+<img src="img-buildkite-64/terraform.png" width="20" height="20" alt="terraform"/> | `:terraform:`, `:hashicorp-terraform:`
 <img src="img-buildkite-64/javascript.png" width="20" height="20" alt="javascript"/> | `:javascript:`, `:js:`
 <img src="img-buildkite-64/typescript.png" width="20" height="20" alt="typescript"/> | `:typescript:`
 <img src="img-buildkite-64/git.png" width="20" height="20" alt="git"/> | `:git:`

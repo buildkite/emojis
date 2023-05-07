@@ -2450,7 +2450,7 @@
     "name": "terraform",
     "image": "img-buildkite-64/terraform.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": ["hashicorp-terraform"]
   },
   {
     "name": "javascript",
