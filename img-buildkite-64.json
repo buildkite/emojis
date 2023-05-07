@@ -2476,7 +2476,7 @@
     "name": "packer",
     "image": "img-buildkite-64/packer.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": ["hashicorp-packer"]
   },
   {
     "name": "babel",

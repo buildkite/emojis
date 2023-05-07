@@ -419,7 +419,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/javascript.png" width="20" height="20" alt="javascript"/> | `:javascript:`, `:js:`
 <img src="img-buildkite-64/typescript.png" width="20" height="20" alt="typescript"/> | `:typescript:`
 <img src="img-buildkite-64/git.png" width="20" height="20" alt="git"/> | `:git:`
-<img src="img-buildkite-64/packer.png" width="20" height="20" alt="packer"/> | `:packer:`
+<img src="img-buildkite-64/packer.png" width="20" height="20" alt="packer"/> | `:packer:`, `:hashicorp-packer:`
 <img src="img-buildkite-64/babel.png" width="20" height="20" alt="babel"/> | `:babel:`
 <img src="img-buildkite-64/pipeline.png" width="20" height="20" alt="pipeline"/> | `:pipeline:`, `:pipeline_upload:`
 <img src="img-buildkite-64/allthethings.png" width="20" height="20" alt="allthethings"/> | `:allthethings:`
