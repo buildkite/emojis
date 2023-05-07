@@ -1290,7 +1290,7 @@
     "name": "consul",
     "image": "img-buildkite-64/consul.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": ["hashicorp-consul"]
   },
   {
     "name": "chromatic",

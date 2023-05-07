@@ -232,7 +232,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/gatling.png" width="20" height="20" alt="gatling"/> | `:gatling:`
 <img src="img-buildkite-64/phpunit.png" width="20" height="20" alt="phpunit"/> | `:phpunit:`
 <img src="img-buildkite-64/behat.png" width="20" height="20" alt="behat"/> | `:behat:`
-<img src="img-buildkite-64/consul.png" width="20" height="20" alt="consul"/> | `:consul:`
+<img src="img-buildkite-64/consul.png" width="20" height="20" alt="consul"/> | `:consul:`, `:hashicorp-consul:`
 <img src="img-buildkite-64/chromatic.png" width="20" height="20" alt="chromatic"/> | `:chromatic:`
 <img src="img-buildkite-64/bk-status-passed.png" width="20" height="20" alt="bk-status-passed"/> | `:bk-status-passed:`
 <img src="img-buildkite-64/bk-status-failed.png" width="20" height="20" alt="bk-status-failed"/> | `:bk-status-failed:`
