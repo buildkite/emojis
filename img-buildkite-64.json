@@ -1,5 +1,11 @@
 [
   {
+    "name": "waypoint",
+    "image": "img-buildkite-64/waypoint.png",
+    "category": "Buildkite",
+    "aliases": ["hashicorp-waypoint"]
+  },
+  {
     "name": "pony",
     "image": "img-buildkite-64/pony.png",
     "category": "Buildkite",
