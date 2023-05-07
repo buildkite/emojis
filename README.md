@@ -40,8 +40,8 @@ Emoji | Aliases
 <img src="img-buildkite-64/smartbear-bugsnag.png" width="20" height="20" alt="smartbear-bugsnag"/> | `:smartbear-bugsnag:`
 <img src="img-buildkite-64/smartbear-capture.png" width="20" height="20" alt="smartbear-capture"/> | `:smartbear-capture:`
 <img src="img-buildkite-64/smartbear-collaborator.png" width="20" height="20" alt="smartbear-collaborator"/> | `:smartbear-collaborator:`
-<img src="img-buildkite-64/smartbear-cucumber.png" width="20" height="20" alt="smartbear-cucumber"/> | `:smartbear-cucumber:`
-<img src="img-buildkite-64/smartbear-cucumberopen.png" width="20" height="20" alt="smartbear-cucumberopen"/> | `:smartbear-cucumberopen:`
+<img src="img-buildkite-64/smartbear-cucumber.png" width="20" height="20" alt="smartbear-cucumber"/> | `:cucumber-studio:`, `:smartbear-cucumber:`
+<img src="img-buildkite-64/smartbear-cucumberopen.png" width="20" height="20" alt="smartbear-cucumberopen"/> | `:cucumber:`, `:cucumber-io:`, `cucumber-open`, `:smartbear-cucumberopen:`
 <img src="img-buildkite-64/smartbear-loadninja.png" width="20" height="20" alt="smartbear-loadninja"/> | `:smartbear-loadninja:`
 <img src="img-buildkite-64/smartbear-pact.png" width="20" height="20" alt="smartbear-pact"/> | `:smartbear-pact:`
 <img src="img-buildkite-64/smartbear-pactflow.png" width="20" height="20" alt="smartbear-pactflow"/> | `:smartbear-pactflow:`
@@ -437,7 +437,6 @@ Emoji | Aliases
 <img src="img-buildkite-64/centos.png" width="20" height="20" alt="centos"/> | `:centos:`
 <img src="img-buildkite-64/codecov.png" width="20" height="20" alt="codecov"/> | `:codecov:`
 <img src="img-buildkite-64/compute.png" width="20" height="20" alt="compute"/> | `:compute:`, `:gcompute:`
-<img src="img-buildkite-64/cucumber.png" width="20" height="20" alt="cucumber"/> | `:cucumber:`, `:cucumber-io:`, `:cucumber-open:`, `:cucumber-studio:`
 <img src="img-buildkite-64/datadog.png" width="20" height="20" alt="datadog"/> | `:datadog:`
 <img src="img-buildkite-64/datocms.png" width="20" height="20" alt="datocms"/> | `:datocms:`, `:dato:`
 <img src="img-buildkite-64/debian.png" width="20" height="20" alt="debian"/> | `:debian:`
