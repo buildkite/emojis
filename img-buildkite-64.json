@@ -1,5 +1,17 @@
 [
   {
+    "name": "boundary",
+    "image": "img-buildkite-64/boundary.png",
+    "category": "Buildkite",
+    "aliases": ["hashicorp-boundary"]
+  },
+  {
+    "name": "waypoint",
+    "image": "img-buildkite-64/waypoint.png",
+    "category": "Buildkite",
+    "aliases": ["hashicorp-waypoint"]
+  },
+  {
     "name": "pony",
     "image": "img-buildkite-64/pony.png",
     "category": "Buildkite",
@@ -916,7 +928,7 @@
     "name": "vault",
     "image": "img-buildkite-64/vault.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": ["hashicorp-vault"]
   },
   {
     "name": "assurance",
@@ -1170,13 +1182,13 @@
     "name": "nomad",
     "image": "img-buildkite-64/nomad.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": ["hashicorp-nomad"]
   },
   {
     "name": "vagrant",
     "image": "img-buildkite-64/vagrant.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": ["hashicorp-vagrant"]
   },
   {
     "name": "karate",
@@ -1290,7 +1302,7 @@
     "name": "consul",
     "image": "img-buildkite-64/consul.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": ["hashicorp-consul"]
   },
   {
     "name": "chromatic",
@@ -2450,7 +2462,7 @@
     "name": "terraform",
     "image": "img-buildkite-64/terraform.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": ["hashicorp-terraform"]
   },
   {
     "name": "javascript",
@@ -2476,7 +2488,7 @@
     "name": "packer",
     "image": "img-buildkite-64/packer.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": ["hashicorp-packer"]
   },
   {
     "name": "babel",

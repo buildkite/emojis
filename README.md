@@ -27,6 +27,8 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/boundary.png" width="20" height="20" alt="boundary"/> | `:boundary:`, `:hashicorp-boundary:`
+<img src="img-buildkite-64/waypoint.png" width="20" height="20" alt="waypoint"/> | `:waypoint:`, `:hashicorp-waypoint:`
 <img src="img-buildkite-64/pony.png" width="20" height="20" alt="pony"/> | `:pony:`
 <img src="img-buildkite-64/shop.png" width="20" height="20" alt="shop"/> | `:shop:`
 <img src="img-buildkite-64/fresh.png" width="20" height="20" alt="fresh"/> | `:fresh:`
@@ -171,7 +173,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/semgrep.png" width="20" height="20" alt="semgrep"/> | `:semgrep:`
 <img src="img-buildkite-64/home-assistant.png" width="20" height="20" alt="home-assistant"/> | `:home-assistant:`, `:hass:`
 <img src="img-buildkite-64/nexus-iq.png" width="20" height="20" alt="nexus-iq"/> | `:nexus-iq:`
-<img src="img-buildkite-64/vault.png" width="20" height="20" alt="vault"/> | `:vault:`
+<img src="img-buildkite-64/vault.png" width="20" height="20" alt="vault"/> | `:vault:`, `:hashicorp-vault:`
 <img src="img-buildkite-64/assurance64.png" width="20" height="20" alt="assurance"/> | `:assurance:`
 <img src="img-buildkite-64/sonarcloud.png" width="20" height="20" alt="sonarcloud"/> | `:sonarcloud:`
 <img src="img-buildkite-64/crystal.png" width="20" height="20" alt="crystal"/> | `:crystal:`
@@ -214,8 +216,8 @@ Emoji | Aliases
 <img src="img-buildkite-64/csharp.png" width="20" height="20" alt="csharp"/> | `:csharp:`
 <img src="img-buildkite-64/dotnet.png" width="20" height="20" alt="dotnet"/> | `:dotnet:`
 <img src="img-buildkite-64/fsharp.png" width="20" height="20" alt="fsharp"/> | `:fsharp:`
-<img src="img-buildkite-64/nomad.png" width="20" height="20" alt="nomad"/> | `:nomad:`
-<img src="img-buildkite-64/vagrant.png" width="20" height="20" alt="vagrant"/> | `:vagrant:`
+<img src="img-buildkite-64/nomad.png" width="20" height="20" alt="nomad"/> | `:nomad:`, `:hashicorp-nomad:`
+<img src="img-buildkite-64/vagrant.png" width="20" height="20" alt="vagrant"/> | `:vagrant:`, `:hashicorp-vagrant:`
 <img src="img-buildkite-64/karate.png" width="20" height="20" alt="karate"/> | `:karate:`, `:karate-api:`
 <img src="img-buildkite-64/codeception.png" width="20" height="20" alt="codeception"/> | `:codeception:`, `:codecept:`
 <img src="img-buildkite-64/phpstan.png" width="20" height="20" alt="phpstan"/> | `:phpstan:`
@@ -232,7 +234,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/gatling.png" width="20" height="20" alt="gatling"/> | `:gatling:`
 <img src="img-buildkite-64/phpunit.png" width="20" height="20" alt="phpunit"/> | `:phpunit:`
 <img src="img-buildkite-64/behat.png" width="20" height="20" alt="behat"/> | `:behat:`
-<img src="img-buildkite-64/consul.png" width="20" height="20" alt="consul"/> | `:consul:`
+<img src="img-buildkite-64/consul.png" width="20" height="20" alt="consul"/> | `:consul:`, `:hashicorp-consul:`
 <img src="img-buildkite-64/chromatic.png" width="20" height="20" alt="chromatic"/> | `:chromatic:`
 <img src="img-buildkite-64/bk-status-passed.png" width="20" height="20" alt="bk-status-passed"/> | `:bk-status-passed:`
 <img src="img-buildkite-64/bk-status-failed.png" width="20" height="20" alt="bk-status-failed"/> | `:bk-status-failed:`
@@ -415,11 +417,11 @@ Emoji | Aliases
 <img src="img-buildkite-64/android.png" width="20" height="20" alt="android"/> | `:android:`
 <img src="img-buildkite-64/jasmine.png" width="20" height="20" alt="jasmine"/> | `:jasmine:`
 <img src="img-buildkite-64/react.png" width="20" height="20" alt="react"/> | `:react:`
-<img src="img-buildkite-64/terraform.png" width="20" height="20" alt="terraform"/> | `:terraform:`
+<img src="img-buildkite-64/terraform.png" width="20" height="20" alt="terraform"/> | `:terraform:`, `:hashicorp-terraform:`
 <img src="img-buildkite-64/javascript.png" width="20" height="20" alt="javascript"/> | `:javascript:`, `:js:`
 <img src="img-buildkite-64/typescript.png" width="20" height="20" alt="typescript"/> | `:typescript:`
 <img src="img-buildkite-64/git.png" width="20" height="20" alt="git"/> | `:git:`
-<img src="img-buildkite-64/packer.png" width="20" height="20" alt="packer"/> | `:packer:`
+<img src="img-buildkite-64/packer.png" width="20" height="20" alt="packer"/> | `:packer:`, `:hashicorp-packer:`
 <img src="img-buildkite-64/babel.png" width="20" height="20" alt="babel"/> | `:babel:`
 <img src="img-buildkite-64/pipeline.png" width="20" height="20" alt="pipeline"/> | `:pipeline:`, `:pipeline_upload:`
 <img src="img-buildkite-64/allthethings.png" width="20" height="20" alt="allthethings"/> | `:allthethings:`
