@@ -2709,7 +2709,7 @@
     "image": "img-buildkite-64/googlecloud.png",
     "category": "Buildkite",
     "aliases": [
-      "gcloud"
+      "gcloud", "gcp"
     ]
   },
   {
