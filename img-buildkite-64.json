@@ -1,5 +1,11 @@
 [
   {
+    "name": "closed-pull-request",
+    "image": "img-buildkite-64/closed-pull-request.png",
+    "category": "Buildkite",
+    "aliases": ["closed-pr"]
+  },
+  {
     "name": "boundary",
     "image": "img-buildkite-64/boundary.png",
     "category": "Buildkite",

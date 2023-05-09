@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/closed-pull-request.png" width="20" height="20" alt="closed-pull-request"/> | `:closed-pull-request:`, `:closed-pr:`
 <img src="img-buildkite-64/boundary.png" width="20" height="20" alt="boundary"/> | `:boundary:`, `:hashicorp-boundary:`
 <img src="img-buildkite-64/waypoint.png" width="20" height="20" alt="waypoint"/> | `:waypoint:`, `:hashicorp-waypoint:`
 <img src="img-buildkite-64/pony.png" width="20" height="20" alt="pony"/> | `:pony:`
