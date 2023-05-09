@@ -1,5 +1,11 @@
 [
   {
+    "name": "merged-pull-request",
+    "image": "img-buildkite-64/merged-pull-request.png",
+    "category": "Buildkite",
+    "aliases": ["merged-pr"]
+  },
+  {
     "name": "closed-pull-request",
     "image": "img-buildkite-64/closed-pull-request.png",
     "category": "Buildkite",
