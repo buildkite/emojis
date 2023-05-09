@@ -1,5 +1,29 @@
 [
   {
+    "name": "draft-pull-request",
+    "image": "img-buildkite-64/draft-pull-request.png",
+    "category": "Buildkite",
+    "aliases": ["draft-pr"]
+  },
+  {
+    "name": "open-pull-request",
+    "image": "img-buildkite-64/open-pull-request.png",
+    "category": "Buildkite",
+    "aliases": ["open-pr"]
+  },
+  {
+    "name": "merged-pull-request",
+    "image": "img-buildkite-64/merged-pull-request.png",
+    "category": "Buildkite",
+    "aliases": ["merged-pr"]
+  },
+  {
+    "name": "closed-pull-request",
+    "image": "img-buildkite-64/closed-pull-request.png",
+    "category": "Buildkite",
+    "aliases": ["closed-pr"]
+  },
+  {
     "name": "boundary",
     "image": "img-buildkite-64/boundary.png",
     "category": "Buildkite",
