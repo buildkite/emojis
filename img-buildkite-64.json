@@ -1,5 +1,11 @@
 [
   {
+    "name": "charger",
+    "image": "img-buildkite-64/charger64.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "truffleruby",
     "image": "img-buildkite-64/truffleruby.png",
     "category": "Buildkite",
