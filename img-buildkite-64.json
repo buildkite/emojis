@@ -1,5 +1,11 @@
 [
   {
+    "name": "truffleruby",
+    "image": "img-buildkite-64/truffleruby.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "draft-pull-request",
     "image": "img-buildkite-64/draft-pull-request.png",
     "category": "Buildkite",
