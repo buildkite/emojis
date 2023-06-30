@@ -438,7 +438,6 @@ Emoji | Aliases
 <img src="img-buildkite-64/bower.png" width="20" height="20" alt="bower"/> | `:bower:`
 <img src="img-buildkite-64/bowtie.png" width="20" height="20" alt="bowtie"/> | `:bowtie:`
 <img src="img-buildkite-64/brakeman.png" width="20" height="20" alt="brakeman"/> | `:brakeman:`
-<img src="img-buildkite-64/bugsnag.png" width="20" height="20" alt="bugsnag"/> | `:bugsnag:`
 <img src="img-buildkite-64/buildkite.png" width="20" height="20" alt="buildkite"/> | `:buildkite:`
 <img src="img-buildkite-64/bundler.png" width="20" height="20" alt="bundler"/> | `:bundler:`
 <img src="img-buildkite-64/calibre.png" width="20" height="20" alt="calibre"/> | `:calibre:`
