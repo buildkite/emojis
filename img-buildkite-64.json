@@ -1,5 +1,11 @@
 [
   {
+    "name": "precommit",
+    "image": "img-buildkite-64/precommit.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "charger",
     "image": "img-buildkite-64/charger64.png",
     "category": "Buildkite",
