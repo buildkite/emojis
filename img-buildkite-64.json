@@ -1,5 +1,23 @@
 [
   {
+    "name": "anyscale",
+    "image": "img-buildkite-64/anyscale.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "ray",
+    "image": "img-buildkite-64/ray.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "ray-serve",
+    "image": "img-buildkite-64/ray-serve.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "precommit",
     "image": "img-buildkite-64/precommit.png",
     "category": "Buildkite",
