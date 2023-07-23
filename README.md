@@ -27,6 +27,9 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/anyscale.png" width="20" height="20" alt="anyscale"/> | `:anyscale:`
+<img src="img-buildkite-64/ray.png" width="20" height="20" alt="ray"/> | `:ray:`
+<img src="img-buildkite-64/ray-serve.png" width="20" height="20" alt="ray-serve"/> | `:ray-serve:`
 <img src="img-buildkite-64/precommit.png" width="20" height="20" alt="precommit"/> | `:precommit:`
 <img src="img-buildkite-64/charger64.png" width="20" height="20" alt="charger"/> | `:charger:`
 <img src="img-buildkite-64/truffleruby.png" width="20" height="20" alt="truffleruby" /> | `:truffleruby:`
