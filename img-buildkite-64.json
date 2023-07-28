@@ -1,5 +1,11 @@
 [
   {
+    "name": "gadget",
+    "image": "img-buildkite-64/gadget.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "anyscale",
     "image": "img-buildkite-64/anyscale.png",
     "category": "Buildkite",
