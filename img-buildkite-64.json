@@ -1,5 +1,17 @@
 [
   {
+    "name": "osv",
+    "image": "img-buildkite-64/osv.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "osv-scanner",
+    "image": "img-buildkite-64/osv-scanner.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "gadget",
     "image": "img-buildkite-64/gadget.png",
     "category": "Buildkite",

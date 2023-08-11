@@ -27,6 +27,8 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/osv.png" width="20" height="20" alt="osv"/> | `:osv:`
+<img src="img-buildkite-64/osv-scanner.png" width="20" height="20" alt="osv-scanner"/> | `:osv-scanner:`
 <img src="img-buildkite-64/gadget.png" width="20" height="20" alt="gadget"/> | `:gadget:`
 <img src="img-buildkite-64/anyscale.png" width="20" height="20" alt="anyscale"/> | `:anyscale:`
 <img src="img-buildkite-64/ray.png" width="20" height="20" alt="ray"/> | `:ray:`
