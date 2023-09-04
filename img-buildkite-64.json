@@ -1,5 +1,11 @@
 [
   {
+    "name": "namespace",
+    "image": "img-buildkite-64/namespace.png",
+    "category": "Buildkite",
+    "aliases": ["ns"]
+  },
+  {
     "name": "osv",
     "image": "img-buildkite-64/osv.png",
     "category": "Buildkite",
