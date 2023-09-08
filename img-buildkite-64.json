@@ -3728,5 +3728,11 @@
     "image": "img-buildkite-64/buildpacks.png",
     "category": "Buildkite",
     "aliases": []
+  },
+  {
+    "name": "shopify-liquid",
+    "image": "img-buildkite-64/shopify-liquid.png",
+    "category": "Buildkite",
+    "aliases": []
   }
 ]
