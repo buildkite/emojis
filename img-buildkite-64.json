@@ -1,5 +1,11 @@
 [
   {
+    "name": "vercel",
+    "image": "img-buildkite-64/vercel.png",
+    "category": "Buildkite",
+    "aliases": [""]
+  },
+  {
     "name": "namespace",
     "image": "img-buildkite-64/namespace.png",
     "category": "Buildkite",
