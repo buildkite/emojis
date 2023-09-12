@@ -36,7 +36,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/ray-serve.png" width="20" height="20" alt="ray-serve"/> | `:ray-serve:`
 <img src="img-buildkite-64/precommit.png" width="20" height="20" alt="precommit"/> | `:precommit:`
 <img src="img-buildkite-64/charger64.png" width="20" height="20" alt="charger"/> | `:charger:`
-<img src="img-buildkite-64/truffleruby.png" width="20" height="20" alt="truffleruby" /> | `:truffleruby:`
+<img src="img-buildkite-64/truffleruby.png" width="20" height="20" alt="truffleruby"/> | `:truffleruby:`
 <img src="img-buildkite-64/draft-pull-request.png" width="20" height="20" alt="draft-pull-request"/> | `:draft-pull-request:`, `:draft-pr:`
 <img src="img-buildkite-64/open-pull-request.png" width="20" height="20" alt="open-pull-request"/> | `:open-pull-request:`, `:open-pr:`
 <img src="img-buildkite-64/merged-pull-request.png" width="20" height="20" alt="merged-pull-request"/> | `:merged-pull-request:`, `:merged-pr:`
@@ -51,28 +51,28 @@ Emoji | Aliases
 <img src="img-buildkite-64/usertesting.png" width="20" height="20" alt="usertesting"/> | `:usertesting:`
 <img src="img-buildkite-64/express.png" width="20" height="20" alt="express"/> | `:express:`, `:expressjs:`
 <img src="img-buildkite-64/applied_intuition.png" width="20" height="20" alt="applied_intuition"/> | `:applied_intuition:`, `:appliedintuition:`, `:applied-intuition:`
-<img src="img-buildkite-64/smartbear-alertsite.png" width="20" height="20" alt="smartbear-alertsite"/> | `:smartbear-alertsite:`
-<img src="img-buildkite-64/smartbear-aqtimepro.png" width="20" height="20" alt="smartbear-aqtimepro"/> | `:smartbear-aqtimepro:`
-<img src="img-buildkite-64/smartbear-bitbar.png" width="20" height="20" alt="smartbear-bitbar"/> | `:smartbear-bitbar:`
-<img src="img-buildkite-64/smartbear-bugsnag.png" width="20" height="20" alt="smartbear-bugsnag"/> | `:smartbear-bugsnag:`
-<img src="img-buildkite-64/smartbear-capture.png" width="20" height="20" alt="smartbear-capture"/> | `:smartbear-capture:`
-<img src="img-buildkite-64/smartbear-collaborator.png" width="20" height="20" alt="smartbear-collaborator"/> | `:smartbear-collaborator:`
-<img src="img-buildkite-64/smartbear-cucumber.png" width="20" height="20" alt="smartbear-cucumber"/> | `:cucumber-studio:`, `:smartbear-cucumber:`
-<img src="img-buildkite-64/smartbear-cucumberopen.png" width="20" height="20" alt="smartbear-cucumberopen"/> | `:cucumber:`, `:cucumber-io:`, `cucumber-open`, `:smartbear-cucumberopen:`
-<img src="img-buildkite-64/smartbear-loadninja.png" width="20" height="20" alt="smartbear-loadninja"/> | `:smartbear-loadninja:`
-<img src="img-buildkite-64/smartbear-pact.png" width="20" height="20" alt="smartbear-pact"/> | `:smartbear-pact:`
-<img src="img-buildkite-64/smartbear-pactflow.png" width="20" height="20" alt="smartbear-pactflow"/> | `:smartbear-pactflow:`
-<img src="img-buildkite-64/smartbear-soapui.png" width="20" height="20" alt="smartbear-soapui"/> | `:smartbear-soapui:`
-<img src="img-buildkite-64/smartbear-swagger.png" width="20" height="20" alt="smartbear-swagger"/> | `:smartbear-swagger:`
-<img src="img-buildkite-64/smartbear-swaggerhub.png" width="20" height="20" alt="smartbear-swaggerhub"/> | `:smartbear-swaggerhub:`
-<img src="img-buildkite-64/smartbear-testcomplete.png" width="20" height="20" alt="smartbear-testcomplete"/> | `:smartbear-testcomplete:`
-<img src="img-buildkite-64/smartbear-testengine.png" width="20" height="20" alt="smartbear-testengine"/> | `:smartbear-testengine:`
-<img src="img-buildkite-64/smartbear-testexecute.png" width="20" height="20" alt="smartbear-testexecute"/> | `:smartbear-testexecute:`
-<img src="img-buildkite-64/smartbear-testleft.png" width="20" height="20" alt="smartbear-testleft"/> | `:smartbear-testleft:`
-<img src="img-buildkite-64/smartbear-visualtest.png" width="20" height="20" alt="smartbear-visualtest"/> | `:smartbear-visualtest:`
-<img src="img-buildkite-64/smartbear-zephyr.png" width="20" height="20" alt="smartbear-zephyr"/> | `:smartbear-zephyr:`
-<img src="img-buildkite-64/smartbear-zephyrscale.png" width="20" height="20" alt="smartbear-zephyrscale"/> | `:smartbear-zephyrscale:`
-<img src="img-buildkite-64/smartbear-zephyrsquad.png" width="20" height="20" alt="smartbear-zephyrsquad"/> | `:smartbear-zephyrsquad:`
+<img src="img-buildkite-64/smartbear-alertsite.png" width="20" height="20" alt="alertsite"/> | `:alertsite:`, `:smartbear-alertsite:`
+<img src="img-buildkite-64/smartbear-aqtimepro.png" width="20" height="20" alt="aqtimepro"/> | `:aqtimepro:`, `:smartbear-aqtimepro:`
+<img src="img-buildkite-64/smartbear-bitbar.png" width="20" height="20" alt="bitbar"/> | `:bitbar:`, `:smartbear-bitbar:`
+<img src="img-buildkite-64/smartbear-bugsnag.png" width="20" height="20" alt="bugsnag"/> | `:bugsnag:`, `:smartbear-bugsnag:`
+<img src="img-buildkite-64/smartbear-capture.png" width="20" height="20" alt="capture"/> | `:capture:`, `:smartbear-capture:`
+<img src="img-buildkite-64/smartbear-collaborator.png" width="20" height="20" alt="collaborator"/> | `:collaborator:`, `:smartbear-collaborator:`
+<img src="img-buildkite-64/smartbear-cucumber.png" width="20" height="20" alt="cucumber-studio"/> | `:cucumber-studio:`, `:smartbear-cucumber:`
+<img src="img-buildkite-64/smartbear-cucumberopen.png" width="20" height="20" alt="cucumber-open"/> | `:cucumber-open:`, `:cucumber:`, `:cucumber-io:`, `:cucumberopen:`, `:smartbear-cucumberopen:`
+<img src="img-buildkite-64/smartbear-loadninja.png" width="20" height="20" alt="loadninja"/> | `:loadninja:`, `:smartbear-loadninja:`
+<img src="img-buildkite-64/smartbear-pact.png" width="20" height="20" alt="pact"/> | `:pact:`, `:smartbear-pact:`
+<img src="img-buildkite-64/smartbear-pactflow.png" width="20" height="20" alt="pactflow"/> | `:pactflow:`, `:smartbear-pactflow:`
+<img src="img-buildkite-64/smartbear-soapui.png" width="20" height="20" alt="soapui"/> | `:soapui:`, `:smartbear-soapui:`
+<img src="img-buildkite-64/smartbear-swagger.png" width="20" height="20" alt="swagger"/> | `:swagger:`, `:smartbear-swagger:`
+<img src="img-buildkite-64/smartbear-swaggerhub.png" width="20" height="20" alt="swaggerhub"/> | `:swaggerhub:`, `:smartbear-swaggerhub:`
+<img src="img-buildkite-64/smartbear-testcomplete.png" width="20" height="20" alt="testcomplete"/> | `:testcomplete:`, `:smartbear-testcomplete:`
+<img src="img-buildkite-64/smartbear-testengine.png" width="20" height="20" alt="testengine"/> | `:testengine:`, `:smartbear-testengine:`
+<img src="img-buildkite-64/smartbear-testexecute.png" width="20" height="20" alt="testexecute"/> | `:testexecute:`, `:smartbear-testexecute:`
+<img src="img-buildkite-64/smartbear-testleft.png" width="20" height="20" alt="testleft"/> | `:testleft:`, `:smartbear-testleft:`
+<img src="img-buildkite-64/smartbear-visualtest.png" width="20" height="20" alt="visualtest"/> | `:visualtest:`, `:smartbear-visualtest:`
+<img src="img-buildkite-64/.png" width="20" height="20" alt="zephyr"/> | `:zephyr:`, `:smartbear-zephyr:`
+<img src="img-buildkite-64/smartbear-zephyrscale.png" width="20" height="20" alt="zephyrscale"/> | `:zephyrscale:`, `:smartbear-zephyrscale:`
+<img src="img-buildkite-64/smartbear-zephyrsquad.png" width="20" height="20" alt="zephyrsquad"/> | `:zephyrsquad:`, `:smartbear-zephyrsquad:`
 <img src="img-buildkite-64/esbuild.png" width="20" height="20" alt="esbuild"/> | `:esbuild:`
 <img src="img-buildkite-64/kart.png" width="20" height="20" alt="kart"/> | `:kart:`
 <img src="img-buildkite-64/locust.png" width="20" height="20" alt="locust"/> | `:locust:`
@@ -93,11 +93,12 @@ Emoji | Aliases
 <img src="img-buildkite-64/spacelift.png" width="20" height="20" alt="spacelift"/> | `:spacelift:`
 <img src="img-buildkite-64/spacelift-dark.png" width="20" height="20" alt="spacelift-dark"/> | `:spacelift-dark:`
 <img src="img-buildkite-64/preact.png" width="20" height="20" alt="preact"/> | `:preact:`
-<img src="img-buildkite-64/ms-teams.png" width="20" height="20" alt="ms-teams"/> | `:ms-teams:`
 <img src="img-buildkite-64/tapioca.png" width="20" height="20" alt="tapioca"/> | `:tapioca:`
 <img src="img-buildkite-64/alma.png" width="20" height="20" alt="alma"/> | `:alma:`
 <img src="img-buildkite-64/rocky.png" width="20" height="20" alt="rocky"/> | `:rocky:`
+<img src="img-buildkite-64/swc.png" width="20" height="20" alt="swc"/> | `:swc:`
 <img src="img-buildkite-64/horovod.png" width="20" height="20" alt="horovod"/> | `:horovod:`
+<img src="img-buildkite-64/changesets.png" width="20" height="20" alt="changesets"/> | `:changesets:`
 <img src="img-buildkite-64/gerrit.png" width="20" height="20" alt="gerrit"/> | `:gerrit:`
 <img src="img-buildkite-64/elastic-enterprise-search.png" width="20" height="20" alt="elastic-enterprise-search"/> | `:elastic-enterprise-search:`
 <img src="img-buildkite-64/elastic-apm.png" width="20" height="20" alt="elastic-apm"/> | `:elastic-apm:`
@@ -105,13 +106,14 @@ Emoji | Aliases
 <img src="img-buildkite-64/elastic-beats.png" width="20" height="20" alt="beats"/> | `:beats:`
 <img src="img-buildkite-64/grype.png" width="20" height="20" alt="grype"/> | `:grype:`
 <img src="img-buildkite-64/ngrok.png" width="20" height="20" alt="ngrok"/> | `:ngrok:`
-<img src="img-buildkite-64/vite.png" width="20" height="20" alt="vite"/> | `:vite:`
 <img src="img-buildkite-64/vitest.png" width="20" height="20" alt="vitest"/> | `:vitest:`
+<img src="img-buildkite-64/vite.png" width="20" height="20" alt="vite"/> | `:vite:`
+<img src="img-buildkite-64/apache_flink.png" width="20" height="20" alt="apache_flink"/> | `:apache_flink:`, `:flink:`
 <img src="img-buildkite-64/salus.png" width="20" height="20" alt="salus"/> | `:salus:`
 <img src="img-buildkite-64/aspect.png" width="20" height="20" alt="aspect"/> | `:aspect:`
 <img src="img-buildkite-64/appcenter.png" width="20" height="20" alt="appcenter"/> | `:appcenter:`
 <img src="img-buildkite-64/triple-green-shell.png" width="20" height="20" alt="triple-green-shell"/> | `:triple-green-shell:`
-<img src="img-buildkite-64/organicresponse.png" width="20" height="20" alt="organicresponse"/> | `:or:`, `:organicresponse:`
+<img src="img-buildkite-64/organicresponse.png" width="20" height="20" alt="organicresponse"/> | `:organicresponse:`, `:or:`
 <img src="img-buildkite-64/ladle.png" width="20" height="20" alt="ladle"/> | `:ladle:`
 <img src="img-buildkite-64/jetpack.png" width="20" height="20" alt="jetpack"/> | `:jetpack:`
 <img src="img-buildkite-64/test-analytics.png" width="20" height="20" alt="test-analytics"/> | `:test-analytics:`
@@ -122,7 +124,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/nx.png" width="20" height="20" alt="nx"/> | `:nx:`
 <img src="img-buildkite-64/buildbuddy.png" width="20" height="20" alt="buildbuddy"/> | `:buildbuddy:`
 <img src="img-buildkite-64/api-extractor.png" width="20" height="20" alt="api-extractor"/> | `:api-extractor:`
-<img src="img-buildkite-64/atlassian-opsgenie.png" width="20" height="20" alt="opsgenie"/> | `:atlassian-opsgenie:`, `:opsgenie:`
+<img src="img-buildkite-64/atlassian-opsgenie.png" width="20" height="20" alt="atlassian-opsgenie"/> | `:atlassian-opsgenie:`, `:opsgenie:`
 <img src="img-buildkite-64/pants.png" width="20" height="20" alt="pants"/> | `:pants:`, `:pantsbuild:`
 <img src="img-buildkite-64/backstage.png" width="20" height="20" alt="backstage"/> | `:backstage:`
 <img src="img-buildkite-64/terragrunt.png" width="20" height="20" alt="terragrunt"/> | `:terragrunt:`
@@ -157,6 +159,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/postman.png" width="20" height="20" alt="postman"/> | `:postman:`, `:newman:`
 <img src="img-buildkite-64/scaleway.png" width="20" height="20" alt="scaleway"/> | `:scaleway:`, `:scw:`
 <img src="img-buildkite-64/mssql.png" width="20" height="20" alt="mssql"/> | `:mssql:`
+<img src="img-buildkite-64/ms-teams.png" width="20" height="20" alt="ms-teams"/> | `:ms-teams:`
 <img src="img-buildkite-64/switch.png" width="20" height="20" alt="switch"/> | `:switch:`
 <img src="img-buildkite-64/trivy.png" width="20" height="20" alt="trivy"/> | `:trivy:`
 <img src="img-buildkite-64/komodor.png" width="20" height="20" alt="komodor"/> | `:komodor:`
@@ -206,7 +209,6 @@ Emoji | Aliases
 <img src="img-buildkite-64/meteor.png" width="20" height="20" alt="meteor"/> | `:meteor:`
 <img src="img-buildkite-64/moodle.png" width="20" height="20" alt="moodle"/> | `:moodle:`
 <img src="img-buildkite-64/neo4j.png" width="20" height="20" alt="neo4j"/> | `:neo4j:`
-<img src="img-buildkite-64/pact.png" width="20" height="20" alt="pact"/> | `:pact:`
 <img src="img-buildkite-64/rstats.png" width="20" height="20" alt="rstats"/> | `:rstats:`
 <img src="img-buildkite-64/google-apps-script.png" width="20" height="20" alt="google-apps-script"/> | `:google-apps-script:`
 <img src="img-buildkite-64/firebase.png" width="20" height="20" alt="firebase"/> | `:firebase:`
@@ -324,7 +326,6 @@ Emoji | Aliases
 <img src="img-buildkite-64/yaml.png" width="20" height="20" alt="yaml"/> | `:yaml:`
 <img src="img-buildkite-64/java.png" width="20" height="20" alt="java"/> | `:java:`
 <img src="img-buildkite-64/apache.png" width="20" height="20" alt="apache"/> | `:apache:`
-<img src="img-buildkite-64/apache_flink.png" width="20" height="20" alt="apache_flink"/> | `:apache_flink:`, `:flink:`
 <img src="img-buildkite-64/pytest.png" width="20" height="20" alt="pytest"/> | `:pytest:`
 <img src="img-buildkite-64/hugo.png" width="20" height="20" alt="hugo"/> | `:hugo:`, `:gohugo:`
 <img src="img-buildkite-64/ie.png" width="20" height="20" alt="ie"/> | `:ie:`, `:internet_explorer:`
@@ -352,7 +353,6 @@ Emoji | Aliases
 <img src="img-buildkite-64/markdown.png" width="20" height="20" alt="markdown"/> | `:markdown:`, `:md:`
 <img src="img-buildkite-64/relay.png" width="20" height="20" alt="relay"/> | `:relay:`
 <img src="img-buildkite-64/watchman.png" width="20" height="20" alt="watchman"/> | `:watchman:`
-<img src="img-buildkite-64/swagger.png" width="20" height="20" alt="swagger"/> | `:swagger:`
 <img src="img-buildkite-64/piedpiper.png" width="20" height="20" alt="piedpiper"/> | `:piedpiper:`
 <img src="img-buildkite-64/cloudfront.png" width="20" height="20" alt="cloudfront"/> | `:cloudfront:`
 <img src="img-buildkite-64/python.png" width="20" height="20" alt="python"/> | `:python:`
@@ -446,7 +446,6 @@ Emoji | Aliases
 <img src="img-buildkite-64/bower.png" width="20" height="20" alt="bower"/> | `:bower:`
 <img src="img-buildkite-64/bowtie.png" width="20" height="20" alt="bowtie"/> | `:bowtie:`
 <img src="img-buildkite-64/brakeman.png" width="20" height="20" alt="brakeman"/> | `:brakeman:`
-<img src="img-buildkite-64/bugsnag.png" width="20" height="20" alt="bugsnag"/> | `:bugsnag:`
 <img src="img-buildkite-64/buildkite.png" width="20" height="20" alt="buildkite"/> | `:buildkite:`
 <img src="img-buildkite-64/bundler.png" width="20" height="20" alt="bundler"/> | `:bundler:`
 <img src="img-buildkite-64/calibre.png" width="20" height="20" alt="calibre"/> | `:calibre:`
@@ -471,7 +470,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/goberserk.png" width="20" height="20" alt="goberserk"/> | `:goberserk:`
 <img src="img-buildkite-64/godmode.png" width="20" height="20" alt="godmode"/> | `:godmode:`
 <img src="img-buildkite-64/golang.png" width="20" height="20" alt="golang"/> | `:golang:`, `:go:`
-<img src="img-buildkite-64/googlecloud.png" width="20" height="20" alt="googlecloud"/> | `:googlecloud:`, `:gcloud:`
+<img src="img-buildkite-64/googlecloud.png" width="20" height="20" alt="googlecloud"/> | `:googlecloud:`, `:gcloud:`, `:gcp:`
 <img src="img-buildkite-64/green_button.png" width="20" height="20" alt="green_button"/> | `:green_button:`
 <img src="img-buildkite-64/heroku.png" width="20" height="20" alt="heroku"/> | `:heroku:`
 <img src="img-buildkite-64/hurtrealbad.png" width="20" height="20" alt="hurtrealbad"/> | `:hurtrealbad:`
@@ -632,12 +631,16 @@ Emoji | Aliases
 <img src="img-apple-64/263a-fe0f.png" width="20" height="20" alt="relaxed"/> | `:relaxed:`
 <img src="img-apple-64/2639-fe0f.png" width="20" height="20" alt="white_frowning_face"/> | `:white_frowning_face:`
 <img src="img-apple-64/2620-fe0f.png" width="20" height="20" alt="skull_and_crossbones"/> | `:skull_and_crossbones:`
+<img src="img-apple-64/1fae8.png" width="20" height="20" alt="shaking_face"/> | `:shaking_face:`
 <img src="img-apple-64/1fae5.png" width="20" height="20" alt="dotted_line_face"/> | `:dotted_line_face:`
 <img src="img-apple-64/1fae4.png" width="20" height="20" alt="face_with_diagonal_mouth"/> | `:face_with_diagonal_mouth:`
 <img src="img-apple-64/1fae3.png" width="20" height="20" alt="face_with_peeking_eye"/> | `:face_with_peeking_eye:`
 <img src="img-apple-64/1fae2.png" width="20" height="20" alt="face_with_open_eyes_and_hand_over_mouth"/> | `:face_with_open_eyes_and_hand_over_mouth:`
 <img src="img-apple-64/1fae1.png" width="20" height="20" alt="saluting_face"/> | `:saluting_face:`
 <img src="img-apple-64/1fae0.png" width="20" height="20" alt="melting_face"/> | `:melting_face:`
+<img src="img-apple-64/1fa77.png" width="20" height="20" alt="pink_heart"/> | `:pink_heart:`
+<img src="img-apple-64/1fa76.png" width="20" height="20" alt="grey_heart"/> | `:grey_heart:`
+<img src="img-apple-64/1fa75.png" width="20" height="20" alt="light_blue_heart"/> | `:light_blue_heart:`
 <img src="img-apple-64/1f9e1.png" width="20" height="20" alt="orange_heart"/> | `:orange_heart:`
 <img src="img-apple-64/1f9d0.png" width="20" height="20" alt="face_with_monocle"/> | `:face_with_monocle:`
 <img src="img-apple-64/1f97a.png" width="20" height="20" alt="pleading_face"/> | `:pleading_face:`
@@ -763,7 +766,6 @@ Emoji | Aliases
 <img src="img-apple-64/1f4a6.png" width="20" height="20" alt="sweat_drops"/> | `:sweat_drops:`
 <img src="img-apple-64/1f4a5.png" width="20" height="20" alt="boom"/> | `:boom:`, `:collision:`
 <img src="img-apple-64/1f4a4.png" width="20" height="20" alt="zzz"/> | `:zzz:`
-<img src="img-apple-64/1f4a3.png" width="20" height="20" alt="bomb"/> | `:bomb:`
 <img src="img-apple-64/1f4a2.png" width="20" height="20" alt="anger"/> | `:anger:`
 <img src="img-apple-64/1f49f.png" width="20" height="20" alt="heart_decoration"/> | `:heart_decoration:`
 <img src="img-apple-64/1f49e.png" width="20" height="20" alt="revolving_hearts"/> | `:revolving_hearts:`
@@ -842,6 +844,18 @@ Emoji | Aliases
 <img src="img-apple-64/261d-1f3fd.png" width="20" height="20" alt="point_up"/> | `:point_up::skin-tone-4:`
 <img src="img-apple-64/261d-1f3fe.png" width="20" height="20" alt="point_up"/> | `:point_up::skin-tone-5:`
 <img src="img-apple-64/261d-1f3ff.png" width="20" height="20" alt="point_up"/> | `:point_up::skin-tone-6:`
+<img src="img-apple-64/1faf8.png" width="20" height="20" alt="rightwards_pushing_hand"/> | `:rightwards_pushing_hand:`
+<img src="img-apple-64/1faf8-1f3fb.png" width="20" height="20" alt="rightwards_pushing_hand"/> | `:rightwards_pushing_hand::skin-tone-2:`
+<img src="img-apple-64/1faf8-1f3fc.png" width="20" height="20" alt="rightwards_pushing_hand"/> | `:rightwards_pushing_hand::skin-tone-3:`
+<img src="img-apple-64/1faf8-1f3fd.png" width="20" height="20" alt="rightwards_pushing_hand"/> | `:rightwards_pushing_hand::skin-tone-4:`
+<img src="img-apple-64/1faf8-1f3fe.png" width="20" height="20" alt="rightwards_pushing_hand"/> | `:rightwards_pushing_hand::skin-tone-5:`
+<img src="img-apple-64/1faf8-1f3ff.png" width="20" height="20" alt="rightwards_pushing_hand"/> | `:rightwards_pushing_hand::skin-tone-6:`
+<img src="img-apple-64/1faf7.png" width="20" height="20" alt="leftwards_pushing_hand"/> | `:leftwards_pushing_hand:`
+<img src="img-apple-64/1faf7-1f3fb.png" width="20" height="20" alt="leftwards_pushing_hand"/> | `:leftwards_pushing_hand::skin-tone-2:`
+<img src="img-apple-64/1faf7-1f3fc.png" width="20" height="20" alt="leftwards_pushing_hand"/> | `:leftwards_pushing_hand::skin-tone-3:`
+<img src="img-apple-64/1faf7-1f3fd.png" width="20" height="20" alt="leftwards_pushing_hand"/> | `:leftwards_pushing_hand::skin-tone-4:`
+<img src="img-apple-64/1faf7-1f3fe.png" width="20" height="20" alt="leftwards_pushing_hand"/> | `:leftwards_pushing_hand::skin-tone-5:`
+<img src="img-apple-64/1faf7-1f3ff.png" width="20" height="20" alt="leftwards_pushing_hand"/> | `:leftwards_pushing_hand::skin-tone-6:`
 <img src="img-apple-64/1faf6.png" width="20" height="20" alt="heart_hands"/> | `:heart_hands:`
 <img src="img-apple-64/1faf6-1f3fb.png" width="20" height="20" alt="heart_hands"/> | `:heart_hands::skin-tone-2:`
 <img src="img-apple-64/1faf6-1f3fc.png" width="20" height="20" alt="heart_hands"/> | `:heart_hands::skin-tone-3:`
@@ -2935,6 +2949,12 @@ Emoji | Aliases
 Emoji | Aliases
 ----- | -------
 <img src="img-apple-64/2618-fe0f.png" width="20" height="20" alt="shamrock"/> | `:shamrock:`
+<img src="img-apple-64/1facf.png" width="20" height="20" alt="donkey"/> | `:donkey:`
+<img src="img-apple-64/1face.png" width="20" height="20" alt="moose"/> | `:moose:`
+<img src="img-apple-64/1fabf.png" width="20" height="20" alt="goose"/> | `:goose:`
+<img src="img-apple-64/1fabd.png" width="20" height="20" alt="wing"/> | `:wing:`
+<img src="img-apple-64/1fabc.png" width="20" height="20" alt="jellyfish"/> | `:jellyfish:`
+<img src="img-apple-64/1fabb.png" width="20" height="20" alt="hyacinth"/> | `:hyacinth:`
 <img src="img-apple-64/1faba.png" width="20" height="20" alt="nest_with_eggs"/> | `:nest_with_eggs:`
 <img src="img-apple-64/1fab9.png" width="20" height="20" alt="empty_nest"/> | `:empty_nest:`
 <img src="img-apple-64/1fab8.png" width="20" height="20" alt="coral"/> | `:coral:`
@@ -3020,6 +3040,7 @@ Emoji | Aliases
 <img src="img-apple-64/1f428.png" width="20" height="20" alt="koala"/> | `:koala:`
 <img src="img-apple-64/1f427.png" width="20" height="20" alt="penguin"/> | `:penguin:`
 <img src="img-apple-64/1f426.png" width="20" height="20" alt="bird"/> | `:bird:`
+<img src="img-apple-64/1f426-200d-2b1b.png" width="20" height="20" alt="black_bird"/> | `:black_bird:`
 <img src="img-apple-64/1f425.png" width="20" height="20" alt="hatched_chick"/> | `:hatched_chick:`
 <img src="img-apple-64/1f424.png" width="20" height="20" alt="baby_chick"/> | `:baby_chick:`
 <img src="img-apple-64/1f423.png" width="20" height="20" alt="hatching_chick"/> | `:hatching_chick:`
@@ -3061,6 +3082,7 @@ Emoji | Aliases
 <img src="img-apple-64/1f401.png" width="20" height="20" alt="mouse2"/> | `:mouse2:`
 <img src="img-apple-64/1f400.png" width="20" height="20" alt="rat"/> | `:rat:`
 <img src="img-apple-64/1f3f5-fe0f.png" width="20" height="20" alt="rosette"/> | `:rosette:`
+<img src="img-apple-64/1f344.png" width="20" height="20" alt="mushroom"/> | `:mushroom:`
 <img src="img-apple-64/1f343.png" width="20" height="20" alt="leaves"/> | `:leaves:`
 <img src="img-apple-64/1f342.png" width="20" height="20" alt="fallen_leaf"/> | `:fallen_leaf:`
 <img src="img-apple-64/1f341.png" width="20" height="20" alt="maple_leaf"/> | `:maple_leaf:`
@@ -3084,6 +3106,8 @@ Emoji | Aliases
 Emoji | Aliases
 ----- | -------
 <img src="img-apple-64/2615.png" width="20" height="20" alt="coffee"/> | `:coffee:`
+<img src="img-apple-64/1fadb.png" width="20" height="20" alt="pea_pod"/> | `:pea_pod:`
+<img src="img-apple-64/1fada.png" width="20" height="20" alt="ginger_root"/> | `:ginger_root:`
 <img src="img-apple-64/1fad9.png" width="20" height="20" alt="jar"/> | `:jar:`
 <img src="img-apple-64/1fad8.png" width="20" height="20" alt="beans"/> | `:beans:`
 <img src="img-apple-64/1fad7.png" width="20" height="20" alt="pouring_liquid"/> | `:pouring_liquid:`
@@ -3208,7 +3232,6 @@ Emoji | Aliases
 <img src="img-apple-64/1f347.png" width="20" height="20" alt="grapes"/> | `:grapes:`
 <img src="img-apple-64/1f346.png" width="20" height="20" alt="eggplant"/> | `:eggplant:`
 <img src="img-apple-64/1f345.png" width="20" height="20" alt="tomato"/> | `:tomato:`
-<img src="img-apple-64/1f344.png" width="20" height="20" alt="mushroom"/> | `:mushroom:`
 <img src="img-apple-64/1f33d.png" width="20" height="20" alt="corn"/> | `:corn:`
 <img src="img-apple-64/1f336-fe0f.png" width="20" height="20" alt="hot_pepper"/> | `:hot_pepper:`
 <img src="img-apple-64/1f330.png" width="20" height="20" alt="chestnut"/> | `:chestnut:`
@@ -3230,7 +3253,6 @@ Emoji | Aliases
 <img src="img-apple-64/2663-fe0f.png" width="20" height="20" alt="clubs"/> | `:clubs:`
 <img src="img-apple-64/2660-fe0f.png" width="20" height="20" alt="spades"/> | `:spades:`
 <img src="img-apple-64/265f-fe0f.png" width="20" height="20" alt="chess_pawn"/> | `:chess_pawn:`
-<img src="img-apple-64/1faac.png" width="20" height="20" alt="hamsa"/> | `:hamsa:`
 <img src="img-apple-64/1faa9.png" width="20" height="20" alt="mirror_ball"/> | `:mirror_ball:`
 <img src="img-apple-64/1faa2.png" width="20" height="20" alt="knot"/> | `:knot:`
 <img src="img-apple-64/1faa1.png" width="20" height="20" alt="sewing_needle"/> | `:sewing_needle:`
@@ -3239,7 +3261,6 @@ Emoji | Aliases
 <img src="img-apple-64/1fa84.png" width="20" height="20" alt="magic_wand"/> | `:magic_wand:`
 <img src="img-apple-64/1fa81.png" width="20" height="20" alt="kite"/> | `:kite:`
 <img src="img-apple-64/1fa80.png" width="20" height="20" alt="yo-yo"/> | `:yo-yo:`
-<img src="img-apple-64/1f9ff.png" width="20" height="20" alt="nazar_amulet"/> | `:nazar_amulet:`
 <img src="img-apple-64/1f9f8.png" width="20" height="20" alt="teddy_bear"/> | `:teddy_bear:`
 <img src="img-apple-64/1f9f6.png" width="20" height="20" alt="yarn"/> | `:yarn:`
 <img src="img-apple-64/1f9f5.png" width="20" height="20" alt="thread"/> | `:thread:`
@@ -3261,6 +3282,7 @@ Emoji | Aliases
 <img src="img-apple-64/1f5bc-fe0f.png" width="20" height="20" alt="frame_with_picture"/> | `:frame_with_picture:`
 <img src="img-apple-64/1f579-fe0f.png" width="20" height="20" alt="joystick"/> | `:joystick:`
 <img src="img-apple-64/1f52e.png" width="20" height="20" alt="crystal_ball"/> | `:crystal_ball:`
+<img src="img-apple-64/1f52b.png" width="20" height="20" alt="gun"/> | `:gun:`
 <img src="img-apple-64/1f3f8.png" width="20" height="20" alt="badminton_racquet_and_shuttlecock"/> | `:badminton_racquet_and_shuttlecock:`
 <img src="img-apple-64/1f3d3.png" width="20" height="20" alt="table_tennis_paddle_and_ball"/> | `:table_tennis_paddle_and_ball:`
 <img src="img-apple-64/1f3d2.png" width="20" height="20" alt="ice_hockey_stick_and_puck"/> | `:ice_hockey_stick_and_puck:`
@@ -3551,6 +3573,9 @@ Emoji | Aliases
 <img src="img-apple-64/260e-fe0f.png" width="20" height="20" alt="phone"/> | `:phone:`, `:telephone:`
 <img src="img-apple-64/2328-fe0f.png" width="20" height="20" alt="keyboard"/> | `:keyboard:`
 <img src="img-apple-64/1fae7.png" width="20" height="20" alt="bubbles"/> | `:bubbles:`
+<img src="img-apple-64/1faae.png" width="20" height="20" alt="hair_pick"/> | `:hair_pick:`
+<img src="img-apple-64/1faad.png" width="20" height="20" alt="folding_hand_fan"/> | `:folding_hand_fan:`
+<img src="img-apple-64/1faac.png" width="20" height="20" alt="hamsa"/> | `:hamsa:`
 <img src="img-apple-64/1faab.png" width="20" height="20" alt="low_battery"/> | `:low_battery:`
 <img src="img-apple-64/1faaa.png" width="20" height="20" alt="identification_card"/> | `:identification_card:`
 <img src="img-apple-64/1faa7.png" width="20" height="20" alt="placard"/> | `:placard:`
@@ -3574,6 +3599,8 @@ Emoji | Aliases
 <img src="img-apple-64/1fa93.png" width="20" height="20" alt="axe"/> | `:axe:`
 <img src="img-apple-64/1fa92.png" width="20" height="20" alt="razor"/> | `:razor:`
 <img src="img-apple-64/1fa91.png" width="20" height="20" alt="chair"/> | `:chair:`
+<img src="img-apple-64/1fa88.png" width="20" height="20" alt="flute"/> | `:flute:`
+<img src="img-apple-64/1fa87.png" width="20" height="20" alt="maracas"/> | `:maracas:`
 <img src="img-apple-64/1fa83.png" width="20" height="20" alt="boomerang"/> | `:boomerang:`
 <img src="img-apple-64/1fa7c.png" width="20" height="20" alt="crutch"/> | `:crutch:`
 <img src="img-apple-64/1fa7b.png" width="20" height="20" alt="x-ray"/> | `:x-ray:`
@@ -3585,6 +3612,7 @@ Emoji | Aliases
 <img src="img-apple-64/1fa72.png" width="20" height="20" alt="briefs"/> | `:briefs:`
 <img src="img-apple-64/1fa71.png" width="20" height="20" alt="one-piece_swimsuit"/> | `:one-piece_swimsuit:`
 <img src="img-apple-64/1fa70.png" width="20" height="20" alt="ballet_shoes"/> | `:ballet_shoes:`
+<img src="img-apple-64/1f9ff.png" width="20" height="20" alt="nazar_amulet"/> | `:nazar_amulet:`
 <img src="img-apple-64/1f9fe.png" width="20" height="20" alt="receipt"/> | `:receipt:`
 <img src="img-apple-64/1f9fd.png" width="20" height="20" alt="sponge"/> | `:sponge:`
 <img src="img-apple-64/1f9fc.png" width="20" height="20" alt="soap"/> | `:soap:`
@@ -3650,7 +3678,6 @@ Emoji | Aliases
 <img src="img-apple-64/1f56f-fe0f.png" width="20" height="20" alt="candle"/> | `:candle:`
 <img src="img-apple-64/1f52d.png" width="20" height="20" alt="telescope"/> | `:telescope:`
 <img src="img-apple-64/1f52c.png" width="20" height="20" alt="microscope"/> | `:microscope:`
-<img src="img-apple-64/1f52b.png" width="20" height="20" alt="gun"/> | `:gun:`
 <img src="img-apple-64/1f529.png" width="20" height="20" alt="nut_and_bolt"/> | `:nut_and_bolt:`
 <img src="img-apple-64/1f528.png" width="20" height="20" alt="hammer"/> | `:hammer:`
 <img src="img-apple-64/1f527.png" width="20" height="20" alt="wrench"/> | `:wrench:`
@@ -3743,6 +3770,7 @@ Emoji | Aliases
 <img src="img-apple-64/1f4b4.png" width="20" height="20" alt="yen"/> | `:yen:`
 <img src="img-apple-64/1f4b3.png" width="20" height="20" alt="credit_card"/> | `:credit_card:`
 <img src="img-apple-64/1f4b0.png" width="20" height="20" alt="moneybag"/> | `:moneybag:`
+<img src="img-apple-64/1f4a3.png" width="20" height="20" alt="bomb"/> | `:bomb:`
 <img src="img-apple-64/1f4a1.png" width="20" height="20" alt="bulb"/> | `:bulb:`
 <img src="img-apple-64/1f48e.png" width="20" height="20" alt="gem"/> | `:gem:`
 <img src="img-apple-64/1f48d.png" width="20" height="20" alt="ring"/> | `:ring:`
@@ -3889,6 +3917,7 @@ Emoji | Aliases
 <img src="img-apple-64/2122-fe0f.png" width="20" height="20" alt="tm"/> | `:tm:`
 <img src="img-apple-64/2049-fe0f.png" width="20" height="20" alt="interrobang"/> | `:interrobang:`
 <img src="img-apple-64/203c-fe0f.png" width="20" height="20" alt="bangbang"/> | `:bangbang:`
+<img src="img-apple-64/1faaf.png" width="20" height="20" alt="khanda"/> | `:khanda:`
 <img src="img-apple-64/1f7f0.png" width="20" height="20" alt="heavy_equals_sign"/> | `:heavy_equals_sign:`
 <img src="img-apple-64/1f7eb.png" width="20" height="20" alt="large_brown_square"/> | `:large_brown_square:`
 <img src="img-apple-64/1f7ea.png" width="20" height="20" alt="large_purple_square"/> | `:large_purple_square:`
@@ -3902,6 +3931,7 @@ Emoji | Aliases
 <img src="img-apple-64/1f7e2.png" width="20" height="20" alt="large_green_circle"/> | `:large_green_circle:`
 <img src="img-apple-64/1f7e1.png" width="20" height="20" alt="large_yellow_circle"/> | `:large_yellow_circle:`
 <img src="img-apple-64/1f7e0.png" width="20" height="20" alt="large_orange_circle"/> | `:large_orange_circle:`
+<img src="img-apple-64/1f6dc.png" width="20" height="20" alt="wireless"/> | `:wireless:`
 <img src="img-apple-64/1f6d0.png" width="20" height="20" alt="place_of_worship"/> | `:place_of_worship:`
 <img src="img-apple-64/1f6c5.png" width="20" height="20" alt="left_luggage"/> | `:left_luggage:`
 <img src="img-apple-64/1f6c4.png" width="20" height="20" alt="baggage_claim"/> | `:baggage_claim:`
