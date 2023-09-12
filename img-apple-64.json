@@ -4442,7 +4442,7 @@
   },
   {
     "name": "mushroom",
-    "category": "Food & Drink",
+    "category": "Animals & Nature",
     "image": "img-apple-64/1f344.png",
     "unicode": "1F344",
     "aliases": [
@@ -7697,6 +7697,18 @@
     "category": "Animals & Nature",
     "image": "img-apple-64/1f425.png",
     "unicode": "1F425",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "black_bird",
+    "category": "Animals & Nature",
+    "image": "img-apple-64/1f426-200d-2b1b.png",
+    "unicode": "1F426-200D-2B1B",
     "aliases": [
 
     ],
@@ -14183,7 +14195,7 @@
   },
   {
     "name": "bomb",
-    "category": "Smileys & Emotion",
+    "category": "Objects",
     "image": "img-apple-64/1f4a3.png",
     "unicode": "1F4A3",
     "aliases": [
@@ -15828,7 +15840,7 @@
   },
   {
     "name": "gun",
-    "category": "Objects",
+    "category": "Activities",
     "image": "img-apple-64/1f52b.png",
     "unicode": "1F52B",
     "aliases": [
@@ -20175,6 +20187,18 @@
     "category": "Objects",
     "image": "img-apple-64/1f6d7.png",
     "unicode": "1F6D7",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "wireless",
+    "category": "Symbols",
+    "image": "img-apple-64/1f6dc.png",
+    "unicode": "1F6DC",
     "aliases": [
 
     ],
@@ -27260,7 +27284,7 @@
   },
   {
     "name": "nazar_amulet",
-    "category": "Activities",
+    "category": "Objects",
     "image": "img-apple-64/1f9ff.png",
     "unicode": "1F9FF",
     "aliases": [
@@ -27323,6 +27347,42 @@
     "category": "Objects",
     "image": "img-apple-64/1fa74.png",
     "unicode": "1FA74",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "light_blue_heart",
+    "category": "Smileys & Emotion",
+    "image": "img-apple-64/1fa75.png",
+    "unicode": "1FA75",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "grey_heart",
+    "category": "Smileys & Emotion",
+    "image": "img-apple-64/1fa76.png",
+    "unicode": "1FA76",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "pink_heart",
+    "category": "Smileys & Emotion",
+    "image": "img-apple-64/1fa77.png",
+    "unicode": "1FA77",
     "aliases": [
 
     ],
@@ -27467,6 +27527,30 @@
     "category": "Activities",
     "image": "img-apple-64/1fa86.png",
     "unicode": "1FA86",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "maracas",
+    "category": "Objects",
+    "image": "img-apple-64/1fa87.png",
+    "unicode": "1FA87",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "flute",
+    "category": "Objects",
+    "image": "img-apple-64/1fa88.png",
+    "unicode": "1FA88",
     "aliases": [
 
     ],
@@ -27812,9 +27896,45 @@
   },
   {
     "name": "hamsa",
-    "category": "Activities",
+    "category": "Objects",
     "image": "img-apple-64/1faac.png",
     "unicode": "1FAAC",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "folding_hand_fan",
+    "category": "Objects",
+    "image": "img-apple-64/1faad.png",
+    "unicode": "1FAAD",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "hair_pick",
+    "category": "Objects",
+    "image": "img-apple-64/1faae.png",
+    "unicode": "1FAAE",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "khanda",
+    "category": "Symbols",
+    "image": "img-apple-64/1faaf.png",
+    "unicode": "1FAAF",
     "aliases": [
 
     ],
@@ -27947,6 +28067,54 @@
     "category": "Animals & Nature",
     "image": "img-apple-64/1faba.png",
     "unicode": "1FABA",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "hyacinth",
+    "category": "Animals & Nature",
+    "image": "img-apple-64/1fabb.png",
+    "unicode": "1FABB",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "jellyfish",
+    "category": "Animals & Nature",
+    "image": "img-apple-64/1fabc.png",
+    "unicode": "1FABC",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "wing",
+    "category": "Animals & Nature",
+    "image": "img-apple-64/1fabd.png",
+    "unicode": "1FABD",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "goose",
+    "category": "Animals & Nature",
+    "image": "img-apple-64/1fabf.png",
+    "unicode": "1FABF",
     "aliases": [
 
     ],
@@ -28099,6 +28267,30 @@
     ]
   },
   {
+    "name": "moose",
+    "category": "Animals & Nature",
+    "image": "img-apple-64/1face.png",
+    "unicode": "1FACE",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "donkey",
+    "category": "Animals & Nature",
+    "image": "img-apple-64/1facf.png",
+    "unicode": "1FACF",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
     "name": "blueberries",
     "category": "Food & Drink",
     "image": "img-apple-64/1fad0.png",
@@ -28219,6 +28411,30 @@
     ]
   },
   {
+    "name": "ginger_root",
+    "category": "Food & Drink",
+    "image": "img-apple-64/1fada.png",
+    "unicode": "1FADA",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "pea_pod",
+    "category": "Food & Drink",
+    "image": "img-apple-64/1fadb.png",
+    "unicode": "1FADB",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
     "name": "melting_face",
     "category": "Smileys & Emotion",
     "image": "img-apple-64/1fae0.png",
@@ -28307,6 +28523,18 @@
     "category": "Objects",
     "image": "img-apple-64/1fae7.png",
     "unicode": "1FAE7",
+    "aliases": [
+
+    ],
+    "modifiers": [
+
+    ]
+  },
+  {
+    "name": "shaking_face",
+    "category": "Smileys & Emotion",
+    "image": "img-apple-64/1fae8.png",
+    "unicode": "1FAE8",
     "aliases": [
 
     ],
@@ -28563,6 +28791,78 @@
         "name": "skin-tone-6",
         "image": "img-apple-64/1faf6-1f3ff.png",
         "unicode": "1FAF6-1F3FF"
+      }
+    ]
+  },
+  {
+    "name": "leftwards_pushing_hand",
+    "category": "People & Body",
+    "image": "img-apple-64/1faf7.png",
+    "unicode": "1FAF7",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1faf7-1f3fb.png",
+        "unicode": "1FAF7-1F3FB"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1faf7-1f3fc.png",
+        "unicode": "1FAF7-1F3FC"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1faf7-1f3fd.png",
+        "unicode": "1FAF7-1F3FD"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1faf7-1f3fe.png",
+        "unicode": "1FAF7-1F3FE"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1faf7-1f3ff.png",
+        "unicode": "1FAF7-1F3FF"
+      }
+    ]
+  },
+  {
+    "name": "rightwards_pushing_hand",
+    "category": "People & Body",
+    "image": "img-apple-64/1faf8.png",
+    "unicode": "1FAF8",
+    "aliases": [
+
+    ],
+    "modifiers": [
+      {
+        "name": "skin-tone-2",
+        "image": "img-apple-64/1faf8-1f3fb.png",
+        "unicode": "1FAF8-1F3FB"
+      },
+      {
+        "name": "skin-tone-3",
+        "image": "img-apple-64/1faf8-1f3fc.png",
+        "unicode": "1FAF8-1F3FC"
+      },
+      {
+        "name": "skin-tone-4",
+        "image": "img-apple-64/1faf8-1f3fd.png",
+        "unicode": "1FAF8-1F3FD"
+      },
+      {
+        "name": "skin-tone-5",
+        "image": "img-apple-64/1faf8-1f3fe.png",
+        "unicode": "1FAF8-1F3FE"
+      },
+      {
+        "name": "skin-tone-6",
+        "image": "img-apple-64/1faf8-1f3ff.png",
+        "unicode": "1FAF8-1F3FF"
       }
     ]
   },

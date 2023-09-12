@@ -23,9 +23,11 @@ airplane_departure
 akamai
 alarm_clock
 alembic
+alertsite
 algolia
 alien
 allthethings
+alma
 alpine
 amazon-apigateway
 amazon-athena
@@ -83,6 +85,7 @@ angular
 anka
 ansible
 ant
+anyscale
 apache
 apache_flink
 apex
@@ -91,6 +94,11 @@ appcenter
 appengine
 appium
 apple
+applied-intuition
+applied_intuition
+appliedintuition
+applitools
+aqtimepro
 aquarius
 arch
 argo
@@ -225,6 +233,7 @@ beach_with_umbrella
 beans
 bear
 bearded_person
+beats
 beaver
 bed
 bee
@@ -246,6 +255,7 @@ biohazard_sign
 bird
 birthday
 bison
+bitbar
 bitbucket
 biting_lip
 bk-status-failed
@@ -253,6 +263,7 @@ bk-status-failing
 bk-status-passed
 bk-status-pending
 bk-status-running
+black_bird
 black_cat
 black_circle
 black_circle_for_record
@@ -289,6 +300,7 @@ boom
 boomerang
 boomi
 boot
+boundary
 bouquet
 bow
 bow_and_arrow
@@ -336,6 +348,7 @@ bust_in_silhouette
 busts_in_silhouette
 butter
 butterfly
+c
 c++
 cactus
 cake
@@ -356,6 +369,7 @@ canoe
 capistrano
 capital_abcd
 capricorn
+capture
 car
 card_file_box
 card_index
@@ -372,6 +386,8 @@ centos
 chains
 chair
 champagne
+changesets
+charger
 chart
 chart_with_downwards_trend
 chart_with_upwards_trend
@@ -440,6 +456,8 @@ clock9
 clock930
 clojure
 clojurescript
+closed-pr
+closed-pull-request
 closed_book
 closed_lock_with_key
 closed_umbrella
@@ -472,6 +490,7 @@ cogops
 coin
 cold_face
 cold_sweat
+collaborator
 collision
 comet
 compass
@@ -534,7 +553,9 @@ cucumber
 cucumber
 cucumber-io
 cucumber-open
+cucumber-open
 cucumber-studio
+cucumberopen
 cup_with_straw
 cupcake
 cupid
@@ -562,6 +583,7 @@ dartlang
 darwin
 dash
 database
+databricks
 datadog
 date
 dato
@@ -574,6 +596,7 @@ deaf_woman
 debian
 deciduous_tree
 deer
+deno
 department_store
 derelict_house_building
 desert
@@ -593,18 +616,22 @@ django
 dna
 do_not_litter
 docker
+docusaurus
 dodo
 dog
 dog2
 dollar
 dolls
 dolphin
+donkey
 door
 dotnet
 dotted_line_face
 double_vertical_bar
 doughnut
 dove_of_peace
+draft-pr
+draft-pull-request
 dragon
 dragon_face
 dragonflybsd
@@ -638,9 +665,11 @@ eight_spoked_asterisk
 eject
 eks
 elastic
+elastic-apm
 elastic-cloud
 elastic-cloud-enterprise
 elastic-cloud-kubernetes
+elastic-enterprise-search
 elastic-stack
 elasticbeanstalk
 elasticloadbalancing
@@ -664,6 +693,8 @@ envelope
 envelope_with_arrow
 erlang
 es
+esbuild
+esbuild
 esdoc
 eslint
 euro
@@ -675,7 +706,9 @@ exclamation
 expeditor
 exploding_death_star
 exploding_head
+express
 expressionless
+expressjs
 eye
 eye-in-speech-bubble
 eyeglasses
@@ -1048,6 +1081,7 @@ flowerwork
 flowtype
 fluentd
 flushed
+flute
 flutter
 fly
 fly-io
@@ -1056,6 +1090,7 @@ flying_saucer
 flynn
 fog
 foggy
+folding_hand_fan
 fondue
 foot
 football
@@ -1071,6 +1106,7 @@ fr
 frame_with_picture
 free
 freebsd
+fresh
 fried_egg
 fried_shrimp
 fries
@@ -1083,26 +1119,34 @@ fuelpump
 full_moon
 full_moon_with_face
 funeral_urn
+gadget
 game_die
 gappengine
+garden-io
+garden-io
 garlic
 gatling
 gatsby
 gb
 gcloud
 gcompute
+gcp
 gear
 gem
 gemini
 genie
+gerrit
 ghost
 gift
 gift_heart
+ginger_root
 giraffe_face
 girl
 git
 gitguardian
 github
+gitlab
+gitlab
 gitpod
 gitsby
 glass_of_milk
@@ -1125,6 +1169,7 @@ google-apps-script
 google-chat
 google-closure-compiler
 googlecloud
+goose
 gorilla
 gradle
 grafana
@@ -1136,6 +1181,7 @@ green_button
 green_heart
 green_salad
 grey_exclamation
+grey_heart
 grey_question
 grimacing
 grin
@@ -1143,6 +1189,7 @@ grinning
 grinning_face_with_one_large_and_one_small_eye
 grinning_face_with_star_eyes
 grunt
+grype
 guardsman
 guide_dog
 guitar
@@ -1152,6 +1199,7 @@ h2
 habicat
 hadolint
 hadoop
+hair_pick
 haircut
 hamburger
 haml
@@ -1170,6 +1218,14 @@ handshake
 hankey
 happo
 hash
+hashicorp-boundary
+hashicorp-consul
+hashicorp-nomad
+hashicorp-packer
+hashicorp-terraform
+hashicorp-vagrant
+hashicorp-vault
+hashicorp-waypoint
 haskell
 hass
 hatched_chick
@@ -1221,6 +1277,7 @@ home-assistant
 honey_pot
 honeybee
 hook
+horovod
 horse
 horse_racing
 hospital
@@ -1243,6 +1300,7 @@ hugo
 hurtrealbad
 hushed
 hut
+hyacinth
 hydrogen
 hyper
 i_love_you_hand_sign
@@ -1256,6 +1314,7 @@ identification_card
 ideograph_advantage
 ie
 imp
+imperva
 inbox_tray
 incoming_envelope
 index_pointing_at_the_viewer
@@ -1282,6 +1341,7 @@ java
 javascript
 jeans
 jekyll
+jellyfish
 jenkins
 jest
 jetpack
@@ -1313,10 +1373,13 @@ kangaroo
 karate
 karate-api
 karma
+kart
+kart
 key
 keyboard
 keycap_star
 keycap_ten
+khanda
 kibana
 kimono
 kinesis
@@ -1378,6 +1441,7 @@ left_right_arrow
 left_speech_bubble
 leftwards_arrow_with_hook
 leftwards_hand
+leftwards_pushing_hand
 leg
 lemon
 lendinghome
@@ -1386,10 +1450,12 @@ leo
 leopard
 level_slider
 libra
+light_blue_heart
 light_rail
 lighthouse
 lightning
 lightning_cloud
+linear
 link
 linked_paperclips
 lint-remover
@@ -1402,9 +1468,13 @@ liquibase
 lizard
 llama
 llama
+loadninja
 lobster
 lock
 lock_with_ink_pen
+locust
+locust
+logstash
 lollipop
 long_drum
 looker
@@ -1538,6 +1608,7 @@ mans_shoe
 mantelpiece_clock
 manual_wheelchair
 maple_leaf
+maracas
 markdown
 martial_arts_uniform
 mask
@@ -1560,6 +1631,8 @@ men_holding_hands
 mending_heart
 menorah_with_nine_branches
 mens
+merged-pr
+merged-pull-request
 mermaid
 merman
 merperson
@@ -1591,6 +1664,7 @@ monorail
 moodle
 moon
 moon_cake
+moose
 mortar_board
 mosque
 mosquito
@@ -1612,6 +1686,7 @@ movie_camera
 moyai
 mpi
 mrs_claus
+ms-teams
 mssql
 muscle
 mushroom
@@ -1625,6 +1700,7 @@ mypy
 mysql
 nail_care
 name_badge
+namespace
 nancy
 national_park
 nauseated_face
@@ -1648,6 +1724,7 @@ nextjs
 nexus-iq
 ng
 nginx
+ngrok
 night_with_stars
 nightmare
 nine
@@ -1674,6 +1751,7 @@ notebook
 notebook_with_decorative_cover
 notes
 npm
+ns
 nsp
 nut_and_bolt
 nx
@@ -1706,6 +1784,8 @@ one
 one-does-not-simply
 one-piece_swimsuit
 onion
+open-pr
+open-pull-request
 open_book
 open_file_folder
 open_hands
@@ -1713,6 +1793,8 @@ open_mouth
 openapi
 openbsd
 openpolicyagent
+opensearch
+opentelemetry
 ophiuchus
 opscode
 opsgenie
@@ -1723,6 +1805,9 @@ orange_heart
 orangutan
 organicresponse
 orthodox_cross
+osv
+osv-scanner
+otel
 otter
 outbox_tray
 owl
@@ -1733,6 +1818,7 @@ package_cloud
 packagecloud
 packer
 pact
+pactflow
 page_facing_up
 page_with_curl
 pager
@@ -1759,6 +1845,7 @@ partyparrot
 passenger_ship
 passport_control
 paw_prints
+pea_pod
 peace_symbol
 peach
 peacock
@@ -1810,6 +1897,7 @@ pinata
 pinched_fingers
 pinching_hand
 pineapple
+pink_heart
 pinterest
 pinterest-teletraan
 pipeline
@@ -1821,6 +1909,7 @@ placard
 place_of_worship
 plaidml
 planetscale
+plausible
 playground_slide
 playstation
 playwright
@@ -1835,6 +1924,7 @@ point_up
 point_up_2
 polar_bear
 police_car
+pony
 poodle
 poop
 popcorn
@@ -1855,6 +1945,8 @@ pouting_cat
 pray
 prayer_beads
 pre-commit
+preact
+precommit
 pregnant_man
 pregnant_person
 pregnant_woman
@@ -1875,6 +1967,7 @@ purple_heart
 purse
 pushpin
 put_litter_in_its_place
+pyright
 pytest
 python
 python-black
@@ -1913,6 +2006,8 @@ ramen
 rancher
 raspberry-pi
 rat
+ray
+ray-serve
 razor
 rea
 react
@@ -1951,12 +2046,14 @@ rice_scene
 right-facing_fist
 right_anger_bubble
 rightwards_hand
+rightwards_pushing_hand
 ring
 ring_buoy
 ringed_planet
 robot_face
 rock
 rocket
+rocky
 roll_of_paper
 rollbar
 rolled_up_newspaper
@@ -2027,6 +2124,7 @@ screwdriver
 scroll
 scsslint
 scw
+sdm
 seal
 seat
 second_place_medal
@@ -2045,6 +2143,7 @@ service_dog
 seven
 sewing_needle
 sfdx
+shaking_face
 shallow_pan_of_food
 shamrock
 shark
@@ -2060,7 +2159,9 @@ shirt
 shit
 shocked_face_with_exploding_head
 shoe
+shop
 shopify
+shopify-liquid
 shopping_bags
 shopping_trolley
 shorts
@@ -2102,6 +2203,28 @@ small_blue_diamond
 small_orange_diamond
 small_red_triangle
 small_red_triangle_down
+smartbear-alertsite
+smartbear-aqtimepro
+smartbear-bitbar
+smartbear-bugsnag
+smartbear-capture
+smartbear-collaborator
+smartbear-cucumber
+smartbear-cucumberopen
+smartbear-loadninja
+smartbear-pact
+smartbear-pactflow
+smartbear-soapui
+smartbear-swagger
+smartbear-swaggerhub
+smartbear-testcomplete
+smartbear-testengine
+smartbear-testexecute
+smartbear-testleft
+smartbear-visualtest
+smartbear-zephyr
+smartbear-zephyrscale
+smartbear-zephyrsquad
 smile
 smile_cat
 smiley
@@ -2126,6 +2249,7 @@ snowman_without_snow
 snowsql
 snyk
 soap
+soapui
 sob
 soccer
 socks
@@ -2138,6 +2262,8 @@ sorbet
 sos
 sound
 space_invader
+spacelift
+spacelift-dark
 spades
 spaghetti
 spark
@@ -2164,6 +2290,9 @@ sqlite
 squid
 srb
 sst
+stack-overflow
+stack_overflow
+stackoverflow
 stadium
 standing_person
 star
@@ -2181,6 +2310,7 @@ stopwatch
 storybook
 straight_ruler
 strawberry
+strongdm
 stryker
 stryker-js
 stuck_out_tongue
@@ -2211,7 +2341,9 @@ suspect
 suspension_railway
 svn
 swagger
+swaggerhub
 swan
+swc
 sweat
 sweat_drops
 sweat_smile
@@ -2232,6 +2364,7 @@ takeout_box
 tamale
 tanabata_tree
 tangerine
+tapioca
 tauri
 taurus
 taxi
@@ -2253,7 +2386,11 @@ terragrunt
 test-analytics
 test-kitchen
 test_tube
+testcomplete
+testengine
+testexecute
 testflight
+testleft
 testobject
 the_horns
 thermometer
@@ -2311,6 +2448,7 @@ trophy
 tropical_drink
 tropical_fish
 truck
+truffleruby
 trumpet
 tshirt
 tslint
@@ -2338,6 +2476,7 @@ u7533
 u7981
 u7a7a
 ubuntu
+uefi
 uk
 umbrella
 umbrella_on_ground
@@ -2349,6 +2488,8 @@ unlock
 up
 upside_down_face
 us
+usertesting
+usertesting
 v
 vagrant
 vampire
@@ -2362,6 +2503,7 @@ violin
 virgo
 virtru
 visual-regression-tracker
+visualtest
 vite
 vitest
 volcano
@@ -2389,6 +2531,7 @@ wavy_dash
 waxing_crescent_moon
 waxing_gibbous_moon
 wayfair
+waypoint
 wc
 weary
 webassembly
@@ -2420,7 +2563,9 @@ wind_chime
 window
 windows
 wine_glass
+wing
 wink
+wireless
 wolf
 woman
 woman-biking
@@ -2513,6 +2658,9 @@ zany_face
 zap
 zapier
 zebra_face
+zephyr
+zephyrscale
+zephyrsquad
 zero
 zipper_mouth_face
 zombie
