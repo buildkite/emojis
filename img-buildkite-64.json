@@ -3734,5 +3734,11 @@
     "image": "img-buildkite-64/shopify-liquid.png",
     "category": "Buildkite",
     "aliases": []
+  },
+  {
+    "name": "intuit-auto",
+    "image": "img-buildkite-64/intuit-auto.png",
+    "category": "Buildkite",
+    "aliases": ["auto"]
   }
 ]
