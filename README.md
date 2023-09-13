@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/modallabs.png" width="20" height="20" alt="modallabs"/> | `:modallabs:`, `:modal:`
 <img src="img-buildkite-64/namespace.png" width="20" height="20" alt="namespace"/> | `:namespace:`, `:ns:`
 <img src="img-buildkite-64/osv.png" width="20" height="20" alt="osv"/> | `:osv:`
 <img src="img-buildkite-64/osv-scanner.png" width="20" height="20" alt="osv-scanner"/> | `:osv-scanner:`
