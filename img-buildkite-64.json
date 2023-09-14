@@ -1,5 +1,11 @@
 [
   {
+    "name": "modallabs",
+    "image": "img-buildkite-64/modallabs.png",
+    "category": "Buildkite",
+    "aliases": ["modal"]
+  },
+  {
     "name": "vercel",
     "image": "img-buildkite-64/vercel.png",
     "category": "Buildkite",
