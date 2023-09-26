@@ -550,7 +550,6 @@ Emoji | Aliases
 <img src="img-buildkite-64/amazon-elasticcache.png" width="20" height="20" alt="amazon-elasticcache"/> | `:amazon-elasticcache:`
 <img src="img-buildkite-64/amazon-elastictranscoder.png" width="20" height="20" alt="amazon-elastictranscoder"/> | `:amazon-elastictranscoder:`
 <img src="img-buildkite-64/amazon-emr.png" width="20" height="20" alt="amazon-emr"/> | `:amazon-emr:`, `:emr:`
-<img src="img-buildkite-64/amazon-es.png" width="20" height="20" alt="amazon-es"/> | `:amazon-es:`
 <img src="img-buildkite-64/amazon-eventbridge.png" width="20" height="20" alt="amazon-eventbridge"/> | `:amazon-eventbridge:`, `:eventbridge:`
 <img src="img-buildkite-64/amazon-gamelift.png" width="20" height="20" alt="amazon-gamelift"/> | `:amazon-gamelift:`
 <img src="img-buildkite-64/amazon-glacier.png" width="20" height="20" alt="amazon-glacier"/> | `:amazon-glacier:`
@@ -562,6 +561,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/amazon-macie.png" width="20" height="20" alt="amazon-macie"/> | `:amazon-macie:`
 <img src="img-buildkite-64/amazon-mechanicalturk.png" width="20" height="20" alt="amazon-mechanicalturk"/> | `:amazon-mechanicalturk:`
 <img src="img-buildkite-64/amazon-mobileanalytics.png" width="20" height="20" alt="amazon-mobileanalytics"/> | `:amazon-mobileanalytics:`
+<img src="img-buildkite-64/amazon-opensearch.png" width="20" height="20" alt="amazon-opensearch"/> | `:amazon-opensearch:`
 <img src="img-buildkite-64/amazon-pinpoint.png" width="20" height="20" alt="amazon-pinpoint"/> | `:amazon-pinpoint:`
 <img src="img-buildkite-64/amazon-polly.png" width="20" height="20" alt="amazon-polly"/> | `:amazon-polly:`
 <img src="img-buildkite-64/amazon-quicksight.png" width="20" height="20" alt="amazon-quicksight"/> | `:amazon-quicksight:`

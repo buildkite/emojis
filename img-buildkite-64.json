@@ -3308,8 +3308,8 @@
     ]
   },
   {
-    "name": "amazon-es",
-    "image": "img-buildkite-64/amazon-es.png",
+    "name": "amazon-opensearch",
+    "image": "img-buildkite-64/amazon-opensearch.png",
     "category": "Buildkite",
     "aliases": []
   },
