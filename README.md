@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/bonezone.gif" width="20" height="20" alt="bonezone"/> | `:bonezone:`, `:mr-bones:`
 <img src="img-buildkite-64/modallabs.png" width="20" height="20" alt="modallabs"/> | `:modallabs:`, `:modal:`
 <img src="img-buildkite-64/vercel.png" width="20" height="20" alt="vercel"/> | `:vercel:`
 <img src="img-buildkite-64/namespace.png" width="20" height="20" alt="namespace"/> | `:namespace:`, `:ns:`
