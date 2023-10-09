@@ -1,5 +1,14 @@
 [
   {
+    "name": "bonezone",
+    "image": "img-buildkite-64/bonezone.gif",
+    "category": "Buildkite",
+    "aliases": [
+      "skeleton-dance",
+      "mr-bones"
+    ]
+  },
+  {
     "name": "modallabs",
     "image": "img-buildkite-64/modallabs.png",
     "category": "Buildkite",
