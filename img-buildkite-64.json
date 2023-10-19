@@ -9,7 +9,7 @@
     "name": "podium",
     "image": "img-buildkite-64/podium.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": ["pdm"]
   },
   {
     "name": "bonezone",
