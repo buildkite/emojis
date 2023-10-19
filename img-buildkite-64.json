@@ -1,5 +1,11 @@
 [
   {
+    "name": "gandalf",
+    "image": "img-buildkite-64/gandalf.png",
+    "category": "Buildkite",
+    "aliases": ["you_shall_not_pass"]
+  },
+  {
     "name": "podium",
     "image": "img-buildkite-64/podium.png",
     "category": "Buildkite",
