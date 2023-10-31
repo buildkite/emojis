@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/canva.png" width="20" height="20" alt="canva"/> | `:canva:`
 <img src="img-buildkite-64/gandalf.png" width="20" height="20" alt="gandalf"/> | `:gandalf:, :you_shall_not_pass:`
 <img src="img-buildkite-64/podium.png" width="20" height="20" alt="podium"/> | `:podium:`
 <img src="img-buildkite-64/bonezone.gif" width="20" height="20" alt="bonezone"/> | `:bonezone:`, `skeleton-dance`, `:mr-bones:`
