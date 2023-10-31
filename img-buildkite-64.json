@@ -3773,5 +3773,11 @@
     "image": "img-buildkite-64/intuit-auto.png",
     "category": "Buildkite",
     "aliases": ["auto"]
+  },
+  {
+    "name": "canva",
+    "image": "img-buildkite-64/canva.png",
+    "category": "Buildkite",
+    "aliases": []
   }
 ]
