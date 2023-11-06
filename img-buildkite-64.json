@@ -1,5 +1,17 @@
 [
   {
+    "name": "equinix-metal",
+    "image": "img-buildkite-64/equinix-metal.png",
+    "category": "Buildkite",
+    "aliases": ["eqix-metal"]
+  },
+  {
+    "name": "equinix",
+    "image": "img-buildkite-64/equinix.png",
+    "category": "Buildkite",
+    "aliases": ["eqix"]
+  },
+  {
     "name": "gandalf",
     "image": "img-buildkite-64/gandalf.png",
     "category": "Buildkite",
