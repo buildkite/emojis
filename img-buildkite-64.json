@@ -559,6 +559,24 @@
     "name": "aspect",
     "image": "img-buildkite-64/aspect.png",
     "category": "Buildkite",
+    "aliases": ["aspect-build"]
+  },
+  {
+    "name": "aspect-dark",
+    "image": "img-buildkite-64/aspect-dark.png",
+    "category": "Buildkite",
+    "aliases": ["aspect-build-dark"]
+  },
+  {
+    "name": "aspect-dev",
+    "image": "img-buildkite-64/aspect-dev.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aspect-dev-dark",
+    "image": "img-buildkite-64/aspect-dev-dark.png",
+    "category": "Buildkite",
     "aliases": []
   },
   {

@@ -119,6 +119,9 @@ Emoji | Aliases
 <img src="img-buildkite-64/apache_flink.png" width="20" height="20" alt="apache_flink"/> | `:apache_flink:`, `:flink:`
 <img src="img-buildkite-64/salus.png" width="20" height="20" alt="salus"/> | `:salus:`
 <img src="img-buildkite-64/aspect.png" width="20" height="20" alt="aspect"/> | `:aspect:`
+<img src="img-buildkite-64/aspect-dark.png" width="20" height="20" alt="aspect-dark"/> | `:aspect-dark:`
+<img src="img-buildkite-64/aspect-dev.png" width="20" height="20" alt="aspect-dev"/> | `:aspect-dev:`
+<img src="img-buildkite-64/aspect-dev-dark.png" width="20" height="20" alt="aspect-dev-dark"/> | `:aspect-dev-dark:`
 <img src="img-buildkite-64/appcenter.png" width="20" height="20" alt="appcenter"/> | `:appcenter:`
 <img src="img-buildkite-64/triple-green-shell.png" width="20" height="20" alt="triple-green-shell"/> | `:triple-green-shell:`
 <img src="img-buildkite-64/organicresponse.png" width="20" height="20" alt="organicresponse"/> | `:organicresponse:`, `:or:`
