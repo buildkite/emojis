@@ -556,16 +556,16 @@
     "aliases": []
   },
   {
-    "name": "aspect",
-    "image": "img-buildkite-64/aspect.png",
+    "name": "aspect-build",
+    "image": "img-buildkite-64/aspect-build.png",
     "category": "Buildkite",
-    "aliases": ["aspect-build"]
+    "aliases": ["aspect"]
   },
   {
-    "name": "aspect-dark",
-    "image": "img-buildkite-64/aspect-dark.png",
+    "name": "aspect-build-dark",
+    "image": "img-buildkite-64/aspect-build-dark.png",
     "category": "Buildkite",
-    "aliases": ["aspect-build-dark"]
+    "aliases": ["aspect-dark"]
   },
   {
     "name": "aspect-dev",
