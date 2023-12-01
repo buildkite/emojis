@@ -1,5 +1,11 @@
 [
   {
+    "name": "powershell",
+    "image": "img-buildkite-64/powershell.png",
+    "category": "Buildkite",
+    "aliases": ["pwsh"]
+  },
+  {
     "name": "equinix-metal",
     "image": "img-buildkite-64/equinix-metal.png",
     "category": "Buildkite",
