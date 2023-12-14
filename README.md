@@ -78,7 +78,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/smartbear-testexecute.png" width="20" height="20" alt="testexecute"/> | `:testexecute:`, `:smartbear-testexecute:`
 <img src="img-buildkite-64/smartbear-testleft.png" width="20" height="20" alt="testleft"/> | `:testleft:`, `:smartbear-testleft:`
 <img src="img-buildkite-64/smartbear-visualtest.png" width="20" height="20" alt="visualtest"/> | `:visualtest:`, `:smartbear-visualtest:`
-<img src="img-buildkite-64/.png" width="20" height="20" alt="zephyr"/> | `:zephyr:`, `:smartbear-zephyr:`
+<img src="img-buildkite-64/smartbear-zephyr.png" width="20" height="20" alt="zephyr"/> | `:zephyr:`, `:smartbear-zephyr:`
 <img src="img-buildkite-64/smartbear-zephyrscale.png" width="20" height="20" alt="zephyrscale"/> | `:zephyrscale:`, `:smartbear-zephyrscale:`
 <img src="img-buildkite-64/smartbear-zephyrsquad.png" width="20" height="20" alt="zephyrsquad"/> | `:zephyrsquad:`, `:smartbear-zephyrsquad:`
 <img src="img-buildkite-64/esbuild.png" width="20" height="20" alt="esbuild"/> | `:esbuild:`
@@ -118,8 +118,8 @@ Emoji | Aliases
 <img src="img-buildkite-64/vite.png" width="20" height="20" alt="vite"/> | `:vite:`
 <img src="img-buildkite-64/apache_flink.png" width="20" height="20" alt="apache_flink"/> | `:apache_flink:`, `:flink:`
 <img src="img-buildkite-64/salus.png" width="20" height="20" alt="salus"/> | `:salus:`
-<img src="img-buildkite-64/aspect.png" width="20" height="20" alt="aspect-build"/> | `:aspect-build:`
-<img src="img-buildkite-64/aspect-dark.png" width="20" height="20" alt="aspect-build-dark"/> | `:aspect-build-dark:`
+<img src="img-buildkite-64/aspect-build.png" width="20" height="20" alt="aspect-build"/> | `:aspect-build:`
+<img src="img-buildkite-64/aspect-build-dark.png" width="20" height="20" alt="aspect-build-dark"/> | `:aspect-build-dark:`
 <img src="img-buildkite-64/aspect-dev.png" width="20" height="20" alt="aspect-dev"/> | `:aspect-dev:`
 <img src="img-buildkite-64/aspect-dev-dark.png" width="20" height="20" alt="aspect-dev-dark"/> | `:aspect-dev-dark:`
 <img src="img-buildkite-64/appcenter.png" width="20" height="20" alt="appcenter"/> | `:appcenter:`
