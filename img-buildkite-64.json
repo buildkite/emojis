@@ -1,5 +1,11 @@
 [
   {
+    "name": "ruff",
+    "image": "img-buildkite-64/ruff.png",
+    "category": "Buildkite",
+    "aliases": ["ruff"]
+  },
+  {
     "name": "powershell",
     "image": "img-buildkite-64/powershell.png",
     "category": "Buildkite",

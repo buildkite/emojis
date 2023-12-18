@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/ruff.png" width="20" height="20" alt="ruff"/> | `:ruff:`
 <img src="img-buildkite-64/equinix-metal.png" width="20" height="20" alt="equinix-metal"/> | `:equinix-metal:, :eqix-metal:`
 <img src="img-buildkite-64/equinix.png" width="20" height="20" alt="equinix"/> | `:equinix:, :eqix:`
 <img src="img-buildkite-64/canva.png" width="20" height="20" alt="canva"/> | `:canva:`
