@@ -1,11 +1,5 @@
 [
   {
-    "name": "linktree",
-    "image": "img-buildkite-64/linktree.png",
-    "category": "Buildkite",
-    "aliases": []
-  },
-  {
     "name": "wiz",
     "image": "img-buildkite-64/wiz.png",
     "category": "Buildkite",
