@@ -1,5 +1,17 @@
 [
   {
+    "name": "wiz",
+    "image": "img-buildkite-64/wiz.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "lacework",
+    "image": "img-buildkite-64/lacework.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "ruff",
     "image": "img-buildkite-64/ruff.png",
     "category": "Buildkite",
