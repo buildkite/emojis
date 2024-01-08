@@ -633,8 +633,9 @@ Emoji | Aliases
 <img src="img-buildkite-64/openapi.png" width="20" height="20" alt="openapi"/> | `:openapi:`
 <img src="img-buildkite-64/buildpacks.png" width="20" height="20" alt="buildpacks"/> | `:buildpacks:`
 <img src="img-buildkite-64/shopify-liquid.png" width="20" height="20" alt="shopify-liquid"/> | `:shopify-liquid:`
-| <img src="img-buildkite-64/intuit-auto.png" width="20" height="20" alt="intuit-auto"/>                                   | `:intuit-auto:`                                                                             |
+<img src="img-buildkite-64/intuit-auto.png" width="20" height="20" alt="intuit-auto"/> | `:intuit-auto:`
 <img src="img-buildkite-64/renovate.png" width="20" height="20" alt="renovate"/> | `:renovate:`
+<img src="img-buildkite-64/influxdata.png" width="20" height="20" alt="influxdata"/> | `:influxdata:`
 
 ### Smileys & Emotion
 

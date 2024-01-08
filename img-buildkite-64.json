@@ -3839,5 +3839,11 @@
     "image": "img-buildkite-64/renovate.png",
     "category": "Buildkite",
     "aliases": []
+  },
+  {
+    "name": "influxdata",
+    "image": "img-buildkite-64/influxdata.png",
+    "category": "Buildkite",
+    "aliases": []
   }
 ]
