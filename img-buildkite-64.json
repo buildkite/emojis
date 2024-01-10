@@ -1,5 +1,11 @@
 [
   {
+    "name": "checkly",
+    "image": "img-buildkite-64/checkly.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "wiz",
     "image": "img-buildkite-64/wiz.png",
     "category": "Buildkite",

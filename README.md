@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/checkly.png" width="20" height="20" alt="checkly"/> | `:checkly:`
 <img src="img-buildkite-64/wiz.png" width="20" height="20" alt="wiz"/> | `:wiz:`
 <img src="img-buildkite-64/lacework.png" width="20" height="20" alt="lacework"/> | `:lacework:`
 <img src="img-buildkite-64/ruff.png" width="20" height="20" alt="ruff"/> | `:ruff:`
