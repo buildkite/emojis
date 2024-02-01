@@ -1,5 +1,17 @@
 [
   {
+    "name": "dvc",
+    "image": "img-buildkite-64/dvc.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "cml",
+    "image": "img-buildkite-64/cml.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "checkly",
     "image": "img-buildkite-64/checkly.png",
     "category": "Buildkite",
