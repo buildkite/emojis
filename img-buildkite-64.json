@@ -1,5 +1,11 @@
 [
   {
+    "name": "rokt",
+    "image": "img-buildkite-64/rokt.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "dvc",
     "image": "img-buildkite-64/dvc.png",
     "category": "Buildkite",
