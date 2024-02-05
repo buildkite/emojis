@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/gcp-dataflow.png" width="20" height="20" alt="dataflow"/> | `:dataflow:`
 <img src="img-buildkite-64/rokt.png" width="20" height="20" alt="rokt"/> | `:rokt:`
 <img src="img-buildkite-64/dvc.png" width="20" height="20" alt="dvc"/> | `:dvc:`
 <img src="img-buildkite-64/cml.png" width="20" height="20" alt="cml"/> | `:cml:`
