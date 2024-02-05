@@ -3769,6 +3769,12 @@
     "aliases": []
   },
   {
+    "name": "aws-timestream",
+    "image": "img-buildkite-64/aws-timestream.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "aws-trustedadvisor",
     "image": "img-buildkite-64/aws-trustedadvisor.png",
     "category": "Buildkite",

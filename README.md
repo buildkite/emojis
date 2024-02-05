@@ -624,6 +624,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/aws-snowball.png" width="20" height="20" alt="aws-snowball"/> | `:aws-snowball:`
 <img src="img-buildkite-64/aws-stepfunctions.png" width="20" height="20" alt="aws-stepfunctions"/> | `:aws-stepfunctions:`
 <img src="img-buildkite-64/aws-storagegateway.png" width="20" height="20" alt="aws-storagegateway"/> | `:aws-storagegateway:`
+<img src="img-buildkite-64/aws-timestream.png" width="20" height="20" alt="aws-timestream"/> | `:aws-timestream:`
 <img src="img-buildkite-64/aws-trustedadvisor.png" width="20" height="20" alt="aws-trustedadvisor"/> | `:aws-trustedadvisor:`
 <img src="img-buildkite-64/aws-waf.png" width="20" height="20" alt="aws-waf"/> | `:aws-waf:`
 <img src="img-buildkite-64/aws-x-ray.png" width="20" height="20" alt="aws-x-ray"/> | `:aws-x-ray:`
