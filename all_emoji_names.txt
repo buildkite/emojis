@@ -181,6 +181,7 @@ aws-sms
 aws-snowball
 aws-stepfunctions
 aws-storagegateway
+aws-timestream
 aws-trustedadvisor
 aws-waf
 aws-x-ray
