@@ -1,5 +1,17 @@
 [
-    {
+  {
+    "name": "grow-inc",
+    "image": "img-buildkite-64/grow-inc.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "grow-inc-dlta",
+    "image": "img-buildkite-64/grow-inc-dlta.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "dataflow",
     "image": "img-buildkite-64/gcp-dataflow.png",
     "category": "Buildkite",
