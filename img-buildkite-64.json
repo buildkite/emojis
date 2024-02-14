@@ -3905,5 +3905,11 @@
     "image": "img-buildkite-64/influxdata.png",
     "category": "Buildkite",
     "aliases": []
+  },
+  {
+    "name": "turborepo",
+    "image": "img-buildkite-64/turborepo.png",
+    "category": "Buildkite",
+    "aliases": []
   }
 ]
