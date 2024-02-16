@@ -1,5 +1,11 @@
 [
   {
+    "name": "detekt",
+    "image": "img-buildkite-64/detekt.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "grow-inc",
     "image": "img-buildkite-64/grow-inc.png",
     "category": "Buildkite",
