@@ -28,6 +28,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 Emoji | Aliases
 ----- | -------
 <img src="img-buildkite-64/detekt.png" width="20" height="20" alt="detekt"/> | `:detekt:`
+<img src="img-buildkite-64/kaniko.png" width="20" height="20" alt="kaniko"/> | `:kaniko:`
 <img src="img-buildkite-64/grow-inc.png" width="20" height="20" alt="grow-inc"/> | `:grow-inc:`
 <img src="img-buildkite-64/grow-inc-dlta.png" width="20" height="20" alt="grow-inc-dlta"/> | `:grow-inc-dlta:`
 <img src="img-buildkite-64/gcp-dataflow.png" width="20" height="20" alt="dataflow"/> | `:dataflow:`
