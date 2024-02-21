@@ -1,5 +1,11 @@
 [
   {
+    "name": "detekt",
+    "image": "img-buildkite-64/detekt.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "kaniko",
     "image": "img-buildkite-64/kaniko.png",
     "category": "Buildkite",
