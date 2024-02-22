@@ -1,5 +1,23 @@
 [
   {
+    "name": "cdk8s",
+    "image": "img-buildkite-64/cdk8s.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "detekt",
+    "image": "img-buildkite-64/detekt.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "kaniko",
+    "image": "img-buildkite-64/kaniko.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "grow-inc",
     "image": "img-buildkite-64/grow-inc.png",
     "category": "Buildkite",
@@ -3897,6 +3915,12 @@
   {
     "name": "keymaster",
     "image": "img-buildkite-64/keymaster.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "turborepo",
+    "image": "img-buildkite-64/turborepo.png",
     "category": "Buildkite",
     "aliases": []
   }
