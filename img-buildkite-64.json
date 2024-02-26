@@ -1,5 +1,11 @@
 [
   {
+    "name": "pypi",
+    "image": "img-buildkite-64/pypi.png",
+    "category": "Buildkite",
+    "aliases": ["pip"]
+  },
+  {
     "name": "cdk8s",
     "image": "img-buildkite-64/cdk8s.png",
     "category": "Buildkite",
