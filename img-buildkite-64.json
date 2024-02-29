@@ -75,7 +75,7 @@
     "name": "ruff",
     "image": "img-buildkite-64/ruff.png",
     "category": "Buildkite",
-    "aliases": ["ruff"]
+    "aliases": []
   },
   {
     "name": "powershell",
@@ -252,13 +252,13 @@
     "name": "garden-io",
     "image": "img-buildkite-64/garden-io.png",
     "category": "Buildkite",
-    "aliases": ["garden-io"]
+    "aliases": []
   },
   {
     "name": "usertesting",
     "image": "img-buildkite-64/usertesting.png",
     "category": "Buildkite",
-    "aliases": ["usertesting"]
+    "aliases": []
   },
   {
     "name": "express",
@@ -323,7 +323,6 @@
     "aliases": [
       "cucumber",
       "cucumber-io",
-      "cucumber-open",
       "cucumberopen",
       "smartbear-cucumberopen"
     ]
@@ -416,25 +415,25 @@
     "name": "esbuild",
     "image": "img-buildkite-64/esbuild.png",
     "category": "Buildkite",
-    "aliases": ["esbuild"]
+    "aliases": []
   },
   {
     "name": "kart",
     "image": "img-buildkite-64/kart.png",
     "category": "Buildkite",
-    "aliases": ["kart"]
+    "aliases": []
   },
   {
     "name": "locust",
     "image": "img-buildkite-64/locust.png",
     "category": "Buildkite",
-    "aliases": ["locust"]
+    "aliases": []
   },
   {
     "name": "gitlab",
     "image": "img-buildkite-64/gitlab.png",
     "category": "Buildkite",
-    "aliases": ["gitlab"]
+    "aliases": []
   },
   {
     "name": "stack_overflow",
