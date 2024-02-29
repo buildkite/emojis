@@ -2665,8 +2665,8 @@
     "aliases": []
   },
   {
-    "name": "phoenix",
-    "image": "img-buildkite-64/phoenix.png",
+    "name": "phoenix-elixir",
+    "image": "img-buildkite-64/phoenix-elixir.png",
     "category": "Buildkite",
     "aliases": []
   },
