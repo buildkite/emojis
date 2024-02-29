@@ -1,10 +1,16 @@
 [
   {
+    "name": "platformio",
+    "image": "img-buildkite-64/platformio.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "openwrt",
     "image": "img-buildkite-64/openwrt.png",
     "category": "Buildkite",
     "aliases": []
-  } ,
+  },
   {
     "name": "pypi",
     "image": "img-buildkite-64/pypi.png",
