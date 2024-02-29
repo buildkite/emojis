@@ -648,6 +648,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/intuit-auto.png" width="20" height="20" alt="intuit-auto"/> | `:intuit-auto:`
 <img src="img-buildkite-64/renovate.png" width="20" height="20" alt="renovate"/> | `:renovate:`
 <img src="img-buildkite-64/influxdata.png" width="20" height="20" alt="influxdata"/> | `:influxdata:`
+<img src="img-buildkite-64/keymaster.png" width="20" height="20" alt="keymaster"/> | `:keymaster:`
 
 ### Smileys & Emotion
 
