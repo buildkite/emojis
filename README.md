@@ -451,7 +451,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/aws.png" width="20" height="20" alt="aws"/> | `:aws:`, `:amazon-aws:`
 <img src="img-buildkite-64/mocha.png" width="20" height="20" alt="mocha"/> | `:mocha:`
 <img src="img-buildkite-64/rails.png" width="20" height="20" alt="rails"/> | `:rails:`
-<img src="img-buildkite-64/phoenix-elixr.png" width="20" height="20" alt="phoenix-elixr"/> | `:phoenix-elixr:`
+<img src="img-buildkite-64/phoenix-elixir.png" width="20" height="20" alt="phoenix-elixir"/> | `:phoenix-elixir:`
 <img src="img-buildkite-64/brunch.png" width="20" height="20" alt="brunch"/> | `:brunch:`
 <img src="img-buildkite-64/android.png" width="20" height="20" alt="android"/> | `:android:`
 <img src="img-buildkite-64/jasmine.png" width="20" height="20" alt="jasmine"/> | `:jasmine:`

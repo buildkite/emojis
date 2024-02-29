@@ -1932,7 +1932,7 @@ petri_dish
 pfsense
 phabricator
 phoenix
-phoenix-elixr
+phoenix-elixir
 phone
 php
 phpstan
