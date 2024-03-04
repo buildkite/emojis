@@ -651,6 +651,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/influxdata.png" width="20" height="20" alt="influxdata"/> | `:influxdata:`
 <img src="img-buildkite-64/keymaster.png" width="20" height="20" alt="keymaster"/> | `:keymaster:`
 <img src="img-buildkite-64/turborepo.png" width="20" height="20" alt="turborepo"/> | `:turborepo:`
+<img src="img-buildkite-64/gravatar.png" width="20" height="20" alt="gravatar"/> | `:gravatar:`
 
 ### Smileys & Emotion
 
