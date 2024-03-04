@@ -3928,5 +3928,11 @@
     "image": "img-buildkite-64/turborepo.png",
     "category": "Buildkite",
     "aliases": []
+  },
+  {
+    "name": "gravatar",
+    "image": "img-buildkite-64/gravatar.png",
+    "category": "Buildkite",
+    "aliases": []
   }
 ]
