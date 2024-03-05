@@ -4,7 +4,7 @@
     "image": "img-buildkite-64/openwrt.png",
     "category": "Buildkite",
     "aliases": []
-  }  
+  } ,
   {
     "name": "cdk8s",
     "image": "img-buildkite-64/cdk8s.png",
