@@ -1,5 +1,11 @@
 [
   {
+    "name": "openwrt",
+    "image": "img-buildkite-64/openwrt.png",
+    "category": "Buildkite",
+    "aliases": []
+  } ,
+  {
     "name": "pypi",
     "image": "img-buildkite-64/pypi.png",
     "category": "Buildkite",
