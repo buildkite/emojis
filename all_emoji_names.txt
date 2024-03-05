@@ -1,3 +1,4 @@
+
 +1
 -1
 100
@@ -48,7 +49,6 @@ amazon-eks
 amazon-elasticcache
 amazon-elastictranscoder
 amazon-emr
-amazon-es
 amazon-eventbridge
 amazon-gamelift
 amazon-glacier
@@ -60,6 +60,7 @@ amazon-machinelearning
 amazon-macie
 amazon-mechanicalturk
 amazon-mobileanalytics
+amazon-opensearch
 amazon-pinpoint
 amazon-polly
 amazon-quicksight
@@ -131,6 +132,11 @@ artifactory
 artist
 asciidoctor
 aspect
+aspect-build
+aspect-build-dark
+aspect-dark
+aspect-dev
+aspect-dev-dark
 assurance
 astonished
 astronaut
@@ -144,6 +150,7 @@ atm
 atom_symbol
 auditjs
 auth0
+auto
 auto_rickshaw
 avocado
 aws
@@ -293,6 +300,7 @@ boar
 boat
 bomb
 bone
+bonezone
 book
 bookmark
 bookmark_tabs
@@ -321,9 +329,11 @@ bridge_at_night
 briefcase
 briefs
 broccoli
+broken_chain
 broken_heart
 broom
 brown_heart
+brown_mushroom
 browserstack
 brunch
 bubble_tea
@@ -367,6 +377,7 @@ candle
 candy
 canned_food
 canoe
+canva
 capistrano
 capital_abcd
 capricorn
@@ -383,6 +394,7 @@ carthage
 cat
 cat2
 cd
+cdk8s
 centos
 chains
 chair
@@ -393,6 +405,7 @@ chart
 chart_with_downwards_trend
 chart_with_upwards_trend
 checkered_flag
+checkly
 cheese_wedge
 chef
 chef-inspec
@@ -473,6 +486,7 @@ cloudwatch
 clown_face
 clubs
 cmake
+cml
 cn
 coat
 cockroach
@@ -586,6 +600,7 @@ dash
 database
 databricks
 datadog
+dataflow
 date
 dato
 datocms
@@ -603,6 +618,7 @@ derelict_house_building
 desert
 desert_island
 desktop_computer
+detekt
 detox
 diamond_shape_with_a_dot_inside
 diamonds
@@ -644,6 +660,7 @@ droplet
 drum_with_drumsticks
 duck
 dumpling
+dvc
 dvd
 dynamodb
 e-mail
@@ -692,6 +709,10 @@ engflow
 enterprise_linux
 envelope
 envelope_with_arrow
+eqix
+eqix-metal
+equinix
+equinix-metal
 erlang
 es
 esbuild
@@ -742,6 +763,10 @@ fairy
 falafel
 fallen_leaf
 family
+family_adult_adult_child
+family_adult_adult_child_child
+family_adult_child
+family_adult_child_child
 farmer
 faros
 fast_forward
@@ -1122,6 +1147,7 @@ full_moon_with_face
 funeral_urn
 gadget
 game_die
+gandalf
 gappengine
 garden-io
 garden-io
@@ -1189,6 +1215,8 @@ grin
 grinning
 grinning_face_with_one_large_and_one_small_eye
 grinning_face_with_star_eyes
+grow-inc
+grow-inc-dlta
 grunt
 grype
 guardsman
@@ -1232,6 +1260,8 @@ hass
 hatched_chick
 hatching_chick
 hbase
+head_shaking_horizontally
+head_shaking_vertically
 headphones
 headstone
 health_worker
@@ -1327,6 +1357,7 @@ innocent
 inspec
 internet_explorer
 interrobang
+intuit-auto
 ios
 iphone
 isort
@@ -1372,6 +1403,7 @@ k8s
 kaaba
 kafka
 kangaroo
+kaniko
 karate
 karate-api
 karma
@@ -1408,6 +1440,7 @@ kr
 kubernetes
 lab_coat
 label
+lacework
 lacrosse
 ladder
 ladle
@@ -1457,6 +1490,7 @@ light_rail
 lighthouse
 lightning
 lightning_cloud
+lime
 linear
 link
 linked_paperclips
@@ -1595,16 +1629,22 @@ man_feeding_baby
 man_in_business_suit_levitating
 man_in_lotus_position
 man_in_manual_wheelchair
+man_in_manual_wheelchair_facing_right
 man_in_motorized_wheelchair
+man_in_motorized_wheelchair_facing_right
 man_in_steamy_room
 man_in_tuxedo
 man_kneeling
+man_kneeling_facing_right
+man_running_facing_right
 man_standing
+man_walking_facing_right
 man_with_beard
 man_with_gua_pi_mao
 man_with_probing_cane
 man_with_turban
 man_with_veil
+man_with_white_cane_facing_right
 mango
 mans_shoe
 mantelpiece_clock
@@ -1656,6 +1696,8 @@ mirror
 mirror_ball
 mobile_phone_off
 mocha
+modal
+modallabs
 money_mouth_face
 money_with_wings
 moneybag
@@ -1687,6 +1729,7 @@ mouse_trap
 movie_camera
 moyai
 mpi
+mr-bones
 mrs_claus
 ms-teams
 mssql
@@ -1847,6 +1890,7 @@ partyparrot
 passenger_ship
 passport_control
 paw_prints
+pdm
 pea_pod
 peace_symbol
 peach
@@ -1869,19 +1913,26 @@ person_feeding_baby
 person_frowning
 person_in_lotus_position
 person_in_manual_wheelchair
+person_in_manual_wheelchair_facing_right
 person_in_motorized_wheelchair
+person_in_motorized_wheelchair_facing_right
 person_in_steamy_room
 person_in_tuxedo
+person_kneeling_facing_right
+person_running_facing_right
+person_walking_facing_right
 person_with_ball
 person_with_blond_hair
 person_with_crown
 person_with_headscarf
 person_with_pouting_face
 person_with_probing_cane
+person_with_white_cane_facing_right
 petri_dish
 pfsense
 phabricator
 phoenix
+phoenix-elixir
 phone
 php
 phpstan
@@ -1918,6 +1969,7 @@ playwright
 pleading_face
 plunger
 pnpm
+podium
 podman
 point_down
 point_left
@@ -1944,6 +1996,7 @@ poultry_leg
 pound
 pouring_liquid
 pouting_cat
+powershell
 pray
 prayer_beads
 pre-commit
@@ -1969,6 +2022,7 @@ purple_heart
 purse
 pushpin
 put_litter_in_its_place
+pwsh
 pyright
 pytest
 python
@@ -2030,6 +2084,7 @@ relaxed
 relay
 relieved
 reminder_ribbon
+renovate
 repeat
 repeat_one
 repolinter
@@ -2056,6 +2111,7 @@ robot_face
 rock
 rocket
 rocky
+rokt
 roll_of_paper
 rollbar
 rolled_up_newspaper
@@ -2077,6 +2133,8 @@ rubocop
 ruby
 rubygems
 rubysec
+ruff
+ruff
 rugby_football
 runner
 running
@@ -2180,6 +2238,7 @@ singularity
 six
 six_pointed_star
 skateboard
+skeleton-dance
 ski
 skier
 skin-tone-2
@@ -2456,6 +2515,7 @@ tshirt
 tslint
 tulip
 tumbler_glass
+turborepo
 turkey
 turtle
 tv
@@ -2496,6 +2556,7 @@ v
 vagrant
 vampire
 vault
+vercel
 vertical_traffic_light
 vhs
 vibration_mode
@@ -2568,6 +2629,7 @@ wine_glass
 wing
 wink
 wireless
+wiz
 wolf
 woman
 woman-biking
@@ -2617,14 +2679,20 @@ woman_climbing
 woman_feeding_baby
 woman_in_lotus_position
 woman_in_manual_wheelchair
+woman_in_manual_wheelchair_facing_right
 woman_in_motorized_wheelchair
+woman_in_motorized_wheelchair_facing_right
 woman_in_steamy_room
 woman_in_tuxedo
 woman_kneeling
+woman_kneeling_facing_right
+woman_running_facing_right
 woman_standing
+woman_walking_facing_right
 woman_with_beard
 woman_with_probing_cane
 woman_with_veil
+woman_with_white_cane_facing_right
 womans_clothes
 womans_flat_shoe
 womans_hat
@@ -2655,6 +2723,7 @@ yellow_heart
 yen
 yin_yang
 yo-yo
+you_shall_not_pass
 yum
 zany_face
 zap

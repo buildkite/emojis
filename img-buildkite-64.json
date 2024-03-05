@@ -6,6 +6,12 @@
     "aliases": []
   } ,
   {
+    "name": "pypi",
+    "image": "img-buildkite-64/pypi.png",
+    "category": "Buildkite",
+    "aliases": ["pip"]
+  },
+  {
     "name": "cdk8s",
     "image": "img-buildkite-64/cdk8s.png",
     "category": "Buildkite",
@@ -81,7 +87,7 @@
     "name": "ruff",
     "image": "img-buildkite-64/ruff.png",
     "category": "Buildkite",
-    "aliases": ["ruff"]
+    "aliases": []
   },
   {
     "name": "powershell",
@@ -258,13 +264,13 @@
     "name": "garden-io",
     "image": "img-buildkite-64/garden-io.png",
     "category": "Buildkite",
-    "aliases": ["garden-io"]
+    "aliases": []
   },
   {
     "name": "usertesting",
     "image": "img-buildkite-64/usertesting.png",
     "category": "Buildkite",
-    "aliases": ["usertesting"]
+    "aliases": []
   },
   {
     "name": "express",
@@ -329,7 +335,6 @@
     "aliases": [
       "cucumber",
       "cucumber-io",
-      "cucumber-open",
       "cucumberopen",
       "smartbear-cucumberopen"
     ]
@@ -422,25 +427,25 @@
     "name": "esbuild",
     "image": "img-buildkite-64/esbuild.png",
     "category": "Buildkite",
-    "aliases": ["esbuild"]
+    "aliases": []
   },
   {
     "name": "kart",
     "image": "img-buildkite-64/kart.png",
     "category": "Buildkite",
-    "aliases": ["kart"]
+    "aliases": []
   },
   {
     "name": "locust",
     "image": "img-buildkite-64/locust.png",
     "category": "Buildkite",
-    "aliases": ["locust"]
+    "aliases": []
   },
   {
     "name": "gitlab",
     "image": "img-buildkite-64/gitlab.png",
     "category": "Buildkite",
-    "aliases": ["gitlab"]
+    "aliases": []
   },
   {
     "name": "stack_overflow",
@@ -2666,8 +2671,8 @@
     "aliases": []
   },
   {
-    "name": "phoenix",
-    "image": "img-buildkite-64/phoenix.png",
+    "name": "phoenix-elixir",
+    "image": "img-buildkite-64/phoenix-elixir.png",
     "category": "Buildkite",
     "aliases": []
   },
@@ -3919,8 +3924,20 @@
     "aliases": []
   },
   {
+    "name": "keymaster",
+    "image": "img-buildkite-64/keymaster.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "turborepo",
     "image": "img-buildkite-64/turborepo.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "gravatar",
+    "image": "img-buildkite-64/gravatar.png",
     "category": "Buildkite",
     "aliases": []
   }
