@@ -1,5 +1,11 @@
 [
   {
+    "name": "qt",
+    "image": "img-buildkite-64/qt.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "platformio",
     "image": "img-buildkite-64/platformio.png",
     "category": "Buildkite",
