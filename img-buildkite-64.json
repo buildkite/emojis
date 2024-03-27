@@ -1,5 +1,11 @@
 [
   {
+    "name": "polar-bear-police",
+    "image": "img-buildkite-64/polar-bear-police.gif",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "qt",
     "image": "img-buildkite-64/qt.png",
     "category": "Buildkite",
