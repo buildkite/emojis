@@ -3958,5 +3958,11 @@
     "image": "img-buildkite-64/gravatar.png",
     "category": "Buildkite",
     "aliases": []
+  },
+  {
+    "name": "envoy",
+    "image": "img-buildkite-64/envoy.png",
+    "category": "Buildkite",
+    "aliases": []
   }
 ]
