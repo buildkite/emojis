@@ -1,5 +1,11 @@
 [
   {
+    "name": "envoy",
+    "image": "img-buildkite-64/envoy.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "polar-bear-police",
     "image": "img-buildkite-64/polar-bear-police.gif",
     "category": "Buildkite",
