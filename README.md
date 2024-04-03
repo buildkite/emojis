@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/expo.png" width="20" height="20" alt="expo"/> | `:expo:`
 <img src="img-buildkite-64/envoy.png" width="20" height="20" alt="envoy"/> | `:envoy:`
 <img src="img-buildkite-64/polar-bear-police.gif" width="20" height="20" alt="polar-bear-police"/> | `:polar-bear-police:`
 <img src="img-buildkite-64/qt.png" width="20" height="20" alt="qt"/> | `:qt:`
