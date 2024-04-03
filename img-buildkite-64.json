@@ -1,5 +1,11 @@
 [
   {
+    "name": "expo",
+    "image": "img-buildkite-64/expo.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "envoy",
     "image": "img-buildkite-64/envoy.png",
     "category": "Buildkite",
