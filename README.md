@@ -4391,7 +4391,7 @@ Emoji | Aliases
 <img src="img-apple-64/1f1ec-1f1eb.png" width="20" height="20" alt="flag-gf"/> | `:flag-gf:`
 <img src="img-apple-64/1f1ec-1f1ea.png" width="20" height="20" alt="flag-ge"/> | `:flag-ge:`
 <img src="img-apple-64/1f1ec-1f1e9.png" width="20" height="20" alt="flag-gd"/> | `:flag-gd:`
-<img src="img-apple-64/1f1ec-1f1e7.png" width="20" height="20" alt="gb"/> | `:gb:`, `:uk:`, `:flag-gb:`
+<img src="img-apple-64/1f1ec-1f1e7.png" width="20" height="20" alt="gb"/> | `:gb:`, `:uk:`, `:flag-gb:`, `:flag-uk:`
 <img src="img-apple-64/1f1ec-1f1e6.png" width="20" height="20" alt="flag-ga"/> | `:flag-ga:`
 <img src="img-apple-64/1f1eb-1f1f7.png" width="20" height="20" alt="fr"/> | `:fr:`, `:flag-fr:`
 <img src="img-apple-64/1f1eb-1f1f4.png" width="20" height="20" alt="flag-fo"/> | `:flag-fo:`
