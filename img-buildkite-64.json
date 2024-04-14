@@ -1,5 +1,11 @@
 [
   {
+    "name": "graphite",
+    "image": "img-buildkite-64/graphite.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "expo",
     "image": "img-buildkite-64/expo.png",
     "category": "Buildkite",
