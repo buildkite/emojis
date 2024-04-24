@@ -633,6 +633,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/aws-managedservices.png" width="20" height="20" alt="aws-managedservices"/> | `:aws-managedservices:`
 <img src="img-buildkite-64/aws-opsworks.png" width="20" height="20" alt="aws-opsworks"/> | `:aws-opsworks:`
 <img src="img-buildkite-64/aws-organizations.png" width="20" height="20" alt="aws-organizations"/> | `:aws-organizations:`
+<img src="img-buildkite-64/aws-sagemaker.png" width="20" height="20" alt="aws-sagemaker"/> | `:aws-sagemaker:`
 <img src="img-buildkite-64/aws-servicecatalog.png" width="20" height="20" alt="aws-servicecatalog"/> | `:aws-servicecatalog:`
 <img src="img-buildkite-64/aws-shield.png" width="20" height="20" alt="aws-shield"/> | `:aws-shield:`
 <img src="img-buildkite-64/aws-sms.png" width="20" height="20" alt="aws-sms"/> | `:aws-sms:`
