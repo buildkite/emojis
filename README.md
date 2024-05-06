@@ -27,6 +27,8 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/flatcar.png" width="20" height="20" alt="flatcar"/> | `:flatcar:`
+<img src="img-buildkite-64/vmware.png" width="20" height="20" alt="vmware"/> | `:vmware:`
 <img src="img-buildkite-64/vespa.png" width="20" height="20" alt="vespa"/> | `:vespa:`
 <img src="img-buildkite-64/graphite.png" width="20" height="20" alt="graphite"/> | `:graphite:`
 <img src="img-buildkite-64/expo.png" width="20" height="20" alt="expo"/> | `:expo:`

@@ -1,5 +1,17 @@
 [
   {
+    "name": "flatcar",
+    "image": "img-buildkite-64/flatcar.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "vmware",
+    "image": "img-buildkite-64/vmware.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "vespa",
     "image": "img-buildkite-64/vespa.png",
     "category": "Buildkite",
