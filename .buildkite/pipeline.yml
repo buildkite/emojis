@@ -3,7 +3,7 @@ steps:
     command: ".buildkite/deploy.sh"
     branches: "main"
     agents:
-      queue: "elastic-runners"
+      queue: "oss-deploy"
     plugins:
       - aws-assume-role-with-web-identity#v1.0.0:
           role-arn: arn:aws:iam::${ROLE_ACCOUNT_ID}:role/pipeline-buildkite-emojis
