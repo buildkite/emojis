@@ -1,5 +1,11 @@
 [
   {
+    "name": "astro",
+    "image": "img-buildkite-64/astro.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "flatcar",
     "image": "img-buildkite-64/flatcar.png",
     "category": "Buildkite",
