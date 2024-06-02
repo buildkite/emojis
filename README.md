@@ -38,7 +38,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/qt.png" width="20" height="20" alt="qt"/> | `:qt:`
 <img src="img-buildkite-64/platformio.png" width="20" height="20" alt="platformio"/> | `:platformio:`
 <img src="img-buildkite-64/openwrt.png" width="20" height="20" alt="openwrt"/> | `:openwrt:`
-<img src="img-buildkite-64/pypi.png" width="20" height="20" alt="pypi"/> | `:pypi:, :pip`
+<img src="img-buildkite-64/pypi.png" width="20" height="20" alt="pypi"/> | `:pypi:, :pip:`
 <img src="img-buildkite-64/cdk8s.png" width="20" height="20" alt="cdk8s"/> | `:cdk8s:`
 <img src="img-buildkite-64/detekt.png" width="20" height="20" alt="detekt"/> | `:detekt:`
 <img src="img-buildkite-64/kaniko.png" width="20" height="20" alt="kaniko"/> | `:kaniko:`
