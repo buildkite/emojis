@@ -3412,6 +3412,12 @@
     "aliases": []
   },
   {
+    "name": "amazon-aurora",
+    "image": "img-buildkite-64/amazon-aurora.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "amazon-chime",
     "image": "img-buildkite-64/amazon-chime.png",
     "category": "Buildkite",

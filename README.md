@@ -569,6 +569,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/carthage.png" width="20" height="20" alt="carthage"/> | `:carthage:`
 <img src="img-buildkite-64/amazon-apigateway.png" width="20" height="20" alt="amazon-apigateway"/> | `:amazon-apigateway:`
 <img src="img-buildkite-64/amazon-athena.png" width="20" height="20" alt="amazon-athena"/> | `:amazon-athena:`
+<img src="img-buildkite-64/amazon-aurora.png" width="20" height="20" alt="amazon-aurora"/> | `:amazon-aurora:`
 <img src="img-buildkite-64/amazon-chime.png" width="20" height="20" alt="amazon-chime"/> | `:amazon-chime:`
 <img src="img-buildkite-64/amazon-clouddirectory.png" width="20" height="20" alt="amazon-clouddirectory"/> | `:amazon-clouddirectory:`
 <img src="img-buildkite-64/amazon-cloudsearch.png" width="20" height="20" alt="amazon-cloudsearch"/> | `:amazon-cloudsearch:`
