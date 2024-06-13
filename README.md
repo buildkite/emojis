@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/steam.png" width="20" height="20" alt="steam"/> | `:steam:`
 <img src="img-buildkite-64/allure.png" width="20" height="20" alt="allure"/> | `:allure:`
 <img src="img-buildkite-64/astro.png" width="20" height="20" alt="astro"/> | `:astro:`
 <img src="img-buildkite-64/flatcar.png" width="20" height="20" alt="flatcar"/> | `:flatcar:`

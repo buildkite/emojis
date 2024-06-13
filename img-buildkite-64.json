@@ -1,5 +1,11 @@
 [
   {
+    "name": "steam",
+    "image": "img-buildkite-64/steam.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "allure",
     "image": "img-buildkite-64/allure.png",
     "category": "Buildkite",
