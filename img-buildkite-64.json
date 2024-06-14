@@ -1,5 +1,11 @@
 [
   {
+    "name": "authzed",
+    "image": "img-buildkite-64/authzed.png",
+    "category": "Buildkite",
+    "aliases": ["spicedb"]
+  },
+  {
     "name": "steam",
     "image": "img-buildkite-64/steam.png",
     "category": "Buildkite",
