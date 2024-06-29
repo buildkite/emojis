@@ -454,6 +454,15 @@
     "aliases": ["smartbear-swaggerhub"]
   },
   {
+    "name": "synology-dsm",
+    "image": "img-buildkite-64/synology-dsm.png",
+    "category": "Buildkite",
+    "aliases": [
+      "synology-dsm",
+      "dsm"
+    ]
+  },
+  {
     "name": "testcomplete",
     "image": "img-buildkite-64/smartbear-testcomplete.png",
     "category": "Buildkite",
