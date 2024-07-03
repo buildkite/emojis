@@ -1,5 +1,13 @@
 [
   {
+    "name": "crossplane",
+    "image": "img-buildkite-64/crossplane.png",
+    "category": "Buildkite",
+    "aliases": [
+      "crossplane"
+    ]
+  },
+  {
     "name": "synology-dsm",
     "image": "img-buildkite-64/synology-dsm.png",
     "category": "Buildkite",
