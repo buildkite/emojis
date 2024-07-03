@@ -1,5 +1,14 @@
 [
   {
+    "name": "synology-dsm",
+    "image": "img-buildkite-64/synology-dsm.png",
+    "category": "Buildkite",
+    "aliases": [
+      "synology-dsm",
+      "dsm"
+    ]
+  },
+  {
     "name": "authzed",
     "image": "img-buildkite-64/authzed.png",
     "category": "Buildkite",
