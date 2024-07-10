@@ -108,7 +108,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/smartbear-testexecute.png" width="20" height="20" alt="testexecute"/> | `:testexecute:`, `:smartbear-testexecute:`
 <img src="img-buildkite-64/smartbear-testleft.png" width="20" height="20" alt="testleft"/> | `:testleft:`, `:smartbear-testleft:`
 <img src="img-buildkite-64/smartbear-visualtest.png" width="20" height="20" alt="visualtest"/> | `:visualtest:`, `:smartbear-visualtest:`
-<img src="img-buildkite-64/.png" width="20" height="20" alt="zephyr"/> | `:zephyr:`, `:smartbear-zephyr:`
+<img src="img-buildkite-64/smartbear-zephyr.png" width="20" height="20" alt="zephyr"/> | `:zephyr:`, `:smartbear-zephyr:`
 <img src="img-buildkite-64/smartbear-zephyrscale.png" width="20" height="20" alt="zephyrscale"/> | `:zephyrscale:`, `:smartbear-zephyrscale:`
 <img src="img-buildkite-64/smartbear-zephyrsquad.png" width="20" height="20" alt="zephyrsquad"/> | `:zephyrsquad:`, `:smartbear-zephyrsquad:`
 <img src="img-buildkite-64/esbuild.png" width="20" height="20" alt="esbuild"/> | `:esbuild:`

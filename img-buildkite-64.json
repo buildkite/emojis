@@ -502,7 +502,7 @@
   },
   {
     "name": "zephyr",
-    "image": "img-buildkite-64/.png",
+    "image": "img-buildkite-64/smartbear-zephyr.png",
     "category": "Buildkite",
     "aliases": ["smartbear-zephyr"]
   },
