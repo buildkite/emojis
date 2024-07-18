@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/netlify.png" width="20" height="20" alt="netlify"/> | `:netlify:`
 <img src="img-buildkite-64/crossplane.png" width="20" height="20" alt="crossplane"/> | `:crossplane:`
 <img src="img-buildkite-64/synology-dsm.png" width="20" height="20" alt="synology-dsm"/> | `:synology-dsm:`, `:dsm:`
 <img src="img-buildkite-64/authzed.png" width="20" height="20" alt="authzed"/> | `:authzed:`, `:spicedb:`

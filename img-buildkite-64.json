@@ -1,5 +1,11 @@
 [
   {
+    "name": "netlify",
+    "image": "img-buildkite-64/netlify.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "crossplane",
     "image": "img-buildkite-64/crossplane.png",
     "category": "Buildkite",
