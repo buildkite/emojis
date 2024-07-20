@@ -1,5 +1,59 @@
 [
   {
+    "name": "eightcap",
+    "image": "img-buildkite-64/eightcap.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "kickstarter",
+    "image": "img-buildkite-64/kickstarter.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "boston-dynamics",
+    "image": "img-buildkite-64/boston-dynamics.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "collective-health",
+    "image": "img-buildkite-64/collective-health.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "stack-adapt",
+    "image": "img-buildkite-64/stack-adapt.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "klaviyo",
+    "image": "img-buildkite-64/klaviyo.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aiven",
+    "image": "img-buildkite-64/aiven.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "reddit",
+    "image": "img-buildkite-64/reddit.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "spotify",
+    "image": "img-buildkite-64/spotify.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "netlify",
     "image": "img-buildkite-64/netlify.png",
     "category": "Buildkite",
