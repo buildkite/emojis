@@ -27,6 +27,15 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/eightcap.png" width="20" height="20" alt="eightcap"/> | `:eightcap:`
+<img src="img-buildkite-64/kickstarter.png" width="20" height="20" alt="kickstarter"/> | `:kickstarter:`
+<img src="img-buildkite-64/boston-dynamics.png" width="20" height="20" alt="boston-dynamics"/> | `:boston-dynamics:`
+<img src="img-buildkite-64/collective-health.png" width="20" height="20" alt="collective-health"/> | `:collective-health:`
+<img src="img-buildkite-64/stack-adapt.png" width="20" height="20" alt="stack-adapt"/> | `:stack-adapt:`
+<img src="img-buildkite-64/klaviyo.png" width="20" height="20" alt="klaviyo"/> | `:klaviyo:`
+<img src="img-buildkite-64/aiven.png" width="20" height="20" alt="aiven"/> | `:aiven:`
+<img src="img-buildkite-64/reddit.png" width="20" height="20" alt="reddit"/> | `:reddit:`
+<img src="img-buildkite-64/spotify.png" width="20" height="20" alt="spotify"/> | `:spotify:`
 <img src="img-buildkite-64/netlify.png" width="20" height="20" alt="netlify"/> | `:netlify:`
 <img src="img-buildkite-64/crossplane.png" width="20" height="20" alt="crossplane"/> | `:crossplane:`
 <img src="img-buildkite-64/synology-dsm.png" width="20" height="20" alt="synology-dsm"/> | `:synology-dsm:`, `:dsm:`
