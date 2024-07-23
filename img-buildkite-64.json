@@ -1,5 +1,11 @@
 [
   {
+    "name": "pytorch",
+    "image": "img-buildkite-64/pytorch.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "eightcap",
     "image": "img-buildkite-64/eightcap.png",
     "category": "Buildkite",
