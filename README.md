@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/pytorch.png" width="20" height="20" alt="pytorch"/> | `:pytorch:`
 <img src="img-buildkite-64/eightcap.png" width="20" height="20" alt="eightcap"/> | `:eightcap:`
 <img src="img-buildkite-64/kickstarter.png" width="20" height="20" alt="kickstarter"/> | `:kickstarter:`
 <img src="img-buildkite-64/boston-dynamics.png" width="20" height="20" alt="boston-dynamics"/> | `:boston-dynamics:`
