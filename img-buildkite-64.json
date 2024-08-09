@@ -1,5 +1,11 @@
 [
   {
+    "name": "biome",
+    "image": "img-buildkite-64/biome.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "zolve",
     "image": "img-buildkite-64/zolve.png",
     "category": "Buildkite",
