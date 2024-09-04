@@ -1,5 +1,11 @@
 [
   {
+    "name": "svelte",
+    "image": "img-buildkite-64/svelte.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "biome",
     "image": "img-buildkite-64/biome.png",
     "category": "Buildkite",
