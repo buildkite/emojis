@@ -1,5 +1,11 @@
 [
   {
+    "name": "bun",
+    "image": "img-buildkite-64/bun.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "cervello",
     "image": "img-buildkite-64/cervello.png",
     "category": "Buildkite",
