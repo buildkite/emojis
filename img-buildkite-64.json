@@ -1,5 +1,11 @@
 [
   {
+    "name": "rpm",
+    "image": "img-buildkite-64/rpm.png",
+    "category": "Buildkite",
+    "aliases": []
+  } ,
+  {
     "name": "openwrt",
     "image": "img-buildkite-64/openwrt.png",
     "category": "Buildkite",
