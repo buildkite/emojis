@@ -28,8 +28,39 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 Emoji | Aliases
 ----- | -------
 <img src="img-buildkite-64/rpm.png" width="20" height="20" alt="rpm"/> | `:rpm:`
+<img src="img-buildkite-64/bun.png" with="20" height="20" alt="bun" /> | `:bun:`
+<img src="img-buildkite-64/cervello.png" with="20" height="20" alt="cervello" /> | `:cervello:`
+<img src="img-buildkite-64/svelte.png" with="20" height="20" alt="svelte" /> | `:svelte:`
+<img src="img-buildkite-64/biome.png" with="20" height="20" alt="biome" /> | `:biome:`
+<img src="img-buildkite-64/zolve.png" width="20" height="20" alt="zolve"/> | `:zolve:`
+<img src="img-buildkite-64/pytorch.png" width="20" height="20" alt="pytorch"/> | `:pytorch:`
+<img src="img-buildkite-64/eightcap.png" width="20" height="20" alt="eightcap"/> | `:eightcap:`
+<img src="img-buildkite-64/kickstarter.png" width="20" height="20" alt="kickstarter"/> | `:kickstarter:`
+<img src="img-buildkite-64/boston-dynamics.png" width="20" height="20" alt="boston-dynamics"/> | `:boston-dynamics:`
+<img src="img-buildkite-64/collective-health.png" width="20" height="20" alt="collective-health"/> | `:collective-health:`
+<img src="img-buildkite-64/stack-adapt.png" width="20" height="20" alt="stack-adapt"/> | `:stack-adapt:`
+<img src="img-buildkite-64/klaviyo.png" width="20" height="20" alt="klaviyo"/> | `:klaviyo:`
+<img src="img-buildkite-64/aiven.png" width="20" height="20" alt="aiven"/> | `:aiven:`
+<img src="img-buildkite-64/reddit.png" width="20" height="20" alt="reddit"/> | `:reddit:`
+<img src="img-buildkite-64/spotify.png" width="20" height="20" alt="spotify"/> | `:spotify:`
+<img src="img-buildkite-64/netlify.png" width="20" height="20" alt="netlify"/> | `:netlify:`
+<img src="img-buildkite-64/crossplane.png" width="20" height="20" alt="crossplane"/> | `:crossplane:`
+<img src="img-buildkite-64/synology-dsm.png" width="20" height="20" alt="synology-dsm"/> | `:synology-dsm:`, `:dsm:`
+<img src="img-buildkite-64/authzed.png" width="20" height="20" alt="authzed"/> | `:authzed:`, `:spicedb:`
+<img src="img-buildkite-64/steam.png" width="20" height="20" alt="steam"/> | `:steam:`
+<img src="img-buildkite-64/allure.png" width="20" height="20" alt="allure"/> | `:allure:`
+<img src="img-buildkite-64/astro.png" width="20" height="20" alt="astro"/> | `:astro:`
+<img src="img-buildkite-64/flatcar.png" width="20" height="20" alt="flatcar"/> | `:flatcar:`
+<img src="img-buildkite-64/vmware.png" width="20" height="20" alt="vmware"/> | `:vmware:`
+<img src="img-buildkite-64/vespa.png" width="20" height="20" alt="vespa"/> | `:vespa:`
+<img src="img-buildkite-64/graphite.png" width="20" height="20" alt="graphite"/> | `:graphite:`
+<img src="img-buildkite-64/expo.png" width="20" height="20" alt="expo"/> | `:expo:`
+<img src="img-buildkite-64/envoy.png" width="20" height="20" alt="envoy"/> | `:envoy:`
+<img src="img-buildkite-64/polar-bear-police.gif" width="20" height="20" alt="polar-bear-police"/> | `:polar-bear-police:`
+<img src="img-buildkite-64/qt.png" width="20" height="20" alt="qt"/> | `:qt:`
+<img src="img-buildkite-64/platformio.png" width="20" height="20" alt="platformio"/> | `:platformio:`
 <img src="img-buildkite-64/openwrt.png" width="20" height="20" alt="openwrt"/> | `:openwrt:`
-<img src="img-buildkite-64/pypi.png" width="20" height="20" alt="pypi"/> | `:pypi:, :pip`
+<img src="img-buildkite-64/pypi.png" width="20" height="20" alt="pypi"/> | `:pypi:, :pip:`
 <img src="img-buildkite-64/cdk8s.png" width="20" height="20" alt="cdk8s"/> | `:cdk8s:`
 <img src="img-buildkite-64/detekt.png" width="20" height="20" alt="detekt"/> | `:detekt:`
 <img src="img-buildkite-64/kaniko.png" width="20" height="20" alt="kaniko"/> | `:kaniko:`
@@ -94,7 +125,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/smartbear-testexecute.png" width="20" height="20" alt="testexecute"/> | `:testexecute:`, `:smartbear-testexecute:`
 <img src="img-buildkite-64/smartbear-testleft.png" width="20" height="20" alt="testleft"/> | `:testleft:`, `:smartbear-testleft:`
 <img src="img-buildkite-64/smartbear-visualtest.png" width="20" height="20" alt="visualtest"/> | `:visualtest:`, `:smartbear-visualtest:`
-<img src="img-buildkite-64/.png" width="20" height="20" alt="zephyr"/> | `:zephyr:`, `:smartbear-zephyr:`
+<img src="img-buildkite-64/smartbear-zephyr.png" width="20" height="20" alt="zephyr"/> | `:zephyr:`, `:smartbear-zephyr:`
 <img src="img-buildkite-64/smartbear-zephyrscale.png" width="20" height="20" alt="zephyrscale"/> | `:zephyrscale:`, `:smartbear-zephyrscale:`
 <img src="img-buildkite-64/smartbear-zephyrsquad.png" width="20" height="20" alt="zephyrsquad"/> | `:zephyrsquad:`, `:smartbear-zephyrsquad:`
 <img src="img-buildkite-64/esbuild.png" width="20" height="20" alt="esbuild"/> | `:esbuild:`
@@ -559,6 +590,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/carthage.png" width="20" height="20" alt="carthage"/> | `:carthage:`
 <img src="img-buildkite-64/amazon-apigateway.png" width="20" height="20" alt="amazon-apigateway"/> | `:amazon-apigateway:`
 <img src="img-buildkite-64/amazon-athena.png" width="20" height="20" alt="amazon-athena"/> | `:amazon-athena:`
+<img src="img-buildkite-64/amazon-aurora.png" width="20" height="20" alt="amazon-aurora"/> | `:amazon-aurora:`
 <img src="img-buildkite-64/amazon-chime.png" width="20" height="20" alt="amazon-chime"/> | `:amazon-chime:`
 <img src="img-buildkite-64/amazon-clouddirectory.png" width="20" height="20" alt="amazon-clouddirectory"/> | `:amazon-clouddirectory:`
 <img src="img-buildkite-64/amazon-cloudsearch.png" width="20" height="20" alt="amazon-cloudsearch"/> | `:amazon-cloudsearch:`
@@ -627,6 +659,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/aws-managedservices.png" width="20" height="20" alt="aws-managedservices"/> | `:aws-managedservices:`
 <img src="img-buildkite-64/aws-opsworks.png" width="20" height="20" alt="aws-opsworks"/> | `:aws-opsworks:`
 <img src="img-buildkite-64/aws-organizations.png" width="20" height="20" alt="aws-organizations"/> | `:aws-organizations:`
+<img src="img-buildkite-64/aws-sagemaker.png" width="20" height="20" alt="aws-sagemaker"/> | `:aws-sagemaker:`
 <img src="img-buildkite-64/aws-servicecatalog.png" width="20" height="20" alt="aws-servicecatalog"/> | `:aws-servicecatalog:`
 <img src="img-buildkite-64/aws-shield.png" width="20" height="20" alt="aws-shield"/> | `:aws-shield:`
 <img src="img-buildkite-64/aws-sms.png" width="20" height="20" alt="aws-sms"/> | `:aws-sms:`
@@ -4387,7 +4420,7 @@ Emoji | Aliases
 <img src="img-apple-64/1f1ec-1f1eb.png" width="20" height="20" alt="flag-gf"/> | `:flag-gf:`
 <img src="img-apple-64/1f1ec-1f1ea.png" width="20" height="20" alt="flag-ge"/> | `:flag-ge:`
 <img src="img-apple-64/1f1ec-1f1e9.png" width="20" height="20" alt="flag-gd"/> | `:flag-gd:`
-<img src="img-apple-64/1f1ec-1f1e7.png" width="20" height="20" alt="gb"/> | `:gb:`, `:uk:`, `:flag-gb:`
+<img src="img-apple-64/1f1ec-1f1e7.png" width="20" height="20" alt="gb"/> | `:gb:`, `:uk:`, `:flag-gb:`, `:flag-uk:`
 <img src="img-apple-64/1f1ec-1f1e6.png" width="20" height="20" alt="flag-ga"/> | `:flag-ga:`
 <img src="img-apple-64/1f1eb-1f1f7.png" width="20" height="20" alt="fr"/> | `:fr:`, `:flag-fr:`
 <img src="img-apple-64/1f1eb-1f1f4.png" width="20" height="20" alt="flag-fo"/> | `:flag-fo:`

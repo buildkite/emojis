@@ -6,11 +6,202 @@
     "aliases": []
   } ,
   {
+    "name": "bun",
+    "image": "img-buildkite-64/bun.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "cervello",
+    "image": "img-buildkite-64/cervello.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "svelte",
+    "image": "img-buildkite-64/svelte.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "biome",
+    "image": "img-buildkite-64/biome.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "zolve",
+    "image": "img-buildkite-64/zolve.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "pytorch",
+    "image": "img-buildkite-64/pytorch.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "eightcap",
+    "image": "img-buildkite-64/eightcap.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "kickstarter",
+    "image": "img-buildkite-64/kickstarter.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "boston-dynamics",
+    "image": "img-buildkite-64/boston-dynamics.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "collective-health",
+    "image": "img-buildkite-64/collective-health.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "stack-adapt",
+    "image": "img-buildkite-64/stack-adapt.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "klaviyo",
+    "image": "img-buildkite-64/klaviyo.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aiven",
+    "image": "img-buildkite-64/aiven.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "reddit",
+    "image": "img-buildkite-64/reddit.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "spotify",
+    "image": "img-buildkite-64/spotify.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "netlify",
+    "image": "img-buildkite-64/netlify.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "crossplane",
+    "image": "img-buildkite-64/crossplane.png",
+    "category": "Buildkite",
+    "aliases": [
+      "crossplane"
+    ]
+  },
+  {
+    "name": "synology-dsm",
+    "image": "img-buildkite-64/synology-dsm.png",
+    "category": "Buildkite",
+    "aliases": [
+      "synology-dsm",
+      "dsm"
+    ]
+  },
+  {
+    "name": "authzed",
+    "image": "img-buildkite-64/authzed.png",
+    "category": "Buildkite",
+    "aliases": ["spicedb"]
+  },
+  {
+    "name": "steam",
+    "image": "img-buildkite-64/steam.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "allure",
+    "image": "img-buildkite-64/allure.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "astro",
+    "image": "img-buildkite-64/astro.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "flatcar",
+    "image": "img-buildkite-64/flatcar.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "vmware",
+    "image": "img-buildkite-64/vmware.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "vespa",
+    "image": "img-buildkite-64/vespa.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "graphite",
+    "image": "img-buildkite-64/graphite.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "expo",
+    "image": "img-buildkite-64/expo.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "envoy",
+    "image": "img-buildkite-64/envoy.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "polar-bear-police",
+    "image": "img-buildkite-64/polar-bear-police.gif",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "qt",
+    "image": "img-buildkite-64/qt.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "platformio",
+    "image": "img-buildkite-64/platformio.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "openwrt",
     "image": "img-buildkite-64/openwrt.png",
     "category": "Buildkite",
     "aliases": []
-  } ,
+  },
   {
     "name": "pypi",
     "image": "img-buildkite-64/pypi.png",
@@ -413,7 +604,7 @@
   },
   {
     "name": "zephyr",
-    "image": "img-buildkite-64/.png",
+    "image": "img-buildkite-64/smartbear-zephyr.png",
     "category": "Buildkite",
     "aliases": ["smartbear-zephyr"]
   },
@@ -3352,6 +3543,12 @@
     "aliases": []
   },
   {
+    "name": "amazon-aurora",
+    "image": "img-buildkite-64/amazon-aurora.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "amazon-chime",
     "image": "img-buildkite-64/amazon-chime.png",
     "category": "Buildkite",
@@ -3782,6 +3979,12 @@
   {
     "name": "aws-organizations",
     "image": "img-buildkite-64/aws-organizations.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aws-sagemaker",
+    "image": "img-buildkite-64/aws-sagemaker.png",
     "category": "Buildkite",
     "aliases": []
   },
