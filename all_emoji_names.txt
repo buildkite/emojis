@@ -2127,6 +2127,7 @@ rotating_light
 round_pushpin
 route53
 rowboat
+rpm
 rspec
 rstats
 ru

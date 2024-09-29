@@ -1,5 +1,11 @@
 [
   {
+    "name": "rpm",
+    "image": "img-buildkite-64/rpm.png",
+    "category": "Buildkite",
+    "aliases": []
+  } ,
+  {
     "name": "bun",
     "image": "img-buildkite-64/bun.png",
     "category": "Buildkite",

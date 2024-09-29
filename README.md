@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/rpm.png" width="20" height="20" alt="rpm"/> | `:rpm:`
 <img src="img-buildkite-64/bun.png" with="20" height="20" alt="bun" /> | `:bun:`
 <img src="img-buildkite-64/cervello.png" with="20" height="20" alt="cervello" /> | `:cervello:`
 <img src="img-buildkite-64/svelte.png" with="20" height="20" alt="svelte" /> | `:svelte:`
