@@ -1,5 +1,35 @@
 [
   {
+    "name": "car-black",
+    "image": "img-buildkite-64/car-black.png",
+    "category": "Buildkite",
+    "aliases": []
+  } ,
+  {
+    "name": "car-blue",
+    "image": "img-buildkite-64/car-blue.png",
+    "category": "Buildkite",
+    "aliases": []
+  } ,
+  {
+    "name": "car-gray",
+    "image": "img-buildkite-64/car-gray.png",
+    "category": "Buildkite",
+    "aliases": []
+  } ,
+  {
+    "name": "car-white",
+    "image": "img-buildkite-64/car-white.png",
+    "category": "Buildkite",
+    "aliases": []
+  } ,
+  {
+    "name": "car-yellow",
+    "image": "img-buildkite-64/car-yellow.png",
+    "category": "Buildkite",
+    "aliases": []
+  } ,
+  {
     "name": "rpm",
     "image": "img-buildkite-64/rpm.png",
     "category": "Buildkite",
