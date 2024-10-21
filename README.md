@@ -27,6 +27,11 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/car-black.png" width="20" height="20" alt="car-black"/> | `:car-black:`
+<img src="img-buildkite-64/car-blue.png" width="20" height="20" alt="car-blue"/> | `:car-blue:`
+<img src="img-buildkite-64/car-gray.png" width="20" height="20" alt="car-gray"/> | `:car-gray:`
+<img src="img-buildkite-64/car-white.png" width="20" height="20" alt="car-white"/> | `:car-white:`
+<img src="img-buildkite-64/car-yellow.png" width="20" height="20" alt="car-yellow"/> | `:car-yellow:`
 <img src="img-buildkite-64/rpm.png" width="20" height="20" alt="rpm"/> | `:rpm:`
 <img src="img-buildkite-64/bun.png" with="20" height="20" alt="bun" /> | `:bun:`
 <img src="img-buildkite-64/cervello.png" with="20" height="20" alt="cervello" /> | `:cervello:`
