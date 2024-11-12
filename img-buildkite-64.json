@@ -1,5 +1,11 @@
 [
   {
+    "name": "all-your-base",
+    "image": "img-buildkite-64/all-your-base.png",
+    "category": "Buildkite",
+    "aliases": ["allyourbase"]
+  },
+  {
     "name": "car-black",
     "image": "img-buildkite-64/car-black.png",
     "category": "Buildkite",

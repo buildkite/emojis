@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/all-your-base.png" width="20" height="20" alt="all-your-base"/> | `:all-your-base:`, `:allyourbase:`
 <img src="img-buildkite-64/car-black.png" width="20" height="20" alt="car-black"/> | `:car-black:`
 <img src="img-buildkite-64/car-blue.png" width="20" height="20" alt="car-blue"/> | `:car-blue:`
 <img src="img-buildkite-64/car-gray.png" width="20" height="20" alt="car-gray"/> | `:car-gray:`
