@@ -321,6 +321,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/bk-status-failing.png" width="20" height="20" alt="bk-status-failing"/> | `:bk-status-failing:`
 <img src="img-buildkite-64/bk-status-pending.png" width="20" height="20" alt="bk-status-pending"/> | `:bk-status-pending:`
 <img src="img-buildkite-64/bk-status-running.png" width="20" height="20" alt="bk-status-running"/> | `:bk-status-running:`
+<img src="img-buildkite-64/bk-status-cancelled.png" width="20" height="20" alt="bk-status-cancelled"/> | `:bk-status-cancelled:`
 <img src="img-buildkite-64/dartlang.png" width="20" height="20" alt="dartlang"/> | `:dartlang:`
 <img src="img-buildkite-64/flutter.png" width="20" height="20" alt="flutter"/> | `:flutter:`
 <img src="img-buildkite-64/jfrog-conan.png" width="20" height="20" alt="jfrog-conan"/> | `:jfrog-conan:`, `:conan:`, `:conanio:`
