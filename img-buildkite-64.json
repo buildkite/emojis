@@ -1810,6 +1810,12 @@
     "aliases": []
   },
   {
+    "name": "bk-status-cancelled",
+    "image": "img-buildkite-64/bk-status-cancelled.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "bk-status-running",
     "image": "img-buildkite-64/bk-status-running.png",
     "category": "Buildkite",
