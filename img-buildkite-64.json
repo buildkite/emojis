@@ -1,5 +1,11 @@
 [
   {
+    "name": "golang",
+    "image": "img-buildkite-64/golang.png",
+    "category": "Buildkite",
+    "aliases": ["go"]
+  },
+  {
     "name": "css",
     "image": "img-buildkite-64/css.png",
     "category": "Buildkite",
@@ -3184,11 +3190,11 @@
     "aliases": []
   },
   {
-    "name": "golang",
-    "image": "img-buildkite-64/golang.png",
+    "name": "golang-mascot",
+    "image": "img-buildkite-64/golang-mascot.png",
     "category": "Buildkite",
     "aliases": [
-      "go"
+      "go-mascot", "go-gopher", "golang-gopher"
     ]
   },
   {
