@@ -1,5 +1,11 @@
 [
   {
+    "name": "css",
+    "image": "img-buildkite-64/css.png",
+    "category": "Buildkite",
+    "aliases": ["cascading-style-sheets"]
+  },
+  {
     "name": "all-your-base",
     "image": "img-buildkite-64/all-your-base.png",
     "category": "Buildkite",
