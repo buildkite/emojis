@@ -535,7 +535,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/fu.png" width="20" height="20" alt="fu"/> | `:fu:`
 <img src="img-buildkite-64/goberserk.png" width="20" height="20" alt="goberserk"/> | `:goberserk:`
 <img src="img-buildkite-64/godmode.png" width="20" height="20" alt="godmode"/> | `:godmode:`
-<img src="img-buildkite-64/golang.png" width="20" height="20" alt="golang"/> | `:golang:`, `:go:`
+<img src="img-buildkite-64/golang-mascot.png" width="20" height="20" alt="golang-mascot"/> | `:golang-mascot:`, `:go-mascot:`, `:golang-gopher:`, `:go-gopher:`
 <img src="img-buildkite-64/googlecloud.png" width="20" height="20" alt="googlecloud"/> | `:googlecloud:`, `:gcloud:`, `:gcp:`
 <img src="img-buildkite-64/green_button.png" width="20" height="20" alt="green_button"/> | `:green_button:`
 <img src="img-buildkite-64/heroku.png" width="20" height="20" alt="heroku"/> | `:heroku:`
