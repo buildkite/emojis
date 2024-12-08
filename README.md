@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/rspack.png" width="20" height="20" alt="css"/> | `:rspack:`
 <img src="img-buildkite-64/golang.png" width="20" height="20" alt="css"/> | `:golang:`, `:go:`
 <img src="img-buildkite-64/css.png" width="20" height="20" alt="css"/> | `:css:`, `:cascading-style-sheets:`
 <img src="img-buildkite-64/all-your-base.png" width="20" height="20" alt="all-your-base"/> | `:all-your-base:`, `:allyourbase:`
