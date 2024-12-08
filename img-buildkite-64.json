@@ -1,5 +1,11 @@
 [
   {
+    "name": "rspack",
+    "image": "img-buildkite-64/rspack.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "golang",
     "image": "img-buildkite-64/golang.png",
     "category": "Buildkite",
