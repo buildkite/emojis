@@ -1,5 +1,11 @@
 [
   {
+    "name": "jetbrains-teamcity",
+    "image": "img-buildkite-64/jetbrains-teamcity.png",
+    "category": "Buildkite",
+    "aliases": ["teamcity"]
+  },
+  {
     "name": "rspack",
     "image": "img-buildkite-64/rspack.png",
     "category": "Buildkite",
