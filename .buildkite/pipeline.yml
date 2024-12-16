@@ -1,9 +1,6 @@
 steps:
-  - name: ":shipit:"
+  - name: ":gandalf:"
     command: ".buildkite/deploy.sh"
     branches: "main"
     agents:
-      queue: "oss-deploy"
-    plugins:
-      - aws-assume-role-with-web-identity#v1.0.0:
-          role-arn: arn:aws:iam::${ROLE_ACCOUNT_ID}:role/pipeline-buildkite-emojis
+      queue: "emoji_queue"
