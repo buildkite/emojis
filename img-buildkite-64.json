@@ -3,7 +3,9 @@
     "name": "jetbrains-teamcity",
     "image": "img-buildkite-64/jetbrains-teamcity.png",
     "category": "Buildkite",
-    "aliases": ["teamcity"]
+    "aliases": [
+      "teamcity"
+    ]
   },
   {
     "name": "rspack",
@@ -15,56 +17,62 @@
     "name": "golang",
     "image": "img-buildkite-64/golang.png",
     "category": "Buildkite",
-    "aliases": ["go"]
+    "aliases": [
+      "go"
+    ]
   },
   {
     "name": "css",
     "image": "img-buildkite-64/css.png",
     "category": "Buildkite",
-    "aliases": ["cascading-style-sheets"]
+    "aliases": [
+      "cascading-style-sheets"
+    ]
   },
   {
     "name": "all-your-base",
     "image": "img-buildkite-64/all-your-base.png",
     "category": "Buildkite",
-    "aliases": ["allyourbase"]
+    "aliases": [
+      "allyourbase"
+    ]
   },
   {
     "name": "car-black",
     "image": "img-buildkite-64/car-black.png",
     "category": "Buildkite",
     "aliases": []
-  } ,
+  },
   {
     "name": "car-blue",
     "image": "img-buildkite-64/car-blue.png",
     "category": "Buildkite",
     "aliases": []
-  } ,
+  },
   {
     "name": "car-gray",
     "image": "img-buildkite-64/car-gray.png",
     "category": "Buildkite",
     "aliases": []
-  } ,
+  },
   {
     "name": "car-white",
     "image": "img-buildkite-64/car-white.png",
     "category": "Buildkite",
     "aliases": []
-  } ,
+  },
   {
     "name": "car-yellow",
     "image": "img-buildkite-64/car-yellow.png",
     "category": "Buildkite",
     "aliases": []
-  } ,
+  },
   {
     "name": "rpm",
     "image": "img-buildkite-64/rpm.png",
     "category": "Buildkite",
     "aliases": []
-  } ,
+  },
   {
     "name": "bun",
     "image": "img-buildkite-64/bun.png",
@@ -182,7 +190,9 @@
     "name": "authzed",
     "image": "img-buildkite-64/authzed.png",
     "category": "Buildkite",
-    "aliases": ["spicedb"]
+    "aliases": [
+      "spicedb"
+    ]
   },
   {
     "name": "steam",
@@ -266,7 +276,9 @@
     "name": "pypi",
     "image": "img-buildkite-64/pypi.png",
     "category": "Buildkite",
-    "aliases": ["pip"]
+    "aliases": [
+      "pip"
+    ]
   },
   {
     "name": "cdk8s",
@@ -350,31 +362,49 @@
     "name": "powershell",
     "image": "img-buildkite-64/powershell.png",
     "category": "Buildkite",
-    "aliases": ["pwsh"]
+    "aliases": [
+      "pwsh"
+    ]
   },
   {
     "name": "equinix-metal",
     "image": "img-buildkite-64/equinix-metal.png",
     "category": "Buildkite",
-    "aliases": ["eqix-metal"]
+    "aliases": [
+      "eqix-metal"
+    ]
   },
   {
     "name": "equinix",
     "image": "img-buildkite-64/equinix.png",
     "category": "Buildkite",
-    "aliases": ["eqix"]
+    "aliases": [
+      "eqix"
+    ]
+  },
+  {
+    "name": "equinixxy",
+    "image": "img-buildkite-64/equinix.png",
+    "category": "Buildkite",
+    "aliases": [
+      "eqissx"
+    ]
   },
   {
     "name": "gandalf",
     "image": "img-buildkite-64/gandalf.png",
     "category": "Buildkite",
-    "aliases": ["you_shall_not_pass"]
+    "aliases": [
+      "you_shall_not_pass"
+    ]
   },
   {
     "name": "podium",
     "image": "img-buildkite-64/podium.png",
     "category": "Buildkite",
-    "aliases": ["pdm"]
+    "aliases": [
+      "pdm"
+    ]
   },
   {
     "name": "bonezone",
@@ -389,19 +419,25 @@
     "name": "modallabs",
     "image": "img-buildkite-64/modallabs.png",
     "category": "Buildkite",
-    "aliases": ["modal"]
+    "aliases": [
+      "modal"
+    ]
   },
   {
     "name": "vercel",
     "image": "img-buildkite-64/vercel.png",
     "category": "Buildkite",
-    "aliases": [""]
+    "aliases": [
+      ""
+    ]
   },
   {
     "name": "namespace",
     "image": "img-buildkite-64/namespace.png",
     "category": "Buildkite",
-    "aliases": ["ns"]
+    "aliases": [
+      "ns"
+    ]
   },
   {
     "name": "osv",
@@ -461,37 +497,49 @@
     "name": "draft-pull-request",
     "image": "img-buildkite-64/draft-pull-request.png",
     "category": "Buildkite",
-    "aliases": ["draft-pr"]
+    "aliases": [
+      "draft-pr"
+    ]
   },
   {
     "name": "open-pull-request",
     "image": "img-buildkite-64/open-pull-request.png",
     "category": "Buildkite",
-    "aliases": ["open-pr"]
+    "aliases": [
+      "open-pr"
+    ]
   },
   {
     "name": "merged-pull-request",
     "image": "img-buildkite-64/merged-pull-request.png",
     "category": "Buildkite",
-    "aliases": ["merged-pr"]
+    "aliases": [
+      "merged-pr"
+    ]
   },
   {
     "name": "closed-pull-request",
     "image": "img-buildkite-64/closed-pull-request.png",
     "category": "Buildkite",
-    "aliases": ["closed-pr"]
+    "aliases": [
+      "closed-pr"
+    ]
   },
   {
     "name": "boundary",
     "image": "img-buildkite-64/boundary.png",
     "category": "Buildkite",
-    "aliases": ["hashicorp-boundary"]
+    "aliases": [
+      "hashicorp-boundary"
+    ]
   },
   {
     "name": "waypoint",
     "image": "img-buildkite-64/waypoint.png",
     "category": "Buildkite",
-    "aliases": ["hashicorp-waypoint"]
+    "aliases": [
+      "hashicorp-waypoint"
+    ]
   },
   {
     "name": "pony",
@@ -533,49 +581,66 @@
     "name": "express",
     "image": "img-buildkite-64/express.png",
     "category": "Buildkite",
-    "aliases": ["expressjs"]
+    "aliases": [
+      "expressjs"
+    ]
   },
   {
     "name": "applied_intuition",
     "image": "img-buildkite-64/applied_intuition.png",
     "category": "Buildkite",
-    "aliases": ["appliedintuition", "applied-intuition"]
+    "aliases": [
+      "appliedintuition",
+      "applied-intuition"
+    ]
   },
   {
     "name": "alertsite",
     "image": "img-buildkite-64/smartbear-alertsite.png",
     "category": "Buildkite",
-    "aliases": ["smartbear-alertsite"]
+    "aliases": [
+      "smartbear-alertsite"
+    ]
   },
   {
     "name": "aqtimepro",
     "image": "img-buildkite-64/smartbear-aqtimepro.png",
     "category": "Buildkite",
-    "aliases": ["smartbear-aqtimepro"]
+    "aliases": [
+      "smartbear-aqtimepro"
+    ]
   },
   {
     "name": "bitbar",
     "image": "img-buildkite-64/smartbear-bitbar.png",
     "category": "Buildkite",
-    "aliases": ["smartbear-bitbar"]
+    "aliases": [
+      "smartbear-bitbar"
+    ]
   },
   {
     "name": "bugsnag",
     "image": "img-buildkite-64/smartbear-bugsnag.png",
     "category": "Buildkite",
-    "aliases": ["smartbear-bugsnag"]
+    "aliases": [
+      "smartbear-bugsnag"
+    ]
   },
   {
     "name": "capture",
     "image": "img-buildkite-64/smartbear-capture.png",
     "category": "Buildkite",
-    "aliases": ["smartbear-capture"]
+    "aliases": [
+      "smartbear-capture"
+    ]
   },
   {
     "name": "collaborator",
     "image": "img-buildkite-64/smartbear-collaborator.png",
     "category": "Buildkite",
-    "aliases": ["smartbear-collaborator"]
+    "aliases": [
+      "smartbear-collaborator"
+    ]
   },
   {
     "name": "cucumber-studio",
@@ -600,85 +665,113 @@
     "name": "loadninja",
     "image": "img-buildkite-64/smartbear-loadninja.png",
     "category": "Buildkite",
-    "aliases": ["smartbear-loadninja"]
+    "aliases": [
+      "smartbear-loadninja"
+    ]
   },
   {
     "name": "pact",
     "image": "img-buildkite-64/smartbear-pact.png",
     "category": "Buildkite",
-    "aliases": ["smartbear-pact"]
+    "aliases": [
+      "smartbear-pact"
+    ]
   },
   {
     "name": "pactflow",
     "image": "img-buildkite-64/smartbear-pactflow.png",
     "category": "Buildkite",
-    "aliases": ["smartbear-pactflow"]
+    "aliases": [
+      "smartbear-pactflow"
+    ]
   },
   {
     "name": "soapui",
     "image": "img-buildkite-64/smartbear-soapui.png",
     "category": "Buildkite",
-    "aliases": ["smartbear-soapui"]
+    "aliases": [
+      "smartbear-soapui"
+    ]
   },
   {
     "name": "swagger",
     "image": "img-buildkite-64/smartbear-swagger.png",
     "category": "Buildkite",
-    "aliases": ["smartbear-swagger"]
+    "aliases": [
+      "smartbear-swagger"
+    ]
   },
   {
     "name": "swaggerhub",
     "image": "img-buildkite-64/smartbear-swaggerhub.png",
     "category": "Buildkite",
-    "aliases": ["smartbear-swaggerhub"]
+    "aliases": [
+      "smartbear-swaggerhub"
+    ]
   },
   {
     "name": "testcomplete",
     "image": "img-buildkite-64/smartbear-testcomplete.png",
     "category": "Buildkite",
-    "aliases": ["smartbear-testcomplete"]
+    "aliases": [
+      "smartbear-testcomplete"
+    ]
   },
   {
     "name": "testengine",
     "image": "img-buildkite-64/smartbear-testengine.png",
     "category": "Buildkite",
-    "aliases": ["smartbear-testengine"]
+    "aliases": [
+      "smartbear-testengine"
+    ]
   },
   {
     "name": "testexecute",
     "image": "img-buildkite-64/smartbear-testexecute.png",
     "category": "Buildkite",
-    "aliases": ["smartbear-testexecute"]
+    "aliases": [
+      "smartbear-testexecute"
+    ]
   },
   {
     "name": "testleft",
     "image": "img-buildkite-64/smartbear-testleft.png",
     "category": "Buildkite",
-    "aliases": ["smartbear-testleft"]
+    "aliases": [
+      "smartbear-testleft"
+    ]
   },
   {
     "name": "visualtest",
     "image": "img-buildkite-64/smartbear-visualtest.png",
     "category": "Buildkite",
-    "aliases": ["smartbear-visualtest"]
+    "aliases": [
+      "smartbear-visualtest"
+    ]
   },
   {
     "name": "zephyr",
     "image": "img-buildkite-64/smartbear-zephyr.png",
     "category": "Buildkite",
-    "aliases": ["smartbear-zephyr"]
+    "aliases": [
+      "smartbear-zephyr"
+    ]
   },
   {
     "name": "zephyrscale",
     "image": "img-buildkite-64/smartbear-zephyrscale.png",
     "category": "Buildkite",
-    "aliases": ["smartbear-zephyrscale"]
+    "aliases": [
+      "smartbear-zephyrscale"
+    ]
   },
   {
     "name": "zephyrsquad",
     "image": "img-buildkite-64/smartbear-zephyrsquad.png",
     "category": "Buildkite",
-    "aliases": ["smartbear-zephyrsquad"]
+    "aliases": [
+      "smartbear-zephyrsquad"
+    ]
   },
   {
     "name": "esbuild",
@@ -741,13 +834,17 @@
     "name": "opentelemetry",
     "image": "img-buildkite-64/opentelemetry.png",
     "category": "Buildkite",
-    "aliases": ["otel"]
+    "aliases": [
+      "otel"
+    ]
   },
   {
     "name": "strongdm",
     "image": "img-buildkite-64/strongdm.png",
     "category": "Buildkite",
-    "aliases": ["sdm"]
+    "aliases": [
+      "sdm"
+    ]
   },
   {
     "name": "uefi",
@@ -869,7 +966,7 @@
     "category": "Buildkite",
     "aliases": []
   },
-   {
+  {
     "name": "grype",
     "image": "img-buildkite-64/grype.png",
     "category": "Buildkite",
@@ -911,13 +1008,17 @@
     "name": "aspect-build",
     "image": "img-buildkite-64/aspect-build.png",
     "category": "Buildkite",
-    "aliases": ["aspect"]
+    "aliases": [
+      "aspect"
+    ]
   },
   {
     "name": "aspect-build-dark",
     "image": "img-buildkite-64/aspect-build-dark.png",
     "category": "Buildkite",
-    "aliases": ["aspect-dark"]
+    "aliases": [
+      "aspect-dark"
+    ]
   },
   {
     "name": "aspect-dev",
@@ -1427,7 +1528,9 @@
     "name": "vault",
     "image": "img-buildkite-64/vault.png",
     "category": "Buildkite",
-    "aliases": ["hashicorp-vault"]
+    "aliases": [
+      "hashicorp-vault"
+    ]
   },
   {
     "name": "assurance",
@@ -1681,13 +1784,17 @@
     "name": "nomad",
     "image": "img-buildkite-64/nomad.png",
     "category": "Buildkite",
-    "aliases": ["hashicorp-nomad"]
+    "aliases": [
+      "hashicorp-nomad"
+    ]
   },
   {
     "name": "vagrant",
     "image": "img-buildkite-64/vagrant.png",
     "category": "Buildkite",
-    "aliases": ["hashicorp-vagrant"]
+    "aliases": [
+      "hashicorp-vagrant"
+    ]
   },
   {
     "name": "karate",
@@ -1801,7 +1908,9 @@
     "name": "consul",
     "image": "img-buildkite-64/consul.png",
     "category": "Buildkite",
-    "aliases": ["hashicorp-consul"]
+    "aliases": [
+      "hashicorp-consul"
+    ]
   },
   {
     "name": "chromatic",
@@ -2967,7 +3076,9 @@
     "name": "terraform",
     "image": "img-buildkite-64/terraform.png",
     "category": "Buildkite",
-    "aliases": ["hashicorp-terraform"]
+    "aliases": [
+      "hashicorp-terraform"
+    ]
   },
   {
     "name": "javascript",
@@ -2993,7 +3104,9 @@
     "name": "packer",
     "image": "img-buildkite-64/packer.png",
     "category": "Buildkite",
-    "aliases": ["hashicorp-packer"]
+    "aliases": [
+      "hashicorp-packer"
+    ]
   },
   {
     "name": "babel",
@@ -3206,7 +3319,9 @@
     "image": "img-buildkite-64/golang-mascot.png",
     "category": "Buildkite",
     "aliases": [
-      "go-mascot", "go-gopher", "golang-gopher"
+      "go-mascot",
+      "go-gopher",
+      "golang-gopher"
     ]
   },
   {
@@ -3214,7 +3329,8 @@
     "image": "img-buildkite-64/googlecloud.png",
     "category": "Buildkite",
     "aliases": [
-      "gcloud", "gcp"
+      "gcloud",
+      "gcp"
     ]
   },
   {
@@ -3732,7 +3848,9 @@
     "name": "amazon-eventbridge",
     "image": "img-buildkite-64/amazon-eventbridge.png",
     "category": "Buildkite",
-    "aliases": ["eventbridge"]
+    "aliases": [
+      "eventbridge"
+    ]
   },
   {
     "name": "amazon-gamelift",
@@ -4178,7 +4296,9 @@
     "name": "intuit-auto",
     "image": "img-buildkite-64/intuit-auto.png",
     "category": "Buildkite",
-    "aliases": ["auto"]
+    "aliases": [
+      "auto"
+    ]
   },
   {
     "name": "canva",

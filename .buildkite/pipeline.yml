@@ -1,6 +1,6 @@
 steps:
   - name: ":gandalf:"
     command: ".buildkite/deploy.sh"
-    branches: "main"
+    branches: "*"
     agents:
       queue: "emoji_queue"
