@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/shellcheck.png" width="20" height="20" alt="shellcheck"/> | `:shellcheck:`
 <img src="img-buildkite-64/plaid.png" width="20" height="20" alt="css"/> | `:plaid:`
 <img src="img-buildkite-64/jetbrains-teamcity.png" width="20" height="20" alt="css"/> | `:jetbrains-teamcity:`, `:teamcity:`
 <img src="img-buildkite-64/rspack.png" width="20" height="20" alt="css"/> | `:rspack:`
