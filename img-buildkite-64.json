@@ -4221,5 +4221,11 @@
     "image": "img-buildkite-64/gravatar.png",
     "category": "Buildkite",
     "aliases": []
+  },
+  {
+    "name": "shellcheck",
+    "image": "img-buildkite-64/shellcheck.png",
+    "category": "Buildkite",
+    "aliases": []
   }
 ]
