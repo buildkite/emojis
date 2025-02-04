@@ -1,11 +1,17 @@
 [
-    {
-      "name": "plaid",
-      "image": "img-buildkite-64/plaid.png",
-      "category": "Buildkite",
-      "aliases": []
-    },
-    {
+  {
+    "name": "pandas",
+    "image": "img-buildkite-64/pandas.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "plaid",
+    "image": "img-buildkite-64/plaid.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "jetbrains-teamcity",
     "image": "img-buildkite-64/jetbrains-teamcity.png",
     "category": "Buildkite",
