@@ -1,5 +1,11 @@
 [
   {
+    "name": "chinmina",
+    "image": "img-buildkite-64/chinmina.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "pandas",
     "image": "img-buildkite-64/pandas.png",
     "category": "Buildkite",
