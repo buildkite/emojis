@@ -1,5 +1,11 @@
 [
   {
+    "name": "monolith",
+    "image": "img-buildkite-64/monolith.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "chinmina",
     "image": "img-buildkite-64/chinmina.png",
     "category": "Buildkite",
