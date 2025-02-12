@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/claude" width="20" height="20" alt="claude"/> | `:claude:`
 <img src="img-buildkite-64/chinmina.png" width="20" height="20" alt="chinmina"/> | `:chinmina:`
 <img src="img-buildkite-64/pandas.png" width="20" height="20" alt="pandas"/> | `:pandas:`
 <img src="img-buildkite-64/shellcheck.png" width="20" height="20" alt="shellcheck"/> | `:shellcheck:`
