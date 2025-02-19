@@ -1,5 +1,11 @@
 [
   {
+    "name": "danger",
+    "image": "img-buildkite-64/danger.png",
+    "category": "Buildkite",
+    "aliases": ["danger-ruby"]
+  },
+  {
     "name": "monolith",
     "image": "img-buildkite-64/monolith.png",
     "category": "Buildkite",
