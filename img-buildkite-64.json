@@ -1,5 +1,11 @@
 [
   {
+    "name": "go-task",
+    "image": "img-buildkite-64/go-task.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "monolith",
     "image": "img-buildkite-64/monolith.png",
     "category": "Buildkite",
