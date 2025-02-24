@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/danger.png" width="20" height="20" alt="danger"/> | `:danger:`
 <img src="img-buildkite-64/go-task.png" width="20" height="20" alt="go-task"/> | `:go-task:`
 <img src="img-buildkite-64/monolith.png" width="20" height="20" alt="monolith"/> | `:monolith:`
 <img src="img-buildkite-64/claude.png" width="20" height="20" alt="claude"/> | `:claude:`
