@@ -3,7 +3,13 @@
     "name": "retry",
     "image": "img-buildkite-64/retry.png",
     "category": "Buildkite",
-    "aliases": ["refresh"]
+    "aliases": []
+  },
+  {
+    "name": "rebuild",
+    "image": "img-buildkite-64/rebuild.png",
+    "category": "Buildkite",
+    "aliases": []
   },
   {
     "name": "danger",
