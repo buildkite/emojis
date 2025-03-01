@@ -1,5 +1,11 @@
 [
   {
+    "name": "crane",
+    "image": "img-buildkite-64/crane.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "retry",
     "image": "img-buildkite-64/retry.png",
     "category": "Buildkite",
