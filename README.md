@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/crane.png" width="20" height="20" alt="retry"/> | `:crane:`
 <img src="img-buildkite-64/retry.png" width="20" height="20" alt="retry"/> | `:retry:`
 <img src="img-buildkite-64/rebuild.png" width="20" height="20" alt="rebuild"/> | `:rebuild:`
 <img src="img-buildkite-64/danger.png" width="20" height="20" alt="danger"/> | `:danger:`
