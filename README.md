@@ -38,10 +38,10 @@ Emoji | Aliases
 <img src="img-buildkite-64/chinmina.png" width="20" height="20" alt="chinmina"/> | `:chinmina:`
 <img src="img-buildkite-64/pandas.png" width="20" height="20" alt="pandas"/> | `:pandas:`
 <img src="img-buildkite-64/shellcheck.png" width="20" height="20" alt="shellcheck"/> | `:shellcheck:`
-<img src="img-buildkite-64/plaid.png" width="20" height="20" alt="css"/> | `:plaid:`
-<img src="img-buildkite-64/jetbrains-teamcity.png" width="20" height="20" alt="css"/> | `:jetbrains-teamcity:`, `:teamcity:`
-<img src="img-buildkite-64/rspack.png" width="20" height="20" alt="css"/> | `:rspack:`
-<img src="img-buildkite-64/golang.png" width="20" height="20" alt="css"/> | `:golang:`, `:go:`
+<img src="img-buildkite-64/plaid.png" width="20" height="20" alt="plaid"/> | `:plaid:`
+<img src="img-buildkite-64/jetbrains-teamcity.png" width="20" height="20" alt="jetbrains-teamcity"/> | `:jetbrains-teamcity:`, `:teamcity:`
+<img src="img-buildkite-64/rspack.png" width="20" height="20" alt="rspack"/> | `:rspack:`
+<img src="img-buildkite-64/golang.png" width="20" height="20" alt="golang"/> | `:golang:`, `:go:`
 <img src="img-buildkite-64/css.png" width="20" height="20" alt="css"/> | `:css:`, `:cascading-style-sheets:`
 <img src="img-buildkite-64/all-your-base.png" width="20" height="20" alt="all-your-base"/> | `:all-your-base:`, `:allyourbase:`
 <img src="img-buildkite-64/car-black.png" width="20" height="20" alt="car-black"/> | `:car-black:`
