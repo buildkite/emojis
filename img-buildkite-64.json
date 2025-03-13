@@ -1,5 +1,11 @@
 [
   {
+    "name": "nuget",
+    "image": "img-buildkite-64/nuget.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "crane",
     "image": "img-buildkite-64/crane.png",
     "category": "Buildkite",
