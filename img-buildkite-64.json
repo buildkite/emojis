@@ -1,5 +1,11 @@
 [
   {
+    "name": "ray-train",
+    "image": "img-buildkite-64/ray-train.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "nuget",
     "image": "img-buildkite-64/nuget.png",
     "category": "Buildkite",
