@@ -1211,6 +1211,12 @@
     "aliases": []
   },
   {
+    "name": "fibery",
+    "image": "img-buildkite-64/fibery.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "google-chat",
     "image": "img-buildkite-64/google-chat.png",
     "category": "Buildkite",

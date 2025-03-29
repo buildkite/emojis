@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/fibery.png" width="20" height="20" alt="fibery"/> | `:fibery:`
 <img src="img-buildkite-64/ray-train.png" width="20" height="20" alt="ray-train"/> | `:ray-train:`
 <img src="img-buildkite-64/nuget.png" width="20" height="20" alt="nuget"/> | `:nuget:`
 <img src="img-buildkite-64/crane.png" width="20" height="20" alt="crane"/> | `:crane:`
