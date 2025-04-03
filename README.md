@@ -659,6 +659,7 @@ Emoji | Aliases
 <img src="img-buildkite-64/aws-applicationdiscoveryservice.png" width="20" height="20" alt="aws-applicationdiscoveryservice"/> | `:aws-applicationdiscoveryservice:`
 <img src="img-buildkite-64/aws-artifact.png" width="20" height="20" alt="aws-artifact"/> | `:aws-artifact:`
 <img src="img-buildkite-64/aws-batch.png" width="20" height="20" alt="aws-batch"/> | `:aws-batch:`
+<img src="img-buildkite-64/aws-cdk.png" width="20" height="20" alt="aws-cdk"/> | `:aws-cdk:`
 <img src="img-buildkite-64/aws-certificatemanager.png" width="20" height="20" alt="aws-certificatemanager"/> | `:aws-certificatemanager:`
 <img src="img-buildkite-64/aws-cli.png" width="20" height="20" alt="aws-cli"/> | `:aws-cli:`
 <img src="img-buildkite-64/aws-cloudformation.png" width="20" height="20" alt="aws-cloudformation"/> | `:aws-cloudformation:`, `:cloudformation:`

@@ -157,6 +157,7 @@ aws
 aws-applicationdiscoveryservice
 aws-artifact
 aws-batch
+aws-cdk
 aws-certificatemanager
 aws-cli
 aws-cloudformation

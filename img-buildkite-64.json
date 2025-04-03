@@ -3791,6 +3791,12 @@
     "aliases": []
   },
   {
+    "name": "aws-cdk",
+    "image": "img-buildkite-64/aws-cdk.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "aws-certificatemanager",
     "image": "img-buildkite-64/aws-certificatemanager.png",
     "category": "Buildkite",
