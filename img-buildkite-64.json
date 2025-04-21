@@ -1,5 +1,11 @@
 [
   {
+    "name": "istio",
+    "image": "img-buildkite64/istio.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "ray-train",
     "image": "img-buildkite-64/ray-train.png",
     "category": "Buildkite",
