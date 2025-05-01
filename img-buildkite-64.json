@@ -1,13 +1,13 @@
 [
   {
     "name": "lightdash",
-    "image": "img-buildkite64/lightdash.png",
+    "image": "img-buildkite-64/lightdash.png",
     "category": "Buildkite",
     "aliases": []
   },
   {
     "name": "istio",
-    "image": "img-buildkite64/istio.png",
+    "image": "img-buildkite-64/istio.png",
     "category": "Buildkite",
     "aliases": []
   },
