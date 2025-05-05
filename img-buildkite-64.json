@@ -1,7 +1,7 @@
 [
   {
-    "name": "cloud_run",
-    "image": "img-buildkite-64/cloud_run.png",
+    "name": "cloud-run",
+    "image": "img-buildkite-64/cloud-run.png",
     "category": "Buildkite",
     "aliases": []
   },
