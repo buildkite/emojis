@@ -1,5 +1,17 @@
 [
   {
+    "name": "cloud_run",
+    "image": "img-buildkite-64/cloud_run.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "bigquery",
+    "image": "img-buildkite-64/bigquery.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "lightdash",
     "image": "img-buildkite-64/lightdash.png",
     "category": "Buildkite",
