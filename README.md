@@ -29,6 +29,7 @@ Emoji | Aliases
 ----- | -------
 <img src="img-buildkite-64/cloud-run.png" width="20" height="20" alt="cloud-run"/> | `:cloud-run:`
 <img src="img-buildkite-64/bigquery.png" width="20" height="20" alt="bigquery"/> | `:bigquery:`
+<img src="img-buildkite-64/huggingface.png" width="20" height="20" alt="huggingface"/> | `:huggingface:`
 <img src="img-buildkite-64/lightdash.png" width="20" height="20" alt="lightdash"/> | `:lightdash:`
 <img src="img-buildkite-64/istio.png" width="20" height="20" alt="istio"/> | `:istio:`
 <img src="img-buildkite-64/fibery.png" width="20" height="20" alt="fibery"/> | `:fibery:`
