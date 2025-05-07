@@ -1,5 +1,11 @@
 [
   {
+    "name": "huggingface",
+    "image": "img-buildkite-64/huggingface.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "lightdash",
     "image": "img-buildkite-64/lightdash.png",
     "category": "Buildkite",
