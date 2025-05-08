@@ -1,5 +1,17 @@
 [
   {
+    "name": "aws-cloud-logo-dark",
+    "image": "img-buildkite-64/aws-cloud-logo-dark.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aws-cloud-logo",
+    "image": "img-buildkite-64/aws-cloud-logo.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "cloud-run",
     "image": "img-buildkite-64/cloud-run.png",
     "category": "Buildkite",
