@@ -27,6 +27,8 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/aws-cloud-logo-dark.png" width="20" height="20" alt="aws-cloud-logo-dark"/> | `:aws-cloud-logo-dark:`
+<img src="img-buildkite-64/aws-cloud-logo.png" width="20" height="20" alt="aws-cloud-logo"/> | `:aws-cloud-logo:`
 <img src="img-buildkite-64/cloud-run.png" width="20" height="20" alt="cloud-run"/> | `:cloud-run:`
 <img src="img-buildkite-64/bigquery.png" width="20" height="20" alt="bigquery"/> | `:bigquery:`
 <img src="img-buildkite-64/huggingface.png" width="20" height="20" alt="huggingface"/> | `:huggingface:`
