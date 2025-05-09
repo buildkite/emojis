@@ -1,5 +1,11 @@
 [
   {
+    "name": "harness",
+    "image": "img-buildkite-64/harness.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "aws-cloud-logo-dark",
     "image": "img-buildkite-64/aws-cloud-logo-dark.png",
     "category": "Buildkite",
