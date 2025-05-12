@@ -9,12 +9,15 @@ To use an emoji, write the name of the emoji in between colons, like :buildkite:
 Missing your favorite tool or want to better represent a Buildkite feature? Contribute your own custom emoji by following these simple steps:
 
 1. Prepare a `64x64` PNG image following the [image guidelines](#image-guidelines) below
+1. Name the image file using the kebab-case format (e.g. `my-awesome-emoji.png`)
 1. Fork this repo
 1. Add the image to the `img-buildkite-64` directory
-1. Add it to the top of the `img-buildkite-64.json` file
+1. Add it to the top of the `img-buildkite-64.json` file with any additional aliases
 1. Send a pull request
 
-If we're missing Unicode emoji, follow the instructions in [docs/updating-unicode.md](docs/updating-unicode.md)
+Alternatively you can also [submit an issue/request](https://github.com/buildkite/emojis/issues/new/choose), and we'll add it for you.
+
+Note: If we're missing Unicode emoji, follow the instructions in [docs/updating-unicode.md](docs/updating-unicode.md)
 
 ## Image guidelines
 
