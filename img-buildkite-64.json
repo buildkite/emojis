@@ -4284,7 +4284,7 @@
   },
   {
     "name": "buildkite-party-confetti",
-    "image": "img-buildkite-64/buildkite-party-confetti",
+    "image": "img-buildkite-64/buildkite-party-confetti.gif",
     "category": "Buildkite",
     "aliases": []
   }
