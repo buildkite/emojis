@@ -1,5 +1,11 @@
 [
   {
+    "name": "bitrise",
+    "image": "img-buildkite-64/bitrise.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "harness",
     "image": "img-buildkite-64/harness.png",
     "category": "Buildkite",
