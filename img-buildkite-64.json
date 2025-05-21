@@ -1,5 +1,11 @@
 [
   {
+    "name": "qlty",
+    "image": "img-buildkite-64/qlty.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "bitrise",
     "image": "img-buildkite-64/bitrise.png",
     "category": "Buildkite",
