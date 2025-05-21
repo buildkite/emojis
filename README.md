@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/qlty.png" width="20" height="20" alt="qlty"/> | `:qlty:`
 <img src="img-buildkite-64/bitrise.png" width="20" height="20" alt="bitrise"/> | `:bitrise:`
 <img src="img-buildkite-64/harness.png" width="20" height="20" alt="harness"/> | `:harness:`
 <img src="img-buildkite-64/aws-cloud-logo-dark.png" width="20" height="20" alt="aws-cloud-logo-dark"/> | `:aws-cloud-logo-dark:`
