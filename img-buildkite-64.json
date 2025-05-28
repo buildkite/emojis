@@ -1,5 +1,11 @@
 [
   {
+    "name": "qlty",
+    "image": "img-buildkite-64/qlty.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "mcp",
     "image": "img-buildkite-64/mcp.png",
     "category": "Buildkite",
