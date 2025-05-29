@@ -1,5 +1,11 @@
 [
   {
+    "name": "goreleaser",
+    "image": "img-buildkite-64/goreleaser.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "qlty",
     "image": "img-buildkite-64/qlty.png",
     "category": "Buildkite",
