@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/buildbarn" width="20" height="20" alt="buildbarn"/> | `:buildbarn:`
 <img src="img-buildkite-64/typespec.png" width="20" height="20" alt="typespec"/> | `:typespec:`
 <img src="img-buildkite-64/qlty.png" width="20" height="20" alt="qlty"/> | `:qlty:`
 <img src="img-buildkite-64/mcp.png" width="20" height="20" alt="mcp"/> | `:mcp:`

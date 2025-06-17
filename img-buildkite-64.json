@@ -1,5 +1,11 @@
 [
   {
+    "name": "buildbarn",
+    "image": "img-buildkite-64/buildbarn.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "typespec",
     "image": "img-buildkite-64/typespec.png",
     "category": "Buildkite",
