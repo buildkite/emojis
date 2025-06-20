@@ -1,5 +1,11 @@
 [
   {
+    "name": "oxc",
+    "image": "img-buildkite-64/oxc.png",
+    "category": "Buildkite",
+    "aliases": ["oxc-rs", "oxlint"]
+  },
+  {
     "name": "buildbarn",
     "image": "img-buildkite-64/buildbarn.png",
     "category": "Buildkite",
@@ -406,12 +412,6 @@
     "image": "img-buildkite-64/openwrt.png",
     "category": "Buildkite",
     "aliases": []
-  },
-  {
-    "name": "oxc",
-    "image": "img-buildkite-64/oxc.png",
-    "category": "Buildkite",
-    "aliases": ["oxc-rs", "oxlint"]
   },
   {
     "name": "pypi",
