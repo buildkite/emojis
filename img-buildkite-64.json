@@ -408,6 +408,12 @@
     "aliases": []
   },
   {
+    "name": "oxc",
+    "image": "img-buildkite-64/oxc.png",
+    "category": "Buildkite",
+    "aliases": ["oxc-rs", "oxlint"]
+  },
+  {
     "name": "pypi",
     "image": "img-buildkite-64/pypi.png",
     "category": "Buildkite",
