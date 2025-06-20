@@ -27,7 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
-<img src="img-buildkite-64/open-fga.png" width="20" height="20" alt="open-fga"/> | `:open-fga:`
+<img src="img-buildkite-64/open-fga.png" width="20" height="20" alt="open-fga"/> | `:open-fga:,:openfga:`
 <img src="img-buildkite-64/buildbarn.png" width="20" height="20" alt="buildbarn"/> | `:buildbarn:`
 <img src="img-buildkite-64/typespec.png" width="20" height="20" alt="typespec"/> | `:typespec:`
 <img src="img-buildkite-64/qlty.png" width="20" height="20" alt="qlty"/> | `:qlty:`
