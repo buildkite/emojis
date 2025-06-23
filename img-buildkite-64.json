@@ -3,7 +3,7 @@
     "name": "oxc",
     "image": "img-buildkite-64/oxc.png",
     "category": "Buildkite",
-    "aliases": ["oxc-rs", "oxlint"]
+    "aliases": ["oxlint", "oxc-rs"]
   },
   {
     "name": "buildbarn",
