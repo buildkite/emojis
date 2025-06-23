@@ -6,6 +6,12 @@
     "aliases": ["oxlint", "oxc-rs"]
   },
   {
+    "name": "open-fga",
+    "image": "img-buildkite-64/open-fga.png",
+    "category": "Buildkite",
+    "aliases": ["openfga"]
+  },
+  {
     "name": "buildbarn",
     "image": "img-buildkite-64/buildbarn.png",
     "category": "Buildkite",
