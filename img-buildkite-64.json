@@ -1,5 +1,11 @@
 [
   {
+    "name": "world-map",
+    "image": "img-buildkite-64/world-map.png",
+    "category": "Buildkite",
+    "aliases": ["world-map-au", "globe", "globe-au"]
+  },
+  {
     "name": "oxc",
     "image": "img-buildkite-64/oxc.png",
     "category": "Buildkite",
