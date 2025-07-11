@@ -1,5 +1,11 @@
 [
   {
+    "name": "amp",
+    "image": "img-buildkite-64/amp.png",
+    "category": "Buildkite",
+    "aliases": ["ampcode"]
+  },
+  {
     "name": "world-map",
     "image": "img-buildkite-64/world-map.png",
     "category": "Buildkite",
