@@ -1,5 +1,11 @@
 [
   {
+    "name": "gcs",
+    "image": "img-buildkite-64/gcs.png",
+    "category": "Buildkite",
+    "aliases": ["google-cloud-storage"]
+  },
+  {
     "name": "amp",
     "image": "img-buildkite-64/amp.png",
     "category": "Buildkite",

@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/gcs.png" width="20" height="20" alt="gcs"/> | `:gcs:`, `:google-cloud-storage:`
 <img src="img-buildkite-64/amp.png" width="20" height="20" alt="amp"/> | `:amp:`, `:ampcode:`
 <img src="img-buildkite-64/world-map.png" width="20" height="20" alt="world-map"/> | `:world-map:`, `:world-map-au:`, `:globe:`, `:globe-au:`
 <img src="img-buildkite-64/oxc.png" width="20" height="20" alt="oxc"/> | `:oxc:`, `:oxlint:`, `:oxc-rs:`
