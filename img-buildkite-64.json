@@ -1,5 +1,17 @@
 [
   {
+    "name": "openvpn",
+    "image": "img-buildkite-64/openvpn.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aws-privatelink",
+    "image": "img-buildkite-64/aws-privatelink.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "testmo",
     "image": "img-buildkite-64/testmo.png",
     "category": "Buildkite",
