@@ -27,6 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
+<img src="img-buildkite-64/nats.png" width="20" height="20" alt="nats"/> | `:nats:`, `:nats-io:`
 <img src="img-buildkite-64/openvpn.png" width="20" height="20" alt="openvpn"/> | `:openvpn:`
 <img src="img-buildkite-64/aws-privatelink.png" width="20" height="20" alt="aws-privatelink"/> | `:aws-privatelink:`
 <img src="img-buildkite-64/testmo.png" width="20" height="20" alt="testmo"/> | `:testmo:`
