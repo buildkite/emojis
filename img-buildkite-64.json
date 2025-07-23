@@ -1,5 +1,11 @@
 [
   {
+    "name": "nats",
+    "image": "img-buildkite-64/nats.png",
+    "category": "Buildkite",
+    "aliases": ["nats-io"]
+  },
+  {
     "name": "openvpn",
     "image": "img-buildkite-64/openvpn.png",
     "category": "Buildkite",
