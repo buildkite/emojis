@@ -5,5 +5,10 @@ steps:
     agents:
       queue: "oss-deploy"
     plugins:
-      - aws-assume-role-with-web-identity#v1.0.0:
+      - aws-assume-role-with-web-identity#v1.4.0:
           role-arn: arn:aws:iam::${ROLE_ACCOUNT_ID}:role/pipeline-buildkite-emojis
+          session-tags:
+            - organization_slug
+            - organization_id
+            - pipeline_slug
+            - build_branch
