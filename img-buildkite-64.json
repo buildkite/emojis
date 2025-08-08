@@ -1,5 +1,11 @@
 [
   {
+    "name": "google-play",
+    "image": "img-buildkite-64/google-play.png",
+    "category": "Buildkite",
+    "aliases": ["play-store"]
+  },
+  {
     "name": "nats",
     "image": "img-buildkite-64/nats.png",
     "category": "Buildkite",
