@@ -27,7 +27,7 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 
 Emoji | Aliases
 ----- | -------
-<img src="img-buildkite-64/google-play.png" width="20" height="20" alt="googleplay"/> | `:google-play:`, `:play-store:`
+<img src="img-buildkite-64/google-play.png" width="20" height="20" alt="google-play"/> | `:google-play:`, `:play-store:`
 <img src="img-buildkite-64/nats.png" width="20" height="20" alt="nats"/> | `:nats:`, `:nats-io:`
 <img src="img-buildkite-64/openvpn.png" width="20" height="20" alt="openvpn"/> | `:openvpn:`
 <img src="img-buildkite-64/aws-privatelink.png" width="20" height="20" alt="aws-privatelink"/> | `:aws-privatelink:`
