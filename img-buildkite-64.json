@@ -1,5 +1,11 @@
 [
   {
+    "name": "checkov",
+    "image": "img-buildkite-64/checkov.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "google-play",
     "image": "img-buildkite-64/google-play.png",
     "category": "Buildkite",
