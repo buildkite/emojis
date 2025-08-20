@@ -2,6 +2,83 @@
   {
     "name": "goreleaser",
     "image": "img-buildkite-64/goreleaser.png",
+  },
+  {
+    "name": "checkov",
+    "image": "img-buildkite-64/checkov.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "google-play",
+    "image": "img-buildkite-64/google-play.png",
+    "category": "Buildkite",
+    "aliases": ["play-store"]
+  },
+  {
+    "name": "nats",
+    "image": "img-buildkite-64/nats.png",
+    "category": "Buildkite",
+    "aliases": ["nats-io"]
+  },
+  {
+    "name": "openvpn",
+    "image": "img-buildkite-64/openvpn.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "aws-privatelink",
+    "image": "img-buildkite-64/aws-privatelink.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "testmo",
+    "image": "img-buildkite-64/testmo.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "gcs",
+    "image": "img-buildkite-64/gcs.png",
+    "category": "Buildkite",
+    "aliases": ["google-cloud-storage"]
+  },
+  {
+    "name": "amp",
+    "image": "img-buildkite-64/amp.png",
+    "category": "Buildkite",
+    "aliases": ["ampcode"]
+  },
+  {
+    "name": "world-map",
+    "image": "img-buildkite-64/world-map.png",
+    "category": "Buildkite",
+    "aliases": ["world-map-au", "globe", "globe-au"]
+  },
+  {
+    "name": "oxc",
+    "image": "img-buildkite-64/oxc.png",
+    "category": "Buildkite",
+    "aliases": ["oxlint", "oxc-rs"]
+  },
+  {
+    "name": "open-fga",
+    "image": "img-buildkite-64/open-fga.png",
+    "category": "Buildkite",
+    "aliases": ["openfga"]
+  },
+  {
+    "name": "buildbarn",
+    "image": "img-buildkite-64/buildbarn.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "typespec",
+    "image": "img-buildkite-64/typespec.png",
+>>>>>>> origin/main
     "category": "Buildkite",
     "aliases": []
   },

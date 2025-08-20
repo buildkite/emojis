@@ -28,6 +28,19 @@ Buildkite emoji will be shown on both light or dark backgrounds, and at a small 
 Emoji | Aliases
 ----- | -------
 <img src="img-buildkite-64/goreleaser.png" width="20" height="20" alt="goreleaser"/> | `:goreleaser:`
+<img src="img-buildkite-64/checkov.png" width="20" height="20" alt="checkov"/> | `:checkov:`
+<img src="img-buildkite-64/google-play.png" width="20" height="20" alt="google-play"/> | `:google-play:`, `:play-store:`
+<img src="img-buildkite-64/nats.png" width="20" height="20" alt="nats"/> | `:nats:`, `:nats-io:`
+<img src="img-buildkite-64/openvpn.png" width="20" height="20" alt="openvpn"/> | `:openvpn:`
+<img src="img-buildkite-64/aws-privatelink.png" width="20" height="20" alt="aws-privatelink"/> | `:aws-privatelink:`
+<img src="img-buildkite-64/testmo.png" width="20" height="20" alt="testmo"/> | `:testmo:`
+<img src="img-buildkite-64/gcs.png" width="20" height="20" alt="gcs"/> | `:gcs:`, `:google-cloud-storage:`
+<img src="img-buildkite-64/amp.png" width="20" height="20" alt="amp"/> | `:amp:`, `:ampcode:`
+<img src="img-buildkite-64/world-map.png" width="20" height="20" alt="world-map"/> | `:world-map:`, `:world-map-au:`, `:globe:`, `:globe-au:`
+<img src="img-buildkite-64/oxc.png" width="20" height="20" alt="oxc"/> | `:oxc:`, `:oxlint:`, `:oxc-rs:`
+<img src="img-buildkite-64/open-fga.png" width="20" height="20" alt="open-fga"/> | `:open-fga:`, `:openfga:`
+<img src="img-buildkite-64/buildbarn.png" width="20" height="20" alt="buildbarn"/> | `:buildbarn:`
+<img src="img-buildkite-64/typespec.png" width="20" height="20" alt="typespec"/> | `:typespec:`
 <img src="img-buildkite-64/qlty.png" width="20" height="20" alt="qlty"/> | `:qlty:`
 <img src="img-buildkite-64/mcp.png" width="20" height="20" alt="mcp"/> | `:mcp:`
 <img src="img-buildkite-64/bitrise.png" width="20" height="20" alt="bitrise"/> | `:bitrise:`
