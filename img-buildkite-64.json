@@ -2,6 +2,8 @@
   {
     "name": "goreleaser",
     "image": "img-buildkite-64/goreleaser.png",
+    "category": "Buildkite",
+    "aliases": []
   },
   {
     "name": "checkov",
@@ -78,7 +80,6 @@
   {
     "name": "typespec",
     "image": "img-buildkite-64/typespec.png",
->>>>>>> origin/main
     "category": "Buildkite",
     "aliases": []
   },
