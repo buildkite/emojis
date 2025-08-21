@@ -1,6 +1,6 @@
 [
   {
-    "name": "discord"
+    "name": "discord",
     "image": "img-buildkite-64/discord.png",
     "category": "Buildkite",
     "aliases": []
