@@ -1,6 +1,6 @@
 [
   {
-    "name": "discord"
+    "name": "discord",
     "image": "img-buildkite-64/discord.png",
     "category": "Buildkite",
     "aliases": []
@@ -591,7 +591,7 @@
     "name": "gandalf",
     "image": "img-buildkite-64/gandalf.png",
     "category": "Buildkite",
-    "aliases": ["you_shall_not_pass"]
+    "aliases": ["you_shall_not_pass", "you-shall-not-pass"]
   },
   {
     "name": "podium",
@@ -756,10 +756,10 @@
     "aliases": ["expressjs"]
   },
   {
-    "name": "applied_intuition",
-    "image": "img-buildkite-64/applied_intuition.png",
+    "name": "applied-intuition",
+    "image": "img-buildkite-64/applied-intuition.png",
     "category": "Buildkite",
-    "aliases": ["appliedintuition", "applied-intuition"]
+    "aliases": ["appliedintuition", "applied_intuition"]
   },
   {
     "name": "alertsite",
@@ -923,10 +923,10 @@
     "aliases": []
   },
   {
-    "name": "stack_overflow",
-    "image": "img-buildkite-64/stack_overflow.png",
+    "name": "stack-overflow",
+    "image": "img-buildkite-64/stack-overflow.png",
     "category": "Buildkite",
-    "aliases": ["stackoverflow", "stack-overflow"]
+    "aliases": ["stackoverflow", "stack_overflow"]
   },
   {
     "name": "imperva",
@@ -1109,10 +1109,10 @@
     "aliases": []
   },
   {
-    "name": "apache_flink",
-    "image": "img-buildkite-64/apache_flink.png",
+    "name": "apache-flink",
+    "image": "img-buildkite-64/apache-flink.png",
     "category": "Buildkite",
-    "aliases": ["flink"]
+    "aliases": ["flink", "apache_flink"]
   },
   {
     "name": "salus",
@@ -1847,10 +1847,10 @@
     "aliases": []
   },
   {
-    "name": "airbnb_stork",
-    "image": "img-buildkite-64/airbnb_stork.png",
+    "name": "airbnb-stork",
+    "image": "img-buildkite-64/airbnb-stork.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": ["airbnb_stork"]
   },
   {
     "name": "circleci",
@@ -2285,10 +2285,10 @@
     "aliases": []
   },
   {
-    "name": "xcode_simulator",
-    "image": "img-buildkite-64/xcode_simulator.png",
+    "name": "xcode-simulator",
+    "image": "img-buildkite-64/xcode-simulator.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": ["xcode_simulator"]
   },
   {
     "name": "pinterest",
@@ -2462,13 +2462,13 @@
     "name": "ie",
     "image": "img-buildkite-64/ie.png",
     "category": "Buildkite",
-    "aliases": ["internet_explorer"]
+    "aliases": ["internet_explorer", "internet-explorer"]
   },
   {
-    "name": "medical_symbol",
-    "image": "img-buildkite-64/medical_symbol.png",
+    "name": "medical-symbol",
+    "image": "img-buildkite-64/medical-symbol.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": ["medical_symbol"]
   },
   {
     "name": "gnu",
@@ -2909,10 +2909,10 @@
     "aliases": []
   },
   {
-    "name": "lendinghome_ops",
-    "image": "img-buildkite-64/lendinghome_ops.png",
+    "name": "lendinghome-ops",
+    "image": "img-buildkite-64/lendinghome-ops.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": ["lendinghome_ops"]
   },
   {
     "name": "jshint",
@@ -3116,13 +3116,13 @@
     "name": "pipeline",
     "image": "img-buildkite-64/pipeline.png",
     "category": "Buildkite",
-    "aliases": ["pipeline_upload"]
+    "aliases": ["pipeline_upload", "pipeline-upload"]
   },
   {
     "name": "allthethings",
     "image": "img-buildkite-64/allthethings.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": ["all-the-things"]
   },
   {
     "name": "ansible",
@@ -3317,10 +3317,10 @@
     "aliases": ["gcloud", "gcp"]
   },
   {
-    "name": "green_button",
-    "image": "img-buildkite-64/green_button.png",
+    "name": "green-button",
+    "image": "img-buildkite-64/green-button.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": ["green_button"]
   },
   {
     "name": "heroku",
@@ -3404,7 +3404,7 @@
     "name": "node",
     "image": "img-buildkite-64/node.png",
     "category": "Buildkite",
-    "aliases": ["node_js", "nodejs"]
+    "aliases": ["node_js", "nodejs", "node-js"]
   },
   {
     "name": "npm",
@@ -3419,16 +3419,16 @@
     "aliases": []
   },
   {
-    "name": "oracle_linux",
-    "image": "img-buildkite-64/oracle_linux.png",
+    "name": "oracle-linux",
+    "image": "img-buildkite-64/oracle-linux.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": ["oracle_linux"]
   },
   {
     "name": "packagecloud",
     "image": "img-buildkite-64/packagecloud.png",
     "category": "Buildkite",
-    "aliases": ["package_cloud"]
+    "aliases": ["package_cloud", "package-cloud"]
   },
   {
     "name": "php",
@@ -3467,16 +3467,16 @@
     "aliases": []
   },
   {
-    "name": "red_button",
-    "image": "img-buildkite-64/red_button.png",
+    "name": "red-button",
+    "image": "img-buildkite-64/red-button.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": ["red_button"]
   },
   {
     "name": "redhat",
     "image": "img-buildkite-64/redhat.png",
     "category": "Buildkite",
-    "aliases": ["rhel", "enterprise_linux"]
+    "aliases": ["rhel", "enterprise_linux", "enterprise-linux"]
   },
   {
     "name": "route53",
@@ -3533,10 +3533,10 @@
     "aliases": []
   },
   {
-    "name": "scientific_linux",
-    "image": "img-buildkite-64/scientific_linux.png",
+    "name": "scientific-linux",
+    "image": "img-buildkite-64/scientific-linux.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": ["scientific_linux"]
   },
   {
     "name": "shipit",
@@ -3611,10 +3611,10 @@
     "aliases": ["elmlang"]
   },
   {
-    "name": "exploding_death_star",
-    "image": "img-buildkite-64/exploding_death_star.gif",
+    "name": "exploding-death-star",
+    "image": "img-buildkite-64/exploding-death-star.gif",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": ["exploding_death_star"]
   },
   {
     "name": "composer",
@@ -4284,7 +4284,7 @@
   },
   {
     "name": "buildkite-party-confetti",
-    "image": "img-buildkite-64/buildkite-party-confetti",
+    "image": "img-buildkite-64/buildkite-party-confetti.gif",
     "category": "Buildkite",
     "aliases": []
   }
