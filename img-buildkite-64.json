@@ -1,5 +1,11 @@
 [
   {
+    "name": "scalr",
+    "image": "img-buildkite-64/scalr.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "discord",
     "image": "img-buildkite-64/discord.png",
     "category": "Buildkite",
