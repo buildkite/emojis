@@ -3,13 +3,13 @@
     "name": "n8n",
     "image": "img-buildkite-64/n8n.png",
     "category": "Buildkite",
-    "aliases": ["n8n"]
+    "aliases": []
   },
   {
     "name": "respond-io",
     "image": "img-buildkite-64/respond-io.png",
     "category": "Buildkite",
-    "aliases": ["respond-io"]
+    "aliases": []
   },
   {
     "name": "google-play",
