@@ -1,5 +1,17 @@
 [
   {
+    "name": "n8n",
+    "image": "img-buildkite-64/n8n.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "respond-io",
+    "image": "img-buildkite-64/respond-io.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  { 
     "name": "scalr",
     "image": "img-buildkite-64/scalr.png",
     "category": "Buildkite",
