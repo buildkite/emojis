@@ -1,4 +1,10 @@
 [
+    {
+    "name": "tuist",
+    "image": "img-buildkite-64/tuist.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
   {
     "name": "n8n",
     "image": "img-buildkite-64/n8n.png",
