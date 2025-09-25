@@ -1,5 +1,11 @@
 [
-    {
+  {
+    "name": "braze",
+    "image": "img-buildkite-64/braze.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "tuist",
     "image": "img-buildkite-64/tuist.png",
     "category": "Buildkite",
