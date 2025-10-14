@@ -1837,6 +1837,7 @@ open_book
 open_file_folder
 open_hands
 open_mouth
+openai
 openapi
 openbsd
 openpolicyagent
