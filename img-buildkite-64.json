@@ -1,5 +1,11 @@
 [
   {
+    "name": "harbor",
+    "image": "img-buildkite-64/harbor.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "braze",
     "image": "img-buildkite-64/braze.png",
     "category": "Buildkite",
