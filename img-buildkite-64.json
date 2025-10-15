@@ -29,7 +29,7 @@
     "category": "Buildkite",
     "aliases": []
   },
-  { 
+  {
     "name": "scalr",
     "image": "img-buildkite-64/scalr.png",
     "category": "Buildkite",
@@ -429,13 +429,13 @@
     "name": "crossplane",
     "image": "img-buildkite-64/crossplane.png",
     "category": "Buildkite",
-    "aliases": ["crossplane"]
+    "aliases": []
   },
   {
     "name": "synology-dsm",
     "image": "img-buildkite-64/synology-dsm.png",
     "category": "Buildkite",
-    "aliases": ["synology-dsm", "dsm"]
+    "aliases": ["dsm"]
   },
   {
     "name": "authzed",
