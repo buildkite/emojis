@@ -1,5 +1,11 @@
 [
   {
+    "name": "tetris",
+    "image": "img-buildkite-64/tetris.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "harbor",
     "image": "img-buildkite-64/harbor.png",
     "category": "Buildkite",
