@@ -1,5 +1,11 @@
 [
   {
+    "name": "lefthook",
+    "image": "img-buildkite-64/lefthook.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "tetris",
     "image": "img-buildkite-64/tetris.png",
     "category": "Buildkite",
