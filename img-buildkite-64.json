@@ -1,5 +1,11 @@
 [
   {
+    "name": "connectrpc",
+    "image": "img-buildkite-64/connectrpc.png",
+    "category": "Buildkite",
+    "aliases": ["connect-rpc"]
+  },
+  {
     "name": "lefthook",
     "image": "img-buildkite-64/lefthook.png",
     "category": "Buildkite",
