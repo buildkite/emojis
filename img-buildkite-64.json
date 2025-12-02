@@ -1,5 +1,11 @@
 [
   {
+    "name": "duckdb",
+    "image": "img-buildkite-64/duckdb.png",
+    "category": "Buildkite",
+    "aliases": ["duck-db"]
+  },
+  {
     "name": "tsdown",
     "image": "img-buildkite-64/tsdown.png",
     "category": "Buildkite",
