@@ -1,5 +1,11 @@
 [
   {
+    "name": "tsdown",
+    "image": "img-buildkite-64/tsdown.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "connectrpc",
     "image": "img-buildkite-64/connectrpc.png",
     "category": "Buildkite",
