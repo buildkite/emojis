@@ -6,6 +6,12 @@
     "aliases": ["duck-db"]
   },
   {
+    "name": "slatedb",
+    "image": "img-buildkite-64/slatedb.png",
+    "category": "Buildkite",
+    "aliases": ["slate-db"]
+  },
+  {
     "name": "tsdown",
     "image": "img-buildkite-64/tsdown.png",
     "category": "Buildkite",
