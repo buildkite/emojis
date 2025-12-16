@@ -6,6 +6,12 @@
     "aliases": []
   },
   {
+    "name": "svg",
+    "image": "img-buildkite-64/svg.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "duckdb",
     "image": "img-buildkite-64/duckdb.png",
     "category": "Buildkite",
