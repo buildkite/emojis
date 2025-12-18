@@ -1,5 +1,11 @@
 [
   {
+    "name": "mastra",
+    "image": "img-buildkite-64/mastra.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "knip",
     "image": "img-buildkite-64/knip.png",
     "category": "Buildkite",
