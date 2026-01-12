@@ -18,6 +18,12 @@
     "aliases": []
   },
   {
+    "name": "Honeycomb",
+    "image": "img-buildkite-64/honeycomb.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "duckdb",
     "image": "img-buildkite-64/duckdb.png",
     "category": "Buildkite",
