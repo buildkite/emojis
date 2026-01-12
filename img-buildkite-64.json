@@ -1742,7 +1742,7 @@
     "name": "sonarcloud",
     "image": "img-buildkite-64/sonarcloud.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": ["sonarqube-cloud"]
   },
   {
     "name": "crystal",
@@ -2276,7 +2276,7 @@
     "name": "sonarqube",
     "image": "img-buildkite-64/sonarqube.png",
     "category": "Buildkite",
-    "aliases": []
+    "aliases": ["sonarqube-server"]
   },
   {
     "name": "wasm",
