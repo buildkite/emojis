@@ -1,9 +1,9 @@
 [
   {
-    "name": "Buildkite Builder",
+    "name": "buildkite-builder",
     "image": "img-buildkite-64/buildkite-builder.png",
     "category": "Buildkite",
-    "aliases": ["BKB"]
+    "aliases": ["bkb"]
   },
   {
     "name": "mastra",
@@ -24,7 +24,7 @@
     "aliases": []
   },
   {
-    "name": "Honeycomb",
+    "name": "honeycomb",
     "image": "img-buildkite-64/honeycomb.png",
     "category": "Buildkite",
     "aliases": []
