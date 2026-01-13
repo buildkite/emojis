@@ -1,5 +1,11 @@
 [
   {
+    "name": "github-copilot",
+    "image": "img-buildkite-64/github-copilot.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "buildkite-builder",
     "image": "img-buildkite-64/buildkite-builder.png",
     "category": "Buildkite",
