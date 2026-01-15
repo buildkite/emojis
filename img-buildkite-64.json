@@ -1,5 +1,11 @@
 [
   {
+    "name": "northflank",
+    "image": "img-buildkite-64/northflank.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "github-copilot",
     "image": "img-buildkite-64/github-copilot.png",
     "category": "Buildkite",
