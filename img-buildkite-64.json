@@ -1,5 +1,11 @@
 [
   {
+    "name": "tailscale",
+    "image": "img-buildkite-64/tailscale.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "northflank",
     "image": "img-buildkite-64/northflank.png",
     "category": "Buildkite",
