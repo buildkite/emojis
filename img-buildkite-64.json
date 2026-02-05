@@ -1,5 +1,11 @@
 [
   {
+    "name": "clickhouse",
+    "image": "img-buildkite-64/clickhouse.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "tailscale",
     "image": "img-buildkite-64/tailscale.png",
     "category": "Buildkite",
