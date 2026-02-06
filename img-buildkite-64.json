@@ -1,5 +1,11 @@
 [
   {
+    "name": "figma",
+    "image": "img-buildkite-64/figma.png",
+    "category": "Buildkite",
+    "aliases": ["code-connect", "figma-code-connect"]
+  },
+  {
     "name": "clickhouse",
     "image": "img-buildkite-64/clickhouse.png",
     "category": "Buildkite",
