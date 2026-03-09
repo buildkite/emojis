@@ -1,5 +1,11 @@
 [
   {
+    "name": "ty",
+    "image": "img-buildkite-64/ty.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "figma",
     "image": "img-buildkite-64/figma.png",
     "category": "Buildkite",
