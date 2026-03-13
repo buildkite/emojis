@@ -12,6 +12,12 @@
     "aliases": ["code-connect", "figma-code-connect"]
   },
   {
+    "name": "trunk",
+    "image": "img-buildkite-64/trunk.png",
+    "category": "Buildkite",
+    "aliases": []
+  },    
+  {
     "name": "clickhouse",
     "image": "img-buildkite-64/clickhouse.png",
     "category": "Buildkite",
