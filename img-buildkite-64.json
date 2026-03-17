@@ -1,5 +1,17 @@
 [
   {
+    "name": "uv",
+    "image": "img-buildkite-64/uv.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "pyx",
+    "image": "img-buildkite-64/pyx.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "pipe",
     "image": "img-buildkite-64/pipe.png",
     "category": "Buildkite",
