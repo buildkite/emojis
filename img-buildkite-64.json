@@ -1,5 +1,11 @@
 [
   {
+    "name": "cirrascale",
+    "image": "img-buildkite-64/cirrascale.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "uv",
     "image": "img-buildkite-64/uv.png",
     "category": "Buildkite",
