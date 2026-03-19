@@ -1,5 +1,11 @@
 [
   {
+    "name": "mise",
+    "image": "img-buildkite-64/mise.png",
+    "category": "Buildkite",
+    "aliases": ["mise-en-place"]
+  },
+  {
     "name": "cirrascale",
     "image": "img-buildkite-64/cirrascale.png",
     "category": "Buildkite",
