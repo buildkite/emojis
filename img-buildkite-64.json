@@ -1,5 +1,11 @@
 [
   {
+    "name": "reviewboard",
+    "image": "img-buildkite-64/reviewboard.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "mise",
     "image": "img-buildkite-64/mise.png",
     "category": "Buildkite",
