@@ -1,5 +1,11 @@
 [
   {
+    "name": "rocm",
+    "image": "img-buildkite-64/rocm.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "reviewboard",
     "image": "img-buildkite-64/reviewboard.png",
     "category": "Buildkite",
