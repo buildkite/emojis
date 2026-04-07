@@ -2221,7 +2221,6 @@ rock
 rocket
 rocky
 rokt
-rocm
 roll_of_paper
 rollbar
 rolled_up_newspaper
