@@ -5,6 +5,11 @@
     "category": "Buildkite",
     "aliases": []
   },
+    "name": "fixture-kit",
+    "image": "img-buildkite-64/fixture-kit.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
   {
     "name": "rocm",
     "image": "img-buildkite-64/rocm.png",
