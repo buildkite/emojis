@@ -1,5 +1,11 @@
 [
   {
+    "name": "pyrefly",
+    "image": "img-buildkite-64/pyrefly.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "fast-cov",
     "image": "img-buildkite-64/fast-cov.png",
     "category": "Buildkite",
