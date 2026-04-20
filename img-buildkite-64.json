@@ -1,5 +1,11 @@
 [
   {
+    "name": "sourcegraph",
+    "image": "img-buildkite-64/sourcegraph.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "tetragon",
     "image": "img-buildkite-64/tetragon.png",
     "category": "Buildkite",
