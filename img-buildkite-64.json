@@ -1,5 +1,17 @@
 [
   {
+    "name": "tetragon",
+    "image": "img-buildkite-64/tetragon.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "vector",
+    "image": "img-buildkite-64/vector.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "pyrefly",
     "image": "img-buildkite-64/pyrefly.png",
     "category": "Buildkite",
@@ -76,7 +88,7 @@
     "image": "img-buildkite-64/trunk.png",
     "category": "Buildkite",
     "aliases": []
-  },    
+  },
   {
     "name": "clickhouse",
     "image": "img-buildkite-64/clickhouse.png",
