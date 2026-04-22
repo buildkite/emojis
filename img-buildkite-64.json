@@ -1,5 +1,11 @@
 [
   {
+    "name": "kyverno",
+    "image": "img-buildkite-64/kyverno.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "sourcegraph",
     "image": "img-buildkite-64/sourcegraph.png",
     "category": "Buildkite",
