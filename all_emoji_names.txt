@@ -292,6 +292,7 @@ bk-status-failing
 bk-status-passed
 bk-status-pending
 bk-status-running
+bkb
 black_bird
 black_cat
 black_circle
@@ -371,6 +372,7 @@ buildbarn
 buildbuddy
 building_construction
 buildkite
+buildkite-builder
 buildkite-party
 buildkite-party-confetti
 buildpacks
@@ -465,6 +467,7 @@ church
 cinema
 circleci
 circus_tent
+cirrascale
 city_sunrise
 city_sunset
 cityscape
@@ -476,6 +479,7 @@ clapper
 classical_building
 claude
 clearbit
+clickhouse
 clinking_glasses
 clipboard
 clippy
@@ -531,6 +535,7 @@ cockroach
 cocktail
 cocoapods
 coconut
+code-connect
 codecept
 codeception
 codeclimate
@@ -559,6 +564,8 @@ confluence
 confounded
 confused
 congratulations
+connect-rpc
+connectrpc
 console
 construction
 construction_worker
@@ -704,6 +711,8 @@ droplet
 drum_with_drumsticks
 dsm
 duck
+duck-db
+duckdb
 dumpling
 dvc
 dvd
@@ -818,6 +827,7 @@ family_adult_child
 family_adult_child_child
 farmer
 faros
+fast-cov
 fast_forward
 fastlane
 fastly
@@ -860,6 +870,8 @@ ferris_wheel
 ferry
 fibery
 field_hockey_stick_and_ball
+figma
+figma-code-connect
 file_cabinet
 file_folder
 film_frames
@@ -882,6 +894,7 @@ fish_cake
 fishing_pole_and_fish
 fist
 five
+fixture-kit
 flag-ac
 flag-ad
 flag-ae
@@ -1224,6 +1237,7 @@ girl
 git
 gitguardian
 github
+github-copilot
 gitlab
 gitpod
 gitsby
@@ -1373,6 +1387,7 @@ hole
 home-assistant
 honey_pot
 honeybee
+honeycomb
 hook
 horovod
 horse
@@ -1502,6 +1517,7 @@ knapsack
 kneeling_person
 knife
 knife_fork_plate
+knip
 knot
 koala
 koko
@@ -1510,6 +1526,7 @@ kong
 kotlin
 kr
 kubernetes
+kyverno
 lab_coat
 label
 lacework
@@ -1546,6 +1563,7 @@ left-facing_fist
 left_luggage
 left_right_arrow
 left_speech_bubble
+lefthook
 leftwards_arrow_with_hook
 leftwards_hand
 leftwards_pushing_hand
@@ -1728,6 +1746,7 @@ markdown
 martial_arts_uniform
 mask
 massage
+mastra
 mate_drink
 maven
 mcp
@@ -1769,6 +1788,8 @@ minibus
 minidisc
 mirror
 mirror_ball
+mise
+mise-en-place
 mobile_phone_off
 mocha
 modal
@@ -1872,6 +1893,7 @@ nodejs
 nodesecurity
 nomad
 non-potable_water
+northflank
 nose
 notebook
 notebook_with_decorative_cover
@@ -1925,6 +1947,7 @@ openfga
 openpolicyagent
 opensearch
 opentelemetry
+opentofu
 openvpn
 openwrt
 ophiuchus
@@ -2047,6 +2070,7 @@ pink_heart
 pinterest
 pinterest-teletraan
 pip
+pipe
 pipeline
 pipeline-upload
 pipeline_upload
@@ -2123,11 +2147,13 @@ pushpin
 put_litter_in_its_place
 pwsh
 pypi
+pyrefly
 pyright
 pytest
 python
 python-black
 pytorch
+pyx
 qemu
 qlty
 qt
@@ -2200,6 +2226,7 @@ restroom
 retirejs
 retry
 reversed_hand_with_middle_finger_extended
+reviewboard
 revolving_hearts
 rewind
 rhel
@@ -2220,6 +2247,7 @@ robot_face
 rock
 rocket
 rocky
+rocm
 rokt
 roll_of_paper
 rollbar
@@ -2363,6 +2391,8 @@ skull
 skull_and_crossbones
 skunk
 slack
+slate-db
+slatedb
 sled
 sleeping
 sleeping_accommodation
@@ -2431,10 +2461,13 @@ softball
 solhint
 sonarcloud
 sonarqube
+sonarqube-cloud
+sonarqube-server
 soon
 sorbet
 sos
 sound
+sourcegraph
 space_invader
 spacelift
 spacelift-dark
@@ -2518,6 +2551,7 @@ sushi
 suspect
 suspension_railway
 svelte
+svg
 svn
 swagger
 swaggerhub
@@ -2540,6 +2574,7 @@ table_tennis_paddle_and_ball
 tableau
 taco
 tada
+tailscale
 takeout_box
 tamale
 tanabata_tree
@@ -2574,6 +2609,8 @@ testflight
 testleft
 testmo
 testobject
+tetragon
+tetris
 the_horns
 thermometer
 thinking_face
@@ -2594,6 +2631,7 @@ tilt-dev
 timer_clock
 tired_face
 tm
+tofu
 toilet
 tokyo_tower
 tomato
@@ -2632,6 +2670,8 @@ tropical_fish
 truck
 truffleruby
 trumpet
+trunk
+tsdown
 tshirt
 tslint
 tuist
@@ -2647,6 +2687,7 @@ two
 two_hearts
 two_men_holding_hands
 two_women_holding_hands
+ty
 typescript
 typespec
 u5272
@@ -2674,10 +2715,12 @@ up
 upside_down_face
 us
 usertesting
+uv
 v
 vagrant
 vampire
 vault
+vector
 vercel
 vertical_traffic_light
 vespa

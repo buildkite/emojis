@@ -1,5 +1,11 @@
 [
   {
+    "name": "opentofu",
+    "image": "img-buildkite-64/opentofu.png",
+    "category": "Buildkite",
+    "aliases": ["tofu"]
+  },
+  {
     "name": "kyverno",
     "image": "img-buildkite-64/kyverno.png",
     "category": "Buildkite",
