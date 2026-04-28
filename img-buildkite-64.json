@@ -1,5 +1,11 @@
 [
   {
+    "name": "ast-grep",
+    "image": "img-buildkite-64/ast-grep.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "taplo",
     "image": "img-buildkite-64/taplo.png",
     "category": "Buildkite",
