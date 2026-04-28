@@ -6,6 +6,12 @@
     "aliases": []
   },
   {
+    "name": "taplo",
+    "image": "img-buildkite-64/taplo.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "kyverno",
     "image": "img-buildkite-64/kyverno.png",
     "category": "Buildkite",
