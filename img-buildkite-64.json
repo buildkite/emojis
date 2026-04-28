@@ -1,5 +1,11 @@
 [
   {
+    "name": "opentofu",
+    "image": "img-buildkite-64/opentofu.png",
+    "category": "Buildkite",
+    "aliases": ["tofu"]
+  },
+  {
     "name": "ast-grep",
     "image": "img-buildkite-64/ast-grep.png",
     "category": "Buildkite",
