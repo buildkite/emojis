@@ -1,5 +1,11 @@
 [
   {
+    "name": "queued-pull-request",
+    "image": "img-buildkite-64/queued-pull-request.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "opentofu",
     "image": "img-buildkite-64/opentofu.png",
     "category": "Buildkite",
