@@ -1,5 +1,11 @@
 [
   {
+    "name": "mergify",
+    "image": "img-buildkite-64/mergify.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "queued-pull-request",
     "image": "img-buildkite-64/queued-pull-request.png",
     "category": "Buildkite",
