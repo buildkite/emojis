@@ -4545,5 +4545,11 @@
     "image": "img-buildkite-64/buildkite-party-confetti.gif",
     "category": "Buildkite",
     "aliases": []
+  },
+  {
+    "name": "zig",
+    "image": "img-buildkite-64/zig.png",
+    "category": "Buildkite",
+    "aliases": ["ziglang"]
   }
 ]
