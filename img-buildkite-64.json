@@ -1,5 +1,11 @@
 [
   {
+    "name": "cursor",
+    "image": "img-buildkite-64/cursor.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "mergify",
     "image": "img-buildkite-64/mergify.png",
     "category": "Buildkite",
