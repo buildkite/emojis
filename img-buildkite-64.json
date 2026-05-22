@@ -1,5 +1,11 @@
 [
   {
+    "name": "conductor",
+    "image": "img-buildkite-64/conductor.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "cursor",
     "image": "img-buildkite-64/cursor.png",
     "category": "Buildkite",
