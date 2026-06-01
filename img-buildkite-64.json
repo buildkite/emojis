@@ -1,5 +1,11 @@
 [
   {
+    "name": "capacitor",
+    "image": "img-buildkite-64/capacitor.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "cleanr",
     "image": "img-buildkite-64/devr-cleanr.png",
     "category": "Buildkite",
