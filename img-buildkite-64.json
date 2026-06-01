@@ -1,5 +1,11 @@
 [
   {
+    "name": "cleanr",
+    "image": "img-buildkite-64/devr-cleanr.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "conductor",
     "image": "img-buildkite-64/conductor.png",
     "category": "Buildkite",
