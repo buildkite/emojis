@@ -1,5 +1,11 @@
 [
   {
+    "name": "endorlabs",
+    "image": "img-buildkite-64/endor-labs.png",
+    "category": "Buildkite",
+    "aliases": ["endor-labs"]
+  },
+  {
     "name": "mistral",
     "image": "img-buildkite-64/mistral.png",
     "category": "Buildkite",
