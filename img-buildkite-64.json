@@ -1,5 +1,11 @@
 [
   {
+    "name": "magpie",
+    "image": "img-buildkite-64/magpie.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "endorlabs",
     "image": "img-buildkite-64/endor-labs.png",
     "category": "Buildkite",
