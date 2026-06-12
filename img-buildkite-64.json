@@ -1,5 +1,11 @@
 [
   {
+    "name": "amd",
+    "image": "img-buildkite-64/amd.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "magpie",
     "image": "img-buildkite-64/magpie.png",
     "category": "Buildkite",
