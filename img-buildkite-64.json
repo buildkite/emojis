@@ -1,5 +1,11 @@
 [
   {
+    "name": "flyte",
+    "image": "img-buildkite-64/flyte.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "amd",
     "image": "img-buildkite-64/amd.png",
     "category": "Buildkite",
