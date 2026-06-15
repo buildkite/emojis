@@ -87,12 +87,8 @@ task :verify do
   # These duplicates existed prior to the addition of this check,
   # so just print them as a warning
   ignored_duplicates = [
-    'beetle',
     'cucumber',
-    'family',
     'llama',
-    'man-woman-boy',
-    'man_in_tuxedo',
     'yarn',
     'troll',
   ]
@@ -108,11 +104,6 @@ task :verify do
   end
 
   emoji_names.sort!
-
-  File.write(
-    "#{__dir__}/all_emoji_names.txt",
-    emoji_names.join("\n")
-  )
 
   warning_emoji_names = []
   error_emoji_names = []
