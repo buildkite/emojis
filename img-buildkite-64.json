@@ -1,5 +1,11 @@
 [
   {
+    "name": "openbao",
+    "image": "img-buildkite-64/openbao.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "flyte",
     "image": "img-buildkite-64/flyte.png",
     "category": "Buildkite",
