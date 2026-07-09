@@ -1,5 +1,11 @@
 [
   {
+    "name": "socket",
+    "image": "img-buildkite-64/socket.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "coder",
     "image": "img-buildkite-64/coder.png",
     "category": "Buildkite",
