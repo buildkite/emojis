@@ -1,5 +1,11 @@
 [
   {
+    "name": "incident-io",
+    "image": "img-buildkite-64/incident-io.png",
+    "category": "Buildkite",
+    "aliases": ["incident", "incidentio"]
+  },
+  {
     "name": "socket",
     "image": "img-buildkite-64/socket.png",
     "category": "Buildkite",
