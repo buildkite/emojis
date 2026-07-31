@@ -9,8 +9,10 @@ trap 'rm -f "$user_config"' EXIT
 printf '//registry.npmjs.org/:_authToken=%s\n' "$NPM_TOKEN" > "$user_config"
 export NPM_CONFIG_USERCONFIG="$user_config"
 
+package_version="$(node -p "require('./package.json').version")"
+
 if current_version="$(npm view "@buildkite/emojis" version 2>&1)"; then
-  version="2.0.${BUILDKITE_BUILD_NUMBER}"
+  version="${package_version%.*}.${BUILDKITE_BUILD_NUMBER}"
   is_newer="$(node -e '
     const [candidate, current] = process.argv.slice(1).map((version) => version.split(".").map(Number));
     const comparison = candidate.reduce((result, part, index) => result || Math.sign(part - (current[index] ?? 0)), 0);
@@ -23,13 +25,13 @@ if current_version="$(npm view "@buildkite/emojis" version 2>&1)"; then
 elif [[ "$current_version" == *"E404"* ]]; then
   # Bootstrap the new scope at the source version so consumers can prepare
   # lockfiles before the first main-branch publication.
-  version="$(node -p "require('./package.json').version")"
+  version="$package_version"
 else
   printf '%s\n' "$current_version" >&2
   exit 1
 fi
 
-if [ "$(node -p "require('./package.json').version")" != "$version" ]; then
+if [ "$package_version" != "$version" ]; then
   npm version "$version" --no-git-tag-version
 fi
 npm publish
