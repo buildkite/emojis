@@ -21,10 +21,7 @@ const packResult = JSON.parse(pack.stdout);
 const { files } = Array.isArray(packResult) ? packResult[0] : Object.values(packResult)[0];
 const packagedFiles = new Set(files.map(({ path: filePath }) => filePath));
 
-const cataloguePaths = fs
-  .readdirSync(root)
-  .filter((filePath) => /^img-.*\.json$/.test(filePath))
-  .sort();
+const cataloguePaths = packageJson.files.filter((filePath) => /^img-.*\.json$/.test(filePath)).sort();
 assert(cataloguePaths.length > 0, "No emoji catalogues found");
 
 for (const cataloguePath of cataloguePaths) {

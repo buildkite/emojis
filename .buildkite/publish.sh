@@ -12,6 +12,8 @@ export NPM_CONFIG_USERCONFIG="$user_config"
 if current_version="$(npm view "@buildkite/emojis" version 2>&1)"; then
   version="2.0.${BUILDKITE_BUILD_NUMBER}"
 elif [[ "$current_version" == *"E404"* ]]; then
+  # Bootstrap the new scope at the source version so consumers can prepare
+  # lockfiles before the first main-branch publication.
   version="$(node -p "require('./package.json').version")"
 else
   printf '%s\n' "$current_version" >&2
