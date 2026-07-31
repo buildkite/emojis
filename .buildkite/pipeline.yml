@@ -20,6 +20,7 @@ steps:
           image: "node:22"
 
   - name: ":s3: Deploy images"
+    key: deploy-images
     command: ".buildkite/deploy.sh"
     branches: "main"
     depends_on:
@@ -39,9 +40,9 @@ steps:
   - name: ":npm: Publish package"
     command: ".buildkite/publish.sh"
     branches: "main"
-    depends_on:
-      - verify-catalogues
-      - verify-package
+    depends_on: deploy-images
+    concurrency: 1
+    concurrency_group: "buildkite-emojis/npm-publish"
     agents:
       queue: "oss-deploy"
     plugins:
