@@ -4,7 +4,16 @@
   "description": "Custom emojis supported by Buildkite which you can use in your build pipelines and terminal output.",
   "repository": "https://github.com/buildkite/emojis",
   "author": "Buildkite <hello@buildkite.com>",
-  "dependencies": {
+  "files": [
+    "img-apple-64.json",
+    "img-apple-64/",
+    "img-buildkite-64.json",
+    "img-buildkite-64/"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
     "emoji-datasource-apple": "^15.1.2"
   }
 }

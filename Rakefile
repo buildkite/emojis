@@ -82,7 +82,7 @@ task :default do
   end
 end
 
-desc "Check there are no duplicate emoji names"
+desc "Check emoji names and images"
 task :verify do
   # These duplicates existed prior to the addition of this check,
   # so just print them as a warning
@@ -94,13 +94,21 @@ task :verify do
   ]
 
   emoji_names = []
+  missing_images = []
 
   Dir.glob("img-*.json").each do |catalogue_file|
     catalogue_data = JSON.parse(File.read(catalogue_file))
 
     catalogue_data.each do |emoji|
       emoji_names.concat([ emoji['name'], emoji['aliases'] ].flatten.compact)
+      images = [emoji["image"], *emoji.fetch("modifiers", []).map { |modifier| modifier["image"] }]
+      missing_images.concat(images.reject { |image| File.exist?(image) })
     end
+  end
+
+  unless missing_images.empty?
+    puts "ERROR: Missing emoji images:\n - #{missing_images.uniq.sort.join("\n - ")}\n"
+    exit 1
   end
 
   emoji_names.sort!

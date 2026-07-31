@@ -1,7 +1,30 @@
 steps:
-  - name: ":shipit:"
+  - name: ":ruby: Verify catalogues"
+    key: verify-catalogues
+    command:
+      - bundle install
+      - bundle exec rake verify
+    agents:
+      queue: "oss-deploy"
+    plugins:
+      - docker#v5.11.0:
+          image: "ruby:3.4"
+
+  - name: ":nodejs: Verify package"
+    key: verify-package
+    command: node .buildkite/verify-package.mjs
+    agents:
+      queue: "oss-deploy"
+    plugins:
+      - docker#v5.11.0:
+          image: "node:22"
+
+  - name: ":s3: Deploy images"
     command: ".buildkite/deploy.sh"
     branches: "main"
+    depends_on:
+      - verify-catalogues
+      - verify-package
     agents:
       queue: "oss-deploy"
     plugins:
@@ -12,3 +35,26 @@ steps:
             - organization_id
             - pipeline_slug
             - build_branch
+
+  - name: ":npm: Publish package"
+    command: ".buildkite/publish.sh"
+    branches: "main"
+    depends_on:
+      - verify-catalogues
+      - verify-package
+    agents:
+      queue: "oss-deploy"
+    plugins:
+      - aws-assume-role-with-web-identity#v1.4.0:
+          role-arn: arn:aws:iam::${ROLE_ACCOUNT_ID}:role/pipeline-buildkite-emojis
+          session-tags:
+            - organization_slug
+            - organization_id
+            - pipeline_slug
+            - build_branch
+      - aws-ssm#v1.0.0:
+          parameters:
+            NPM_TOKEN: /prod/buildkite-emojis/npm-token
+      - docker#v5.11.0:
+          image: "node:22"
+          propagate-environment: true

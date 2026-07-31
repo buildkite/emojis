@@ -31,6 +31,23 @@ Explore the full list of Buildkite-specific emojis at [emoji.buildkite.com ↗](
 
 ![Buildkite Emoji Explorer](docs/buildkite-emojis-explorer.png)
 
+## npm package
+
+The catalogues and their image trees are published as
+[`@buildkite/emojis`](https://www.npmjs.com/package/@buildkite/emojis):
+
+```sh
+yarn add @buildkite/emojis
+```
+
+The package contains `img-buildkite-64.json`, `img-apple-64.json`,
+`img-buildkite-64/`, and `img-apple-64/`. Consumers should pin the package in
+their lockfile so catalogue validation and rendering use the same release.
+
+Every successful build of `main` publishes version `2.0.<build-number>`.
+Dependabot consumers can therefore receive each catalogue update as a normal
+npm patch update.
+
 ## License
 
 Each logo is owned by their respective creators.
