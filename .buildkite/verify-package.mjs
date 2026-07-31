@@ -1,6 +1,5 @@
 import assert from "node:assert/strict";
 import fs from "node:fs";
-import os from "node:os";
 import path from "node:path";
 import { spawnSync } from "node:child_process";
 import { fileURLToPath } from "node:url";
@@ -12,17 +11,15 @@ assert.equal(packageJson.name, "@buildkite/emojis");
 assert.equal(packageJson.publishConfig?.access, "public");
 assert.equal(packageJson.dependencies, undefined);
 
-const packDestination = fs.mkdtempSync(path.join(os.tmpdir(), "buildkite-emojis-pack-"));
-const pack = spawnSync("npm", ["pack", "--dry-run", "--json", "--pack-destination", packDestination], {
+const pack = spawnSync("npm", ["pack", "--dry-run", "--json"], {
   cwd: root,
   encoding: "utf8",
 });
-fs.rmSync(packDestination, { force: true, recursive: true });
 assert.equal(pack.status, 0, pack.stderr);
 
 const packResult = JSON.parse(pack.stdout);
-const { files } = Array.isArray(packResult) ? packResult[0] : Object.values(packResult)[0];
-const packagedFiles = new Set(files.map(({ path: filePath }) => filePath));
+assert(Array.isArray(packResult) && packResult[0], "npm pack --dry-run --json should return an array");
+const packagedFiles = new Set(packResult[0].files.map(({ path: filePath }) => filePath));
 
 const cataloguePaths = packageJson.files.filter((filePath) => /^img-.*\.json$/.test(filePath)).sort();
 assert(cataloguePaths.length > 0, "No emoji catalogues found");
