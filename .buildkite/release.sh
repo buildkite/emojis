@@ -3,6 +3,10 @@ set -euo pipefail
 
 : "${BUILDKITE_BUILD_NUMBER:?BUILDKITE_BUILD_NUMBER is required}"
 
+# Drop the token from the environment before S3 sync; restore only for publish.
+npm_token="${NPM_TOKEN:-}"
+unset NPM_TOKEN
+
 git fetch --quiet origin main
 if [[ "$(git rev-parse HEAD)" != "$(git rev-parse origin/main)" ]]; then
   echo "Skipping release: HEAD is not tip of origin/main"
@@ -50,11 +54,11 @@ else
   exit 1
 fi
 
-: "${NPM_TOKEN:?NPM_TOKEN is required}"
+: "${npm_token:?NPM_TOKEN is required}"
 user_config="$(mktemp)"
-printf '//registry.npmjs.org/:_authToken=%s\n' "$NPM_TOKEN" > "$user_config"
+printf '//registry.npmjs.org/:_authToken=%s\n' "$npm_token" > "$user_config"
 export NPM_CONFIG_USERCONFIG="$user_config"
-unset NPM_TOKEN
+unset npm_token
 
 if [[ "$package_version" != "$version" ]]; then
   npm version "$version" --no-git-tag-version
