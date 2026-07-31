@@ -2,12 +2,16 @@
 set -euo pipefail
 
 : "${BUILDKITE_BUILD_NUMBER:?BUILDKITE_BUILD_NUMBER is required}"
+: "${NPM_TOKEN:?NPM_TOKEN is required}"
 
 git fetch --quiet origin main
 if [[ "$(git rev-parse HEAD)" != "$(git rev-parse origin/main)" ]]; then
   echo "Skipping release: HEAD is not tip of origin/main"
   exit 0
 fi
+
+# CDN sync is independent of npm registry health.
+.buildkite/deploy.sh
 
 package_version="$(node -p "require('./package.json').version")"
 version_stdout="$(mktemp)"
@@ -35,7 +39,7 @@ if [[ "$view_status" -eq 0 ]]; then
     process.stdout.write(comparison > 0 ? "true" : "false");
   ' "$version" "$current_version")"
   if [[ "$is_newer" != "true" ]]; then
-    echo "@buildkite/emojis@${current_version} is newer than or equal to ${version}; skipping S3 and npm"
+    echo "@buildkite/emojis@${current_version} is newer than or equal to ${version}; skipping npm publish"
     exit 0
   fi
 elif grep -q E404 "$version_stderr"; then
@@ -47,10 +51,6 @@ else
   exit 1
 fi
 
-# CDN images are independent of npm auth: sync once eligibility is confirmed.
-.buildkite/deploy.sh
-
-: "${NPM_TOKEN:?NPM_TOKEN is required}"
 user_config="$(mktemp)"
 printf '//registry.npmjs.org/:_authToken=%s\n' "$NPM_TOKEN" > "$user_config"
 export NPM_CONFIG_USERCONFIG="$user_config"
