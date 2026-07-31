@@ -4,6 +4,12 @@ set -euo pipefail
 : "${BUILDKITE_BUILD_NUMBER:?BUILDKITE_BUILD_NUMBER is required}"
 : "${NPM_TOKEN:?NPM_TOKEN is required}"
 
+mode="${1:-publish}"
+if [[ "$mode" != "publish" && "$mode" != "--check" ]]; then
+  echo "Usage: $0 [--check]" >&2
+  exit 2
+fi
+
 user_config="$(mktemp)"
 trap 'rm -f "$user_config"' EXIT
 printf '//registry.npmjs.org/:_authToken=%s\n' "$NPM_TOKEN" > "$user_config"
@@ -20,6 +26,9 @@ if current_version="$(npm view "@buildkite/emojis" version 2>&1)"; then
   ' "$version" "$current_version")"
   if [ "$is_newer" != "true" ]; then
     echo "@buildkite/emojis@${current_version} is newer than or equal to ${version}"
+    if [[ "$mode" == "--check" ]]; then
+      exit 3
+    fi
     exit 0
   fi
 elif [[ "$current_version" == *"E404"* ]]; then
@@ -29,6 +38,11 @@ elif [[ "$current_version" == *"E404"* ]]; then
 else
   printf '%s\n' "$current_version" >&2
   exit 1
+fi
+
+if [[ "$mode" == "--check" ]]; then
+  echo "@buildkite/emojis@${version} is eligible for release"
+  exit 0
 fi
 
 if [ "$package_version" != "$version" ]; then
