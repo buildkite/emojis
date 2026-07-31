@@ -1,10 +1,39 @@
 steps:
-  - name: ":shipit:"
-    command: ".buildkite/deploy.sh"
-    branches: "main"
+  - name: ":ruby: Verify catalogues"
+    key: verify-catalogues
+    command:
+      - bundle install
+      - bundle exec rake verify
     agents:
       queue: "oss-deploy"
     plugins:
+      - mise#v1.1.5:
+          install_args: ruby
+
+  - name: ":nodejs: Verify package"
+    key: verify-package
+    command: node .buildkite/verify-package.mjs
+    agents:
+      queue: "oss-deploy"
+    plugins:
+      - mise#v1.1.5:
+          install_args: node
+
+  - name: ":shipit: Release images and package"
+    command: ".buildkite/release.sh"
+    branches: "main"
+    depends_on:
+      - verify-catalogues
+      - verify-package
+    concurrency: 1
+    concurrency_group: "buildkite-emojis/release"
+    agents:
+      queue: "oss-deploy"
+    secrets:
+      - NPM_TOKEN
+    plugins:
+      - mise#v1.1.5:
+          install_args: node
       - aws-assume-role-with-web-identity#v1.4.0:
           role-arn: arn:aws:iam::${ROLE_ACCOUNT_ID}:role/pipeline-buildkite-emojis
           session-tags:
