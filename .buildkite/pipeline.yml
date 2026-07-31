@@ -7,8 +7,8 @@ steps:
     agents:
       queue: "oss-deploy"
     plugins:
-      - docker#v5.11.0:
-          image: "ruby:3.4"
+      - mise#v1.1.5:
+          install_args: ruby
 
   - name: ":nodejs: Verify package"
     key: verify-package
@@ -16,8 +16,8 @@ steps:
     agents:
       queue: "oss-deploy"
     plugins:
-      - docker#v5.11.0:
-          image: "node:22"
+      - mise#v1.1.5:
+          install_args: node
 
   - name: ":shipit: Release images and package"
     command: ".buildkite/release.sh"
@@ -30,6 +30,8 @@ steps:
     agents:
       queue: "oss-deploy"
     plugins:
+      - mise#v1.1.5:
+          install_args: node
       - aws-assume-role-with-web-identity#v1.4.0:
           role-arn: arn:aws:iam::${ROLE_ACCOUNT_ID}:role/pipeline-buildkite-emojis
           session-tags:

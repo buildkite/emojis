@@ -1,19 +1,9 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-publish() {
-  docker run --rm \
-    --env BUILDKITE_BUILD_NUMBER \
-    --env NPM_TOKEN \
-    --volume "$PWD:/work" \
-    --workdir /work \
-    node:22 \
-    .buildkite/publish.sh "$@"
-}
-
-if publish --check; then
+if .buildkite/publish.sh --check; then
   .buildkite/deploy.sh
-  publish
+  .buildkite/publish.sh
 else
   status=$?
   if [[ "$status" -eq 3 ]]; then
