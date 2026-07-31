@@ -1,5 +1,6 @@
 import assert from "node:assert/strict";
 import fs from "node:fs";
+import os from "node:os";
 import path from "node:path";
 import { spawnSync } from "node:child_process";
 import { fileURLToPath } from "node:url";
@@ -11,10 +12,12 @@ assert.equal(packageJson.name, "@buildkite/emojis");
 assert.equal(packageJson.publishConfig?.access, "public");
 assert.equal(packageJson.dependencies, undefined);
 
-const pack = spawnSync("npm", ["pack", "--dry-run", "--json"], {
+const packDestination = fs.mkdtempSync(path.join(os.tmpdir(), "buildkite-emojis-pack-"));
+const pack = spawnSync("npm", ["pack", "--dry-run", "--json", "--pack-destination", packDestination], {
   cwd: root,
   encoding: "utf8",
 });
+fs.rmSync(packDestination, { force: true, recursive: true });
 assert.equal(pack.status, 0, pack.stderr);
 
 const packResult = JSON.parse(pack.stdout);
