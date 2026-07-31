@@ -2,7 +2,6 @@
 set -euo pipefail
 
 : "${BUILDKITE_BUILD_NUMBER:?BUILDKITE_BUILD_NUMBER is required}"
-: "${NPM_TOKEN:?NPM_TOKEN is required}"
 
 git fetch --quiet origin main
 if [[ "$(git rev-parse HEAD)" != "$(git rev-parse origin/main)" ]]; then
@@ -10,7 +9,7 @@ if [[ "$(git rev-parse HEAD)" != "$(git rev-parse origin/main)" ]]; then
   exit 0
 fi
 
-# CDN sync is independent of npm registry health.
+# CDN sync is independent of npm registry health and auth.
 .buildkite/deploy.sh
 
 package_version="$(node -p "require('./package.json').version")"
@@ -51,6 +50,7 @@ else
   exit 1
 fi
 
+: "${NPM_TOKEN:?NPM_TOKEN is required}"
 user_config="$(mktemp)"
 printf '//registry.npmjs.org/:_authToken=%s\n' "$NPM_TOKEN" > "$user_config"
 export NPM_CONFIG_USERCONFIG="$user_config"
