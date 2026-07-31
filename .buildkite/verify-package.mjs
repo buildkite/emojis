@@ -26,6 +26,11 @@ const packagedFiles = new Set(files.map(({ path: filePath }) => filePath));
 
 const cataloguePaths = packageJson.files.filter((filePath) => /^img-.*\.json$/.test(filePath)).sort();
 assert(cataloguePaths.length > 0, "No emoji catalogues found");
+const repositoryCatalogues = fs
+  .readdirSync(root)
+  .filter((filePath) => /^img-.*\.json$/.test(filePath))
+  .sort();
+assert.deepEqual(cataloguePaths, repositoryCatalogues, "package.json must include every emoji catalogue");
 
 for (const cataloguePath of cataloguePaths) {
   assert(packagedFiles.has(cataloguePath), `${cataloguePath} is missing from the npm package`);
