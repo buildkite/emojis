@@ -46,7 +46,8 @@ their lockfile so catalogue validation and rendering use the same release.
 
 The initial package is published as `2.0.0`. Subsequent successful builds of
 `main` publish version `2.0.<build-number>`, so Dependabot consumers can receive
-each catalogue update as a normal npm patch update.
+each catalogue update as a normal npm patch update. Publishing reads the
+`NPM_TOKEN` [Buildkite secret](https://buildkite.com/docs/pipelines/security/secrets/buildkite-secrets).
 
 ## License
 

@@ -29,6 +29,8 @@ steps:
     concurrency_group: "buildkite-emojis/release"
     agents:
       queue: "oss-deploy"
+    secrets:
+      - NPM_TOKEN
     plugins:
       - mise#v1.1.5:
           install_args: node
@@ -39,6 +41,3 @@ steps:
             - organization_id
             - pipeline_slug
             - build_branch
-      - aws-ssm#v1.0.0:
-          parameters:
-            NPM_TOKEN: /prod/buildkite-emojis/npm-token
