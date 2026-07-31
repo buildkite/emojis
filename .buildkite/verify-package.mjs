@@ -21,8 +21,13 @@ const packResult = JSON.parse(pack.stdout);
 const { files } = Array.isArray(packResult) ? packResult[0] : Object.values(packResult)[0];
 const packagedFiles = new Set(files.map(({ path: filePath }) => filePath));
 
-for (const catalogueName of ["img-buildkite-64", "img-apple-64"]) {
-  const cataloguePath = `${catalogueName}.json`;
+const cataloguePaths = fs
+  .readdirSync(root)
+  .filter((filePath) => /^img-.*\.json$/.test(filePath))
+  .sort();
+assert(cataloguePaths.length > 0, "No emoji catalogues found");
+
+for (const cataloguePath of cataloguePaths) {
   assert(packagedFiles.has(cataloguePath), `${cataloguePath} is missing from the npm package`);
 
   const catalogue = JSON.parse(fs.readFileSync(path.join(root, cataloguePath), "utf8"));

@@ -58,3 +58,5 @@ steps:
       - docker#v5.11.0:
           image: "node:22"
           propagate-environment: true
+          environment:
+            - NPM_TOKEN
