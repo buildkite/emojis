@@ -1,5 +1,11 @@
 [
   {
+    "name": "fuchsia",
+    "image": "img-buildkite-64/fuchsia.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "incident-io",
     "image": "img-buildkite-64/incident-io.png",
     "category": "Buildkite",
