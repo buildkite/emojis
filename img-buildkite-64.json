@@ -1,5 +1,71 @@
 [
   {
+    "name": "jetbrains-intellij-idea",
+    "image": "img-buildkite-64/jetbrains-intellij-idea.png",
+    "category": "Buildkite",
+    "aliases": ["intellij-idea", "intellij"]
+  },
+  {
+    "name": "jetbrains-pycharm",
+    "image": "img-buildkite-64/jetbrains-pycharm.png",
+    "category": "Buildkite",
+    "aliases": ["pycharm"]
+  },
+  {
+    "name": "jetbrains-webstorm",
+    "image": "img-buildkite-64/jetbrains-webstorm.png",
+    "category": "Buildkite",
+    "aliases": ["webstorm"]
+  },
+  {
+    "name": "jetbrains-phpstorm",
+    "image": "img-buildkite-64/jetbrains-phpstorm.png",
+    "category": "Buildkite",
+    "aliases": ["phpstorm"]
+  },
+  {
+    "name": "jetbrains-rubymine",
+    "image": "img-buildkite-64/jetbrains-rubymine.png",
+    "category": "Buildkite",
+    "aliases": ["rubymine"]
+  },
+  {
+    "name": "jetbrains-goland",
+    "image": "img-buildkite-64/jetbrains-goland.png",
+    "category": "Buildkite",
+    "aliases": ["goland"]
+  },
+  {
+    "name": "jetbrains-clion",
+    "image": "img-buildkite-64/jetbrains-clion.png",
+    "category": "Buildkite",
+    "aliases": ["clion"]
+  },
+  {
+    "name": "jetbrains-rider",
+    "image": "img-buildkite-64/jetbrains-rider.png",
+    "category": "Buildkite",
+    "aliases": ["rider"]
+  },
+  {
+    "name": "jetbrains-datagrip",
+    "image": "img-buildkite-64/jetbrains-datagrip.png",
+    "category": "Buildkite",
+    "aliases": ["datagrip"]
+  },
+  {
+    "name": "jetbrains-dataspell",
+    "image": "img-buildkite-64/jetbrains-dataspell.png",
+    "category": "Buildkite",
+    "aliases": ["dataspell"]
+  },
+  {
+    "name": "android-studio",
+    "image": "img-buildkite-64/android-studio.png",
+    "category": "Buildkite",
+    "aliases": ["androidstudio"]
+  },
+  {
     "name": "fuchsia",
     "image": "img-buildkite-64/fuchsia.png",
     "category": "Buildkite",
