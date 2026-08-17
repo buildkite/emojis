@@ -1,5 +1,17 @@
 [
   {
+    "name": "nvidia",
+    "image": "img-buildkite-64/nvidia.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "intel",
+    "image": "img-buildkite-64/intel.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "jetbrains-intellij-idea",
     "image": "img-buildkite-64/jetbrains-intellij-idea.png",
     "category": "Buildkite",
