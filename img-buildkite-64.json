@@ -1,11 +1,5 @@
 [
   {
-    "name": "chalk",
-    "image": "img-buildkite-64/chalk.png",
-    "category": "Buildkite",
-    "aliases": ["chalk-ai"]
-  },
-  {
     "name": "nvidia",
     "image": "img-buildkite-64/nvidia.png",
     "category": "Buildkite",
