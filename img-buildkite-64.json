@@ -1,5 +1,11 @@
 [
   {
+    "name": "pest",
+    "image": "img-buildkite-64/pest.png",
+    "category": "Buildkite",
+    "aliases": ["pestphp"]
+  },
+  {
     "name": "chalk",
     "image": "img-buildkite-64/chalk.png",
     "category": "Buildkite",
