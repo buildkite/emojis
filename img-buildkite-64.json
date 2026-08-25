@@ -1,5 +1,11 @@
 [
   {
+    "name": "canary",
+    "image": "img-buildkite-64/canary.png",
+    "category": "Buildkite",
+    "aliases": ["canary-bird"]
+  },
+  {
     "name": "pest",
     "image": "img-buildkite-64/pest.png",
     "category": "Buildkite",
