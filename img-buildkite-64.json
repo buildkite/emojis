@@ -1,5 +1,95 @@
 [
   {
+    "name": "king-candy-blue",
+    "image": "img-buildkite-64/king-candy-blue.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "king-candy-cobra",
+    "image": "img-buildkite-64/king-candy-cobra.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "king-candy-green",
+    "image": "img-buildkite-64/king-candy-green.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "king-candy-orange",
+    "image": "img-buildkite-64/king-candy-orange.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "king-candy-purple",
+    "image": "img-buildkite-64/king-candy-purple.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "king-candy-red",
+    "image": "img-buildkite-64/king-candy-red.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "king-candy-yellow",
+    "image": "img-buildkite-64/king-candy-yellow.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "king-candy-coconut-wheel",
+    "image": "img-buildkite-64/king-candy-coconut-wheel.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "king-candy-color-bomb",
+    "image": "img-buildkite-64/king-candy-color-bomb.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "king-candy-fish-pink",
+    "image": "img-buildkite-64/king-candy-fish-pink.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "king-candy-jelly-dragon",
+    "image": "img-buildkite-64/king-candy-jelly-dragon.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "king-candy-licorice-square",
+    "image": "img-buildkite-64/king-candy-licorice-square.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "king-candy-multi-frosting",
+    "image": "img-buildkite-64/king-candy-multi-frosting.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "king-candy-rainbow-twist",
+    "image": "img-buildkite-64/king-candy-rainbow-twist.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
+    "name": "king-candy-toffee-swirl",
+    "image": "img-buildkite-64/king-candy-toffee-swirl.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "canary",
     "image": "img-buildkite-64/canary.png",
     "category": "Buildkite",
