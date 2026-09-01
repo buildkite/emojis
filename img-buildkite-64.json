@@ -1,5 +1,11 @@
 [
   {
+    "name": "kestra",
+    "image": "img-buildkite-64/kestra.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "king-candy-blue",
     "image": "img-buildkite-64/king-candy-blue.png",
     "category": "Buildkite",
