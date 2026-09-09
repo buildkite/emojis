@@ -1,5 +1,14 @@
 [
   {
+    "name": "oci",
+    "image": "img-buildkite-64/oci.png",
+    "category": "Buildkite",
+    "aliases": [
+      "opencontainers",
+      "open-container-initiative"
+    ]
+  },
+  {
     "name": "kestra",
     "image": "img-buildkite-64/kestra.png",
     "category": "Buildkite",
