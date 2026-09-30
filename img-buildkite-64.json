@@ -1,5 +1,11 @@
 [
   {
+    "name": "deepseek",
+    "image": "img-buildkite-64/deepseek.png",
+    "category": "Buildkite",
+    "aliases": ["deep-seek"]
+  },
+  {
     "name": "oci",
     "image": "img-buildkite-64/oci.png",
     "category": "Buildkite",
