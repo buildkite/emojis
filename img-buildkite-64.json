@@ -1,5 +1,11 @@
 [
   {
+  "name": "fleet",
+  "image": "img-buildkite-64/fleet.png",
+  "category": "Buildkite",
+  "aliases": []
+  },
+  {
     "name": "deepseek",
     "image": "img-buildkite-64/deepseek.png",
     "category": "Buildkite",
