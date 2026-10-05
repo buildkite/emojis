@@ -1,5 +1,11 @@
 [
   {
+    "name": "typesafe-ai",
+    "image": "img-buildkite-64/typesafe-ai.png",
+    "category": "Buildkite",
+    "aliases": ["jev"]
+  },
+  {
   "name": "fleet",
   "image": "img-buildkite-64/fleet.png",
   "category": "Buildkite",
