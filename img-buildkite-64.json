@@ -1,5 +1,11 @@
 [
   {
+    "name": "codestorage",
+    "image": "img-buildkite-64/code-storage.png",
+    "category": "Buildkite",
+    "aliases": ["code-storage"]
+  },
+  {
     "name": "entire",
     "image": "img-buildkite-64/entire.png",
     "category": "Buildkite",
