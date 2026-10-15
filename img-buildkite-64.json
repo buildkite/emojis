@@ -4700,12 +4700,6 @@
     "aliases": []
   },
   {
-    "name": "aws-sms",
-    "image": "img-buildkite-64/aws-sms.png",
-    "category": "Buildkite",
-    "aliases": []
-  },
-  {
     "name": "aws-snowball",
     "image": "img-buildkite-64/aws-snowball.png",
     "category": "Buildkite",
