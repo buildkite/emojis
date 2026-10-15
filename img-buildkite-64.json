@@ -1,5 +1,11 @@
 [
   {
+    "name": "valkey",
+    "image": "img-buildkite-64/valkey.png",
+    "category": "Buildkite",
+    "aliases": []
+  },
+  {
     "name": "codestorage",
     "image": "img-buildkite-64/code-storage.png",
     "category": "Buildkite",
