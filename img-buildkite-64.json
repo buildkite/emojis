@@ -4358,12 +4358,6 @@
     "aliases": []
   },
   {
-    "name": "amazon-elastictranscoder",
-    "image": "img-buildkite-64/amazon-elastictranscoder.png",
-    "category": "Buildkite",
-    "aliases": []
-  },
-  {
     "name": "amazon-emr",
     "image": "img-buildkite-64/amazon-emr.png",
     "category": "Buildkite",
