@@ -4418,12 +4418,6 @@
     "aliases": []
   },
   {
-    "name": "amazon-pinpoint",
-    "image": "img-buildkite-64/amazon-pinpoint.png",
-    "category": "Buildkite",
-    "aliases": []
-  },
-  {
     "name": "amazon-polly",
     "image": "img-buildkite-64/amazon-polly.png",
     "category": "Buildkite",
