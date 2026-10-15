@@ -4586,12 +4586,6 @@
     "aliases": ["codepipeline"]
   },
   {
-    "name": "aws-codestar",
-    "image": "img-buildkite-64/aws-codestar.png",
-    "category": "Buildkite",
-    "aliases": []
-  },
-  {
     "name": "aws-config",
     "image": "img-buildkite-64/aws-config.png",
     "category": "Buildkite",
