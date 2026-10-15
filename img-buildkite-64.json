@@ -4274,12 +4274,6 @@
     "aliases": []
   },
   {
-    "name": "amazon-chime",
-    "image": "img-buildkite-64/amazon-chime.png",
-    "category": "Buildkite",
-    "aliases": []
-  },
-  {
     "name": "amazon-clouddirectory",
     "image": "img-buildkite-64/amazon-clouddirectory.png",
     "category": "Buildkite",
