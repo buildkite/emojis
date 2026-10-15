@@ -4274,12 +4274,6 @@
     "aliases": []
   },
   {
-    "name": "amazon-chime",
-    "image": "img-buildkite-64/amazon-chime.png",
-    "category": "Buildkite",
-    "aliases": []
-  },
-  {
     "name": "amazon-clouddirectory",
     "image": "img-buildkite-64/amazon-clouddirectory.png",
     "category": "Buildkite",
@@ -4358,12 +4352,6 @@
     "aliases": []
   },
   {
-    "name": "amazon-elastictranscoder",
-    "image": "img-buildkite-64/amazon-elastictranscoder.png",
-    "category": "Buildkite",
-    "aliases": []
-  },
-  {
     "name": "amazon-emr",
     "image": "img-buildkite-64/amazon-emr.png",
     "category": "Buildkite",
@@ -4426,24 +4414,6 @@
   {
     "name": "amazon-macie",
     "image": "img-buildkite-64/amazon-macie.png",
-    "category": "Buildkite",
-    "aliases": []
-  },
-  {
-    "name": "amazon-mechanicalturk",
-    "image": "img-buildkite-64/amazon-mechanicalturk.png",
-    "category": "Buildkite",
-    "aliases": []
-  },
-  {
-    "name": "amazon-mobileanalytics",
-    "image": "img-buildkite-64/amazon-mobileanalytics.png",
-    "category": "Buildkite",
-    "aliases": []
-  },
-  {
-    "name": "amazon-pinpoint",
-    "image": "img-buildkite-64/amazon-pinpoint.png",
     "category": "Buildkite",
     "aliases": []
   },
@@ -4592,12 +4562,6 @@
     "aliases": ["codepipeline"]
   },
   {
-    "name": "aws-codestar",
-    "image": "img-buildkite-64/aws-codestar.png",
-    "category": "Buildkite",
-    "aliases": []
-  },
-  {
     "name": "aws-config",
     "image": "img-buildkite-64/aws-config.png",
     "category": "Buildkite",
@@ -4676,12 +4640,6 @@
     "aliases": []
   },
   {
-    "name": "aws-opsworks",
-    "image": "img-buildkite-64/aws-opsworks.png",
-    "category": "Buildkite",
-    "aliases": []
-  },
-  {
     "name": "aws-organizations",
     "image": "img-buildkite-64/aws-organizations.png",
     "category": "Buildkite",
@@ -4702,12 +4660,6 @@
   {
     "name": "aws-shield",
     "image": "img-buildkite-64/aws-shield.png",
-    "category": "Buildkite",
-    "aliases": []
-  },
-  {
-    "name": "aws-sms",
-    "image": "img-buildkite-64/aws-sms.png",
     "category": "Buildkite",
     "aliases": []
   },
