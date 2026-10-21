@@ -95,12 +95,15 @@ task :verify do
 
   emoji_names = []
   missing_images = []
+  blank_names = []
 
   Dir.glob("img-*.json").each do |catalogue_file|
     catalogue_data = JSON.parse(File.read(catalogue_file))
 
     catalogue_data.each do |emoji|
-      emoji_names.concat([ emoji['name'], emoji['aliases'] ].flatten.compact)
+      names = [ emoji['name'], emoji['aliases'] ].flatten.compact
+      blank_names << emoji['image'] if names.any? { |name| name.strip.empty? }
+      emoji_names.concat(names)
       images = [emoji["image"], *emoji.fetch("modifiers", []).map { |modifier| modifier["image"] }]
       missing_images.concat(images.reject { |image| File.exist?(image) })
     end
@@ -108,6 +111,11 @@ task :verify do
 
   unless missing_images.empty?
     puts "ERROR: Missing emoji images:\n - #{missing_images.uniq.sort.join("\n - ")}\n"
+    exit 1
+  end
+
+  unless blank_names.empty?
+    puts "ERROR: Blank emoji names or aliases:\n - #{blank_names.uniq.sort.join("\n - ")}\n"
     exit 1
   end
 

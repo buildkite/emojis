@@ -1200,7 +1200,7 @@
     "name": "vercel",
     "image": "img-buildkite-64/vercel.png",
     "category": "Buildkite",
-    "aliases": [""]
+    "aliases": []
   },
   {
     "name": "namespace",
