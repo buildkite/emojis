@@ -3092,12 +3092,6 @@
     "aliases": []
   },
   {
-    "name": "nodesecurity",
-    "image": "img-buildkite-64/nsp.png",
-    "category": "Buildkite",
-    "aliases": ["nsp"]
-  },
-  {
     "name": "quick",
     "image": "img-buildkite-64/quick.png",
     "category": "Buildkite",
