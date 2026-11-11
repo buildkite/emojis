@@ -4052,12 +4052,6 @@
     "aliases": []
   },
   {
-    "name": "scientific-linux",
-    "image": "img-buildkite-64/scientific-linux.png",
-    "category": "Buildkite",
-    "aliases": ["scientific_linux"]
-  },
-  {
     "name": "shipit",
     "image": "img-buildkite-64/shipit.png",
     "category": "Buildkite",
