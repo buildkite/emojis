@@ -2936,12 +2936,6 @@
     "aliases": []
   },
   {
-    "name": "testobject",
-    "image": "img-buildkite-64/testobject.png",
-    "category": "Buildkite",
-    "aliases": []
-  },
-  {
     "name": "lighthouse",
     "image": "img-buildkite-64/lighthouse.png",
     "category": "Buildkite",
