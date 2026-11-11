@@ -3560,12 +3560,6 @@
     "aliases": []
   },
   {
-    "name": "flowdock",
-    "image": "img-buildkite-64/flowdock.png",
-    "category": "Buildkite",
-    "aliases": []
-  },
-  {
     "name": "campfire",
     "image": "img-buildkite-64/campfire.png",
     "category": "Buildkite",
