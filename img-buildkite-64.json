@@ -3572,12 +3572,6 @@
     "aliases": []
   },
   {
-    "name": "hipchat",
-    "image": "img-buildkite-64/hipchat.png",
-    "category": "Buildkite",
-    "aliases": []
-  },
-  {
     "name": "flowdock",
     "image": "img-buildkite-64/flowdock.png",
     "category": "Buildkite",
