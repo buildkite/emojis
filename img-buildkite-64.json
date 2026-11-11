@@ -1353,12 +1353,6 @@
     "aliases": ["smartbear-alertsite"]
   },
   {
-    "name": "aqtimepro",
-    "image": "img-buildkite-64/smartbear-aqtimepro.png",
-    "category": "Buildkite",
-    "aliases": ["smartbear-aqtimepro"]
-  },
-  {
     "name": "bitbar",
     "image": "img-buildkite-64/smartbear-bitbar.png",
     "category": "Buildkite",
