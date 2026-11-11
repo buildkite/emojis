@@ -231,12 +231,6 @@
     "aliases": ["datagrip"]
   },
   {
-    "name": "jetbrains-dataspell",
-    "image": "img-buildkite-64/jetbrains-dataspell.png",
-    "category": "Buildkite",
-    "aliases": ["dataspell"]
-  },
-  {
     "name": "android-studio",
     "image": "img-buildkite-64/android-studio.png",
     "category": "Buildkite",
