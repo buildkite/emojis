@@ -4070,12 +4070,6 @@
     "aliases": ["quay.io"]
   },
   {
-    "name": "wraith",
-    "image": "img-buildkite-64/wraith.png",
-    "category": "Buildkite",
-    "aliases": []
-  },
-  {
     "name": "elm",
     "image": "img-buildkite-64/elm.png",
     "category": "Buildkite",
