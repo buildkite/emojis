@@ -2684,12 +2684,6 @@
     "aliases": []
   },
   {
-    "name": "tslint",
-    "image": "img-buildkite-64/tslint.png",
-    "category": "Buildkite",
-    "aliases": []
-  },
-  {
     "name": "jsonnet",
     "image": "img-buildkite-64/jsonnet.png",
     "category": "Buildkite",
