@@ -3542,12 +3542,6 @@
     "aliases": []
   },
   {
-    "name": "hockeyapp",
-    "image": "img-buildkite-64/hockeyapp.png",
-    "category": "Buildkite",
-    "aliases": []
-  },
-  {
     "name": "firefox",
     "image": "img-buildkite-64/firefox.png",
     "category": "Buildkite",
