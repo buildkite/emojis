@@ -2228,12 +2228,6 @@
     "aliases": []
   },
   {
-    "name": "gitsby",
-    "image": "img-buildkite-64/gitsby.png",
-    "category": "Buildkite",
-    "aliases": []
-  },
-  {
     "name": "postmark",
     "image": "img-buildkite-64/postmark.png",
     "category": "Buildkite",
