@@ -1730,12 +1730,6 @@
     "aliases": []
   },
   {
-    "name": "appcenter",
-    "image": "img-buildkite-64/appcenter.png",
-    "category": "Buildkite",
-    "aliases": []
-  },
-  {
     "name": "triple-green-shell",
     "image": "img-buildkite-64/triple-green-shell.png",
     "category": "Buildkite",
