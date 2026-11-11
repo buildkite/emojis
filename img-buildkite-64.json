@@ -2198,12 +2198,6 @@
     "aliases": ["hashicorp-vault"]
   },
   {
-    "name": "assurance",
-    "image": "img-buildkite-64/assurance64.png",
-    "category": "Buildkite",
-    "aliases": []
-  },
-  {
     "name": "sonarcloud",
     "image": "img-buildkite-64/sonarcloud.png",
     "category": "Buildkite",
